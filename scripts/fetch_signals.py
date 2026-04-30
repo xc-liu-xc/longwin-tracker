@@ -1,9 +1,18 @@
 import requests
 import json
 import os
+import hashlib
+import time
 from datetime import datetime, timezone, timedelta
 
 TZ_CN = timezone(timedelta(hours=8))
+
+
+def gen_x_sign():
+    ts = int(time.time() * 1000)
+    raw = str(int(1.01 * ts))
+    h = hashlib.sha256(raw.encode()).hexdigest().upper()[:32]
+    return str(ts) + h
 
 GRAPHQL_URL = "https://qieman.com/alfa/v1/graphql"
 
@@ -50,18 +59,16 @@ def fetch_data():
     if not token:
         raise ValueError("QIEMAN_TOKEN environment variable not set")
 
-    sign = os.environ.get("QIEMAN_SIGN", "")
-
     headers = {
         "Content-Type": "application/json",
         "Authorization": token,
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        "Cookie": f"access_token={token}",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
         "Referer": "https://qieman.com/alfa/portfolio/LONG_WIN/signal",
         "Origin": "https://qieman.com",
         "x-broker": "0008",
+        "x-sign": gen_x_sign(),
     }
-    if sign:
-        headers["x-sign"] = sign
 
     payload = {
         "operationName": "LongWinSignal",
