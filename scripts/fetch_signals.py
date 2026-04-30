@@ -7,8 +7,7 @@ TZ_CN = timezone(timedelta(hours=8))
 
 GRAPHQL_URL = "https://qieman.com/alfa/v1/graphql"
 
-QUERY = """
-query LongWinSignal($poCode: String!) {
+QUERY = """query LongWinSignal($poCode: String!) {
   longWin(poCode: $poCode) {
     poName
     adjustedCount
@@ -22,21 +21,28 @@ query LongWinSignal($poCode: String!) {
         fund {
           fundName
           fundCode
+          __typename
         }
         tradeUnit
+        variety
+        __typename
       }
       date
       redeemOrders {
         fund {
           fundName
           fundCode
+          __typename
         }
         tradeUnit
+        variety
+        __typename
       }
+      __typename
     }
+    __typename
   }
-}
-"""
+}"""
 
 
 def fetch_data():
@@ -44,13 +50,18 @@ def fetch_data():
     if not token:
         raise ValueError("QIEMAN_TOKEN environment variable not set")
 
+    sign = os.environ.get("QIEMAN_SIGN", "")
+
     headers = {
         "Content-Type": "application/json",
         "Authorization": token,
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
-        "Referer": "https://qieman.com/",
+        "Referer": "https://qieman.com/alfa/portfolio/LONG_WIN/signal",
         "Origin": "https://qieman.com",
+        "x-broker": "0008",
     }
+    if sign:
+        headers["x-sign"] = sign
 
     payload = {
         "operationName": "LongWinSignal",
