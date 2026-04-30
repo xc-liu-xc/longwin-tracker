@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>长赢计划追踪</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 14px;
+      color: #333;
+      background: #f5f5f5;
+      padding: 16px;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: #fff;
+      border-radius: 8px;
+      border: 1px solid #e8e8e8;
+      padding: 20px 24px;
+      margin-bottom: 16px;
+    }
+    .card-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: #111;
+      padding-bottom: 12px;
+      border-bottom: 1px solid #f0f0f0;
+      margin-bottom: 16px;
+    }
+
+    /* ── Info Grid ── */
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px 0;
+    }
+    .info-item { font-size: 13px; color: #555; }
+    .info-item span { color: #111; font-weight: 500; }
+
+    /* ── Stats ── */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+    }
+    .stat-box {
+      text-align: center;
+      padding: 12px;
+      background: #fafafa;
+      border-radius: 6px;
+      border: 1px solid #f0f0f0;
+    }
+    .stat-num { font-size: 24px; font-weight: 700; }
+    .stat-num.green { color: #52c41a; }
+    .stat-num.red { color: #ff4d4f; }
+    .stat-num.blue { color: #1677ff; }
+    .stat-label { font-size: 12px; color: #888; margin-top: 4px; }
+
+    /* ── Timeline ── */
+    .timeline { list-style: none; }
+    .timeline-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 0;
+      border-bottom: 1px solid #f5f5f5;
+      font-size: 13px;
+    }
+    .timeline-item:last-child { border-bottom: none; }
+
+    .dot {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      border: 2px solid;
+      flex-shrink: 0;
+    }
+    .dot.buy  { border-color: #52c41a; }
+    .dot.sell { border-color: #ff4d4f; }
+
+    .tl-date { color: #999; min-width: 80px; }
+
+    .badge {
+      display: inline-block;
+      padding: 1px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 500;
+      min-width: 36px;
+      text-align: center;
+    }
+    .badge.buy  { background: #f6ffed; color: #52c41a; border: 1px solid #b7eb8f; }
+    .badge.sell { background: #fff1f0; color: #ff4d4f; border: 1px solid #ffa39e; }
+
+    .tl-fund { color: #555; flex: 1; }
+    .tl-unit { color: #111; font-weight: 600; min-width: 40px; text-align: right; }
+    .tl-link { color: #1677ff; text-decoration: none; font-size: 12px; white-space: nowrap; }
+    .tl-link:hover { text-decoration: underline; }
+
+    /* ── Holdings ── */
+    .holding-item {
+      border: 1px solid #f0f0f0;
+      border-radius: 6px;
+      margin-bottom: 8px;
+      overflow: hidden;
+    }
+    .holding-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 16px;
+      cursor: pointer;
+      user-select: none;
+      background: #fafafa;
+      transition: background 0.15s;
+    }
+    .holding-header:hover { background: #f0f0f0; }
+
+    .holding-left { display: flex; align-items: center; gap: 10px; }
+    .holding-arrow {
+      font-size: 10px;
+      color: #aaa;
+      transition: transform 0.2s;
+    }
+    .holding-item.open .holding-arrow { transform: rotate(90deg); }
+    .holding-code { font-size: 12px; color: #999; font-family: monospace; }
+    .holding-name { font-size: 13px; color: #111; font-weight: 500; }
+
+    .holding-right { display: flex; align-items: center; gap: 16px; font-size: 13px; color: #555; }
+    .holding-unit-label { color: #555; }
+    .holding-unit { font-weight: 700; color: #1677ff; cursor: pointer; }
+    .holding-unit:hover { text-decoration: underline; }
+    .holding-latest { font-size: 12px; color: #aaa; }
+
+    .holding-body {
+      display: none;
+      padding: 4px 16px 12px;
+      border-top: 1px solid #f0f0f0;
+      background: #fff;
+    }
+    .holding-item.open .holding-body { display: block; }
+
+    /* ── Modal ── */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.45);
+      z-index: 1000;
+      justify-content: center;
+      align-items: center;
+    }
+    .modal-overlay.active { display: flex; }
+
+    .modal {
+      background: #fff;
+      border-radius: 12px;
+      width: 90vw;
+      max-width: 900px;
+      max-height: 90vh;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 24px;
+      border-bottom: 1px solid #f0f0f0;
+    }
+    .modal-title { font-size: 16px; font-weight: 600; color: #1677ff; }
+    .modal-close {
+      width: 32px; height: 32px;
+      border: 1px solid #e8e8e8;
+      border-radius: 6px;
+      background: #fff;
+      cursor: pointer;
+      font-size: 18px;
+      color: #999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.15s;
+    }
+    .modal-close:hover { background: #f5f5f5; color: #333; }
+
+    .modal-body { padding: 0 24px 16px; flex: 1; overflow: auto; }
+
+    .chart-container { width: 100%; height: 420px; }
+
+    .nav-info {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      padding: 12px 0;
+      border-top: 1px solid #f0f0f0;
+      margin-top: 8px;
+      font-size: 14px;
+      color: #555;
+    }
+    .nav-info strong { color: #111; font-weight: 600; }
+
+    .chart-loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 420px;
+      color: #888;
+      font-size: 14px;
+    }
+
+    /* ── Footer ── */
+    .updated-at {
+      text-align: center;
+      font-size: 12px;
+      color: #bbb;
+      padding: 8px 0;
+    }
+
+    /* ── Loading / Error ── */
+    .loading, .error {
+      text-align: center;
+      padding: 40px;
+      color: #888;
+      font-size: 14px;
+    }
+    .error { color: #ff4d4f; }
+
+    @media (max-width: 600px) {
+      body { padding: 8px; }
+      .info-grid { grid-template-columns: 1fr 1fr; }
+      .holding-right .holding-latest { display: none; }
+      .modal { width: 96vw; }
+      .chart-container { height: 320px; }
+      .nav-info { gap: 24px; font-size: 13px; }
+    }
+  </style>
+</head>
+<body>
+
+<div id="app"><div class="loading">加载中...</div></div>
+
+<div class="modal-overlay" id="chartModal">
+  <div class="modal">
+    <div class="modal-header">
+      <div class="modal-title" id="modalTitle"></div>
+      <button class="modal-close" onclick="closeModal()">&times;</button>
+    </div>
+    <div class="modal-body">
+      <div class="chart-container" id="chartContainer">
+        <div class="chart-loading">加载净值数据...</div>
+      </div>
+      <div class="nav-info" id="navInfo"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const DATA_URL = "./data.json";
+const NAV_BASE = "./nav/";
+
+let _appData = null;
+let _chart = null;
+
+async function init() {
+  const app = document.getElementById("app");
+  try {
+    const res = await fetch(DATA_URL);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    _appData = await res.json();
+    app.innerHTML = render(_appData);
+    const first = document.querySelector(".holding-item");
+    if (first) first.classList.add("open");
+  } catch (e) {
+    app.innerHTML = '<div class="error">数据加载失败：' + e.message + "</div>";
+  }
+}
+
+function fmt(d) { return d ? d.slice(0, 10) : "-"; }
+
+function escHtml(s) {
+  const el = document.createElement("span");
+  el.textContent = s;
+  return el.innerHTML;
+}
+
+function render(d) {
+  const infoHtml = '<div class="card">'
+    + '<div class="card-title">投顾计划信息</div>'
+    + '<div class="info-grid">'
+    + '<div class="info-item">投顾名称：<span>' + escHtml(d.poName) + '</span></div>'
+    + '<div class="info-item">总份数：<span>' + d.totalUnit + ' 份</span></div>'
+    + '<div class="info-item">提供方：<span>且慢</span></div>'
+    + '<div class="info-item">描述：<span>主理人：ETF拯救世界</span></div>'
+    + '</div></div>';
+
+  let signalRows = "";
+  for (let i = 0; i < d.recentSignals.length; i++) {
+    const s = d.recentSignals[i];
+    const linkHtml = s.articleLink
+      ? '<a class="tl-link" href="' + escHtml(s.articleLink) + '" target="_blank" rel="noopener">&#x1F517; 发车文章</a>'
+      : "";
+    signalRows += '<li class="timeline-item">'
+      + '<span class="dot ' + s.action + '"></span>'
+      + '<span class="tl-date">' + fmt(s.date) + '</span>'
+      + '<span class="badge ' + s.action + '">' + (s.action === "buy" ? "买入" : "卖出") + '</span>'
+      + '<span class="tl-fund">' + escHtml(s.fundCode) + '&nbsp;&nbsp;' + escHtml(s.fundName) + '</span>'
+      + '<span class="tl-unit">' + s.unit + ' 份</span>'
+      + linkHtml
+      + '</li>';
+  }
+  const signalsHtml = '<div class="card">'
+    + '<div class="card-title">最近发车</div>'
+    + '<ul class="timeline">' + signalRows + '</ul></div>';
+
+  const statsHtml = '<div class="card">'
+    + '<div class="card-title">数据统计</div>'
+    + '<div class="stats-grid">'
+    + '<div class="stat-box"><div class="stat-num green">' + d.totalBuy + '</div><div class="stat-label">历史买入份数</div></div>'
+    + '<div class="stat-box"><div class="stat-num red">' + d.totalSell + '</div><div class="stat-label">历史卖出份数</div></div>'
+    + '<div class="stat-box"><div class="stat-num blue">' + d.investedUnit + '</div><div class="stat-label">当前持仓份数</div></div>'
+    + '</div></div>';
+
+  let holdingsRows = "";
+  for (let i = 0; i < d.holdings.length; i++) {
+    const h = d.holdings[i];
+    let historyHtml = "";
+    for (let j = 0; j < h.history.length; j++) {
+      const r = h.history[j];
+      const rLink = r.articleLink
+        ? '<a class="tl-link" href="' + escHtml(r.articleLink) + '" target="_blank" rel="noopener">&#x1F517; 发车文章</a>'
+        : "";
+      historyHtml += '<li class="timeline-item">'
+        + '<span class="dot ' + r.action + '"></span>'
+        + '<span class="tl-date">' + fmt(r.date) + '</span>'
+        + '<span class="badge ' + r.action + '">' + (r.action === "buy" ? "买入" : "卖出") + '</span>'
+        + '<span class="tl-unit">' + r.unit + ' 份</span>'
+        + rLink
+        + '</li>';
+    }
+
+    holdingsRows += '<div class="holding-item" id="h' + i + '">'
+      + '<div class="holding-header" onclick="toggleHolding(\'h' + i + '\')">'
+      + '<div class="holding-left">'
+      + '<span class="holding-arrow">&#x25B6;</span>'
+      + '<span class="holding-code">' + escHtml(h.fundCode) + '</span>'
+      + '<span class="holding-name">' + escHtml(h.fundName) + '</span>'
+      + '</div>'
+      + '<div class="holding-right">'
+      + '<span class="holding-unit-label">持仓：<span class="holding-unit" onclick="event.stopPropagation();openChart(\'' + escHtml(h.fundCode) + '\',\'' + escHtml(h.fundName) + '\')">' + h.currentUnit + ' 份</span></span>'
+      + '<span class="holding-latest">最近发车: ' + (h.latestDate || "-") + '</span>'
+      + '</div>'
+      + '</div>'
+      + '<div class="holding-body"><ul class="timeline">' + historyHtml + '</ul></div>'
+      + '</div>';
+  }
+
+  const holdingsHtml = '<div class="card">'
+    + '<div class="card-title">投顾持仓</div>'
+    + holdingsRows + '</div>';
+
+  const footer = '<div class="updated-at">数据更新时间：' + escHtml(d.updatedAt) + '</div>';
+
+  return infoHtml + signalsHtml + statsHtml + holdingsHtml + footer;
+}
+
+function toggleHolding(id) {
+  document.getElementById(id).classList.toggle("open");
+}
+
+async function openChart(fundCode, fundName) {
+  const modal = document.getElementById("chartModal");
+  const title = document.getElementById("modalTitle");
+  const container = document.getElementById("chartContainer");
+  const info = document.getElementById("navInfo");
+
+  title.textContent = fundName + "（" + fundCode + ".OF）净值走势及买卖点";
+  info.innerHTML = "";
+  container.innerHTML = '<div class="chart-loading">加载净值数据...</div>';
+  modal.classList.add("active");
+
+  try {
+    const res = await fetch(NAV_BASE + fundCode + ".json");
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const nav = await res.json();
+    renderChart(nav, fundCode);
+  } catch (e) {
+    container.innerHTML = '<div class="chart-loading" style="color:#ff4d4f">净值数据加载失败：' + e.message + '</div>';
+  }
+}
+
+function renderChart(nav, fundCode) {
+  const container = document.getElementById("chartContainer");
+  const info = document.getElementById("navInfo");
+  container.innerHTML = "";
+
+  if (_chart) { _chart.dispose(); _chart = null; }
+  _chart = echarts.init(container);
+
+  const holding = _appData.holdings.find(function(h) { return h.fundCode === fundCode; });
+  const buyPoints = [];
+  const sellPoints = [];
+
+  if (holding) {
+    for (let i = 0; i < holding.history.length; i++) {
+      const h = holding.history[i];
+      const dateIdx = nav.dates.indexOf(h.date);
+      if (dateIdx === -1) continue;
+      const point = {
+        coord: [h.date, nav.accNav[dateIdx]],
+        value: h.unit,
+      };
+      if (h.action === "buy") buyPoints.push(point);
+      else sellPoints.push(point);
+    }
+  }
+
+  const option = {
+    tooltip: {
+      trigger: "axis",
+      formatter: function(params) {
+        let tip = params[0].axisValue;
+        for (let i = 0; i < params.length; i++) {
+          const p = params[i];
+          tip += "<br/>" + p.marker + p.seriesName + "：" + p.value[1];
+        }
+        return tip;
+      },
+    },
+    legend: {
+      data: ["单位净值", "累计净值"],
+      top: 8,
+    },
+    grid: { left: 50, right: 30, top: 50, bottom: 80 },
+    xAxis: {
+      type: "category",
+      data: nav.dates,
+      axisLabel: { fontSize: 11 },
+      boundaryGap: false,
+    },
+    yAxis: [
+      {
+        type: "value",
+        name: "",
+        scale: true,
+        splitLine: { lineStyle: { type: "dashed", color: "#eee" } },
+      },
+    ],
+    dataZoom: [
+      { type: "slider", start: 0, end: 100, bottom: 10, height: 24 },
+      { type: "inside" },
+    ],
+    series: [
+      {
+        name: "单位净值",
+        type: "line",
+        symbol: "none",
+        lineStyle: { width: 1.5, color: "#4a7dcc" },
+        itemStyle: { color: "#4a7dcc" },
+        data: nav.dates.map(function(d, i) { return [d, nav.unitNav[i]]; }),
+      },
+      {
+        name: "累计净值",
+        type: "line",
+        symbol: "none",
+        lineStyle: { width: 1.5, color: "#52c41a" },
+        itemStyle: { color: "#52c41a" },
+        data: nav.dates.map(function(d, i) { return [d, nav.accNav[i]]; }),
+        markPoint: {
+          symbol: "circle",
+          symbolSize: 10,
+          data: buyPoints.map(function(p) {
+            return {
+              coord: p.coord,
+              itemStyle: { color: "#ff6b6b", borderColor: "#ff4d4f", borderWidth: 2 },
+              label: { show: true, position: "top", formatter: "B", color: "#333", fontSize: 11, fontWeight: "bold" },
+            };
+          }).concat(sellPoints.map(function(p) {
+            return {
+              coord: p.coord,
+              itemStyle: { color: "#52c41a", borderColor: "#389e0d", borderWidth: 2 },
+              label: { show: true, position: "top", formatter: "S", color: "#333", fontSize: 11, fontWeight: "bold" },
+            };
+          })),
+        },
+      },
+    ],
+  };
+
+  _chart.setOption(option);
+
+  const cur = nav.current;
+  if (cur) {
+    info.innerHTML = "当前单位净值：<strong>" + (cur.unitNav || "-") + "</strong>"
+      + "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当前累计净值：<strong>" + (cur.accNav || "-") + "</strong>";
+  }
+
+  window.addEventListener("resize", function() { if (_chart) _chart.resize(); });
+}
+
+function closeModal() {
+  document.getElementById("chartModal").classList.remove("active");
+  if (_chart) { _chart.dispose(); _chart = null; }
+}
+
+document.getElementById("chartModal").addEventListener("click", function(e) {
+  if (e.target === this) closeModal();
+});
+
+document.addEventListener("keydown", function(e) {
+  if (e.key === "Escape") closeModal();
+});
+
+init();
+</script>
+</body>
+</html>
