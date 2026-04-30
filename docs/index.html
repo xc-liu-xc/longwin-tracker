@@ -475,7 +475,7 @@ function renderChart(nav, fundCode) {
         data: nav.dates.map(function(d, i) { return [d, nav.accNav[i]]; }),
         markPoint: {
           symbol: "circle",
-          symbolSize: 10,
+          symbolSize: 6,
           data: buyPoints.map(function(p) {
             return {
               coord: p.coord,
