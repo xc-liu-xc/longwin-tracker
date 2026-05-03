@@ -34,6 +34,9 @@ jobs:
       - name: Fetch content metadata
         run: python scripts/fetch_content.py
 
+      - name: Fetch WeChat articles
+        run: python scripts/fetch_wx_articles.py
+
       - name: Fetch posts
         env:
           QIEMAN_TOKEN: ${{ secrets.QIEMAN_TOKEN }}
