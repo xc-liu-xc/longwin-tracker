@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>长赢计划追踪</title>
   <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3/dist/purify.min.js"></script>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -17,6 +18,28 @@
       max-width: 960px;
       margin: 0 auto;
     }
+
+    /* ── Tabs ── */
+    .tab-bar {
+      display: flex;
+      gap: 0;
+      margin-bottom: 16px;
+      border-bottom: 2px solid #f0f0f0;
+    }
+    .tab-btn {
+      padding: 10px 24px;
+      border: none;
+      background: none;
+      font-size: 14px;
+      font-weight: 500;
+      color: #888;
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -2px;
+      transition: all 0.15s;
+    }
+    .tab-btn:hover { color: #333; }
+    .tab-btn.active { color: #1677ff; border-bottom-color: #1677ff; }
 
     /* ── Card ── */
     .card {
@@ -161,6 +184,110 @@
     }
     .holding-item.open .holding-body { display: block; }
 
+    /* ── Post Cards ── */
+    .post-list { display: flex; flex-direction: column; gap: 10px; }
+    .post-card {
+      background: #fff;
+      border: 1px solid #e8e8e8;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .post-header {
+      padding: 14px 20px 12px;
+      cursor: pointer;
+      user-select: none;
+      transition: background 0.15s;
+    }
+    .post-header:hover { background: #fafafa; }
+    .post-card.open .post-header { background: #fafafa; }
+    .post-title-row {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 6px;
+    }
+    .post-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: #111;
+      line-height: 1.4;
+      flex: 1;
+    }
+    .post-arrow {
+      font-size: 10px;
+      color: #bbb;
+      margin-top: 4px;
+      flex-shrink: 0;
+      transition: transform 0.2s;
+    }
+    .post-card.open .post-arrow { transform: rotate(90deg); }
+    .post-meta {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 12px;
+      color: #aaa;
+      flex-wrap: wrap;
+      margin-bottom: 6px;
+    }
+    .post-tag {
+      display: inline-block;
+      padding: 1px 6px;
+      border-radius: 3px;
+      font-size: 11px;
+      font-weight: 500;
+    }
+    .post-tag.plan { background: #f0f7ff; color: #1677ff; border: 1px solid #d0e8ff; }
+    .post-tag.audio { background: #fff7e6; color: #fa8c16; border: 1px solid #ffd591; }
+    .post-tag.sticky { background: #f6ffed; color: #52c41a; border: 1px solid #b7eb8f; }
+    .post-tag.awesome { background: #fff0f6; color: #eb2f96; border: 1px solid #ffadd2; }
+    .post-summary {
+      font-size: 13px;
+      color: #777;
+      line-height: 1.6;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .post-body {
+      display: none;
+      padding: 0 20px 16px;
+      border-top: 1px solid #f5f5f5;
+    }
+    .post-card.open .post-body { display: block; }
+    .post-content {
+      font-size: 14px;
+      line-height: 1.9;
+      color: #333;
+      padding-top: 16px;
+    }
+    .post-content p { margin-bottom: 6px; }
+    .post-content img { max-width: 100%; border-radius: 4px; margin: 8px 0; }
+    .post-content a { color: #1677ff; }
+    .post-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 16px;
+      padding-top: 12px;
+      border-top: 1px solid #f5f5f5;
+      font-size: 12px;
+      color: #aaa;
+    }
+    .post-ext-link { color: #1677ff; text-decoration: none; }
+    .post-ext-link:hover { text-decoration: underline; }
+
+    .posts-empty {
+      text-align: center;
+      padding: 48px;
+      color: #bbb;
+      font-size: 14px;
+    }
+
     /* ── Modal ── */
     .modal-overlay {
       display: none;
@@ -255,12 +382,19 @@
       .modal { width: 96vw; }
       .chart-container { height: 320px; }
       .nav-info { gap: 24px; font-size: 13px; }
+      .tab-btn { padding: 10px 16px; font-size: 13px; }
     }
   </style>
 </head>
 <body>
 
-<div id="app"><div class="loading">加载中...</div></div>
+<div class="tab-bar">
+  <button class="tab-btn active" data-tab="signals" onclick="switchTab('signals')">信号追踪</button>
+  <button class="tab-btn" data-tab="posts" onclick="switchTab('posts')">E大文章</button>
+</div>
+
+<div id="tab-signals"><div class="loading">加载中...</div></div>
+<div id="tab-posts" style="display:none"><div class="loading">加载中...</div></div>
 
 <div class="modal-overlay" id="chartModal">
   <div class="modal">
@@ -278,13 +412,15 @@
 </div>
 
 <script>
-const DATA_URL = "./data.json";
+const DATA_URL    = "./data.json";
 const CONTENT_URL = "./content.json";
-const NAV_BASE = "./nav/";
+const POSTS_URL   = "./posts.json";
+const NAV_BASE    = "./nav/";
 
-let _appData = null;
+let _appData    = null;
 let _contentMap = {};
-let _chart = null;
+let _postsMap   = {};
+let _chart      = null;
 
 function extractItemId(url) {
   if (!url) return null;
@@ -292,39 +428,57 @@ function extractItemId(url) {
   return m ? m[1] : null;
 }
 
-async function init() {
-  const app = document.getElementById("app");
-  try {
-    const [dataRes, contentRes] = await Promise.all([
-      fetch(DATA_URL),
-      fetch(CONTENT_URL).catch(() => null),
-    ]);
-    if (!dataRes.ok) throw new Error("HTTP " + dataRes.status);
-    _appData = await dataRes.json();
-    if (contentRes && contentRes.ok) {
-      _contentMap = await contentRes.json();
-    }
-    app.innerHTML = render(_appData);
-    // Populate article titles via textContent (XSS safe — never innerHTML)
-    document.querySelectorAll(".tl-article-title[data-title]").forEach(function(el) {
-      el.textContent = el.getAttribute("data-title");
-    });
-    const first = document.querySelector(".holding-item");
-    if (first) first.classList.add("open");
-  } catch (e) {
-    app.innerHTML = '<div class="error">数据加载失败：' + e.message + "</div>";
-  }
-}
-
 function fmt(d) { return d ? d.slice(0, 10) : "-"; }
 
 function escHtml(s) {
   const el = document.createElement("span");
-  el.textContent = s;
+  el.textContent = String(s || "");
   return el.innerHTML;
 }
 
-function render(d) {
+/* ── Tab switching ── */
+function switchTab(name) {
+  document.querySelectorAll(".tab-btn").forEach(function(b) {
+    b.classList.toggle("active", b.getAttribute("data-tab") === name);
+  });
+  document.getElementById("tab-signals").style.display = name === "signals" ? "block" : "none";
+  document.getElementById("tab-posts").style.display   = name === "posts"   ? "block" : "none";
+}
+
+/* ── Init ── */
+async function init() {
+  try {
+    const [dataRes, contentRes, postsRes] = await Promise.all([
+      fetch(DATA_URL),
+      fetch(CONTENT_URL).catch(function() { return null; }),
+      fetch(POSTS_URL).catch(function() { return null; }),
+    ]);
+
+    if (!dataRes.ok) throw new Error("HTTP " + dataRes.status);
+    _appData = await dataRes.json();
+
+    if (contentRes && contentRes.ok) _contentMap = await contentRes.json();
+    if (postsRes && postsRes.ok)     _postsMap   = await postsRes.json();
+
+    // Signals tab
+    const sigTab = document.getElementById("tab-signals");
+    sigTab.innerHTML = renderSignals(_appData);
+    sigTab.querySelectorAll(".tl-article-title[data-title]").forEach(function(el) {
+      el.textContent = el.getAttribute("data-title");
+    });
+    const first = sigTab.querySelector(".holding-item");
+    if (first) first.classList.add("open");
+
+    // Posts tab
+    document.getElementById("tab-posts").innerHTML = renderPosts(_postsMap);
+
+  } catch (e) {
+    document.getElementById("tab-signals").innerHTML = '<div class="error">数据加载失败：' + e.message + "</div>";
+  }
+}
+
+/* ── Signals tab ── */
+function renderSignals(d) {
   const infoHtml = '<div class="card">'
     + '<div class="card-title">投顾计划信息</div>'
     + '<div class="info-grid">'
@@ -389,7 +543,6 @@ function render(d) {
         + rLink
         + '</li>';
     }
-
     holdingsRows += '<div class="holding-item" id="h' + i + '">'
       + '<div class="holding-header" onclick="toggleHolding(\'h' + i + '\')">'
       + '<div class="holding-left">'
@@ -405,7 +558,6 @@ function render(d) {
       + '<div class="holding-body"><ul class="timeline">' + historyHtml + '</ul></div>'
       + '</div>';
   }
-
   const holdingsHtml = '<div class="card">'
     + '<div class="card-title">投顾持仓</div>'
     + holdingsRows + '</div>';
@@ -415,15 +567,97 @@ function render(d) {
   return infoHtml + signalsHtml + statsHtml + holdingsHtml + footer;
 }
 
+/* ── Posts tab ── */
+function renderPosts(postsMap) {
+  const posts = Object.values(postsMap).sort(function(a, b) {
+    return b.createdAt.localeCompare(a.createdAt);
+  });
+
+  if (!posts.length) {
+    return '<div class="posts-empty">暂无文章数据</div>';
+  }
+
+  const header = '<div class="card" style="margin-bottom:12px;padding:14px 20px;">'
+    + '<span style="font-size:13px;color:#555;">共 <strong>' + posts.length + '</strong> 篇 · 来源：且慢小组 · 点击标题展开全文</span>'
+    + '</div>';
+
+  let listHtml = '<div class="post-list">';
+  for (let i = 0; i < posts.length; i++) {
+    const p = posts[i];
+    const pid = "post-" + p.id;
+    const date = p.createdAt ? p.createdAt.slice(0, 10) : "-";
+
+    let tags = "";
+    if (p.isSticky)  tags += '<span class="post-tag sticky">置顶</span>';
+    if (p.isAwesome) tags += '<span class="post-tag awesome">精华</span>';
+    if (p.poCode && p.poCode.length) tags += '<span class="post-tag plan">长赢</span>';
+    if (p.hasAudio)  tags += '<span class="post-tag audio">🎵 音频</span>';
+
+    const meta = '<span>' + escHtml(date) + '</span>'
+      + '<span>来源：且慢</span>'
+      + (p.likeNum    ? '<span>👍 ' + p.likeNum    + '</span>' : '')
+      + (p.commentNum ? '<span>💬 ' + p.commentNum + '</span>' : '')
+      + tags;
+
+    const summary = p.summary
+      ? '<div class="post-summary">' + escHtml(p.summary) + '</div>'
+      : "";
+
+    listHtml += '<div class="post-card" id="' + pid + '">'
+      + '<div class="post-header" onclick="togglePost(\'' + pid + '\')">'
+      + '<div class="post-title-row">'
+      + '<div class="post-title">' + escHtml(p.title || "（无标题）") + '</div>'
+      + '<span class="post-arrow">&#x25B6;</span>'
+      + '</div>'
+      + '<div class="post-meta">' + meta + '</div>'
+      + summary
+      + '</div>'
+      + '<div class="post-body" data-post-id="' + p.id + '" data-loaded="false"></div>'
+      + '</div>';
+  }
+  listHtml += '</div>';
+
+  return header + listHtml;
+}
+
+function togglePost(pid) {
+  const card = document.getElementById(pid);
+  const wasOpen = card.classList.contains("open");
+  card.classList.toggle("open");
+
+  if (!wasOpen) {
+    const body = card.querySelector(".post-body");
+    if (body.getAttribute("data-loaded") === "false") {
+      const postId = body.getAttribute("data-post-id");
+      const post = _postsMap[postId];
+      if (post) {
+        const clean = DOMPurify.sanitize(post.richContent || "<p>（正文暂无内容）</p>");
+        const srcInfo = '<span>来源：<a class="post-ext-link" href="' + escHtml(post.url) + '" target="_blank" rel="noopener">且慢原文 ↗</a></span>';
+        const audioLink = post.audioUrl
+          ? '<a class="post-ext-link" href="' + escHtml(post.audioUrl) + '" target="_blank" rel="noopener">🎵 收听音频版</a>'
+          : "";
+        const modInfo = post.modifiedAt
+          ? '<span>最后修改：' + escHtml(post.modifiedAt.slice(0, 10)) + '</span>'
+          : "";
+        body.innerHTML = '<div class="post-content">' + clean + '</div>'
+          + '<div class="post-footer">' + srcInfo + '<div style="display:flex;gap:12px;align-items:center;">' + modInfo + audioLink + '</div></div>';
+        body.setAttribute("data-loaded", "true");
+      }
+    }
+  }
+}
+
+/* ── Holdings ── */
 function toggleHolding(id) {
   document.getElementById(id).classList.toggle("open");
 }
 
+/* ── NAV Chart ── */
 async function openChart(fundCode, fundName) {
-  const modal = document.getElementById("chartModal");
-  const title = document.getElementById("modalTitle");
+  const modal     = document.getElementById("chartModal");
+  const title     = document.getElementById("modalTitle");
   const container = document.getElementById("chartContainer");
-  const info = document.getElementById("navInfo");
+  const info      = document.getElementById("navInfo");
 
   title.textContent = fundName + "（" + fundCode + ".OF）净值走势及买卖点";
   info.innerHTML = "";
@@ -436,20 +670,20 @@ async function openChart(fundCode, fundName) {
     const nav = await res.json();
     renderChart(nav, fundCode);
   } catch (e) {
-    container.innerHTML = '<div class="chart-loading" style="color:#ff4d4f">净值数据加载失败：' + e.message + '</div>';
+    container.innerHTML = '<div class="chart-loading" style="color:#ff4d4f">净值数据加载失败：' + e.message + "</div>";
   }
 }
 
 function renderChart(nav, fundCode) {
   const container = document.getElementById("chartContainer");
-  const info = document.getElementById("navInfo");
+  const info      = document.getElementById("navInfo");
   container.innerHTML = "";
 
   if (_chart) { _chart.dispose(); _chart = null; }
   _chart = echarts.init(container);
 
-  const holding = _appData.holdings.find(function(h) { return h.fundCode === fundCode; });
-  const buyPoints = [];
+  const holding   = _appData.holdings.find(function(h) { return h.fundCode === fundCode; });
+  const buyPoints  = [];
   const sellPoints = [];
 
   if (holding) {
@@ -457,10 +691,7 @@ function renderChart(nav, fundCode) {
       const h = holding.history[i];
       const dateIdx = nav.dates.indexOf(h.date);
       if (dateIdx === -1) continue;
-      const point = {
-        coord: [h.date, nav.accNav[dateIdx]],
-        value: h.unit,
-      };
+      const point = { coord: [h.date, nav.accNav[dateIdx]], value: h.unit };
       if (h.action === "buy") buyPoints.push(point);
       else sellPoints.push(point);
     }
@@ -478,10 +709,7 @@ function renderChart(nav, fundCode) {
         return tip;
       },
     },
-    legend: {
-      data: ["单位净值", "累计净值"],
-      top: 8,
-    },
+    legend: { data: ["单位净值", "累计净值"], top: 8 },
     grid: { left: 50, right: 30, top: 50, bottom: 80 },
     xAxis: {
       type: "category",
@@ -489,14 +717,11 @@ function renderChart(nav, fundCode) {
       axisLabel: { fontSize: 11 },
       boundaryGap: false,
     },
-    yAxis: [
-      {
-        type: "value",
-        name: "",
-        scale: true,
-        splitLine: { lineStyle: { type: "dashed", color: "#eee" } },
-      },
-    ],
+    yAxis: [{
+      type: "value",
+      scale: true,
+      splitLine: { lineStyle: { type: "dashed", color: "#eee" } },
+    }],
     dataZoom: [
       { type: "slider", start: 0, end: 100, bottom: 10, height: 24 },
       { type: "inside" },
