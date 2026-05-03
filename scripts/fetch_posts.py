@@ -93,6 +93,11 @@ def fetch_post_detail(post_id: int, headers: dict, retries: int = 3) -> Optional
     return None
 
 
+def clean_str(s: str) -> str:
+    """Strip surrogate characters that break UTF-8 encoding."""
+    return s.encode("utf-8", errors="ignore").decode("utf-8") if isinstance(s, str) else s
+
+
 def contents_to_html(raw_content: dict) -> str:
     """Convert list API content.contents blocks to HTML (fallback when richContent is null)."""
     parts = []
@@ -127,9 +132,9 @@ def normalize_post(raw: dict, detail: dict, author: str) -> dict:
         "url": f"https://qieman.com/content/content-detail?postId={post_id}",
         "source": "qieman",
         "author": author,
-        "title": title,
-        "summary": intro,
-        "richContent": rich,
+        "title": clean_str(title),
+        "summary": clean_str(intro),
+        "richContent": clean_str(rich),
         "createdAt": raw.get("createdAt") or detail.get("createdAt") or "",
         "modifiedAt": detail.get("modified") or "",
         "images": detail.get("images") or [],
