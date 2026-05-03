@@ -242,6 +242,7 @@
     .post-tag.audio { background: #fff7e6; color: #fa8c16; border: 1px solid #ffd591; }
     .post-tag.sticky { background: #f6ffed; color: #52c41a; border: 1px solid #b7eb8f; }
     .post-tag.awesome { background: #fff0f6; color: #eb2f96; border: 1px solid #ffadd2; }
+    .post-tag.author  { background: #f9f0ff; color: #722ed1; border: 1px solid #d3adf7; }
     .post-summary {
       font-size: 13px;
       color: #777;
@@ -588,6 +589,7 @@ function renderPosts(postsMap) {
     const date = p.createdAt ? p.createdAt.slice(0, 10) : "-";
 
     let tags = "";
+    if (p.author)    tags += '<span class="post-tag author">' + escHtml(p.author) + '</span>';
     if (p.isSticky)  tags += '<span class="post-tag sticky">置顶</span>';
     if (p.isAwesome) tags += '<span class="post-tag awesome">精华</span>';
     if (p.poCode && p.poCode.length) tags += '<span class="post-tag plan">长赢</span>';

@@ -11,10 +11,15 @@ import requests
 TZ_CN = timezone(timedelta(hours=8))
 
 POSTS_PATH = "docs/posts.json"
-SPACE_USER_ID = "793413"
 LIST_URL = "https://qieman.com/pmdj/v2/community/space/userCenterPost/list"
 DETAIL_URL = "https://qieman.com/pmdj/v2/community/post/info"
 PAGE_SIZE = 20
+
+# All authors to sync: spaceUserId -> author display name
+USERS = {
+    "793413":  "ETF拯救世界",   # E大
+    "3194882": "新米练习菌",
+}
 
 # Set to None for full sync; set to a number (e.g. 5) for test runs
 MAX_NEW_POSTS = None
@@ -48,9 +53,9 @@ def build_headers() -> dict:
     return headers
 
 
-def fetch_post_list(page_num: int, headers: dict) -> list:
+def fetch_post_list(space_user_id: str, page_num: int, headers: dict) -> list:
     params = {
-        "spaceUserId": SPACE_USER_ID,
+        "spaceUserId": space_user_id,
         "pageNum": page_num,
         "pageSize": PAGE_SIZE,
         "postType": 1,
@@ -67,7 +72,6 @@ def fetch_post_list(page_num: int, headers: dict) -> list:
 
 def fetch_post_detail(post_id: int, headers: dict, retries: int = 3) -> Optional[dict]:
     for attempt in range(retries):
-        # Refresh x-sign on each attempt (timestamp-based)
         h = dict(headers)
         h["x-sign"] = gen_x_sign()
         try:
@@ -81,8 +85,7 @@ def fetch_post_detail(post_id: int, headers: dict, retries: int = 3) -> Optional
                 continue
             r.raise_for_status()
             data = r.json()
-            item = data.get("data") or data
-            return item
+            return data.get("data") or data
         except Exception as e:
             print(f"[posts] {post_id}: detail error ({e})")
             if attempt < retries - 1:
@@ -91,7 +94,7 @@ def fetch_post_detail(post_id: int, headers: dict, retries: int = 3) -> Optional
 
 
 def contents_to_html(raw_content: dict) -> str:
-    """Convert list API content.contents blocks to HTML paragraphs (fallback when richContent is null)."""
+    """Convert list API content.contents blocks to HTML (fallback when richContent is null)."""
     parts = []
     for block in (raw_content.get("contents") or []):
         ct = block.get("contentType")
@@ -104,9 +107,8 @@ def contents_to_html(raw_content: dict) -> str:
     return "\n".join(parts)
 
 
-def normalize_post(raw: dict, detail: dict) -> dict:
+def normalize_post(raw: dict, detail: dict, author: str) -> dict:
     post_id = raw.get("id")
-    # Newer posts put poCode/ramblingTags/mood inside an "extra" sub-object
     extra = detail.get("extra") or {}
     po_code = detail.get("poCode") or extra.get("poCode") or []
     rambling_tags = detail.get("ramblingTags") or extra.get("ramblingTags") or []
@@ -116,7 +118,6 @@ def normalize_post(raw: dict, detail: dict) -> dict:
     rich = detail.get("richContent") or ""
     if not rich:
         rich = contents_to_html(raw_content)
-    # Title: prefer detail API title, fall back to first 50 chars of intro
     intro = detail.get("summary") or raw_content.get("intro") or ""
     title = detail.get("title") or raw_content.get("title") or ""
     if not title and intro:
@@ -125,6 +126,7 @@ def normalize_post(raw: dict, detail: dict) -> dict:
         "id": post_id,
         "url": f"https://qieman.com/content/content-detail?postId={post_id}",
         "source": "qieman",
+        "author": author,
         "title": title,
         "summary": intro,
         "richContent": rich,
@@ -145,15 +147,16 @@ def normalize_post(raw: dict, detail: dict) -> dict:
     }
 
 
-def collect_all_post_ids(headers: dict) -> list:
+def collect_user_posts(space_user_id: str, author: str, headers: dict) -> list:
+    """Fetch all list-page items for one user."""
     all_posts = []
     page = 1
     while True:
-        items = fetch_post_list(page, headers)
+        items = fetch_post_list(space_user_id, page, headers)
         if not items:
             break
         all_posts.extend(items)
-        print(f"[posts] list page {page}: {len(items)} items")
+        print(f"[posts] {author} page {page}: {len(items)} items")
         if len(items) < PAGE_SIZE:
             break
         page += 1
@@ -169,29 +172,32 @@ def main():
         with open(POSTS_PATH, encoding="utf-8") as f:
             existing = json.load(f)
 
-    print("[posts] fetching post list...")
-    all_raw = collect_all_post_ids(headers)
-    print(f"[posts] total posts on server: {len(all_raw)}")
+    existing_ids = set(str(k) for k in existing)
+    all_new: list = []  # (raw, author)
 
-    existing_ids = set(str(p) for p in existing)
-    new_raw = [p for p in all_raw if str(p.get("id")) not in existing_ids]
-    # Fetch oldest first (list is newest-first, so reverse)
-    new_raw = list(reversed(new_raw))
+    for space_user_id, author in USERS.items():
+        print(f"\n[posts] === {author} (spaceUserId={space_user_id}) ===")
+        raw_posts = collect_user_posts(space_user_id, author, headers)
+        print(f"[posts] {author}: {len(raw_posts)} total on server")
+        new = [(r, author) for r in raw_posts if str(r.get("id")) not in existing_ids]
+        new = list(reversed(new))  # oldest first
+        print(f"[posts] {author}: {len(new)} new to fetch")
+        all_new.extend(new)
 
     if MAX_NEW_POSTS is not None:
-        new_raw = new_raw[:MAX_NEW_POSTS]
+        all_new = all_new[:MAX_NEW_POSTS]
 
-    print(f"[posts] {len(existing)} cached, {len(new_raw)} to fetch")
+    print(f"\n[posts] total new posts to fetch: {len(all_new)}")
 
     fetched = 0
-    for raw in new_raw:
+    for raw, author in all_new:
         post_id = raw.get("id")
         detail = fetch_post_detail(post_id, headers)
         if detail:
-            post = normalize_post(raw, detail)
+            post = normalize_post(raw, detail, author)
             existing[str(post_id)] = post
             fetched += 1
-            print(f"[posts] {post_id}: {post['title']!r}")
+            print(f"[posts] {author} {post_id}: {post['title']!r}")
         else:
             print(f"[posts] {post_id}: skipped (detail fetch failed)")
         time.sleep(0.5)
@@ -201,7 +207,7 @@ def main():
         json.dump(existing, f, ensure_ascii=False, indent=2)
 
     now_cn = datetime.now(TZ_CN).strftime("%Y-%m-%d %H:%M CST")
-    print(f"[posts] done: {fetched} new, {len(existing)} total — {now_cn}")
+    print(f"\n[posts] done: {fetched} new, {len(existing)} total — {now_cn}")
 
 
 if __name__ == "__main__":

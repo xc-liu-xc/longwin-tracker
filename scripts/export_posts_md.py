@@ -27,6 +27,7 @@ def to_markdown(post: dict) -> str:
     frontmatter += f"date: {date}\n"
     frontmatter += f"url: {post.get('url', '')}\n"
     frontmatter += f"source: {post.get('source', 'qieman')}\n"
+    frontmatter += f"author: {post.get('author', '')}\n"
     if pocode:
         frontmatter += f"poCode: [{', '.join(pocode)}]\n"
     if tags:
