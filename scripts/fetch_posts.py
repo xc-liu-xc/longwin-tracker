@@ -1,4 +1,5 @@
 import hashlib
+import html
 import json
 import os
 import time
@@ -89,6 +90,20 @@ def fetch_post_detail(post_id: int, headers: dict, retries: int = 3) -> Optional
     return None
 
 
+def contents_to_html(raw_content: dict) -> str:
+    """Convert list API content.contents blocks to HTML paragraphs (fallback when richContent is null)."""
+    parts = []
+    for block in (raw_content.get("contents") or []):
+        ct = block.get("contentType")
+        detail_text = block.get("detail") or ""
+        if ct == 1:
+            for line in detail_text.split("\n"):
+                parts.append("<p>" + html.escape(line) + "</p>")
+        elif ct == 2 and detail_text.startswith("http"):
+            parts.append('<img src="' + html.escape(detail_text) + '" />')
+    return "\n".join(parts)
+
+
 def normalize_post(raw: dict, detail: dict) -> dict:
     post_id = raw.get("id")
     # Newer posts put poCode/ramblingTags/mood inside an "extra" sub-object
@@ -97,13 +112,22 @@ def normalize_post(raw: dict, detail: dict) -> dict:
     rambling_tags = detail.get("ramblingTags") or extra.get("ramblingTags") or []
     mood = detail.get("mood") or extra.get("textMood") or ""
     audio = detail.get("audioInfo") or {}
+    raw_content = raw.get("content") or {}
+    rich = detail.get("richContent") or ""
+    if not rich:
+        rich = contents_to_html(raw_content)
+    # Title: prefer detail API title, fall back to first 50 chars of intro
+    intro = detail.get("summary") or raw_content.get("intro") or ""
+    title = detail.get("title") or raw_content.get("title") or ""
+    if not title and intro:
+        title = intro[:50].rstrip("，。！？,.!? ") + ("…" if len(intro) > 50 else "")
     return {
         "id": post_id,
         "url": f"https://qieman.com/content/content-detail?postId={post_id}",
         "source": "qieman",
-        "title": detail.get("title") or (raw.get("content") or {}).get("title") or "",
-        "summary": detail.get("summary") or (raw.get("content") or {}).get("intro") or "",
-        "richContent": detail.get("richContent") or "",
+        "title": title,
+        "summary": intro,
+        "richContent": rich,
         "createdAt": raw.get("createdAt") or detail.get("createdAt") or "",
         "modifiedAt": detail.get("modified") or "",
         "images": detail.get("images") or [],
