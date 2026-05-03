@@ -177,6 +177,11 @@ def main():
         with open(POSTS_PATH, encoding="utf-8") as f:
             existing = json.load(f)
 
+    # Backfill author for posts cached before multi-user support
+    for post in existing.values():
+        if not post.get("author"):
+            post["author"] = "ETF拯救世界"
+
     existing_ids = set(str(k) for k in existing)
     all_new: list = []  # (raw, author)
 
