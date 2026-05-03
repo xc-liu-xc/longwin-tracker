@@ -31,10 +31,18 @@ jobs:
           TUSHARE_TOKEN: ${{ secrets.TUSHARE_TOKEN }}
         run: python scripts/fetch_nav.py
 
+      - name: Fetch content metadata
+        run: python scripts/fetch_content.py
+
+      - name: Fetch posts
+        env:
+          QIEMAN_TOKEN: ${{ secrets.QIEMAN_TOKEN }}
+        run: python -u scripts/fetch_posts.py
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data.json docs/nav/
+          git add docs/data.json docs/nav/ docs/content.json docs/posts.json
           git diff --staged --quiet || git commit -m "chore: update longwin data $(TZ='Asia/Shanghai' date '+%Y-%m-%d')"
           git push
