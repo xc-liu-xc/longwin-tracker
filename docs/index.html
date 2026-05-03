@@ -289,6 +289,29 @@
       font-size: 14px;
     }
 
+    /* ── Pagination ── */
+    .pagination {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      padding: 16px 0 8px;
+      font-size: 13px;
+      color: #555;
+    }
+    .page-btn {
+      padding: 6px 16px;
+      border: 1px solid #d9d9d9;
+      border-radius: 6px;
+      background: #fff;
+      cursor: pointer;
+      font-size: 13px;
+      color: #333;
+      transition: all 0.15s;
+    }
+    .page-btn:hover:not(:disabled) { border-color: #1677ff; color: #1677ff; }
+    .page-btn:disabled { color: #bbb; cursor: not-allowed; border-color: #f0f0f0; }
+
     /* ── Modal ── */
     .modal-overlay {
       display: none;
@@ -413,15 +436,20 @@
 </div>
 
 <script>
-const DATA_URL    = "./data.json";
-const CONTENT_URL = "./content.json";
-const POSTS_URL   = "./posts.json";
-const NAV_BASE    = "./nav/";
+const DATA_URL         = "./data.json";
+const CONTENT_URL      = "./content.json";
+const POSTS_INDEX_URL  = "./posts-index.json";
+const POSTS_CONTENT    = "./posts/";
+const NAV_BASE         = "./nav/";
 
-let _appData    = null;
-let _contentMap = {};
-let _postsMap   = {};
-let _chart      = null;
+const PAGE_SIZE = 50;
+
+let _appData      = null;
+let _contentMap   = {};
+let _postsIndex   = [];   // full index array
+let _contentCache = {};   // id → content object (lazy loaded)
+let _postsPage    = 0;
+let _chart        = null;
 
 function extractItemId(url) {
   if (!url) return null;
@@ -449,17 +477,17 @@ function switchTab(name) {
 /* ── Init ── */
 async function init() {
   try {
-    const [dataRes, contentRes, postsRes] = await Promise.all([
+    const [dataRes, contentRes, indexRes] = await Promise.all([
       fetch(DATA_URL),
       fetch(CONTENT_URL).catch(function() { return null; }),
-      fetch(POSTS_URL).catch(function() { return null; }),
+      fetch(POSTS_INDEX_URL).catch(function() { return null; }),
     ]);
 
     if (!dataRes.ok) throw new Error("HTTP " + dataRes.status);
     _appData = await dataRes.json();
 
     if (contentRes && contentRes.ok) _contentMap = await contentRes.json();
-    if (postsRes && postsRes.ok)     _postsMap   = await postsRes.json();
+    if (indexRes && indexRes.ok)     _postsIndex = await indexRes.json();
 
     // Signals tab
     const sigTab = document.getElementById("tab-signals");
@@ -471,7 +499,7 @@ async function init() {
     if (first) first.classList.add("open");
 
     // Posts tab
-    document.getElementById("tab-posts").innerHTML = renderPosts(_postsMap);
+    renderPostsTab();
 
   } catch (e) {
     document.getElementById("tab-signals").innerHTML = '<div class="error">数据加载失败：' + e.message + "</div>";
@@ -569,34 +597,41 @@ function renderSignals(d) {
 }
 
 /* ── Posts tab ── */
-function renderPosts(postsMap) {
-  const posts = Object.values(postsMap).sort(function(a, b) {
-    return b.createdAt.localeCompare(a.createdAt);
-  });
-
-  if (!posts.length) {
-    return '<div class="posts-empty">暂无文章数据</div>';
+function renderPostsTab() {
+  if (!_postsIndex.length) {
+    document.getElementById("tab-posts").innerHTML = '<div class="posts-empty">暂无文章数据</div>';
+    return;
   }
+  document.getElementById("tab-posts").innerHTML = buildPostsHtml();
+}
 
-  const header = '<div class="card" style="margin-bottom:12px;padding:14px 20px;">'
-    + '<span style="font-size:13px;color:#555;">共 <strong>' + posts.length + '</strong> 篇 · 来源：且慢小组 · 点击标题展开全文</span>'
+function buildPostsHtml() {
+  const total = _postsIndex.length;
+  const totalPages = Math.ceil(total / PAGE_SIZE);
+  const start = _postsPage * PAGE_SIZE;
+  const page  = _postsIndex.slice(start, start + PAGE_SIZE);
+
+  const header = '<div class="card" style="margin-bottom:12px;padding:14px 20px;display:flex;align-items:center;justify-content:space-between;">'
+    + '<span style="font-size:13px;color:#555;">共 <strong>' + total + '</strong> 篇 · 点击标题展开全文</span>'
+    + '<span style="font-size:12px;color:#aaa;">且慢 · 微博</span>'
     + '</div>';
 
   let listHtml = '<div class="post-list">';
-  for (let i = 0; i < posts.length; i++) {
-    const p = posts[i];
-    const pid = "post-" + p.id;
-    const date = p.createdAt ? p.createdAt.slice(0, 10) : "-";
+  for (let i = 0; i < page.length; i++) {
+    const p = page[i];
+    const pid = "post-" + escHtml(String(p.id));
+    const srcLabel = p.source === "weibo" ? "微博" : "且慢";
 
     let tags = "";
     if (p.author)    tags += '<span class="post-tag author">' + escHtml(p.author) + '</span>';
+    if (p.isRetweet) tags += '<span class="post-tag" style="background:#fafafa;color:#aaa;border:1px solid #e8e8e8;">转发</span>';
     if (p.isSticky)  tags += '<span class="post-tag sticky">置顶</span>';
     if (p.isAwesome) tags += '<span class="post-tag awesome">精华</span>';
     if (p.poCode && p.poCode.length) tags += '<span class="post-tag plan">长赢</span>';
-    if (p.hasAudio)  tags += '<span class="post-tag audio">🎵 音频</span>';
+    if (p.hasAudio)  tags += '<span class="post-tag audio">🎵</span>';
 
-    const meta = '<span>' + escHtml(date) + '</span>'
-      + '<span>来源：且慢</span>'
+    const meta = '<span>' + escHtml(p.date || "-") + '</span>'
+      + '<span>' + srcLabel + '</span>'
       + (p.likeNum    ? '<span>👍 ' + p.likeNum    + '</span>' : '')
       + (p.commentNum ? '<span>💬 ' + p.commentNum + '</span>' : '')
       + tags;
@@ -606,7 +641,7 @@ function renderPosts(postsMap) {
       : "";
 
     listHtml += '<div class="post-card" id="' + pid + '">'
-      + '<div class="post-header" onclick="togglePost(\'' + pid + '\')">'
+      + '<div class="post-header" onclick="togglePost(\'' + pid + '\',\'' + escHtml(String(p.id)) + '\')">'
       + '<div class="post-title-row">'
       + '<div class="post-title">' + escHtml(p.title || "（无标题）") + '</div>'
       + '<span class="post-arrow">&#x25B6;</span>'
@@ -614,15 +649,29 @@ function renderPosts(postsMap) {
       + '<div class="post-meta">' + meta + '</div>'
       + summary
       + '</div>'
-      + '<div class="post-body" data-post-id="' + p.id + '" data-loaded="false"></div>'
+      + '<div class="post-body" data-loaded="false"></div>'
       + '</div>';
   }
   listHtml += '</div>';
 
-  return header + listHtml;
+  const pagination = '<div class="pagination">'
+    + '<button class="page-btn" onclick="gotoPage(' + (_postsPage - 1) + ')"'
+    + (_postsPage === 0 ? ' disabled' : '') + '>上一页</button>'
+    + '<span>第 ' + (_postsPage + 1) + ' / ' + totalPages + ' 页</span>'
+    + '<button class="page-btn" onclick="gotoPage(' + (_postsPage + 1) + ')"'
+    + (_postsPage >= totalPages - 1 ? ' disabled' : '') + '>下一页</button>'
+    + '</div>';
+
+  return header + listHtml + pagination;
 }
 
-function togglePost(pid) {
+function gotoPage(page) {
+  _postsPage = page;
+  document.getElementById("tab-posts").innerHTML = buildPostsHtml();
+  document.getElementById("tab-posts").scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+async function togglePost(pid, postId) {
   const card = document.getElementById(pid);
   const wasOpen = card.classList.contains("open");
   card.classList.toggle("open");
@@ -630,20 +679,35 @@ function togglePost(pid) {
   if (!wasOpen) {
     const body = card.querySelector(".post-body");
     if (body.getAttribute("data-loaded") === "false") {
-      const postId = body.getAttribute("data-post-id");
-      const post = _postsMap[postId];
-      if (post) {
-        const clean = DOMPurify.sanitize(post.richContent || "<p>（正文暂无内容）</p>");
-        const srcInfo = '<span>来源：<a class="post-ext-link" href="' + escHtml(post.url) + '" target="_blank" rel="noopener">且慢原文 ↗</a></span>';
-        const audioLink = post.audioUrl
-          ? '<a class="post-ext-link" href="' + escHtml(post.audioUrl) + '" target="_blank" rel="noopener">🎵 收听音频版</a>'
+      body.innerHTML = '<div style="padding:16px;color:#aaa;font-size:13px;">加载中...</div>';
+      try {
+        let content = _contentCache[postId];
+        if (!content) {
+          const res = await fetch(POSTS_CONTENT + postId + ".json");
+          if (!res.ok) throw new Error("HTTP " + res.status);
+          content = await res.json();
+          _contentCache[postId] = content;
+        }
+        const clean = DOMPurify.sanitize(content.richContent || "<p>（正文暂无内容）</p>");
+        const srcLink = '<a class="post-ext-link" href="' + escHtml(content.url || "") + '" target="_blank" rel="noopener">查看原文 ↗</a>';
+        const audioLink = content.audioUrl
+          ? '<a class="post-ext-link" href="' + escHtml(content.audioUrl) + '" target="_blank" rel="noopener">🎵 音频版</a>'
           : "";
-        const modInfo = post.modifiedAt
-          ? '<span>最后修改：' + escHtml(post.modifiedAt.slice(0, 10)) + '</span>'
-          : "";
+        let retweetHtml = "";
+        if (content.retweetContent) {
+          const rtClean = DOMPurify.sanitize(content.retweetContent);
+          retweetHtml = '<div style="margin-top:12px;padding:12px 16px;background:#fafafa;border-left:3px solid #d9d9d9;border-radius:0 4px 4px 0;">'
+            + '<div style="font-size:12px;color:#aaa;margin-bottom:6px;">转发自 @' + escHtml(content.retweetAuthor || "") + '</div>'
+            + '<div class="post-content" style="font-size:13px;">' + rtClean + '</div>'
+            + '</div>';
+        }
         body.innerHTML = '<div class="post-content">' + clean + '</div>'
-          + '<div class="post-footer">' + srcInfo + '<div style="display:flex;gap:12px;align-items:center;">' + modInfo + audioLink + '</div></div>';
+          + retweetHtml
+          + '<div class="post-footer">' + srcLink
+          + '<div style="display:flex;gap:12px;">' + audioLink + '</div></div>';
         body.setAttribute("data-loaded", "true");
+      } catch(e) {
+        body.innerHTML = '<div style="padding:16px;color:#ff4d4f;font-size:13px;">加载失败：' + e.message + '</div>';
       }
     }
   }

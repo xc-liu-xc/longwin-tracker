@@ -10,18 +10,17 @@ import requests
 
 TZ_CN = timezone(timedelta(hours=8))
 
-POSTS_PATH = "docs/posts.json"
-LIST_URL = "https://qieman.com/pmdj/v2/community/space/userCenterPost/list"
+POSTS_DIR  = "docs/posts"
+INDEX_PATH = "docs/posts-index.json"
+LIST_URL   = "https://qieman.com/pmdj/v2/community/space/userCenterPost/list"
 DETAIL_URL = "https://qieman.com/pmdj/v2/community/post/info"
-PAGE_SIZE = 20
+PAGE_SIZE  = 20
 
-# All authors to sync: spaceUserId -> author display name
 USERS = {
-    "793413":  "ETF拯救世界",   # E大
+    "793413":  "ETF拯救世界",
     "3194882": "新米练习菌",
 }
 
-# Set to None for full sync; set to a number (e.g. 5) for test runs
 MAX_NEW_POSTS = None
 
 
@@ -49,17 +48,13 @@ def build_headers() -> dict:
         headers["Authorization"] = token
         headers["Cookie"] = f"access_token={token}"
     else:
-        print("[posts] QIEMAN_TOKEN not set — fetching as anonymous (restricted posts will have no content)")
+        print("[posts] QIEMAN_TOKEN not set — anonymous mode")
     return headers
 
 
 def fetch_post_list(space_user_id: str, page_num: int, headers: dict) -> list:
-    params = {
-        "spaceUserId": space_user_id,
-        "pageNum": page_num,
-        "pageSize": PAGE_SIZE,
-        "postType": 1,
-    }
+    params = {"spaceUserId": space_user_id, "pageNum": page_num,
+              "pageSize": PAGE_SIZE, "postType": 1}
     try:
         r = requests.get(LIST_URL, params=params, headers=headers, timeout=15)
         r.raise_for_status()
@@ -75,9 +70,7 @@ def fetch_post_detail(post_id: int, headers: dict, retries: int = 3) -> Optional
         h = dict(headers)
         h["x-sign"] = gen_x_sign()
         try:
-            r = requests.get(
-                DETAIL_URL, params={"id": post_id}, headers=h, timeout=15
-            )
+            r = requests.get(DETAIL_URL, params={"id": post_id}, headers=h, timeout=15)
             if r.status_code == 429:
                 wait = 2 ** attempt * 2
                 print(f"[posts] {post_id}: rate limited, waiting {wait}s")
@@ -94,12 +87,10 @@ def fetch_post_detail(post_id: int, headers: dict, retries: int = 3) -> Optional
 
 
 def clean_str(s: str) -> str:
-    """Strip surrogate characters that break UTF-8 encoding."""
-    return s.encode("utf-8", errors="ignore").decode("utf-8") if isinstance(s, str) else s
+    return s.encode("utf-8", errors="ignore").decode("utf-8") if isinstance(s, str) else ""
 
 
 def contents_to_html(raw_content: dict) -> str:
-    """Convert list API content.contents blocks to HTML (fallback when richContent is null)."""
     parts = []
     for block in (raw_content.get("contents") or []):
         ct = block.get("contentType")
@@ -112,48 +103,73 @@ def contents_to_html(raw_content: dict) -> str:
     return "\n".join(parts)
 
 
-def normalize_post(raw: dict, detail: dict, author: str) -> dict:
-    post_id = raw.get("id")
-    extra = detail.get("extra") or {}
-    po_code = detail.get("poCode") or extra.get("poCode") or []
+def normalize_post(raw: dict, detail: dict, author: str) -> tuple[dict, dict]:
+    """Returns (index_entry, content_entry)."""
+    post_id    = str(raw.get("id"))
+    extra      = detail.get("extra") or {}
+    po_code    = detail.get("poCode") or extra.get("poCode") or []
     rambling_tags = detail.get("ramblingTags") or extra.get("ramblingTags") or []
-    mood = detail.get("mood") or extra.get("textMood") or ""
-    audio = detail.get("audioInfo") or {}
+    mood       = detail.get("mood") or extra.get("textMood") or ""
+    audio      = detail.get("audioInfo") or {}
     raw_content = raw.get("content") or {}
-    rich = detail.get("richContent") or ""
+    rich       = detail.get("richContent") or ""
     if not rich:
         rich = contents_to_html(raw_content)
-    intro = detail.get("summary") or raw_content.get("intro") or ""
-    title = detail.get("title") or raw_content.get("title") or ""
+    intro  = detail.get("summary") or raw_content.get("intro") or ""
+    title  = detail.get("title") or raw_content.get("title") or ""
     if not title and intro:
         title = intro[:50].rstrip("，。！？,.!? ") + ("…" if len(intro) > 50 else "")
-    return {
-        "id": post_id,
-        "url": f"https://qieman.com/content/content-detail?postId={post_id}",
-        "source": "qieman",
-        "author": author,
-        "title": clean_str(title),
-        "summary": clean_str(intro),
-        "richContent": clean_str(rich),
-        "createdAt": raw.get("createdAt") or detail.get("createdAt") or "",
-        "modifiedAt": detail.get("modified") or "",
-        "images": detail.get("images") or [],
-        "likeNum": raw.get("likeNum") or 0,
-        "commentNum": raw.get("commentNum") or 0,
-        "collectionCount": detail.get("collectionCount") or 0,
-        "poCode": po_code,
-        "tags": rambling_tags,
-        "mood": mood,
-        "isSticky": detail.get("isSticky") or False,
+    date = (raw.get("createdAt") or detail.get("createdAt") or "")[:10]
+
+    index_entry = {
+        "id":        post_id,
+        "title":     clean_str(title),
+        "date":      date,
+        "author":    author,
+        "source":    "qieman",
+        "isRetweet": False,
+        "summary":   clean_str(intro),
+        "likeNum":   raw.get("likeNum") or 0,
+        "commentNum":raw.get("commentNum") or 0,
+        "hasAudio":  bool(audio.get("audioUrl")),
+        "poCode":    po_code,
+        "tags":      rambling_tags,
+        "isSticky":  detail.get("isSticky") or False,
         "isAwesome": detail.get("isAwesome") or False,
-        "hasAudio": bool(audio.get("audioUrl")),
-        "audioUrl": audio.get("audioUrl") or "",
-        "audioDuration": audio.get("audioDuration") or 0,
     }
+
+    content_entry = {
+        "id":            post_id,
+        "url":           f"https://qieman.com/content/content-detail?postId={post_id}",
+        "richContent":   clean_str(rich),
+        "images":        detail.get("images") or [],
+        "audioUrl":      audio.get("audioUrl") or "",
+        "audioDuration": audio.get("audioDuration") or 0,
+        "retweetContent":"",
+        "retweetAuthor": "",
+    }
+
+    return index_entry, content_entry
+
+
+def load_index() -> tuple[list, set]:
+    if os.path.exists(INDEX_PATH):
+        with open(INDEX_PATH, encoding="utf-8") as f:
+            entries = json.load(f)
+    else:
+        entries = []
+    # Only consider qieman IDs (numeric, no wb_ prefix)
+    existing_ids = {e["id"] for e in entries if not e["id"].startswith("wb_")}
+    return entries, existing_ids
+
+
+def save_index(entries: list):
+    entries.sort(key=lambda e: e.get("date") or "", reverse=True)
+    with open(INDEX_PATH, "w", encoding="utf-8") as f:
+        json.dump(entries, f, ensure_ascii=False, indent=2)
 
 
 def collect_user_posts(space_user_id: str, author: str, headers: dict) -> list:
-    """Fetch all list-page items for one user."""
     all_posts = []
     page = 1
     while True:
@@ -171,18 +187,15 @@ def collect_user_posts(space_user_id: str, author: str, headers: dict) -> list:
 
 def main():
     headers = build_headers()
+    os.makedirs(POSTS_DIR, exist_ok=True)
 
-    existing: dict = {}
-    if os.path.exists(POSTS_PATH):
-        with open(POSTS_PATH, encoding="utf-8") as f:
-            existing = json.load(f)
+    index_entries, existing_ids = load_index()
 
-    # Backfill author for posts cached before multi-user support
-    for post in existing.values():
-        if not post.get("author"):
-            post["author"] = "ETF拯救世界"
+    # Backfill author for legacy entries missing it
+    for e in index_entries:
+        if not e.get("author") and not e["id"].startswith("wb_"):
+            e["author"] = "ETF拯救世界"
 
-    existing_ids = set(str(k) for k in existing)
     all_new: list = []  # (raw, author)
 
     for space_user_id, author in USERS.items():
@@ -190,7 +203,7 @@ def main():
         raw_posts = collect_user_posts(space_user_id, author, headers)
         print(f"[posts] {author}: {len(raw_posts)} total on server")
         new = [(r, author) for r in raw_posts if str(r.get("id")) not in existing_ids]
-        new = list(reversed(new))  # oldest first
+        new = list(reversed(new))
         print(f"[posts] {author}: {len(new)} new to fetch")
         all_new.extend(new)
 
@@ -199,25 +212,24 @@ def main():
 
     print(f"\n[posts] total new posts to fetch: {len(all_new)}")
 
-    fetched = 0
     for raw, author in all_new:
-        post_id = raw.get("id")
-        detail = fetch_post_detail(post_id, headers)
+        post_id = str(raw.get("id"))
+        detail = fetch_post_detail(int(post_id), headers)
         if detail:
-            post = normalize_post(raw, detail, author)
-            existing[str(post_id)] = post
-            fetched += 1
-            print(f"[posts] {author} {post_id}: {post['title']!r}")
+            idx, content = normalize_post(raw, detail, author)
+            # Write content file
+            with open(os.path.join(POSTS_DIR, post_id + ".json"), "w", encoding="utf-8") as f:
+                json.dump(content, f, ensure_ascii=False, indent=2)
+            index_entries.append(idx)
+            print(f"[posts] {author} {post_id}: {idx['title']!r}")
         else:
-            print(f"[posts] {post_id}: skipped (detail fetch failed)")
+            print(f"[posts] {post_id}: skipped")
         time.sleep(0.5)
 
-    os.makedirs("docs", exist_ok=True)
-    with open(POSTS_PATH, "w", encoding="utf-8") as f:
-        json.dump(existing, f, ensure_ascii=False, indent=2)
+    save_index(index_entries)
 
     now_cn = datetime.now(TZ_CN).strftime("%Y-%m-%d %H:%M CST")
-    print(f"\n[posts] done: {fetched} new, {len(existing)} total — {now_cn}")
+    print(f"\n[posts] done: {len(all_new)} new, {len(index_entries)} total — {now_cn}")
 
 
 if __name__ == "__main__":
