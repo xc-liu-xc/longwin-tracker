@@ -98,10 +98,25 @@
     .badge.buy  { background: #f6ffed; color: #52c41a; border: 1px solid #b7eb8f; }
     .badge.sell { background: #fff1f0; color: #ff4d4f; border: 1px solid #ffa39e; }
 
-    .tl-fund { color: #555; flex: 1; }
+    .tl-fund { color: #555; flex: 1; min-width: 0; }
+    .tl-fund-name { display: block; }
+    .tl-article-title {
+      display: block;
+      font-size: 11px;
+      color: #aaa;
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 320px;
+    }
     .tl-unit { color: #111; font-weight: 600; min-width: 40px; text-align: right; }
     .tl-link { color: #1677ff; text-decoration: none; font-size: 12px; white-space: nowrap; }
     .tl-link:hover { text-decoration: underline; }
+
+    @media (max-width: 600px) {
+      .tl-article-title { max-width: calc(100vw - 200px); }
+    }
 
     /* ── Holdings ── */
     .holding-item {
@@ -264,18 +279,36 @@
 
 <script>
 const DATA_URL = "./data.json";
+const CONTENT_URL = "./content.json";
 const NAV_BASE = "./nav/";
 
 let _appData = null;
+let _contentMap = {};
 let _chart = null;
+
+function extractItemId(url) {
+  if (!url) return null;
+  const m = url.match(/\/items\/(\d+)/);
+  return m ? m[1] : null;
+}
 
 async function init() {
   const app = document.getElementById("app");
   try {
-    const res = await fetch(DATA_URL);
-    if (!res.ok) throw new Error("HTTP " + res.status);
-    _appData = await res.json();
+    const [dataRes, contentRes] = await Promise.all([
+      fetch(DATA_URL),
+      fetch(CONTENT_URL).catch(() => null),
+    ]);
+    if (!dataRes.ok) throw new Error("HTTP " + dataRes.status);
+    _appData = await dataRes.json();
+    if (contentRes && contentRes.ok) {
+      _contentMap = await contentRes.json();
+    }
     app.innerHTML = render(_appData);
+    // Populate article titles via textContent (XSS safe — never innerHTML)
+    document.querySelectorAll(".tl-article-title[data-title]").forEach(function(el) {
+      el.textContent = el.getAttribute("data-title");
+    });
     const first = document.querySelector(".holding-item");
     if (first) first.classList.add("open");
   } catch (e) {
@@ -304,6 +337,11 @@ function render(d) {
   let signalRows = "";
   for (let i = 0; i < d.recentSignals.length; i++) {
     const s = d.recentSignals[i];
+    const itemId = extractItemId(s.articleLink);
+    const articleTitle = itemId && _contentMap[itemId] ? _contentMap[itemId].title : "";
+    const titleSpan = articleTitle
+      ? '<span class="tl-article-title" data-title="' + escHtml(articleTitle) + '"></span>'
+      : "";
     const linkHtml = s.articleLink
       ? '<a class="tl-link" href="' + escHtml(s.articleLink) + '" target="_blank" rel="noopener">&#x1F517; 发车文章</a>'
       : "";
@@ -311,7 +349,7 @@ function render(d) {
       + '<span class="dot ' + s.action + '"></span>'
       + '<span class="tl-date">' + fmt(s.date) + '</span>'
       + '<span class="badge ' + s.action + '">' + (s.action === "buy" ? "买入" : "卖出") + '</span>'
-      + '<span class="tl-fund">' + escHtml(s.fundCode) + '&nbsp;&nbsp;' + escHtml(s.fundName) + '</span>'
+      + '<span class="tl-fund"><span class="tl-fund-name">' + escHtml(s.fundCode) + '&nbsp;&nbsp;' + escHtml(s.fundName) + '</span>' + titleSpan + '</span>'
       + '<span class="tl-unit">' + s.unit + ' 份</span>'
       + linkHtml
       + '</li>';
@@ -334,6 +372,11 @@ function render(d) {
     let historyHtml = "";
     for (let j = 0; j < h.history.length; j++) {
       const r = h.history[j];
+      const itemId = extractItemId(r.articleLink);
+      const articleTitle = itemId && _contentMap[itemId] ? _contentMap[itemId].title : "";
+      const titleSpan = articleTitle
+        ? '<span class="tl-article-title" data-title="' + escHtml(articleTitle) + '"></span>'
+        : "";
       const rLink = r.articleLink
         ? '<a class="tl-link" href="' + escHtml(r.articleLink) + '" target="_blank" rel="noopener">&#x1F517; 发车文章</a>'
         : "";
@@ -341,6 +384,7 @@ function render(d) {
         + '<span class="dot ' + r.action + '"></span>'
         + '<span class="tl-date">' + fmt(r.date) + '</span>'
         + '<span class="badge ' + r.action + '">' + (r.action === "buy" ? "买入" : "卖出") + '</span>'
+        + '<span class="tl-fund">' + titleSpan + '</span>'
         + '<span class="tl-unit">' + r.unit + ' 份</span>'
         + rLink
         + '</li>';
