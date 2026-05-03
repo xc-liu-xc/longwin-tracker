@@ -15,7 +15,6 @@ WEIBO_JSON = sys.argv[1] if len(sys.argv) > 1 else (
 POSTS_DIR   = "docs/posts"
 INDEX_PATH  = "docs/posts-index.json"
 MD_DIR      = "posts/weibo"
-AUTHOR      = "二级市场捡辣鸡冠军"
 SOURCE      = "weibo"
 
 TZ_CN = timezone(timedelta(hours=8))
@@ -66,7 +65,7 @@ def weibo_url(record: dict) -> str:
     return f"https://weibo.com/{uid}/{bid}"
 
 
-def process_record(record: dict) -> tuple[dict, dict]:
+def process_record(record: dict, author: str) -> tuple[dict, dict]:
     """Returns (index_entry, content_entry)."""
     post_id   = "wb_" + str(record["id"])
     is_retweet = bool(record.get("retweeted_status"))
@@ -96,7 +95,7 @@ def process_record(record: dict) -> tuple[dict, dict]:
         "id":         post_id,
         "title":      clean(title),
         "date":       date,
-        "author":     AUTHOR,
+        "author":     author,
         "source":     SOURCE,
         "isRetweet":  is_retweet,
         "summary":    clean(summary),
@@ -157,8 +156,10 @@ def main():
         raw = json.load(f)
 
     uid     = list(raw["export_data"].keys())[0]
-    records = raw["export_data"][uid]["record_list"]
-    print(f"[weibo] loaded {len(records)} records from JSON")
+    data    = raw["export_data"][uid]
+    records = data["record_list"]
+    author  = data["info"].get("screen_name") or uid
+    print(f"[weibo] author: {author}, loaded {len(records)} records")
 
     # Load existing index
     existing_index: list = []
@@ -173,7 +174,7 @@ def main():
     new_entries = []
     written = 0
     for record in records:
-        idx, content = process_record(record)
+        idx, content = process_record(record, author)
         post_id = idx["id"]
 
         # Write content file (always overwrite to stay fresh)
