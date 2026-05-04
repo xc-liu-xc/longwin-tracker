@@ -2,9 +2,9 @@
 id: 68377
 title: "【The Intelligent Investor】《聪明的投资者》每年都会读一遍"
 date: 2026-02-27
-url: https://qieman.com/content/content-detail?postId=68377
-source: qieman
 author: 新米练习菌
+source: qieman
+url: https://qieman.com/content/content-detail?postId=68377
 likes: 245
 comments: 42
 ---

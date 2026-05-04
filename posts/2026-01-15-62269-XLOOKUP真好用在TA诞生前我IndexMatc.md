@@ -4,9 +4,9 @@ title: "XLOOKUP真好用
 
 在TA诞生前，我Index，Matc"
 date: 2026-01-15
-url: https://qieman.com/content/content-detail?postId=62269
-source: qieman
 author: 新米练习菌
+source: qieman
+url: https://qieman.com/content/content-detail?postId=62269
 likes: 132
 comments: 49
 ---
