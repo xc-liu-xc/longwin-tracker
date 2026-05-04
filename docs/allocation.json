@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T00:44:01",
+  "generatedAt": "2026-05-04T10:27:26",
   "asset_classes": [
     {
       "key": "a_stock",
@@ -9248,7 +9248,7 @@
           "other": 0.0
         }
       ],
-      "updatedAt": "2026-05-03 23:12 CST"
+      "updatedAt": "2026-05-04 18:24 CST"
     },
     "s": {
       "current": {
@@ -18705,7 +18705,7 @@
           "other": 0.0
         }
       ],
-      "updatedAt": "2026-05-03 23:12 CST"
+      "updatedAt": "2026-05-04 18:24 CST"
     }
   }
 }
