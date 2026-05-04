@@ -1,0 +1,1973 @@
+{
+  "updatedAt": "2026-05-03 23:12 CST",
+  "poName": "长赢指数投资计划-S定投",
+  "totalUnit": 212,
+  "investedUnit": 88,
+  "adjustedCount": 182,
+  "totalBuy": 152,
+  "totalSell": 74,
+  "recentSignals": [
+    {
+      "date": "2026-04-23",
+      "action": "sell",
+      "fundCode": "000478",
+      "fundName": "建信中证500指数增强A",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/23089"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "buy",
+      "fundCode": "021550",
+      "fundName": "博时中证红利低波动100ETF联接A",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/22957"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "sell",
+      "fundCode": "012323",
+      "fundName": "华宝医疗ETF联接C",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/22957"
+    },
+    {
+      "date": "2026-04-10",
+      "action": "buy",
+      "fundCode": "007562",
+      "fundName": "景顺长城景泰纯利债券A",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/22897"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "buy",
+      "fundCode": "110022",
+      "fundName": "易方达消费行业",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/22597"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "sell",
+      "fundCode": "001064",
+      "fundName": "广发中证环保ETF联接A",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/22597"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "buy",
+      "fundCode": "012323",
+      "fundName": "华宝医疗ETF联接C",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/22537"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "buy",
+      "fundCode": "006327",
+      "fundName": "易方达中证海外联接人民币A",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/22369"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "sell",
+      "fundCode": "000071",
+      "fundName": "华夏恒生ETF联接A",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/22369"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "buy",
+      "fundCode": "100050",
+      "fundName": "富国全球债券(QDII)人民币A",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/22279"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "sell",
+      "fundCode": "003765",
+      "fundName": "广发创业板ETF联接A",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/22045"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "sell",
+      "fundCode": "001052",
+      "fundName": "华夏中证500ETF联接A",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/21913"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "buy",
+      "fundCode": "012323",
+      "fundName": "华宝医疗ETF联接C",
+      "unit": 1,
+      "articleLink": "https://content.qieman.com/n/items/21895"
+    }
+  ],
+  "holdings": [
+    {
+      "fundCode": "100032",
+      "fundName": "富国中证红利指数增强A",
+      "bought": 11,
+      "sold": 3,
+      "history": [
+        {
+          "date": "2024-10-08",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/13309"
+        },
+        {
+          "date": "2024-03-07",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/8443"
+        },
+        {
+          "date": "2022-03-07",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/vOVdiqVled07HiYCbEt8vg"
+        },
+        {
+          "date": "2020-02-04",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/1LRP6wqS60SjDlnzZ4-nXQ"
+        },
+        {
+          "date": "2019-11-01",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/O-qHOQJTf39l9QyBJI1oBg"
+        },
+        {
+          "date": "2019-08-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "http://mp.weixin.qq.com/s?__biz=MzIxOTYxNTY4MQ==&mid=100009179&idx=1&sn=5e24a4ec386c8a54f0ae0b888229afad&chksm=17da3c7520adb563977508c0ee6d6a1de29bd06abf6466ec5d7b9fb15fb81de0796d174c1c4e#rd"
+        },
+        {
+          "date": "2019-01-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/iJsvgEUQDnOoLi220TR5Lw"
+        },
+        {
+          "date": "2018-08-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/iweFKl8cid__6J3xFDdJ9g"
+        },
+        {
+          "date": "2018-04-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/frfPPCWsXJgC0DBUYl3QoA"
+        },
+        {
+          "date": "2018-04-02",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/pxd7EDN1P5pklSnOzksq3g"
+        },
+        {
+          "date": "2018-03-01",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA"
+        },
+        {
+          "date": "2018-02-13",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408748&idx=1&sn=731d5a9cdb91d16938790b8374cf5c09&chksm=8d226f03ba55e615846d17c747eee508ef1466fe801127b73a6409ade900e0aad564ac3399d9&scene=0&key=ba1ab88e28f6c0edcf3dbd2635904057961558b3ae55b76d9eac83fe3539ec15ee822ec0b126f5ecf295c0b29dbde7e911808382d1d2434c2e21f103ef23ab57e0dd69041c70b89722fc42fd49896cfb&ascene=0&uin=MjQ0NDEzNjkyMg%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=wvwLDHfOTLyH8PVRWABWxcnLJjRGQdOYFX9HRz%2BEMhbA2kX7ztJ8oOEq96sr6koR"
+        },
+        {
+          "date": "2017-12-29",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408700&idx=1&sn=f05ca4a983b0ff2d353680eeea2782a5&chksm=8d226f53ba55e6450e5375c902312cca86ba75b4c5f2ff8284463a07ec53b9cf623fd41de1a3&scene=0&key=57d22f5855d672bb018ff50ed082bb2374227a527c8f6aea974d4fbf5b22544298dd3f981b8fa5e792c75d3615226d699c2ef59624d43810b23ceba93824aab982a85bd2d18bb32e77b05b2ed307e5ee&ascene=0&uin=MzYzODEyMzU0OQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=VTcYBykx%2FapKHpZC9wzIUxZ90ZvkZ16qCX9if%2FQaZlQl5lGlERLuiBdQSYHGG5mT"
+        },
+        {
+          "date": "2017-12-14",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/TUMZL6aj6Xoub-qwEUKmrQ"
+        }
+      ],
+      "currentUnit": 8,
+      "latestDate": "2024-10-08"
+    },
+    {
+      "fundCode": "164906",
+      "fundName": "交银施罗德中证海外中国互联网指数(QDII-LOF)A",
+      "bought": 9,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2021-10-22",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/Ov8NzBcH56dhaflpG4bX7g"
+        },
+        {
+          "date": "2021-08-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/yq_X259WsoXaNXlooZ6Epg"
+        },
+        {
+          "date": "2021-07-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/XDbjPeVrz1GHgopfpWOIBg"
+        },
+        {
+          "date": "2021-07-09",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/qJt3nBmgWxvZGb9XVxtmiQ"
+        },
+        {
+          "date": "2021-06-09",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/VWY9XFy2hwdv9Xd4r_1u4A"
+        },
+        {
+          "date": "2021-04-16",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/lEf1lUNpvsbi3UmL-uxOpg"
+        },
+        {
+          "date": "2020-11-11",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/z7ButJBYo2WAH9y6T2l6JQ"
+        },
+        {
+          "date": "2020-07-16",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A"
+        },
+        {
+          "date": "2019-08-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "http://mp.weixin.qq.com/s?__biz=MzIxOTYxNTY4MQ==&mid=100009179&idx=1&sn=5e24a4ec386c8a54f0ae0b888229afad&chksm=17da3c7520adb563977508c0ee6d6a1de29bd06abf6466ec5d7b9fb15fb81de0796d174c1c4e#rd"
+        },
+        {
+          "date": "2019-05-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/XPM2EWudS8PpItcwoqhfkQ"
+        },
+        {
+          "date": "2019-01-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/iJsvgEUQDnOoLi220TR5Lw"
+        }
+      ],
+      "currentUnit": 7,
+      "latestDate": "2021-10-22"
+    },
+    {
+      "fundCode": "001180",
+      "fundName": "广发医药卫生联接A",
+      "bought": 7,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2023-06-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3713"
+        },
+        {
+          "date": "2022-06-10",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/1889"
+        },
+        {
+          "date": "2022-04-14",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/1716"
+        },
+        {
+          "date": "2022-01-24",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/ZNrX87YQAqdMTTNOl-tcHg"
+        },
+        {
+          "date": "2020-07-16",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A"
+        },
+        {
+          "date": "2020-06-24",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/ZE8rPooJv61QdaZkiJtxcQ"
+        },
+        {
+          "date": "2019-01-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/R3-B4ElIXF4rLjrojDnU-g"
+        },
+        {
+          "date": "2018-10-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/4anBh_dyZvM6zm6WfsH6LA"
+        },
+        {
+          "date": "2018-08-06",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/e0o1tpg0lpfkH4Z9vFv3Hw"
+        }
+      ],
+      "currentUnit": 5,
+      "latestDate": "2023-06-26"
+    },
+    {
+      "fundCode": "162412",
+      "fundName": "华宝医疗ETF联接A",
+      "bought": 4,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2025-05-22",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/17779"
+        },
+        {
+          "date": "2023-08-22",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/4021"
+        },
+        {
+          "date": "2023-07-19",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3822"
+        },
+        {
+          "date": "2023-05-10",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3377"
+        }
+      ],
+      "currentUnit": 4,
+      "latestDate": "2025-05-22"
+    },
+    {
+      "fundCode": "012323",
+      "fundName": "华宝医疗ETF联接C",
+      "bought": 6,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2026-04-15",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22957"
+        },
+        {
+          "date": "2026-03-23",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22537"
+        },
+        {
+          "date": "2026-01-29",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21895"
+        },
+        {
+          "date": "2026-01-13",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21583"
+        },
+        {
+          "date": "2024-04-11",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/9223"
+        },
+        {
+          "date": "2023-08-17",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3996"
+        },
+        {
+          "date": "2023-06-07",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3524"
+        },
+        {
+          "date": "2023-04-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3333"
+        }
+      ],
+      "currentUnit": 4,
+      "latestDate": "2026-04-15"
+    },
+    {
+      "fundCode": "100038",
+      "fundName": "富国沪深300指数增强A",
+      "bought": 3,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2018-10-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ"
+        },
+        {
+          "date": "2018-09-03",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/txb6GAAyhIYeP5IkGhV-LA"
+        },
+        {
+          "date": "2018-05-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/vQWOgs3Ex68iVPED-0Hb1A"
+        }
+      ],
+      "currentUnit": 3,
+      "latestDate": "2018-10-30"
+    },
+    {
+      "fundCode": "000968",
+      "fundName": "广发养老指数A",
+      "bought": 4,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2022-04-08",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/7cS0CkJVxMAy-Yhd-UVIkw?st=289FED6E4C4F1FC6FEE1E5B2773D50BDE6FC573E6510CC1E396E26F622B713286143DEAA35887B22FA6B2AFC809BE2DC4F23D02410C0D71465E17F819182E9D971A8600039D9927865446155BAA2B1E73DEC8EF38591F2E0F82EC11388984255AD6764109DD06C2F7EC2EB1B066466ACCCB0A466E659E3E54EE374B93FDB0A896C5E25D8CC622A1A5CCC3F571176CDF2D865161C38AD46697F2D9D389CBE9A2139FEB8A469595220A44DD47F5135698E8596975E39D2E2FB73C1F46A2D88F06E2329E8AFC73C7CFC04E347F7BA180F86&vid=1688853776605235&cst=86B1C48D4B7C97DC1386589C73D9AC2894CE1EC56C4EE37909D17040E22321ECBF15431D19212C1CCB9ADA4E26CB365C&deviceid=4177fffa-320a-42e4-92d4-11611e3cb9d0&version=4.0.0.90415&platform=mac"
+        },
+        {
+          "date": "2020-07-16",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A"
+        },
+        {
+          "date": "2018-12-27",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/J37XMWDxhHhzLgKvy7-ilg"
+        },
+        {
+          "date": "2018-08-20",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/E-6RrsJjG_hEytnxtaIj4Q"
+        },
+        {
+          "date": "2018-06-28",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/_Sdqubfem4lHJqqA6Jo61g"
+        }
+      ],
+      "currentUnit": 3,
+      "latestDate": "2022-04-08"
+    },
+    {
+      "fundCode": "002708",
+      "fundName": "大摩健康产业混合A",
+      "bought": 3,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2023-06-12",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3550"
+        },
+        {
+          "date": "2022-09-19",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/items/2338"
+        },
+        {
+          "date": "2020-11-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/ThvVO8L5JUhSQfup8n9eJQ"
+        }
+      ],
+      "currentUnit": 3,
+      "latestDate": "2023-06-12"
+    },
+    {
+      "fundCode": "004424",
+      "fundName": "汇添富文体娱乐混合A",
+      "bought": 3,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2023-12-08",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/6307"
+        },
+        {
+          "date": "2022-04-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/1765"
+        },
+        {
+          "date": "2021-08-27",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/_i8g_u3d9mlUy8jTlPFylg"
+        }
+      ],
+      "currentUnit": 3,
+      "latestDate": "2023-12-08"
+    },
+    {
+      "fundCode": "011309",
+      "fundName": "富国消费主题混合C",
+      "bought": 4,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2024-08-28",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/12481"
+        },
+        {
+          "date": "2024-06-04",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/10555"
+        },
+        {
+          "date": "2024-05-06",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/9799"
+        },
+        {
+          "date": "2024-01-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/7711"
+        },
+        {
+          "date": "2023-05-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3480"
+        }
+      ],
+      "currentUnit": 3,
+      "latestDate": "2024-08-28"
+    },
+    {
+      "fundCode": "000071",
+      "fundName": "华夏恒生ETF联接A",
+      "bought": 9,
+      "sold": 6,
+      "history": [
+        {
+          "date": "2026-03-06",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22369"
+        },
+        {
+          "date": "2025-09-12",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/19825"
+        },
+        {
+          "date": "2025-05-16",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/17689"
+        },
+        {
+          "date": "2024-09-24",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/13141"
+        },
+        {
+          "date": "2024-05-17",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/10111"
+        },
+        {
+          "date": "2022-03-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/Gg2MgKM-hDFqckUUM1rOhQ"
+        },
+        {
+          "date": "2022-03-07",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/vOVdiqVled07HiYCbEt8vg"
+        },
+        {
+          "date": "2021-12-03",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/XRpglzj8QZpQy_Up2zGEYQ"
+        },
+        {
+          "date": "2021-02-24",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/8mGdshNuuz3gQZSCMB63fg"
+        },
+        {
+          "date": "2020-10-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/fWZgeUCE2eg_S3dER9KPZg"
+        },
+        {
+          "date": "2020-03-19",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": null
+        },
+        {
+          "date": "2020-03-13",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/imNxENhGgPTSqabUUjGuwQ"
+        },
+        {
+          "date": "2019-08-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/TnlPhElfjbM3cIqLT91z9A"
+        },
+        {
+          "date": "2019-01-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/R3-B4ElIXF4rLjrojDnU-g"
+        },
+        {
+          "date": "2018-11-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w"
+        }
+      ],
+      "currentUnit": 3,
+      "latestDate": "2026-03-06"
+    },
+    {
+      "fundCode": "519915",
+      "fundName": "富国消费主题混合A",
+      "bought": 3,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2024-09-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/12931"
+        },
+        {
+          "date": "2024-07-24",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/11725"
+        },
+        {
+          "date": "2023-02-23",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3020"
+        },
+        {
+          "date": "2022-03-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/E6OLuOviVt9qQOekzXRHVw"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2024-09-18"
+    },
+    {
+      "fundCode": "012348",
+      "fundName": "天弘恒生科技指数联接(QDII)A",
+      "bought": 6,
+      "sold": 4,
+      "history": [
+        {
+          "date": "2025-04-23",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/17305"
+        },
+        {
+          "date": "2025-04-07",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/16927"
+        },
+        {
+          "date": "2025-02-20",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/15943"
+        },
+        {
+          "date": "2024-12-10",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/14815"
+        },
+        {
+          "date": "2024-10-08",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/13309"
+        },
+        {
+          "date": "2023-04-06",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3234"
+        },
+        {
+          "date": "2022-05-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/items/1850"
+        },
+        {
+          "date": "2022-03-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/E6OLuOviVt9qQOekzXRHVw"
+        },
+        {
+          "date": "2022-02-09",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/XTVhQ2jpHirI3Po9RQGiPA"
+        },
+        {
+          "date": "2021-12-16",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/9xYvoENEJ6ODmqPFFseK5g?st=591665A7860647ABC4C329AB7C501598B1603A4FB4A959524FDBB39BAE1D78004C94A4E55180711192711006B0BA8F53F14139A653658DD744EEBFAD85049B31AE6BA55AE0A5400A0AD2D0C1A10B2A6C1C84F032B9242B564619D392331804B45D97485361148DAF4966F9D9670BC25756B47EF79748C99353B29720EEF9DBADA3830D4F80BDC6D9105B8209FD0BDDFA1EEC53285E687F5D4AA27497D0E7B540C293902AC54652B57A11C3B38DFB221EE96DF9674FA8FF4FCBEB0C60A847BEDCA7A646A6ED44DC5DD10551DACF6A4FEF&vid=1688853776721151&cst=48C4F7E7457F58734E89A1BC2453AC95A018FCBA78BC36062C839C8AC7CF5D2DCFDE253239736121F781223C630C0DD3&deviceid=493ea59a-4e46-4630-a5c6-cb409f2df607&version=3.1.18.70072&platform=mac"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2025-04-23"
+    },
+    {
+      "fundCode": "004419",
+      "fundName": "汇添富美元债债券人民币A",
+      "bought": 2,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2025-07-14",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/items/18625?preview=1"
+        },
+        {
+          "date": "2024-09-09",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/12763"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2025-07-14"
+    },
+    {
+      "fundCode": "000369",
+      "fundName": "广发全球医疗保健(QDII)(人民币)A",
+      "bought": 2,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2025-07-24",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/18883"
+        },
+        {
+          "date": "2023-12-28",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/6811"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2025-07-24"
+    },
+    {
+      "fundCode": "100050",
+      "fundName": "富国全球债券(QDII)人民币A",
+      "bought": 2,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-03-03",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22279"
+        },
+        {
+          "date": "2024-10-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/13945"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2026-03-03"
+    },
+    {
+      "fundCode": "006327",
+      "fundName": "易方达中证海外联接人民币A",
+      "bought": 2,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-03-06",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22369"
+        },
+        {
+          "date": "2021-09-27",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/Co06iEW7CVewD4duhnfjYQ"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2026-03-06"
+    },
+    {
+      "fundCode": "110022",
+      "fundName": "易方达消费行业",
+      "bought": 3,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2026-03-24",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22597"
+        },
+        {
+          "date": "2025-09-19",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/20017"
+        },
+        {
+          "date": "2023-01-06",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2801"
+        },
+        {
+          "date": "2022-05-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/items/1850"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2026-03-24"
+    },
+    {
+      "fundCode": "021550",
+      "fundName": "博时中证红利低波动100ETF联接A",
+      "bought": 2,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-04-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22957"
+        },
+        {
+          "date": "2025-12-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21295"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2026-04-15"
+    },
+    {
+      "fundCode": "110027",
+      "fundName": "易方达安心债券A",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2019-12-02",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653409270&idx=1&sn=4afccf683c0fea4a9fb1d36f87401565&chksm=8d226d19ba55e40f2d4e4e20f69f8c83f5e7e292f8e5ed2dd0482266c0ce82d17ad0e4e93abf&mpshare=1&scene=1&srcid=&sharer_sharetime=1575259392409&sharer_shareid=ff03485fb1b9157a8502443815041e61&rd2werd=1#wechat_redirect"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2019-12-02"
+    },
+    {
+      "fundCode": "003376",
+      "fundName": "广发中债7-10年国开债指数A",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2022-12-08",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2672"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2022-12-08"
+    },
+    {
+      "fundCode": "000051",
+      "fundName": "华夏沪深300ETF联接A",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2023-01-06",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2801"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2023-01-06"
+    },
+    {
+      "fundCode": "502010",
+      "fundName": "易方达中证全指证券公司指数(LOF)A",
+      "bought": 2,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2023-02-01",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2904"
+        },
+        {
+          "date": "2018-06-19",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408846&idx=1&sn=d6ed087bfa68eea0ec3bcc0c8935c179&chksm=8d226ca1ba55e5b76b72199b939fd3991124972e0f5cc971aa6a2c7d457c6dd2d531fa485868&mpshare=1&scene=1&srcid=0619aWPgAwTNepMJqXr6eixF&rd2werd=1#wechat_redirect"
+        },
+        {
+          "date": "2018-04-02",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/pxd7EDN1P5pklSnOzksq3g"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2023-02-01"
+    },
+    {
+      "fundCode": "000727",
+      "fundName": "融通健康产业灵活配置混合A",
+      "bought": 2,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2023-08-07",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3924"
+        },
+        {
+          "date": "2022-11-17",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2602"
+        },
+        {
+          "date": "2022-09-23",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/items/2371"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2023-08-07"
+    },
+    {
+      "fundCode": "019518",
+      "fundName": "富国全球债券(QDII)人民币C",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2024-10-25",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/13789"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2024-10-25"
+    },
+    {
+      "fundCode": "001469",
+      "fundName": "广发中证全指金融地产联接A",
+      "bought": 2,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2024-11-06",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/14011"
+        },
+        {
+          "date": "2020-04-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/NHrXZSceR-3xEs2A09VT0Q"
+        },
+        {
+          "date": "2020-02-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/eIkjc08htB_XgKLR3GsQJA"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2024-11-06"
+    },
+    {
+      "fundCode": "019524",
+      "fundName": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)A",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2025-04-07",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/16927"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2025-04-07"
+    },
+    {
+      "fundCode": "001051",
+      "fundName": "华夏上证50ETF联接A",
+      "bought": 2,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2025-09-01",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/19633"
+        },
+        {
+          "date": "2019-05-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/Abc5-nwdQFJoPwH1pFX3Rw"
+        },
+        {
+          "date": "2018-09-21",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/8xpujuycsExjw0PpjCsf1w"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2025-09-01"
+    },
+    {
+      "fundCode": "006484",
+      "fundName": "广发中债1-3年国开债A",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2025-09-04",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/19717"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2025-09-04"
+    },
+    {
+      "fundCode": "110020",
+      "fundName": "易方达沪深300ETF联接A",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2025-12-04",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21133"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2025-12-04"
+    },
+    {
+      "fundCode": "000248",
+      "fundName": "汇添富中证主要消费ETF联接A",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-01-07",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21493"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2026-01-07"
+    },
+    {
+      "fundCode": "161017",
+      "fundName": "富国中证500指数增强A",
+      "bought": 2,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2026-01-23",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21823"
+        },
+        {
+          "date": "2018-10-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ"
+        },
+        {
+          "date": "2018-08-01",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/b2zhpr7MUcETDg3D0VKQ1w"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2026-01-23"
+    },
+    {
+      "fundCode": "001052",
+      "fundName": "华夏中证500ETF联接A",
+      "bought": 3,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2026-01-30",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21913"
+        },
+        {
+          "date": "2023-02-27",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3034"
+        },
+        {
+          "date": "2019-11-01",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/O-qHOQJTf39l9QyBJI1oBg"
+        },
+        {
+          "date": "2018-09-14",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/rnAWZmqGAmez7PrUcJNNyg"
+        },
+        {
+          "date": "2018-05-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/vQWOgs3Ex68iVPED-0Hb1A"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2026-01-30"
+    },
+    {
+      "fundCode": "007562",
+      "fundName": "景顺长城景泰纯利债券A",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-04-10",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22897"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2026-04-10"
+    },
+    {
+      "fundCode": "000478",
+      "fundName": "建信中证500指数增强A",
+      "bought": 7,
+      "sold": 6,
+      "history": [
+        {
+          "date": "2026-04-23",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/23089"
+        },
+        {
+          "date": "2026-01-07",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21493"
+        },
+        {
+          "date": "2025-11-25",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/20971"
+        },
+        {
+          "date": "2023-02-01",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2904"
+        },
+        {
+          "date": "2022-01-10",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/GvVf7NmHp5i8vGe4tM4t8w"
+        },
+        {
+          "date": "2021-09-27",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/Co06iEW7CVewD4duhnfjYQ"
+        },
+        {
+          "date": "2020-02-04",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/1LRP6wqS60SjDlnzZ4-nXQ"
+        },
+        {
+          "date": "2019-07-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/VZwwgE92m7lASr4YCVriyg"
+        },
+        {
+          "date": "2019-06-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/yPb-oTpCfoUF5WT3I4uXdQ"
+        },
+        {
+          "date": "2018-06-14",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408837&idx=1&sn=bc364667a2b8f4dfdf7fc3253d8849af&chksm=8d226caaba55e5bcdc948915d72b74693b68c7c0690426a7e691024e03ff4ca2534f37824ac7&scene=0&key=ce969f24fc1b9f53d5d923c25a83050957aedbc12c484248e997a2db39829f6a1cd1c6d22f1292665aedc795c24ee30eb771e93ae21a3543f58304eb60c9fa95ce69b677f825167ec3954f957335f258&ascene=0&uin=MjMzNDA5ODE0MA%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G1036)&version=12010310&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=xwQcBPS4Ufls6HhU%2BnAPAAT5XGam7dAPlWoxXFsC1EOwtRrqB3t5KgkqwRCNyP7C"
+        },
+        {
+          "date": "2018-04-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408792&idx=1&sn=243af5873781e76bcae38e55c98dc9a3&chksm=8d226cf7ba55e5e1c34ed21e5b0e0d1333c91bc691f7bcd9abc54cab44c5d3b409c52c03bf81&mpshare=1&scene=1&srcid=0426nwSTTqlsdavldLvx7hI0&rd2werd=1#wechat_redirect"
+        },
+        {
+          "date": "2018-02-01",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/T-02WkWpEI-LoJkxEo4mTw"
+        },
+        {
+          "date": "2017-12-29",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408700&idx=1&sn=f05ca4a983b0ff2d353680eeea2782a5&chksm=8d226f53ba55e6450e5375c902312cca86ba75b4c5f2ff8284463a07ec53b9cf623fd41de1a3&scene=0&key=57d22f5855d672bb018ff50ed082bb2374227a527c8f6aea974d4fbf5b22544298dd3f981b8fa5e792c75d3615226d699c2ef59624d43810b23ceba93824aab982a85bd2d18bb32e77b05b2ed307e5ee&ascene=0&uin=MzYzODEyMzU0OQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=VTcYBykx%2FapKHpZC9wzIUxZ90ZvkZ16qCX9if%2FQaZlQl5lGlERLuiBdQSYHGG5mT"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2026-04-23"
+    },
+    {
+      "fundCode": "501018",
+      "fundName": "南方原油A",
+      "bought": 1,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2021-03-08",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/3PZM5PgC9guzBKoBn7q1kA"
+        },
+        {
+          "date": "2020-03-09",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": null
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2021-03-08"
+    },
+    {
+      "fundCode": "162411",
+      "fundName": "华宝标普油气上游股票人民币(LOF)A",
+      "bought": 4,
+      "sold": 4,
+      "history": [
+        {
+          "date": "2022-03-10",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/pOSDVufBGZ4YhNw8KEgMKA"
+        },
+        {
+          "date": "2021-12-07",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?scene=1&__biz=MzIwMTIzNDMwNA%3D%3D&mid=2653410426&idx=1&sn=3f2e63afdbc6fd60ecf2de9a9bfb634c&version=3.1.18.70072&platform=mac#wechat_redirect"
+        },
+        {
+          "date": "2021-06-18",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/qAWKcXHEReDSFw5xHdUznw"
+        },
+        {
+          "date": "2021-03-08",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/3PZM5PgC9guzBKoBn7q1kA"
+        },
+        {
+          "date": "2020-02-04",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/1LRP6wqS60SjDlnzZ4-nXQ"
+        },
+        {
+          "date": "2019-11-01",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/O-qHOQJTf39l9QyBJI1oBg"
+        },
+        {
+          "date": "2019-06-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/yPb-oTpCfoUF5WT3I4uXdQ"
+        },
+        {
+          "date": "2018-12-27",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/J37XMWDxhHhzLgKvy7-ilg"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2022-03-10"
+    },
+    {
+      "fundCode": "001092",
+      "fundName": "广发生物科技指数(QDII)A",
+      "bought": 1,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2022-12-20",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2727"
+        },
+        {
+          "date": "2022-07-01",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/1998"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2022-12-20"
+    },
+    {
+      "fundCode": "000614",
+      "fundName": "华安德国(DAX)ETF联接A",
+      "bought": 2,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2023-03-14",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3100"
+        },
+        {
+          "date": "2021-04-29",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/Ztn7t1E3xYCpEkL_NijP5A"
+        },
+        {
+          "date": "2020-03-13",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/imNxENhGgPTSqabUUjGuwQ"
+        },
+        {
+          "date": "2019-02-28",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/3Bs0AuY2HfTrKDS8DOrbrA"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2023-03-14"
+    },
+    {
+      "fundCode": "050025",
+      "fundName": "博时标普500ETF联接A",
+      "bought": 2,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2023-08-18",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/4008"
+        },
+        {
+          "date": "2022-10-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/items/2497"
+        },
+        {
+          "date": "2021-12-01",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/uxkJqpym95XoJ7b9Z53xmw"
+        },
+        {
+          "date": "2020-03-10",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": null
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2023-08-18"
+    },
+    {
+      "fundCode": "000216",
+      "fundName": "华安黄金ETF联接A",
+      "bought": 2,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2023-12-05",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/6211"
+        },
+        {
+          "date": "2020-03-13",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/imNxENhGgPTSqabUUjGuwQ"
+        },
+        {
+          "date": "2019-07-01",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/Jz7Cn3Z-g0WYPZP3H73ihA"
+        },
+        {
+          "date": "2019-03-28",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/8QEC5GKEfzKPJjkPWKlV7g"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2023-12-05"
+    },
+    {
+      "fundCode": "002903",
+      "fundName": "广发中证500ETF联接C",
+      "bought": 1,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2024-02-28",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/8155"
+        },
+        {
+          "date": "2024-01-22",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/7483"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2024-02-28"
+    },
+    {
+      "fundCode": "270042",
+      "fundName": "广发纳指100ETF联接人民币(QDII)A",
+      "bought": 2,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2024-04-18",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/9427"
+        },
+        {
+          "date": "2023-08-10",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3945"
+        },
+        {
+          "date": "2023-01-03",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2775"
+        },
+        {
+          "date": "2022-11-16",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2582"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2024-04-18"
+    },
+    {
+      "fundCode": "005658",
+      "fundName": "华夏沪深300ETF联接C",
+      "bought": 1,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2024-09-30",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/13285"
+        },
+        {
+          "date": "2023-10-20",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/4897"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2024-09-30"
+    },
+    {
+      "fundCode": "001552",
+      "fundName": "天弘中证证券保险A",
+      "bought": 2,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2024-11-11",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/14053"
+        },
+        {
+          "date": "2023-08-08",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/items/3929"
+        },
+        {
+          "date": "2022-08-03",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2146"
+        },
+        {
+          "date": "2021-07-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/Krcq-ICL7HBdSDIkKhCP0g"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2024-11-11"
+    },
+    {
+      "fundCode": "014424",
+      "fundName": "博时恒生医疗保健ETF发起式联接(QDII)A",
+      "bought": 3,
+      "sold": 3,
+      "history": [
+        {
+          "date": "2025-07-22",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/18823"
+        },
+        {
+          "date": "2025-04-25",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/17401"
+        },
+        {
+          "date": "2024-08-13",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/12103"
+        },
+        {
+          "date": "2023-02-27",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3034"
+        },
+        {
+          "date": "2023-02-01",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2904"
+        },
+        {
+          "date": "2022-05-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/items/1850"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2025-07-22"
+    },
+    {
+      "fundCode": "000942",
+      "fundName": "广发信息技术联接A",
+      "bought": 4,
+      "sold": 4,
+      "history": [
+        {
+          "date": "2025-08-22",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/19507"
+        },
+        {
+          "date": "2024-11-12",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/14113"
+        },
+        {
+          "date": "2023-06-20",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3673"
+        },
+        {
+          "date": "2023-03-23",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3178"
+        },
+        {
+          "date": "2022-04-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/1765"
+        },
+        {
+          "date": "2022-04-08",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/7cS0CkJVxMAy-Yhd-UVIkw?st=289FED6E4C4F1FC6FEE1E5B2773D50BDE6FC573E6510CC1E396E26F622B713286143DEAA35887B22FA6B2AFC809BE2DC4F23D02410C0D71465E17F819182E9D971A8600039D9927865446155BAA2B1E73DEC8EF38591F2E0F82EC11388984255AD6764109DD06C2F7EC2EB1B066466ACCCB0A466E659E3E54EE374B93FDB0A896C5E25D8CC622A1A5CCC3F571176CDF2D865161C38AD46697F2D9D389CBE9A2139FEB8A469595220A44DD47F5135698E8596975E39D2E2FB73C1F46A2D88F06E2329E8AFC73C7CFC04E347F7BA180F86&vid=1688853776605235&cst=86B1C48D4B7C97DC1386589C73D9AC2894CE1EC56C4EE37909D17040E22321ECBF15431D19212C1CCB9ADA4E26CB365C&deviceid=4177fffa-320a-42e4-92d4-11611e3cb9d0&version=4.0.0.90415&platform=mac"
+        },
+        {
+          "date": "2021-03-16",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/UviKln1YMJKHTmlPIOdhgQ"
+        },
+        {
+          "date": "2021-01-11",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/9tHoumt9747EOIAdg4YXLQ"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2025-08-22"
+    },
+    {
+      "fundCode": "004752",
+      "fundName": "广发中证传媒ETF联接A",
+      "bought": 5,
+      "sold": 5,
+      "history": [
+        {
+          "date": "2026-01-15",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21643"
+        },
+        {
+          "date": "2023-05-31",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3496"
+        },
+        {
+          "date": "2023-04-14",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3265"
+        },
+        {
+          "date": "2023-03-20",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3150"
+        },
+        {
+          "date": "2021-08-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/7OcNSC77GFYnXOhXk7iNHA"
+        },
+        {
+          "date": "2021-04-29",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/Ztn7t1E3xYCpEkL_NijP5A"
+        },
+        {
+          "date": "2020-03-09",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": null
+        },
+        {
+          "date": "2019-04-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653409129&idx=1&sn=a16650576cca27da96476e718fa5247d&chksm=8d226d86ba55e49022937e9c97da7d9162edb7670c5907ddcbeeef5dcb01bacf9888b538c8cb&mpshare=1&scene=1&srcid=&rd2werd=1#wechat_redirect"
+        },
+        {
+          "date": "2018-11-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w"
+        },
+        {
+          "date": "2018-07-16",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/xCV34rb_cV0_CYHLX8JjLg"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2026-01-15"
+    },
+    {
+      "fundCode": "003765",
+      "fundName": "广发创业板ETF联接A",
+      "bought": 4,
+      "sold": 4,
+      "history": [
+        {
+          "date": "2026-02-04",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22045"
+        },
+        {
+          "date": "2025-09-19",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/20017"
+        },
+        {
+          "date": "2025-07-29",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/18967"
+        },
+        {
+          "date": "2024-01-10",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/7057"
+        },
+        {
+          "date": "2023-03-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3204"
+        },
+        {
+          "date": "2022-11-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2649"
+        },
+        {
+          "date": "2020-03-09",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": null
+        },
+        {
+          "date": "2018-09-28",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/gaOkrA_oICuQU-LfcIXVxA"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2026-02-04"
+    },
+    {
+      "fundCode": "001064",
+      "fundName": "广发中证环保ETF联接A",
+      "bought": 4,
+      "sold": 4,
+      "history": [
+        {
+          "date": "2026-03-24",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22597"
+        },
+        {
+          "date": "2023-12-12",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/6361"
+        },
+        {
+          "date": "2021-12-17",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/fjdbfFQxWlGVTiVA1Wo6pw?st=8C18F682219145EB1FB12DD9074CE08141385D5852F5DA5CB42C03B83D5C50DDB750DD70A1D466BB89700794E65F4B356A3155003D8D4AEA600131D448279C10BCDCF514975F58EACB5B09D2CD512CAD5FDB49088F8A199587CCC53BF3EB5585738F81183DD837258EDEF846A642BCC960A4B1FD05697247F8387288D1121D958F8173D419281AF6D1F597FCBA2E54F1480D7F10FF064CA9C8C0AF29A20C4164C836CA2E0D399600BC9966AE29A0794154CDC213424521867B4AC93DC8900531B760AD5E63F19D5D7DC2F95E6F7B0B1A&vid=1688853776605235&cst=56B2FC93D7D9F16D06136561413C7EF4704200467C3D69B6B21AE7EDA8EC55A427F5CF0F0C5373009BFBC478A3FCF4B1&deviceid=4177fffa-320a-42e4-92d4-11611e3cb9d0&version=3.1.20.90367&platform=mac"
+        },
+        {
+          "date": "2021-07-20",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/6BJRiYnyltYRCTGLKrbFtg"
+        },
+        {
+          "date": "2021-01-11",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/9tHoumt9747EOIAdg4YXLQ"
+        },
+        {
+          "date": "2018-10-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/4anBh_dyZvM6zm6WfsH6LA"
+        },
+        {
+          "date": "2018-06-28",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/_Sdqubfem4lHJqqA6Jo61g"
+        },
+        {
+          "date": "2018-04-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408792&idx=1&sn=243af5873781e76bcae38e55c98dc9a3&chksm=8d226cf7ba55e5e1c34ed21e5b0e0d1333c91bc691f7bcd9abc54cab44c5d3b409c52c03bf81&mpshare=1&scene=1&srcid=0426nwSTTqlsdavldLvx7hI0&rd2werd=1#wechat_redirect"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2026-03-24"
+    }
+  ]
+}
