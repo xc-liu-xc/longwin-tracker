@@ -399,6 +399,114 @@
     }
     .error { color: #ff4d4f; }
 
+    /* ── Strategy tab ── */
+    .st-philo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 10px; }
+    .st-philo { padding: 12px; background: linear-gradient(135deg, #f0f7ff 0%, #fafafa 100%); border-radius: 6px; border-left: 3px solid #1677ff; }
+    .st-philo-title { font-weight: 600; font-size: 14px; color: #1677ff; margin-bottom: 4px; }
+    .st-philo-desc { font-size: 12px; color: #555; line-height: 1.5; }
+    .st-pred { padding: 12px; border: 1px solid #f0f0f0; border-radius: 8px; margin-bottom: 8px; cursor: pointer; transition: box-shadow 0.15s; }
+    .st-pred:hover { box-shadow: 0 2px 6px rgba(0,0,0,0.08); }
+    .st-pred-row { display: flex; align-items: center; gap: 12px; }
+    .st-pred-fund { flex: 1; min-width: 0; }
+    .st-pred-name { font-weight: 600; font-size: 14px; color: #222; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .st-pred-meta { font-size: 12px; color: #888; margin-top: 2px; }
+    .st-cat { display: inline-block; padding: 1px 6px; background: #f5f5f5; border-radius: 3px; color: #666; font-size: 11px; }
+    .st-pred-ret { font-weight: 700; font-size: 16px; min-width: 60px; text-align: right; }
+    .st-pred-signal { font-size: 12px; font-weight: 600; padding: 4px 10px; border-radius: 4px; min-width: 32px; text-align: center; }
+    .st-pred-rule { display: flex; align-items: center; gap: 8px; margin-top: 8px; padding-left: 4px; }
+    .st-pred-rulename { font-size: 12px; color: #555; flex: 1; }
+    .st-conf { width: 80px; height: 6px; background: #f0f0f0; border-radius: 3px; overflow: hidden; }
+    .st-conf-bar { height: 100%; transition: width 0.3s; }
+    .st-conf-num { font-size: 11px; color: #888; min-width: 32px; text-align: right; }
+    .st-pred-threshold { margin-top: 8px; padding: 6px 10px; background: #fffbe6; border-radius: 4px; font-size: 12px; color: #8c6900; border-left: 2px solid #ffd666; }
+    .st-pred-detail { margin-top: 10px; padding: 10px; background: #fafafa; border-radius: 4px; font-size: 12px; }
+    .st-pred-desc { color: #444; line-height: 1.6; }
+    .st-pred-source { color: #888; margin-top: 6px; font-size: 11px; }
+    .st-pred-allsig { margin-top: 8px; padding-top: 8px; border-top: 1px solid #eee; color: #666; font-size: 11px; }
+    .st-other-sig { padding: 2px 0; color: #888; }
+    .st-rules-section { margin-bottom: 16px; }
+    .st-rules-section h4 { margin: 0 0 8px 0; font-size: 14px; color: #444; }
+    .st-rule { padding: 8px 0; border-bottom: 1px solid #f5f5f5; }
+    .st-rule:last-child { border-bottom: none; }
+    .st-rule-name { font-weight: 600; font-size: 13px; color: #333; }
+    .st-rule-desc { font-size: 12px; color: #666; margin: 4px 0; line-height: 1.5; }
+    .st-rule-src { font-size: 11px; color: #999; }
+
+    /* ── Analysis tab ── */
+    .an-kpi-row { display: flex; gap: 16px; flex-wrap: wrap; }
+    .an-kpi { flex: 1; min-width: 120px; background: #fafafa; border: 1px solid #f0f0f0; border-radius: 8px; padding: 16px; text-align: center; }
+    .an-kpi-val { font-size: 28px; font-weight: 700; color: #1677ff; }
+    .an-kpi-label { font-size: 13px; color: #666; margin-top: 4px; }
+    .an-kpi-sub { font-size: 11px; color: #aaa; margin-top: 2px; }
+    .an-dist { display: flex; flex-direction: column; gap: 8px; }
+    .an-bar-row { display: flex; align-items: center; gap: 8px; }
+    .an-bar-label { width: 56px; font-size: 12px; color: #666; text-align: right; flex-shrink: 0; }
+    .an-bar-track { flex: 1; height: 20px; background: #f5f5f5; border-radius: 4px; overflow: hidden; }
+    .an-bar-fill { height: 100%; border-radius: 4px; transition: width 0.4s; }
+    .an-bar-cnt { width: 28px; font-size: 12px; color: #666; flex-shrink: 0; }
+    .an-table-wrap { overflow-x: auto; }
+    .an-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    .an-table th { background: #fafafa; padding: 8px 10px; border-bottom: 1px solid #f0f0f0; font-weight: 600; text-align: left; white-space: nowrap; }
+    .an-table td { padding: 7px 10px; border-bottom: 1px solid #f7f7f7; }
+    .an-table tr:last-child td { border-bottom: none; }
+    .an-cat { color: #888; font-size: 12px; }
+    .an-activity { display: flex; align-items: flex-end; gap: 3px; height: 56px; padding: 4px 0; overflow-x: auto; }
+    .an-act-bar { display: flex; flex-direction: column; align-items: center; gap: 1px; flex-shrink: 0; }
+    .an-act-buy  { width: 8px; background: #1677ff; border-radius: 2px 2px 0 0; min-height: 1px; }
+    .an-act-sell { width: 8px; background: #ff7a00; border-radius: 2px 2px 0 0; min-height: 1px; }
+    .an-act-legend { display: flex; gap: 16px; font-size: 12px; color: #888; margin-top: 8px; }
+    .an-leg-buy::before  { content: ''; display: inline-block; width: 10px; height: 10px; background: #1677ff; border-radius: 2px; margin-right: 4px; vertical-align: middle; }
+    .an-leg-sell::before { content: ''; display: inline-block; width: 10px; height: 10px; background: #ff7a00; border-radius: 2px; margin-right: 4px; vertical-align: middle; }
+
+    /* ── Allocation: composition (图1) ── */
+    .ac-bar { display: flex; height: 14px; border-radius: 7px; overflow: hidden; background: #f0f0f0; margin: 8px 0 4px; border: 1px dashed #d9d9d9; }
+    .ac-seg { height: 100%; transition: width 0.3s; }
+    .ac-legend { display: flex; flex-wrap: wrap; gap: 12px; font-size: 11px; color: #888; margin-bottom: 12px; }
+    .ac-leg-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
+    .ac-cls-block { margin-bottom: 14px; }
+    .ac-cls-head { display: flex; align-items: center; gap: 8px; padding: 8px 10px; background: #fafafa; border-radius: 4px; font-size: 13px; color: #333; }
+    .ac-cls-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+    .ac-cls-name { font-weight: 600; }
+    .ac-cls-meta { color: #666; font-size: 12px; }
+    .ac-cls-ret { margin-left: auto; font-weight: 600; }
+    .ac-fund-row { display: flex; align-items: center; padding: 8px 12px; border-bottom: 1px solid #f5f5f5; font-size: 13px; }
+    .ac-fund-row:last-child { border-bottom: none; }
+    .ac-fund-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .ac-fund-name .ac-trade-date { color: #aaa; font-size: 11px; margin-left: 6px; }
+    .ac-fund-cleared { color: #bbb; font-size: 11px; margin-left: 6px; padding: 1px 6px; background: #f5f5f5; border-radius: 3px; }
+    .ac-fund-units { width: 60px; text-align: right; color: #666; }
+    .ac-fund-share { width: 70px; text-align: right; color: #666; }
+    .ac-fund-ret { width: 80px; text-align: right; font-weight: 600; }
+
+    /* ── Allocation: trend chart (图2) ── */
+    .ac-trend { width: 100%; height: 360px; }
+
+    /* ── Allocation: sunburst (图3) ── */
+    .ac-sunburst { width: 100%; height: 560px; }
+
+    /* ── Allocation: return bar list (图4) ── */
+    .ac-rb-row { display: flex; align-items: center; gap: 8px; padding: 2px 0; font-size: 12px; }
+    .ac-rb-name { width: 200px; text-align: right; color: #444; flex-shrink: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .ac-rb-track { flex: 1; height: 16px; position: relative; }
+    .ac-rb-axis { position: absolute; top: 0; bottom: 0; width: 1px; background: #d9d9d9; }
+    .ac-rb-bar { position: absolute; height: 12px; top: 2px; border-radius: 2px; }
+    .ac-rb-bar-pos { background: #ffd1d1; }
+    .ac-rb-bar-neg { background: #b7eee0; }
+    .ac-rb-val-pos { color: #ff4d4f; font-weight: 600; }
+    .ac-rb-val-neg { color: #52c41a; font-weight: 600; }
+    .ac-rb-val { position: absolute; top: 0; line-height: 16px; font-size: 11px; padding: 0 4px; }
+
+    /* ── Allocation: monthly returns (图5) ── */
+    .ac-mr-year { margin-bottom: 14px; padding: 8px 6px 4px; background: #fff; border-radius: 4px; position: relative; }
+    .ac-mr-year-label { position: absolute; right: 8px; bottom: 6px; padding: 2px 8px; background: #eef3ff; color: #5b8def; font-size: 11px; border-radius: 2px; font-weight: 600; }
+    .ac-mr-chart { width: 100%; height: 90px; }
+
+    /* Plan selector */
+    .plan-bar { display: flex; gap: 8px; padding: 10px 16px 0; max-width: 900px; margin: 0 auto; align-items: center; }
+    .plan-bar-label { font-size: 12px; color: #888; }
+    .plan-btn { padding: 4px 12px; font-size: 12px; border: 1px solid #d9d9d9; background: white; cursor: pointer; border-radius: 4px; color: #666; }
+    .plan-btn.active { background: #1677ff; color: white; border-color: #1677ff; }
+
     @media (max-width: 600px) {
       body { padding: 8px; }
       .info-grid { grid-template-columns: 1fr 1fr; }
@@ -415,10 +523,19 @@
 <div class="tab-bar">
   <button class="tab-btn active" data-tab="signals" onclick="switchTab('signals')">信号追踪</button>
   <button class="tab-btn" data-tab="posts" onclick="switchTab('posts')">E大文章</button>
+  <button class="tab-btn" data-tab="strategy" onclick="switchTab('strategy')">策略预测</button>
+  <button class="tab-btn" data-tab="analysis" onclick="switchTab('analysis')">策略分析</button>
+</div>
+<div class="plan-bar" id="planBar">
+  <span class="plan-bar-label">计划:</span>
+  <button class="plan-btn active" data-plan="150" onclick="switchPlan('150')">150份计划</button>
+  <button class="plan-btn" data-plan="s" onclick="switchPlan('s')">S计划</button>
 </div>
 
 <div id="tab-signals"><div class="loading">加载中...</div></div>
 <div id="tab-posts" style="display:none"><div class="loading">加载中...</div></div>
+<div id="tab-strategy" style="display:none"><div class="loading">加载中...</div></div>
+<div id="tab-analysis" style="display:none"><div class="loading">加载中...</div></div>
 
 <div class="modal-overlay" id="chartModal">
   <div class="modal">
@@ -436,20 +553,34 @@
 </div>
 
 <script>
-const DATA_URL         = "./data.json";
 const CONTENT_URL      = "./content.json";
 const POSTS_INDEX_URL  = "./posts-index.json";
 const POSTS_CONTENT    = "./posts/";
 const NAV_BASE         = "./nav/";
 
+const PLAN_FILES = {
+  "150": { data: "./data.json",   analysis: "./analysis.json",   strategy: "./strategy.json"   },
+  "s":   { data: "./data_s.json", analysis: "./analysis_s.json", strategy: "./strategy_s.json" },
+};
+
 const PAGE_SIZE = 50;
 
-let _appData      = null;
 let _contentMap   = {};
 let _postsIndex   = [];   // full index array
 let _contentCache = {};   // id → content object (lazy loaded)
 let _postsPage    = 0;
 let _chart        = null;
+
+// Plan-scoped data (loaded per plan, cached)
+let _currentPlan  = "150";
+let _planCache    = {}; // { "150": { data, analysis, strategy }, "s": {...} }
+// Aliases pointing to current plan's data:
+let _appData      = null;
+let _analysis     = null;
+let _strategy     = null;
+let _allocation   = null;
+let _allocationAll = null; // shared (loaded once, contains both plans)
+let _trendChart   = null;
 
 function extractItemId(url) {
   if (!url) return null;
@@ -470,35 +601,118 @@ function switchTab(name) {
   document.querySelectorAll(".tab-btn").forEach(function(b) {
     b.classList.toggle("active", b.getAttribute("data-tab") === name);
   });
-  document.getElementById("tab-signals").style.display = name === "signals" ? "block" : "none";
-  document.getElementById("tab-posts").style.display   = name === "posts"   ? "block" : "none";
+  document.getElementById("tab-signals").style.display  = name === "signals"  ? "block" : "none";
+  document.getElementById("tab-posts").style.display    = name === "posts"    ? "block" : "none";
+  document.getElementById("tab-strategy").style.display = name === "strategy" ? "block" : "none";
+  document.getElementById("tab-analysis").style.display = name === "analysis" ? "block" : "none";
+  // Plan bar only relevant when viewing plan-scoped tabs
+  document.getElementById("planBar").style.display = name === "posts" ? "none" : "flex";
+
+  // Charts inside hidden tabs are initialized at 0 width — resize on show
+  if (name === "analysis") resizeAnalysisCharts();
+}
+
+function resizeAnalysisCharts() {
+  // requestAnimationFrame ensures the layout has been computed after display change
+  requestAnimationFrame(function() {
+    ['acSunburst', 'acTrendChart'].forEach(function(id) {
+      const el = document.getElementById(id);
+      if (el && el._chart) el._chart.resize();
+    });
+    document.querySelectorAll('[id^="acMr_"]').forEach(function(el) {
+      if (el._chart) el._chart.resize();
+    });
+  });
+}
+
+/* ── Plan switching ── */
+async function loadPlan(plan) {
+  if (_planCache[plan]) return _planCache[plan];
+  const files = PLAN_FILES[plan];
+  if (!files) throw new Error("Unknown plan: " + plan);
+
+  const [dataRes, anaRes, stratRes] = await Promise.all([
+    fetch(files.data),
+    fetch(files.analysis).catch(function() { return null; }),
+    fetch(files.strategy).catch(function() { return null; }),
+  ]);
+  if (!dataRes.ok) throw new Error("HTTP " + dataRes.status + " for " + files.data);
+
+  const cached = { data: await dataRes.json(), analysis: null, strategy: null };
+  if (anaRes && anaRes.ok)     cached.analysis = await anaRes.json();
+  if (stratRes && stratRes.ok) cached.strategy = await stratRes.json();
+  _planCache[plan] = cached;
+  return cached;
+}
+
+async function loadAllocation() {
+  if (_allocationAll) return _allocationAll;
+  try {
+    const r = await fetch("./allocation.json");
+    if (!r.ok) return null;
+    _allocationAll = await r.json();
+    return _allocationAll;
+  } catch (e) {
+    return null;
+  }
+}
+
+async function switchPlan(plan) {
+  if (plan === _currentPlan && _appData) return;
+  document.querySelectorAll(".plan-btn").forEach(function(b) {
+    b.classList.toggle("active", b.getAttribute("data-plan") === plan);
+  });
+
+  // Show loading state
+  document.getElementById("tab-signals").innerHTML  = '<div class="loading">切换到 ' + plan + ' 计划...</div>';
+  document.getElementById("tab-strategy").innerHTML = '<div class="loading">切换中...</div>';
+  document.getElementById("tab-analysis").innerHTML = '<div class="loading">切换中...</div>';
+
+  try {
+    const c = await loadPlan(plan);
+    _currentPlan = plan;
+    _appData  = c.data;
+    _analysis = c.analysis;
+    _strategy = c.strategy;
+    _allocation = _allocationAll && _allocationAll.plans && _allocationAll.plans[plan] || null;
+    renderAllForCurrentPlan();
+  } catch (e) {
+    document.getElementById("tab-signals").innerHTML = '<div class="error">' + plan + ' 计划加载失败：' + e.message + '</div>';
+  }
+}
+
+function renderAllForCurrentPlan() {
+  const sigTab = document.getElementById("tab-signals");
+  sigTab.innerHTML = renderSignals(_appData);
+  sigTab.querySelectorAll(".tl-article-title[data-title]").forEach(function(el) {
+    el.textContent = el.getAttribute("data-title");
+  });
+  const first = sigTab.querySelector(".holding-item");
+  if (first) first.classList.add("open");
+
+  renderStrategyTab();
+  renderAnalysisTab();
 }
 
 /* ── Init ── */
 async function init() {
   try {
-    const [dataRes, contentRes, indexRes] = await Promise.all([
-      fetch(DATA_URL),
+    // Posts/content are global (not plan-scoped)
+    const [contentRes, indexRes] = await Promise.all([
       fetch(CONTENT_URL).catch(function() { return null; }),
       fetch(POSTS_INDEX_URL).catch(function() { return null; }),
     ]);
-
-    if (!dataRes.ok) throw new Error("HTTP " + dataRes.status);
-    _appData = await dataRes.json();
-
     if (contentRes && contentRes.ok) _contentMap = await contentRes.json();
     if (indexRes && indexRes.ok)     _postsIndex = await indexRes.json();
 
-    // Signals tab
-    const sigTab = document.getElementById("tab-signals");
-    sigTab.innerHTML = renderSignals(_appData);
-    sigTab.querySelectorAll(".tl-article-title[data-title]").forEach(function(el) {
-      el.textContent = el.getAttribute("data-title");
-    });
-    const first = sigTab.querySelector(".holding-item");
-    if (first) first.classList.add("open");
+    // Load default plan (150) and allocation in parallel
+    const [c, alloc] = await Promise.all([loadPlan(_currentPlan), loadAllocation()]);
+    _appData  = c.data;
+    _analysis = c.analysis;
+    _strategy = c.strategy;
+    _allocation = alloc && alloc.plans && alloc.plans[_currentPlan] || null;
 
-    // Posts tab
+    renderAllForCurrentPlan();
     renderPostsTab();
 
   } catch (e) {
@@ -738,6 +952,735 @@ async function openChart(fundCode, fundName) {
   } catch (e) {
     container.innerHTML = '<div class="chart-loading" style="color:#ff4d4f">净值数据加载失败：' + e.message + "</div>";
   }
+}
+
+/* ── Strategy tab ── */
+const SIGNAL_LABELS = {
+  sell: { label: "卖出", color: "#ff4d4f", bg: "#fff1f0" },
+  buy:  { label: "买入", color: "#52c41a", bg: "#f6ffed" },
+  hold: { label: "持有", color: "#8c8c8c", bg: "#fafafa" },
+};
+
+const CATEGORY_LABELS = {
+  broad_index: "宽基指数",
+  dividend:    "红利",
+  sector:      "行业",
+  bond:        "债券固收",
+  overseas:    "海外",
+  convertible: "可转债",
+  unknown:     "其他",
+};
+
+function renderStrategyTab() {
+  const el = document.getElementById("tab-strategy");
+  if (!_strategy) {
+    el.innerHTML = '<div class="error">策略数据未找到</div>';
+    return;
+  }
+  const fw = _strategy.framework;
+  const preds = _strategy.predictions || [];
+
+  /* Philosophy cards */
+  const philoHtml = '<div class="card"><div class="card-title">投资哲学（提取自 350+ 篇历史文章）</div>'
+    + '<div class="st-philo-grid">'
+    + fw.philosophy.map(function(p) {
+        return '<div class="st-philo">'
+          + '<div class="st-philo-title">' + escHtml(p.title) + '</div>'
+          + '<div class="st-philo-desc">' + escHtml(p.desc) + '</div>'
+          + '</div>';
+      }).join('')
+    + '</div></div>';
+
+  /* Predictions grouped by action */
+  const sells = preds.filter(function(p) { return p.primary_signal.action === "sell"; });
+  const buys  = preds.filter(function(p) { return p.primary_signal.action === "buy"; });
+  const holds = preds.filter(function(p) { return p.primary_signal.action === "hold"; });
+
+  function predRow(p) {
+    const sig = p.primary_signal;
+    const meta = SIGNAL_LABELS[sig.action] || SIGNAL_LABELS.hold;
+    const conf = sig.confidence || 0;
+    const confBar = '<div class="st-conf"><div class="st-conf-bar" style="width:'
+      + Math.round(conf * 100) + '%;background:' + meta.color + '"></div></div>';
+    const ret = p.return_pct;
+    const retColor = ret >= 0 ? '#52c41a' : '#ff4d4f';
+    const cat = CATEGORY_LABELS[p.category] || p.category;
+    const nt = p.next_threshold || {};
+
+    return '<div class="st-pred" onclick="togglePredDetail(\'' + p.code + '\')">'
+      + '<div class="st-pred-row">'
+        + '<div class="st-pred-fund">'
+          + '<div class="st-pred-name">' + escHtml(p.fund) + '</div>'
+          + '<div class="st-pred-meta">'
+            + '<span class="st-cat">' + escHtml(cat) + '</span>'
+            + ' · ' + p.units + ' 份'
+            + ' · 持有 ' + (p.hold_days ? Math.round(p.hold_days/365*10)/10 + ' 年' : '-')
+          + '</div>'
+        + '</div>'
+        + '<div class="st-pred-ret" style="color:' + retColor + '">'
+          + (ret >= 0 ? '+' : '') + ret.toFixed(1) + '%'
+        + '</div>'
+        + '<div class="st-pred-signal" style="background:' + meta.bg + ';color:' + meta.color + '">'
+          + meta.label
+        + '</div>'
+      + '</div>'
+      + '<div class="st-pred-rule">'
+        + '<div class="st-pred-rulename">' + escHtml(sig.rule_name) + '</div>'
+        + confBar
+        + '<div class="st-conf-num">' + Math.round(conf * 100) + '%</div>'
+      + '</div>'
+      + (nt.description
+          ? '<div class="st-pred-threshold">📍 ' + escHtml(nt.description) + '</div>'
+          : '')
+      + '<div id="pred-' + p.code + '" class="st-pred-detail" style="display:none">'
+        + '<div class="st-pred-desc">' + escHtml(sig.description) + '</div>'
+        + (sig.source ? '<div class="st-pred-source">📖 依据：' + escHtml(sig.source) + '</div>' : '')
+        + (p.all_signals && p.all_signals.length > 1
+            ? '<div class="st-pred-allsig"><b>其他匹配规则：</b>'
+              + p.all_signals.slice(1).map(function(s) {
+                  return '<div class="st-other-sig">' + escHtml(s.rule_name)
+                       + ' (' + Math.round((s.confidence||0)*100) + '%)</div>';
+                }).join('')
+              + '</div>'
+            : '')
+      + '</div>'
+    + '</div>';
+  }
+
+  function group(title, items, color) {
+    if (items.length === 0) return '';
+    return '<div class="card">'
+      + '<div class="card-title" style="color:' + color + '">' + title + '（' + items.length + '）</div>'
+      + items.map(predRow).join('')
+      + '</div>';
+  }
+
+  const predHtml =
+      group('🔴 卖出信号', sells, '#ff4d4f')
+    + group('🟢 买入信号', buys, '#52c41a')
+    + group('⚪ 继续持有', holds, '#8c8c8c');
+
+  /* Rule book */
+  const ruleHtml = '<div class="card"><div class="card-title">完整规则库</div>'
+    + '<div class="st-rules-section"><h4>卖出规则</h4>'
+    + fw.sell_rules.map(function(r) {
+        return '<div class="st-rule">'
+          + '<div class="st-rule-name">[' + r.id + '] ' + escHtml(r.name) + '</div>'
+          + '<div class="st-rule-desc">' + escHtml(r.description) + '</div>'
+          + '<div class="st-rule-src">📖 ' + escHtml(r.source) + '</div>'
+          + '</div>';
+      }).join('')
+    + '</div>'
+    + '<div class="st-rules-section"><h4>买入规则</h4>'
+    + fw.buy_rules.map(function(r) {
+        return '<div class="st-rule">'
+          + '<div class="st-rule-name">[' + r.id + '] ' + escHtml(r.name) + '</div>'
+          + '<div class="st-rule-desc">' + escHtml(r.description) + '</div>'
+          + '<div class="st-rule-src">📖 ' + escHtml(r.source) + '</div>'
+          + '</div>';
+      }).join('')
+    + '</div>'
+    + '</div>';
+
+  el.innerHTML = '<div style="max-width:900px;margin:0 auto;padding:16px">'
+    + '<div style="color:#999;font-size:12px;text-align:right;margin-bottom:8px">规则引擎更新于 ' + (_strategy.updatedAt || '').slice(0, 10) + '</div>'
+    + philoHtml
+    + '<div class="card" style="background:#fffbe6;border:1px solid #ffe58f"><div style="font-size:13px;color:#8c6900">⚠️ <b>免责说明：</b>本预测仅基于规则引擎对历史文章的解析，不代表E大实际操作。E大决策综合估值、技术面、宏观判断，规则引擎只能给出概率提示。</div></div>'
+    + predHtml
+    + ruleHtml
+    + '</div>';
+}
+
+function togglePredDetail(code) {
+  const el = document.getElementById('pred-' + code);
+  if (!el) return;
+  el.style.display = el.style.display === 'none' ? 'block' : 'none';
+}
+
+/* ── Analysis tab ── */
+/* ── Allocation: 资产成分 (图1) ── */
+function renderAllocationComposition() {
+  if (!_allocation || !_allocation.current) return '';
+  const cur = _allocation.current;
+  const cats = (cur.by_category || []).filter(function(c) {
+    // Show classes that have either current units OR cleared funds (累计收益参考)
+    return c.units > 0 || (c.funds && c.funds.length > 0);
+  });
+
+  // Stacked bar (only segments with units > 0)
+  const segs = cats.filter(function(c) { return c.share_pct > 0; });
+  const totalShown = segs.reduce(function(a, c) { return a + c.share_pct; }, 0);
+  const barHtml = '<div class="ac-bar">'
+    + segs.map(function(c) {
+        return '<div class="ac-seg" title="' + escHtml(c.label + ' ' + c.share_pct.toFixed(2) + '%') + '"'
+          + ' style="width:' + c.share_pct + '%;background:' + c.color + '"></div>';
+      }).join('')
+    + '</div>'
+    + '<div class="ac-legend">'
+    + segs.map(function(c) {
+        return '<span><span class="ac-leg-dot" style="background:' + c.color + '"></span>'
+          + escHtml(c.label) + ' ' + c.share_pct.toFixed(2) + '%</span>';
+      }).join('')
+    + '</div>';
+
+  // Per-class blocks
+  const blocks = cats.filter(function(c) { return c.class !== "cash"; }).map(function(c) {
+    const retStr = c.return_pct === null || c.return_pct === undefined
+      ? '-'
+      : (c.return_pct >= 0 ? '+' : '') + c.return_pct.toFixed(2) + '%';
+    const retColor = c.return_pct === null || c.return_pct === undefined
+      ? '#999'
+      : c.return_pct >= 0 ? '#ff4d4f' : '#52c41a';
+    const head = '<div class="ac-cls-head">'
+      + '<span class="ac-cls-dot" style="background:' + c.color + '"></span>'
+      + '<span class="ac-cls-name">' + escHtml(c.label) + '</span>'
+      + '<span class="ac-cls-meta">'
+        + (c.units > 0 ? ' 共' + c.units + '份' : ' 已清仓')
+        + ' · 占比 ' + c.share_pct.toFixed(2) + '%'
+      + '</span>'
+      + '<span class="ac-cls-ret" style="color:' + retColor + '">累计 ' + retStr + '</span>'
+      + '</div>';
+
+    const fundRows = (c.funds || []).map(function(f) {
+      const fr = f.return_pct;
+      const frStr = fr === null || fr === undefined ? '-'
+        : (fr >= 0 ? '+' : '') + fr.toFixed(2) + '%';
+      const frColor = fr === null || fr === undefined ? '#999'
+        : fr >= 0 ? '#ff4d4f' : '#52c41a';
+      const dateLabel = f.last_trade ? f.last_trade.slice(5) : '';
+      return '<div class="ac-fund-row">'
+        + '<div class="ac-fund-name">' + escHtml(f.name)
+          + (f.status === 'cleared'
+              ? '<span class="ac-fund-cleared">已清仓</span>'
+              : '<span class="ac-trade-date">' + escHtml(dateLabel) + '</span>')
+        + '</div>'
+        + '<div class="ac-fund-units">' + (f.status === 'cleared' ? '-' : f.units + '份') + '</div>'
+        + '<div class="ac-fund-share">' + (f.status === 'cleared' ? '-' : f.share_pct.toFixed(2) + '%') + '</div>'
+        + '<div class="ac-fund-ret" style="color:' + frColor + '">' + frStr + '</div>'
+        + '</div>';
+    }).join('');
+
+    return '<div class="ac-cls-block">' + head + fundRows + '</div>';
+  }).join('');
+
+  return '<div class="card"><div class="card-title">资产成分</div>'
+    + '<div style="font-size:12px;color:#999;margin-bottom:6px">'
+    + '已投 ' + cur.invested_unit + '/' + cur.total_unit + '份  ·  现金 ' + cur.cash_unit + '份'
+    + '</div>'
+    + barHtml + blocks
+    + '<div style="font-size:11px;color:#aaa;margin-top:8px">* 占比 = 该资产当前估值 / 组合总估值（含未投份额）。算法基于 adj_nav，与且慢官方略有偏差。</div>'
+    + '</div>';
+}
+
+/* ── Allocation: 资产分布趋势 (图2) ── */
+function renderAllocationTrend() {
+  if (!_allocation || !_allocation.timeseries || !_allocation.timeseries.length) return '';
+  return '<div class="card"><div class="card-title">资产分布</div>'
+    + '<div id="acTrendChart" class="ac-trend"></div>'
+    + '</div>';
+}
+
+function initAllocationTrendChart() {
+  if (!_allocation || !_allocation.timeseries || !_allocation.timeseries.length) return;
+  const container = document.getElementById('acTrendChart');
+  if (!container) return;
+  if (_trendChart) { _trendChart.dispose(); _trendChart = null; }
+  _trendChart = echarts.init(container);
+  container._chart = _trendChart;
+
+  const ts = _allocation.timeseries;
+  const xs = ts.map(function(r) { return r.date; });
+  const classes = (_allocationAll && _allocationAll.asset_classes) || [];
+  // Render order: cash on top so it visually fills "未投" portion
+  const renderOrder = ["a_stock","overseas_emerging","overseas_developed",
+                       "domestic_bond","overseas_bond","gold","oil","other","cash"];
+  const labelMap = {}; const colorMap = {};
+  classes.forEach(function(c) { labelMap[c.key] = c.label; colorMap[c.key] = c.color; });
+
+  const series = renderOrder.filter(function(k) {
+    return ts.some(function(r) { return (r[k] || 0) > 0.01; });
+  }).map(function(k) {
+    return {
+      name: labelMap[k] || k,
+      type: 'line',
+      stack: 'allocation',
+      smooth: true,
+      showSymbol: false,
+      areaStyle: { opacity: 0.85 },
+      lineStyle: { width: 0 },
+      itemStyle: { color: colorMap[k] },
+      data: ts.map(function(r) { return r[k] || 0; }),
+    };
+  });
+
+  _trendChart.setOption({
+    tooltip: {
+      trigger: 'axis',
+      formatter: function(params) {
+        if (!params || !params.length) return '';
+        const date = params[0].axisValue;
+        const navRow = ts.find(function(r) { return r.date === date; });
+        let html = '<div style="font-weight:600;margin-bottom:4px">' + date + '</div>';
+        if (navRow) html += '<div style="color:#666;margin-bottom:4px">组合净值 ' + navRow.nav.toFixed(4) + '</div>';
+        params.slice().reverse().forEach(function(p) {
+          if (p.value < 0.01) return;
+          html += '<div style="display:flex;justify-content:space-between;gap:14px">'
+            + '<span>' + p.marker + p.seriesName + '</span>'
+            + '<span style="color:' + p.color + '">' + p.value.toFixed(2) + '%</span>'
+            + '</div>';
+        });
+        return html;
+      },
+    },
+    legend: {
+      bottom: 0,
+      type: 'scroll',
+      textStyle: { fontSize: 11, color: '#666' },
+    },
+    grid: { left: 40, right: 16, top: 16, bottom: 50 },
+    xAxis: {
+      type: 'category',
+      data: xs,
+      axisLabel: { fontSize: 10, color: '#888' },
+      boundaryGap: false,
+    },
+    yAxis: {
+      type: 'value',
+      max: 100,
+      axisLabel: { formatter: '{value}%', fontSize: 10, color: '#888' },
+      splitLine: { lineStyle: { color: '#f0f0f0' } },
+    },
+    series: series,
+  });
+}
+
+/* ── Allocation: 旭日图 demo (图3) ── */
+// 注: 截面 hardcoded（来自且慢 2026-04-30 资产成分截图），用于 demo 视觉
+const SUNBURST_DEMO_150 = {
+  date: "2026-04-30",
+  total_unit: 150,
+  data: [
+    { name: "A股", value: 44.21, units: 72, itemStyle: { color: "#7d9ec0" }, children: [
+      { name: "行业", value: 19.19, units: 36, children: [
+        { name: "医药", value: 9.94, units: 19 },
+        { name: "消费", value: 5.10, units: 8 },
+        { name: "养老", value: 2.87, units: 7 },
+        { name: "证券", value: 0.67, units: 1 },
+        { name: "金融", value: 0.61, units: 1 },
+      ]},
+      { name: "价值", value: 9.24, units: 15, children: [
+        { name: "红利", value: 9.24, units: 15 },
+      ]},
+      { name: "大盘", value: 8.90, units: 12, children: [
+        { name: "300", value: 7.04, units: 9 },
+        { name: "50",  value: 1.86, units: 3 },
+      ]},
+      { name: "中小盘", value: 6.88, units: 9, children: [
+        { name: "500", value: 6.88, units: 9 },
+      ]},
+    ]},
+    { name: "海外新兴", value: 9.46, units: 16, itemStyle: { color: "#e8a987" }, children: [
+      { name: "海外科技", value: 4.84, units: 9, children: [
+        { name: "海外互联", value: 2.82, units: 6 },
+        { name: "恒生科技", value: 2.02, units: 3 },
+      ]},
+      { name: "香港", value: 4.62, units: 7, children: [
+        { name: "恒生", value: 4.62, units: 7 },
+      ]},
+    ]},
+    { name: "海外成熟", value: 2.56, units: 3, itemStyle: { color: "#5cb87a" }, children: [
+      { name: "全球", value: 1.42, units: 2, children: [
+        { name: "全球医疗", value: 1.42, units: 2 },
+      ]},
+      { name: "美国", value: 1.14, units: 1, children: [
+        { name: "标普500", value: 1.14, units: 1 },
+      ]},
+    ]},
+    { name: "债券", value: 11.17, units: 15, itemStyle: { color: "#5b9bd5" }, children: [
+      { name: "国内债券", value: 7.64, units: 10, children: [
+        { name: "可转债", value: 5.45, units: 7 },
+        { name: "纯债",   value: 2.19, units: 3 },
+      ]},
+      { name: "海外债券", value: 3.53, units: 5, children: [
+        { name: "美元债", value: 3.53, units: 5 },
+      ]},
+    ]},
+    { name: "货币", value: 32.60, units: 44, itemStyle: { color: "#1f4e6e" }, children: [] },
+  ],
+};
+
+function renderAllocationSunburst() {
+  return '<div class="card">'
+    + '<div class="card-title">资产成分（多层）</div>'
+    + '<div style="font-size:11px;color:#aaa;margin-bottom:6px">'
+    + '【XX】= 份数  ·  XX.XX% = 市值占比 · demo 数据来自且慢 2026-04-30'
+    + '</div>'
+    + '<div id="acSunburst" class="ac-sunburst"></div>'
+    + '</div>';
+}
+
+function initAllocationSunburst() {
+  const container = document.getElementById('acSunburst');
+  if (!container || !window.echarts) return;
+  if (container._chart) container._chart.dispose();
+  const chart = echarts.init(container);
+  container._chart = chart;
+
+  const fmtLabel = function(p) {
+    const d = p.data || {};
+    if (d.units !== undefined) return d.name + ' [' + d.units + ']\n' + d.value.toFixed(2) + '%';
+    return d.name + '\n' + (d.value || 0).toFixed(2) + '%';
+  };
+
+  chart.setOption({
+    series: [{
+      type: 'sunburst',
+      data: SUNBURST_DEMO_150.data,
+      radius: ['18%', '95%'],
+      sort: null,
+      label: {
+        rotate: 'tangential',
+        fontSize: 11,
+        color: '#fff',
+        formatter: fmtLabel,
+      },
+      levels: [
+        {},
+        { r0: '18%', r: '45%', label: { rotate: 'tangential' } },
+        { r0: '45%', r: '72%', label: { rotate: 'tangential' } },
+        { r0: '72%', r: '95%', label: { rotate: 'tangential', fontSize: 10 } },
+      ],
+      itemStyle: { borderColor: '#fff', borderWidth: 1 },
+      emphasis: { focus: 'ancestor' },
+    }],
+    title: {
+      text: '长赢 150',
+      left: 'center',
+      top: 'center',
+      textStyle: { fontSize: 18, color: '#1a3454', fontWeight: 700 },
+    },
+  });
+}
+
+/* ── Allocation: 累计收益率排序 (图4) ── */
+function flattenAllocationFunds() {
+  if (!_allocation || !_allocation.current) return [];
+  const out = [];
+  (_allocation.current.by_category || []).forEach(function(c) {
+    if (c.class === 'cash') return;
+    (c.funds || []).forEach(function(f) {
+      if (f.return_pct === null || f.return_pct === undefined) return;
+      out.push({
+        name: f.name,
+        short: shortFundName(f.name),
+        cleared: f.status === 'cleared',
+        return_pct: f.return_pct,
+        units: f.units,
+      });
+    });
+  });
+  out.sort(function(a, b) { return b.return_pct - a.return_pct; });
+  return out;
+}
+
+function shortFundName(name) {
+  // Strip common 后缀
+  return name
+    .replace(/(联接|发起式|指数|增强|混合|债券|纯利|股票|主题|灵活配置)/g, '')
+    .replace(/\([^)]*\)/g, '')
+    .replace(/[A-Z]+$/, '')
+    .replace(/\s+/g, ' ').trim();
+}
+
+function renderAllocationReturnBar() {
+  const list = flattenAllocationFunds();
+  if (!list.length) return '';
+
+  const maxAbs = Math.max.apply(null, list.map(function(x) { return Math.abs(x.return_pct); })) || 1;
+
+  const rowHtml = list.map(function(f) {
+    const r = f.return_pct;
+    const isPos = r >= 0;
+    const cls = isPos ? 'ac-rb-bar-pos' : 'ac-rb-bar-neg';
+    const valCls = isPos ? 'ac-rb-val-pos' : 'ac-rb-val-neg';
+    // axis at 50%, bar grows from middle
+    const halfWidth = Math.abs(r) / maxAbs * 50;
+    const left = isPos ? 50 : (50 - halfWidth);
+    const valStyle = isPos
+      ? 'left: calc(50% + ' + halfWidth + '% + 4px)'
+      : 'right: calc(50% + ' + halfWidth + '% + 4px)';
+    const cleared = f.cleared ? ' (已清仓)' : '';
+    return '<div class="ac-rb-row">'
+      + '<div class="ac-rb-name" title="' + escHtml(f.name) + '">'
+        + escHtml(f.short + cleared) + '</div>'
+      + '<div class="ac-rb-track">'
+        + '<div class="ac-rb-axis" style="left:50%"></div>'
+        + '<div class="ac-rb-bar ' + cls + '" style="left:' + left + '%;width:' + halfWidth + '%"></div>'
+        + '<div class="ac-rb-val ' + valCls + '" style="' + valStyle + '">'
+          + (r >= 0 ? '' : '') + r.toFixed(2) + '%</div>'
+      + '</div>'
+      + '</div>';
+  }).join('');
+
+  return '<div class="card">'
+    + '<div class="card-title">『长赢' + (_currentPlan === '150' ? '150' : 'S') + '』资产成分 累计收益率%</div>'
+    + '<div style="font-size:11px;color:#aaa;text-align:center;margin-bottom:8px">'
+    + (_allocation.updatedAt || '').slice(0, 10) + ' · ' + list.length + ' 个品种</div>'
+    + '<div style="padding:4px 0">' + rowHtml + '</div>'
+    + '</div>';
+}
+
+/* ── Allocation: 月度涨跌幅 (图5) ── */
+function computeMonthlyReturns() {
+  if (!_allocation || !_allocation.timeseries) return [];
+  const ts = _allocation.timeseries;
+  // Pick last sample of each calendar month
+  const monthLast = {}; // "YYYY-MM" -> {date, nav}
+  ts.forEach(function(r) {
+    const ym = r.date.slice(0, 7);
+    if (!monthLast[ym] || r.date > monthLast[ym].date) {
+      monthLast[ym] = { date: r.date, nav: r.nav };
+    }
+  });
+  const months = Object.keys(monthLast).sort();
+  const result = []; // {ym, year, month, ret_pct}
+  let prevNav = null;
+  months.forEach(function(ym) {
+    const cur = monthLast[ym].nav;
+    if (prevNav !== null && prevNav > 0) {
+      result.push({
+        ym: ym,
+        year: parseInt(ym.slice(0, 4), 10),
+        month: parseInt(ym.slice(5, 7), 10),
+        ret_pct: (cur / prevNav - 1) * 100,
+      });
+    } else {
+      result.push({
+        ym: ym, year: parseInt(ym.slice(0, 4), 10), month: parseInt(ym.slice(5, 7), 10), ret_pct: 0,
+      });
+    }
+    prevNav = cur;
+  });
+  return result;
+}
+
+function renderAllocationMonthly() {
+  const monthly = computeMonthlyReturns();
+  if (!monthly.length) return '';
+  // Group by year, descending
+  const byYear = {};
+  monthly.forEach(function(m) {
+    (byYear[m.year] = byYear[m.year] || []).push(m);
+  });
+  const years = Object.keys(byYear).map(Number).sort(function(a, b) { return b - a; });
+
+  const yearsHtml = years.map(function(y) {
+    return '<div class="ac-mr-year" data-year="' + y + '">'
+      + '<div id="acMr_' + y + '" class="ac-mr-chart"></div>'
+      + '<div class="ac-mr-year-label">' + y + '</div>'
+      + '</div>';
+  }).join('');
+
+  return '<div class="card">'
+    + '<div class="card-title">长赢' + (_currentPlan === '150' ? '150' : 'S') + ' 月涨跌幅%</div>'
+    + '<div style="font-size:11px;color:#aaa;text-align:center;margin-bottom:8px">'
+    + (_allocation.updatedAt || '').slice(0, 10) + '</div>'
+    + yearsHtml
+    + '</div>';
+}
+
+function initAllocationMonthly() {
+  const monthly = computeMonthlyReturns();
+  if (!monthly.length || !window.echarts) return;
+  const byYear = {};
+  monthly.forEach(function(m) { (byYear[m.year] = byYear[m.year] || []).push(m); });
+
+  Object.keys(byYear).forEach(function(yStr) {
+    const y = parseInt(yStr, 10);
+    const container = document.getElementById('acMr_' + y);
+    if (!container) return;
+    if (container._chart) container._chart.dispose();
+    const chart = echarts.init(container);
+    container._chart = chart;
+
+    // Build 12-month X axis, fill missing with null
+    const monthMap = {};
+    byYear[y].forEach(function(m) { monthMap[m.month] = m.ret_pct; });
+    const xs = [];
+    const data = [];
+    for (let m = 1; m <= 12; m++) {
+      xs.push(y + '-' + (m < 10 ? '0' + m : m));
+      data.push(monthMap.hasOwnProperty(m) ? monthMap[m] : null);
+    }
+
+    const maxAbs = Math.max(1, Math.max.apply(null, data.filter(function(v) { return v !== null; }).map(Math.abs)) || 1);
+    chart.setOption({
+      grid: { left: 36, right: 60, top: 18, bottom: 28 },
+      xAxis: {
+        type: 'category',
+        data: xs,
+        axisLabel: { fontSize: 9, color: '#888', interval: 0, rotate: 0 },
+        axisTick: { show: false },
+        axisLine: { lineStyle: { color: '#e0e0e0' } },
+      },
+      yAxis: {
+        type: 'value',
+        position: 'right',
+        max: Math.ceil(maxAbs * 1.2),
+        min: -Math.ceil(maxAbs * 1.2),
+        axisLabel: { fontSize: 9, color: '#aaa', formatter: '{value}%' },
+        splitLine: { lineStyle: { color: '#f5f5f5' } },
+      },
+      series: [{
+        type: 'bar',
+        data: data.map(function(v) {
+          if (v === null) return { value: null };
+          return {
+            value: v,
+            itemStyle: { color: v >= 0 ? '#ff7d7d' : '#52c4a0' },
+            label: {
+              show: true,
+              position: v >= 0 ? 'top' : 'bottom',
+              fontSize: 9,
+              color: v >= 0 ? '#ff4d4f' : '#52c41a',
+              formatter: function(p) { return (p.value > 0 ? '' : '') + p.value.toFixed(2) + '%'; },
+            },
+          };
+        }),
+        barWidth: '50%',
+      }],
+    });
+  });
+}
+
+function renderAnalysisTab() {
+  const el = document.getElementById("tab-analysis");
+  if (!_analysis) {
+    el.innerHTML = '<div class="error">策略分析数据未找到</div>';
+    return;
+  }
+  const s = _analysis.summary;
+  const trades = _analysis.sell_trades || [];
+  const positions = _analysis.positions || [];
+  const monthly = _analysis.monthly_activity || [];
+
+  /* ── KPI cards ── */
+  function kpiCard(label, value, sub) {
+    return '<div class="an-kpi"><div class="an-kpi-val">' + value + '</div>'
+      + '<div class="an-kpi-label">' + label + '</div>'
+      + (sub ? '<div class="an-kpi-sub">' + sub + '</div>' : '') + '</div>';
+  }
+
+  const kpiHtml = '<div class="card"><div class="card-title">策略概览</div>'
+    + '<div class="an-kpi-row">'
+    + kpiCard('卖出胜率', s.win_rate_pct + '%', s.total_sell_trades + ' 笔卖出')
+    + kpiCard('平均收益', '+' + s.avg_return_pct + '%', '每笔卖出')
+    + kpiCard('平均持仓', Math.round(s.avg_hold_days / 365 * 10) / 10 + ' 年', s.avg_hold_days + ' 天')
+    + kpiCard('当前持仓', s.current_positions + ' 只', '未实现 ' + (s.unrealized_return_pct >= 0 ? '+' : '') + s.unrealized_return_pct + '%')
+    + '</div></div>';
+
+  /* ── Return distribution chart (bar) ── */
+  const brackets = [
+    { label: '<0%',    lo: -999, hi: 0   },
+    { label: '0~20%',  lo: 0,    hi: 20  },
+    { label: '20~40%', lo: 20,   hi: 40  },
+    { label: '40~60%', lo: 40,   hi: 60  },
+    { label: '60~80%', lo: 60,   hi: 80  },
+    { label: '80%+',   lo: 80,   hi: 999 },
+  ];
+  const buckets = brackets.map(function(b) {
+    return trades.filter(function(t) { return t.return_pct >= b.lo && t.return_pct < b.hi; }).length;
+  });
+  const maxBucket = Math.max(...buckets) || 1;
+  const distBars = brackets.map(function(b, i) {
+    const cnt = buckets[i];
+    const pct = Math.round(cnt / maxBucket * 100);
+    const color = b.lo < 0 ? '#ff4d4f' : '#52c41a';
+    return '<div class="an-bar-row">'
+      + '<div class="an-bar-label">' + b.label + '</div>'
+      + '<div class="an-bar-track"><div class="an-bar-fill" style="width:' + pct + '%;background:' + color + '"></div></div>'
+      + '<div class="an-bar-cnt">' + cnt + '</div>'
+      + '</div>';
+  }).join('');
+
+  const distHtml = '<div class="card"><div class="card-title">卖出收益分布</div>'
+    + '<div class="an-dist">' + distBars + '</div></div>';
+
+  /* ── Current positions table ── */
+  const posRows = positions.filter(function(p) { return p.units > 0; }).map(function(p) {
+    const ret = p.return_pct !== null ? p.return_pct : null;
+    const retStr = ret !== null ? (ret >= 0 ? '+' : '') + ret.toFixed(1) + '%' : '-';
+    const retColor = ret === null ? '' : ret >= 0 ? 'color:#52c41a' : 'color:#ff4d4f';
+    const holdYears = p.hold_days ? (p.hold_days / 365).toFixed(1) + 'y' : '-';
+    return '<tr>'
+      + '<td>' + escHtml(p.fund.length > 20 ? p.fund.slice(0, 20) + '…' : p.fund) + '</td>'
+      + '<td class="an-cat">' + escHtml(p.category) + '</td>'
+      + '<td style="text-align:right">' + p.units + '</td>'
+      + '<td style="text-align:right;' + retColor + '">' + retStr + '</td>'
+      + '<td style="text-align:right">' + holdYears + '</td>'
+      + '</tr>';
+  }).join('');
+
+  const posHtml = '<div class="card"><div class="card-title">当前持仓（' + positions.filter(function(p){return p.units>0;}).length + ' 只）</div>'
+    + '<div class="an-table-wrap"><table class="an-table">'
+    + '<thead><tr><th>基金</th><th>类别</th><th style="text-align:right">份数</th>'
+    + '<th style="text-align:right">收益</th><th style="text-align:right">持仓年限</th></tr></thead>'
+    + '<tbody>' + posRows + '</tbody></table></div></div>';
+
+  /* ── Sell trades table (recent 20) ── */
+  const recent = trades.slice().sort(function(a, b) { return b.sell_date.localeCompare(a.sell_date); }).slice(0, 30);
+  const tradeRows = recent.map(function(t) {
+    const ret = t.return_pct;
+    const retColor = ret >= 0 ? 'color:#52c41a' : 'color:#ff4d4f';
+    const holdYears = t.hold_days >= 0 ? (t.hold_days / 365).toFixed(1) + 'y' : '-';
+    return '<tr>'
+      + '<td>' + escHtml(t.sell_date) + '</td>'
+      + '<td>' + escHtml(t.fund.length > 20 ? t.fund.slice(0, 20) + '…' : t.fund) + '</td>'
+      + '<td class="an-cat">' + escHtml(t.category) + '</td>'
+      + '<td style="text-align:right;' + retColor + '">' + (ret >= 0 ? '+' : '') + ret.toFixed(1) + '%</td>'
+      + '<td style="text-align:right">' + holdYears + '</td>'
+      + '</tr>';
+  }).join('');
+
+  const tradesHtml = '<div class="card"><div class="card-title">近期卖出记录（最新 30 笔）</div>'
+    + '<div class="an-table-wrap"><table class="an-table">'
+    + '<thead><tr><th>卖出日期</th><th>基金</th><th>类别</th>'
+    + '<th style="text-align:right">收益</th><th style="text-align:right">持仓年限</th></tr></thead>'
+    + '<tbody>' + tradeRows + '</tbody></table></div></div>';
+
+  /* ── Monthly activity mini-chart ── */
+  const recentMonths = monthly.slice(-36);
+  const maxActivity = Math.max(...recentMonths.map(function(m) { return m.buy + m.sell; }), 1);
+  const actBars = recentMonths.map(function(m) {
+    const buyH = Math.round(m.buy / maxActivity * 40);
+    const sellH = Math.round(m.sell / maxActivity * 40);
+    const tooltip = m.month + ' 买' + m.buy + ' 卖' + m.sell;
+    return '<div class="an-act-bar" title="' + tooltip + '">'
+      + '<div class="an-act-sell" style="height:' + sellH + 'px"></div>'
+      + '<div class="an-act-buy" style="height:' + buyH + 'px"></div>'
+      + '</div>';
+  }).join('');
+  const actHtml = '<div class="card"><div class="card-title">交易活动（近 3 年，蓝=买 橙=卖）</div>'
+    + '<div class="an-activity">' + actBars + '</div>'
+    + '<div class="an-act-legend"><span class="an-leg-buy">买入</span><span class="an-leg-sell">卖出</span></div>'
+    + '</div>';
+
+  const compHtml     = renderAllocationComposition();
+  const sunburstHtml = renderAllocationSunburst();
+  const trendHtml    = renderAllocationTrend();
+  const retBarHtml   = renderAllocationReturnBar();
+  const monthlyHtml  = renderAllocationMonthly();
+
+  el.innerHTML = '<div style="max-width:900px;margin:0 auto;padding:16px">'
+    + '<div style="color:#999;font-size:12px;text-align:right;margin-bottom:8px">更新于 ' + (_analysis.updatedAt || '').slice(0, 10) + '</div>'
+    + compHtml + sunburstHtml + trendHtml + retBarHtml + monthlyHtml
+    + kpiHtml + distHtml + actHtml + posHtml + tradesHtml
+    + '</div>';
+
+  // ECharts must init after DOM is in place
+  initAllocationSunburst();
+  initAllocationTrendChart();
+  initAllocationMonthly();
 }
 
 function renderChart(nav, fundCode) {
