@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-05-05 17:28 CST",
+  "updatedAt": "2026-05-06 18:28 CST",
   "poName": "长赢指数投资计划-S定投",
-  "totalUnit": 212,
-  "investedUnit": 88,
-  "adjustedCount": 182,
-  "totalBuy": 152,
+  "totalUnit": 213,
+  "investedUnit": 89,
+  "adjustedCount": 183,
+  "totalBuy": 153,
   "totalSell": 74,
   "recentSignals": [
+    {
+      "date": "2026-05-06",
+      "action": "buy",
+      "fundCode": "020602",
+      "fundName": "易方达中证红利低波动联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/23179",
+      "l1": "其他"
+    },
     {
       "date": "2026-04-23",
       "action": "sell",
@@ -113,15 +122,6 @@
       "fundName": "华夏中证500ETF联接A",
       "unit": 1,
       "articleLink": "https://content.qieman.com/n/items/21913",
-      "l1": "A股"
-    },
-    {
-      "date": "2026-01-29",
-      "action": "buy",
-      "fundCode": "012323",
-      "fundName": "华宝医疗ETF联接C",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/21895",
       "l1": "A股"
     }
   ],
@@ -1560,6 +1560,24 @@
       "currentUnit": 1,
       "latestDate": "2026-04-23",
       "l1": "A股"
+    },
+    {
+      "fundCode": "020602",
+      "fundName": "易方达中证红利低波动联接A",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-05-06",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23179",
+          "l1": "其他"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2026-05-06",
+      "l1": "其他"
     },
     {
       "fundCode": "501018",
