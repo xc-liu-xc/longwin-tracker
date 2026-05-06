@@ -15,9 +15,64 @@
       color: #333;
       background: #f5f5f5;
       padding: 16px;
-      max-width: 960px;
       margin: 0 auto;
     }
+
+    /* ── Layout: sidebar + main ── */
+    .app-layout {
+      display: grid;
+      grid-template-columns: 160px 1fr;
+      gap: 16px;
+      max-width: 1140px;
+      margin: 0 auto;
+    }
+    .sidebar {
+      background: #fff;
+      border: 1px solid #e8e8e8;
+      border-radius: 8px;
+      padding: 12px 0;
+      align-self: start;
+      position: sticky;
+      top: 16px;
+    }
+    .sidebar-section { padding: 4px 0 8px; }
+    .sidebar-section + .sidebar-section { border-top: 1px solid #f0f0f0; }
+    .sidebar-label {
+      font-size: 11px;
+      color: #999;
+      padding: 6px 16px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .sidebar-btn {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      padding: 9px 16px;
+      border: none;
+      background: transparent;
+      font-size: 13px;
+      color: #555;
+      cursor: pointer;
+      text-align: left;
+      border-left: 3px solid transparent;
+      transition: all 0.15s;
+    }
+    .sidebar-btn:hover { background: #fafbfc; color: #111; }
+    .sidebar-btn.active {
+      background: #f0f7ff;
+      color: #1677ff;
+      border-left-color: #1677ff;
+      font-weight: 600;
+    }
+    .sidebar-btn[disabled] { opacity: 0.4; cursor: not-allowed; }
+    .sidebar-btn .sidebar-badge {
+      font-size: 10px;
+      color: #aaa;
+      font-weight: 400;
+    }
+    .main-area { min-width: 0; }
 
     /* ── Tabs ── */
     .tab-bar {
@@ -25,6 +80,9 @@
       gap: 0;
       margin-bottom: 16px;
       border-bottom: 2px solid #f0f0f0;
+      background: #fff;
+      padding: 0 12px;
+      border-radius: 8px 8px 0 0;
     }
     .tab-btn {
       padding: 10px 24px;
@@ -40,6 +98,60 @@
     }
     .tab-btn:hover { color: #333; }
     .tab-btn.active { color: #1677ff; border-bottom-color: #1677ff; }
+
+    /* ── Sub-tabs (2nd level inside 资产配置) ── */
+    .subtab-bar {
+      display: flex;
+      gap: 4px;
+      padding: 8px 12px;
+      background: #fafbfc;
+      border-radius: 6px;
+      margin-bottom: 14px;
+      border: 1px solid #f0f0f0;
+    }
+    .subtab-btn {
+      padding: 6px 14px;
+      border: 1px solid transparent;
+      background: transparent;
+      font-size: 12px;
+      color: #666;
+      cursor: pointer;
+      border-radius: 4px;
+      transition: all 0.15s;
+    }
+    .subtab-btn:hover { background: #fff; color: #111; }
+    .subtab-btn.active {
+      background: #fff;
+      color: #1677ff;
+      border-color: #d6e4ff;
+      font-weight: 600;
+    }
+    .subtab-panel { display: none; }
+    .subtab-panel.active { display: block; }
+
+    /* Mobile: sidebar collapses to segmented control */
+    @media (max-width: 760px) {
+      .app-layout { grid-template-columns: 1fr; }
+      .sidebar {
+        position: static;
+        padding: 6px;
+        display: flex;
+        gap: 4px;
+        flex-wrap: wrap;
+      }
+      .sidebar-section { padding: 0; flex: 1; min-width: 0; display: flex; gap: 4px; }
+      .sidebar-section + .sidebar-section { border-top: 0; border-left: 1px solid #f0f0f0; padding-left: 8px; margin-left: 4px; }
+      .sidebar-label { display: none; }
+      .sidebar-btn {
+        padding: 6px 10px;
+        border-left: 0;
+        border-radius: 4px;
+        font-size: 12px;
+        flex: 1;
+        justify-content: center;
+      }
+      .sidebar-btn.active { border-left: 0; background: #1677ff; color: #fff; }
+    }
 
     /* ── Card ── */
     .card {
@@ -86,17 +198,43 @@
     .stat-num.blue { color: #1677ff; }
     .stat-label { font-size: 12px; color: #888; margin-top: 4px; }
 
+    /* ── Signal filter + stats table + pager ── */
+    .sig-filter { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+    .sig-filter-btn { padding: 4px 10px; border-radius: 4px; border: 1px solid #d9d9d9; background: #fff; font-size: 12px; cursor: pointer; }
+    .sig-filter-btn.active { border-color: #1677ff; color: #1677ff; background: #e6f4ff; }
+    .sig-stats-table { width: 100%; border-collapse: collapse; font-size: 13px; table-layout: fixed; }
+    .sig-stats-table th { text-align: center; padding: 6px 8px; background: #fafafa; border-bottom: 1px solid #f0f0f0; color: #666; font-weight: 500; }
+    .sig-stats-table td { text-align: center; padding: 6px 8px; border-bottom: 1px solid #f5f5f5; }
+    .sig-stats-table .sig-stat-label { text-align: left; color: #666; font-weight: 500; }
+    .sig-stats-table .green { color: #52c41a; }
+    .sig-stats-table .red { color: #ff4d4f; }
+    .sig-stats-table .blue { color: #1677ff; }
+    .sig-pager { display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 12px; font-size: 12px; color: #888; }
+    .sig-pager button { padding: 4px 10px; border: 1px solid #d9d9d9; border-radius: 4px; background: #fff; cursor: pointer; font-size: 12px; }
+    .sig-pager button:disabled { opacity: 0.4; cursor: default; }
+
     /* ── Timeline ── */
     .timeline { list-style: none; }
     .timeline-item {
       display: flex;
       align-items: center;
       gap: 12px;
-      padding: 10px 0;
+      padding: 10px 0 10px 10px;
       border-bottom: 1px solid #f5f5f5;
+      border-left: 3px solid transparent;
       font-size: 13px;
     }
     .timeline-item:last-child { border-bottom: none; }
+
+    .tl-l1 {
+      display: inline-block;
+      padding: 1px 6px;
+      border-radius: 3px;
+      font-size: 11px;
+      font-weight: 500;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
 
     .dot {
       width: 10px; height: 10px;
@@ -411,6 +549,7 @@
     .st-pred-name { font-weight: 600; font-size: 14px; color: #222; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
     .st-pred-meta { font-size: 12px; color: #888; margin-top: 2px; }
     .st-cat { display: inline-block; padding: 1px 6px; background: #f5f5f5; border-radius: 3px; color: #666; font-size: 11px; }
+    .st-dq-warn { display: inline-block; padding: 1px 6px; background: #fff7e6; border: 1px solid #ffd591; border-radius: 3px; color: #d46b08; font-size: 11px; cursor: help; margin-left: 4px; }
     .st-pred-ret { font-weight: 700; font-size: 16px; min-width: 60px; text-align: right; }
     .st-pred-signal { font-size: 12px; font-weight: 600; padding: 4px 10px; border-radius: 4px; min-width: 32px; text-align: center; }
     .st-pred-rule { display: flex; align-items: center; gap: 8px; margin-top: 8px; padding-left: 4px; }
@@ -431,6 +570,47 @@
     .st-rule-name { font-weight: 600; font-size: 13px; color: #333; }
     .st-rule-desc { font-size: 12px; color: #666; margin: 4px 0; line-height: 1.5; }
     .st-rule-src { font-size: 11px; color: #999; }
+
+    /* ── Insights tab (组合洞察) ── */
+    .ins-wrap { max-width: 960px; margin: 0 auto; padding: 16px; }
+    .ins-disclaimer { background: #fffbe6; border: 1px solid #ffe58f; border-radius: 8px; padding: 12px 16px; margin-bottom: 16px; font-size: 13px; color: #8c6900; line-height: 1.6; }
+    .ins-disclaimer b { color: #613400; }
+    .ins-card { background: #fff; border: 1px solid #f0f0f0; border-radius: 10px; padding: 20px; margin-bottom: 16px; }
+    .ins-card-title { font-size: 15px; font-weight: 600; color: #222; margin-bottom: 4px; }
+    .ins-card-sub { font-size: 12px; color: #888; margin-bottom: 14px; line-height: 1.5; }
+    .ins-radar { height: 420px; }
+    .ins-legend { display: flex; gap: 18px; justify-content: center; font-size: 12px; color: #555; margin-top: 8px; flex-wrap: wrap; }
+    .ins-leg-item { display: flex; align-items: center; gap: 6px; }
+    .ins-leg-dot { width: 10px; height: 10px; border-radius: 50%; }
+    .ins-leg-line { width: 16px; height: 2px; }
+    .ins-gap-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    .ins-gap-table th { background: #fafafa; padding: 10px 12px; text-align: left; font-weight: 600; color: #444; border-bottom: 1px solid #f0f0f0; white-space: nowrap; }
+    .ins-gap-table td { padding: 10px 12px; border-bottom: 1px solid #f7f7f7; vertical-align: middle; }
+    .ins-gap-table tr:hover { background: #fafbfc; cursor: pointer; }
+    .ins-gap-table tr.expanded { background: #f5f9ff; }
+    .ins-axis-label { font-weight: 600; color: #222; }
+    .ins-range { color: #666; font-size: 12px; }
+    .ins-actual { font-weight: 600; font-size: 14px; }
+    .ins-gap-badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; }
+    .ins-gap-under { background: #e6f4ff; color: #0958d9; }
+    .ins-gap-over  { background: #fff1f0; color: #cf1322; }
+    .ins-gap-in    { background: #f6ffed; color: #389e0d; }
+    .ins-gap-na    { background: #f5f5f5; color: #999; }
+    .ins-conf { display: inline-block; padding: 1px 7px; border-radius: 3px; font-size: 11px; border: 1px solid; }
+    .ins-conf-high { border-color: #95de64; color: #389e0d; background: #f6ffed; }
+    .ins-conf-medium { border-color: #ffd591; color: #d46b08; background: #fff7e6; }
+    .ins-conf-low { border-color: #e0e0e0; color: #999; background: #fafafa; }
+    .ins-quote-panel { background: #fafbfc; border-top: 1px solid #eaeaea; padding: 14px 18px; }
+    .ins-quote-empty { color: #999; font-size: 12px; padding: 8px 0; }
+    .ins-quote { padding: 10px 0; border-bottom: 1px dashed #ececec; font-size: 12.5px; color: #444; line-height: 1.65; }
+    .ins-quote:last-child { border-bottom: none; }
+    .ins-quote-head { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; font-size: 11px; color: #888; }
+    .ins-quote-date { color: #1677ff; }
+    .ins-quote-title { color: #666; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .ins-quote-body { color: #333; }
+    .ins-quote-rule { font-size: 11px; color: #aa7500; margin-top: 4px; }
+    .ins-stats { display: flex; gap: 14px; flex-wrap: wrap; font-size: 12px; color: #666; margin-top: 10px; }
+    .ins-stats span { background: #f7f7f7; padding: 3px 8px; border-radius: 3px; }
 
     /* ── Analysis tab ── */
     .an-kpi-row { display: flex; gap: 16px; flex-wrap: wrap; }
@@ -464,37 +644,129 @@
     .ac-legend { display: flex; flex-wrap: wrap; gap: 12px; font-size: 11px; color: #888; margin-bottom: 12px; }
     .ac-leg-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
     .ac-cls-block { margin-bottom: 14px; }
-    .ac-cls-head { display: flex; align-items: center; gap: 8px; padding: 8px 10px; background: #fafafa; border-radius: 4px; font-size: 13px; color: #333; }
-    .ac-cls-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+    .ac-cls-head { display: flex; align-items: center; gap: 8px; padding: 9px 10px; background: #fafafa; border-radius: 4px; font-size: 16px; color: #333; }
+    .ac-cls-dot { width: 11px; height: 11px; border-radius: 50%; flex-shrink: 0; }
     .ac-cls-name { font-weight: 600; }
-    .ac-cls-meta { color: #666; font-size: 12px; }
-    .ac-cls-ret { margin-left: auto; font-weight: 600; }
-    .ac-fund-row { display: flex; align-items: center; padding: 8px 12px; border-bottom: 1px solid #f5f5f5; font-size: 13px; }
+    .ac-cls-meta { color: #666; font-size: 14px; }
+    .ac-cls-ret { margin-left: auto; font-weight: 600; font-size: 14px; }
+    .ac-fund-row { display: flex; align-items: center; padding: 8px 12px; border-bottom: 1px solid #f5f5f5; font-size: 12.5px; }
     .ac-fund-row:last-child { border-bottom: none; }
-    .ac-fund-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-    .ac-fund-name .ac-trade-date { color: #aaa; font-size: 11px; margin-left: 6px; }
-    .ac-fund-cleared { color: #bbb; font-size: 11px; margin-left: 6px; padding: 1px 6px; background: #f5f5f5; border-radius: 3px; }
-    .ac-fund-units { width: 60px; text-align: right; color: #666; }
-    .ac-fund-share { width: 70px; text-align: right; color: #666; }
-    .ac-fund-ret { width: 80px; text-align: right; font-weight: 600; }
+    .ac-fund-name { flex: 1; min-width: 0; }
+    .ac-fund-name-line1 { display: flex; align-items: center; gap: 4px; }
+    .ac-fund-name-label { font-weight: 500; white-space: nowrap; }
+    .ac-fund-code { color: #aaa; font-size: 11px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .ac-fund-name-line2 { display: flex; align-items: center; gap: 0; margin-top: 2px; }
+    .ac-fund-name .ac-trade-date { color: #aaa; font-size: 11px; }
+    .ac-fund-cleared { color: #bbb; font-size: 12px; margin-left: 6px; padding: 1px 6px; background: #f5f5f5; border-radius: 3px; }
+    .ac-fund-units { width: 65px; text-align: right; color: #444; font-size: 12.5px; }
+    .ac-fund-share { width: 75px; text-align: right; color: #444; font-size: 12.5px; }
+    .ac-fund-ret { width: 85px; text-align: right; font-weight: 600; font-size: 12.5px; }
+    /* L2 sub-block (collapsible) */
+    .ac-l2-block { margin-top: 6px; }
+    .ac-l2-head { display: flex; align-items: center; gap: 8px; padding: 6px 10px 6px 27px; font-size: 15px; color: #555; user-select: none; }
+    .ac-l2-name { font-weight: 500; color: #333; }
+    .ac-l2-meta { color: #888; font-size: 15px; }
+    .ac-l2-ret { margin-left: auto; font-weight: 600; font-size: 15px; }
+    .ac-l2-body { padding-left: 0; }
+    /* L3 sub-group within L2 */
+    .ac-l3-block { margin: 4px 0; }
+    /* Indent so 医药 (L3) aligns with 行业 (L2) text — L2 sits at padding 12, plus dot/badge bleed */
+    .ac-l3-head {
+      display: flex; align-items: center; gap: 6px;
+      padding: 5px 10px 5px 40px;
+      font-size: 14px; color: #555;
+      background: #fafafa;
+      border-radius: 3px;
+      cursor: pointer; user-select: none;
+      transition: background 0.1s;
+    }
+    .ac-l3-head:hover { background: #f0f4f8; }
+    .ac-l3-toggle {
+      color: #999; font-size: 10px; width: 10px;
+      transition: transform .15s ease;
+      display: inline-block; flex-shrink: 0;
+    }
+    .ac-l3-toggle.open { transform: rotate(90deg); }
+    .ac-l3-name { font-weight: 500; color: #333; }
+    .ac-l3-meta { color: #888; font-size: 14px; }
+    .ac-l3-ret { margin-left: auto; font-weight: 500; font-size: 14px; }
+    .ac-l3-funds { display: none; }
+    .ac-l3-funds.open { display: block; }
+    .ac-l3-block .ac-fund-row { padding-left: 52px; }
+
+    /* Fund row last-action + inline expansion */
+    .ac-fund-row { cursor: pointer; transition: background 0.1s; }
+    .ac-fund-row:hover { background: #fafbfc; }
+    .ac-fund-row.expanded { background: #f6faff; }
+    .ac-fund-toggle {
+      width: 12px; color: #999; font-size: 10px;
+      transition: transform 0.15s;
+      flex-shrink: 0;
+    }
+    .ac-fund-toggle.open { transform: rotate(90deg); }
+    .ac-last-action {
+      display: inline-flex; align-items: center; gap: 4px;
+      font-size: 11px; color: #888; margin-left: 8px;
+    }
+    .ac-last-badge {
+      padding: 0 5px; border-radius: 3px; font-size: 10px;
+      font-weight: 500;
+    }
+    .ac-last-badge.buy  { background: #f6ffed; color: #389e0d; border: 1px solid #d9f7be; }
+    .ac-last-badge.sell { background: #fff1f0; color: #cf1322; border: 1px solid #ffccc7; }
+    .ac-last-link {
+      color: #1677ff; text-decoration: none; font-size: 11px;
+    }
+    .ac-last-link:hover { text-decoration: underline; }
+    .ac-fund-history {
+      grid-column: 1 / -1;
+      padding: 8px 12px 10px 52px;
+      background: #f9fbff;
+      border-top: 1px dashed #e0e8f5;
+      display: none;
+    }
+    .ac-fund-row.expanded + .ac-fund-history { display: block; }
+    .ac-fund-history-row {
+      display: flex; align-items: center; gap: 10px;
+      padding: 4px 0; font-size: 11px;
+      border-bottom: 1px solid #f0f4fa;
+    }
+    .ac-fund-history-row:last-child { border-bottom: none; }
+    .ac-fund-history-row .h-date { color: #888; min-width: 80px; }
+    .ac-fund-history-row .h-action {
+      padding: 1px 6px; border-radius: 3px; font-size: 11px; font-weight: 500;
+    }
+    .ac-fund-history-row .h-action.buy  { background: #f6ffed; color: #389e0d; border: 1px solid #d9f7be; }
+    .ac-fund-history-row .h-action.sell { background: #fff1f0; color: #cf1322; border: 1px solid #ffccc7; }
+    .ac-fund-history-row .h-unit { color: #111; min-width: 44px; font-size: 11px; }
+    .ac-fund-history-row .h-title {
+      flex: 1; min-width: 0; color: #666; font-size: 11px;
+      overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    }
+    .ac-fund-history-row .h-link { color: #1677ff; text-decoration: none; font-size: 11px; }
+    .ac-fund-history-row .h-link:hover { text-decoration: underline; }
+    .ac-fund-chart-btn {
+      padding: 3px 10px; font-size: 11px;
+      background: #fff; border: 1px solid #d9d9d9; border-radius: 3px;
+      cursor: pointer; color: #1677ff;
+    }
+    .ac-fund-chart-btn:hover { background: #f0f7ff; border-color: #1677ff; }
+
+    /* L1 color bar (lifted to top of 资产配置) */
+    .ac-l1-summary {
+      background: #fff;
+      border: 1px solid #e8e8e8;
+      border-radius: 8px;
+      padding: 14px 18px;
+      margin-bottom: 14px;
+    }
+    .ac-l1-summary .ac-bar { margin-bottom: 8px; }
 
     /* ── Allocation: trend chart (图2) ── */
     .ac-trend { width: 100%; height: 360px; }
 
     /* ── Allocation: sunburst (图3) ── */
     .ac-sunburst { width: 100%; height: 560px; }
-
-    /* ── Allocation: return bar list (图4) ── */
-    .ac-rb-row { display: flex; align-items: center; gap: 8px; padding: 2px 0; font-size: 12px; }
-    .ac-rb-name { width: 200px; text-align: right; color: #444; flex-shrink: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-    .ac-rb-track { flex: 1; height: 16px; position: relative; }
-    .ac-rb-axis { position: absolute; top: 0; bottom: 0; width: 1px; background: #d9d9d9; }
-    .ac-rb-bar { position: absolute; height: 12px; top: 2px; border-radius: 2px; }
-    .ac-rb-bar-pos { background: #ffd1d1; }
-    .ac-rb-bar-neg { background: #b7eee0; }
-    .ac-rb-val-pos { color: #ff4d4f; font-weight: 600; }
-    .ac-rb-val-neg { color: #52c41a; font-weight: 600; }
-    .ac-rb-val { position: absolute; top: 0; line-height: 16px; font-size: 11px; padding: 0 4px; }
 
     /* ── Allocation: monthly returns (图5) ── */
     .ac-mr-year { margin-bottom: 14px; padding: 8px 6px 4px; background: #fff; border-radius: 4px; position: relative; }
@@ -520,22 +792,34 @@
 </head>
 <body>
 
-<div class="tab-bar">
-  <button class="tab-btn active" data-tab="signals" onclick="switchTab('signals')">信号追踪</button>
-  <button class="tab-btn" data-tab="posts" onclick="switchTab('posts')">E大文章</button>
-  <button class="tab-btn" data-tab="strategy" onclick="switchTab('strategy')">策略预测</button>
-  <button class="tab-btn" data-tab="analysis" onclick="switchTab('analysis')">策略分析</button>
-</div>
-<div class="plan-bar" id="planBar">
-  <span class="plan-bar-label">计划:</span>
-  <button class="plan-btn active" data-plan="150" onclick="switchPlan('150')">150份计划</button>
-  <button class="plan-btn" data-plan="s" onclick="switchPlan('s')">S计划</button>
-</div>
+<div class="app-layout">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-section">
+      <div class="sidebar-label">投顾计划</div>
+      <button class="sidebar-btn active" data-plan="150" onclick="switchPlan('150')">长赢 150 <span class="sidebar-badge">150份</span></button>
+      <button class="sidebar-btn"        data-plan="s"   onclick="switchPlan('s')">长赢 S <span class="sidebar-badge">动态</span></button>
+    </div>
+    <div class="sidebar-section">
+      <div class="sidebar-label">内容</div>
+      <button class="sidebar-btn" data-view="posts" onclick="switchView('posts')">E大文章</button>
+    </div>
+  </aside>
 
-<div id="tab-signals"><div class="loading">加载中...</div></div>
-<div id="tab-posts" style="display:none"><div class="loading">加载中...</div></div>
-<div id="tab-strategy" style="display:none"><div class="loading">加载中...</div></div>
-<div id="tab-analysis" style="display:none"><div class="loading">加载中...</div></div>
+  <main class="main-area">
+    <div class="tab-bar" id="planTabBar">
+      <button class="tab-btn active" data-tab="analysis" onclick="switchTab('analysis')">资产配置</button>
+      <button class="tab-btn" data-tab="signals"  onclick="switchTab('signals')">信号追踪</button>
+      <button class="tab-btn" data-tab="strategy" onclick="switchTab('strategy')">策略预测</button>
+      <button class="tab-btn" data-tab="insights" onclick="switchTab('insights')">组合洞察</button>
+    </div>
+
+    <div id="tab-analysis"><div class="loading">加载中...</div></div>
+    <div id="tab-signals"  style="display:none"><div class="loading">加载中...</div></div>
+    <div id="tab-strategy" style="display:none"><div class="loading">加载中...</div></div>
+    <div id="tab-insights" style="display:none"><div class="loading">加载中...</div></div>
+    <div id="tab-posts"    style="display:none"><div class="loading">加载中...</div></div>
+  </main>
+</div>
 
 <div class="modal-overlay" id="chartModal">
   <div class="modal">
@@ -580,7 +864,11 @@ let _analysis     = null;
 let _strategy     = null;
 let _allocation   = null;
 let _allocationAll = null; // shared (loaded once, contains both plans)
+let _taxonomyFunds = null; // taxonomy.json funds map (fundCode → {l1, l2, l3, display_name})
+let _baseline = null; // allocation_baseline.json (E大 配置基线, LLM-classified)
+let _insightsChart = null; // ECharts radar instance
 let _trendChart   = null;
+let _navChart      = null;
 
 function extractItemId(url) {
   if (!url) return null;
@@ -596,26 +884,92 @@ function escHtml(s) {
   return el.innerHTML;
 }
 
-/* ── Tab switching ── */
+/* ── View + tab + sub-tab + hash-route state ── */
+let _currentView   = "plan";    // "plan" (uses 150/s + tabs) | "posts" (global)
+let _currentTab    = "analysis";
+let _currentSubTab = "snapshot"; // for analysis tab: snapshot | layered | timeseries
+
+function switchView(view) {
+  _currentView = view;
+  const isPosts = view === "posts";
+  document.getElementById("planTabBar").style.display = isPosts ? "none" : "flex";
+  document.getElementById("tab-analysis").style.display = (!isPosts && _currentTab === "analysis") ? "block" : "none";
+  document.getElementById("tab-signals").style.display  = (!isPosts && _currentTab === "signals")  ? "block" : "none";
+  document.getElementById("tab-strategy").style.display = (!isPosts && _currentTab === "strategy") ? "block" : "none";
+  document.getElementById("tab-insights").style.display = (!isPosts && _currentTab === "insights") ? "block" : "none";
+  document.getElementById("tab-posts").style.display    = isPosts ? "block" : "none";
+  document.querySelectorAll(".sidebar-btn[data-plan]").forEach(function(b) {
+    b.classList.toggle("active", !isPosts && b.getAttribute("data-plan") === _currentPlan);
+  });
+  document.querySelectorAll(".sidebar-btn[data-view]").forEach(function(b) {
+    b.classList.toggle("active", isPosts && b.getAttribute("data-view") === view);
+  });
+  syncHash();
+  if (!isPosts && _currentTab === "analysis") resizeAnalysisCharts();
+}
+
 function switchTab(name) {
+  _currentTab = name;
+  // selecting any plan-scoped tab switches view back to plan
+  if (_currentView === "posts") _currentView = "plan";
   document.querySelectorAll(".tab-btn").forEach(function(b) {
     b.classList.toggle("active", b.getAttribute("data-tab") === name);
   });
-  document.getElementById("tab-signals").style.display  = name === "signals"  ? "block" : "none";
-  document.getElementById("tab-posts").style.display    = name === "posts"    ? "block" : "none";
-  document.getElementById("tab-strategy").style.display = name === "strategy" ? "block" : "none";
-  document.getElementById("tab-analysis").style.display = name === "analysis" ? "block" : "none";
-  // Plan bar only relevant when viewing plan-scoped tabs
-  document.getElementById("planBar").style.display = name === "posts" ? "none" : "flex";
+  switchView("plan");
+}
 
-  // Charts inside hidden tabs are initialized at 0 width — resize on show
-  if (name === "analysis") resizeAnalysisCharts();
+function switchSubTab(name) {
+  _currentSubTab = name;
+  document.querySelectorAll(".subtab-btn").forEach(function(b) {
+    b.classList.toggle("active", b.getAttribute("data-subtab") === name);
+  });
+  document.querySelectorAll(".subtab-panel").forEach(function(p) {
+    p.classList.toggle("active", p.getAttribute("data-subtab") === name);
+  });
+  syncHash();
+  resizeAnalysisCharts();
+}
+
+/* Toggle inline expansion of a fund row in the composition table */
+function toggleFundRow(code) {
+  const row  = document.querySelector('.ac-fund-row[data-fund="' + code + '"]');
+  const hist = document.querySelector('.ac-fund-history[data-fund="' + code + '"]');
+  if (!row) return;
+  const open = row.classList.toggle("expanded");
+  if (hist) hist.style.display = open ? "block" : "none";
+  const tog = row.querySelector(".ac-fund-toggle");
+  if (tog) tog.classList.toggle("open", open);
+}
+
+/* Hash routing:
+   #posts                          (global content view)
+   #150/analysis/snapshot          (plan view: plan/tab/[subtab])
+*/
+function syncHash() {
+  if (_currentView === "posts") {
+    history.replaceState(null, "", "#posts");
+    return;
+  }
+  const sub = _currentTab === "analysis" ? "/" + _currentSubTab : "";
+  history.replaceState(null, "", "#" + _currentPlan + "/" + _currentTab + sub);
+}
+function applyHash() {
+  const h = location.hash || "";
+  if (h === "#posts") { _currentView = "posts"; return; }
+  const m = h.match(/^#(150|s)(?:\/([a-z]+))?(?:\/([a-z]+))?/);
+  if (!m) return;
+  const plan = m[1], tab = m[2], sub = m[3];
+  if (plan && plan !== _currentPlan) {
+    setTimeout(function(){ switchPlan(plan); }, 0);
+  }
+  if (tab) _currentTab = tab;
+  if (sub) _currentSubTab = sub;
 }
 
 function resizeAnalysisCharts() {
   // requestAnimationFrame ensures the layout has been computed after display change
   requestAnimationFrame(function() {
-    ['acSunburst', 'acTrendChart'].forEach(function(id) {
+    ['acSunburst', 'acTrendChart', 'acNavChart', 'insRadar'].forEach(function(id) {
       const el = document.getElementById(id);
       if (el && el._chart) el._chart.resize();
     });
@@ -648,25 +1002,188 @@ async function loadPlan(plan) {
 async function loadAllocation() {
   if (_allocationAll) return _allocationAll;
   try {
-    const r = await fetch("./allocation.json");
-    if (!r.ok) return null;
-    _allocationAll = await r.json();
+    // Load qieman authoritative + taxonomy + our internal calc in parallel
+    const [allocR, qieR, taxR] = await Promise.all([
+      fetch("./allocation.json").catch(function() { return null; }),
+      fetch("./qieman_allocation.json").catch(function() { return null; }),
+      fetch("./taxonomy.json").catch(function() { return null; }),
+    ]);
+    const allocJson = (allocR && allocR.ok) ? await allocR.json() : { plans: {}, asset_classes: [] };
+    const qieJson = (qieR && qieR.ok) ? await qieR.json() : null;
+    const taxJson = (taxR && taxR.ok) ? await taxR.json() : null;
+    if (taxJson && taxJson.funds) _taxonomyFunds = taxJson.funds;
+
+    // Override per-plan from qieman authoritative data when available
+    if (qieJson && qieJson.plans && taxJson) {
+      for (const planId of Object.keys(qieJson.plans)) {
+        const qiePlan = qieJson.plans[planId];
+        if (!qiePlan || !qiePlan.composition) continue;
+        const built = buildAllocationFromQieman(qiePlan, taxJson, planId);
+        allocJson.plans[planId] = built;
+      }
+      allocJson._qiemanSource = qieJson.source;
+      allocJson._qiemanGeneratedAt = qieJson.generatedAt;
+    }
+    _allocationAll = allocJson;
     return _allocationAll;
   } catch (e) {
+    console.error('loadAllocation failed:', e);
     return null;
   }
 }
 
+/* Build {current, timeseries, updatedAt} from qieman composition + taxonomy.
+   Priority: qieman supplies authoritative L1 percent + per-fund percent/units/累计.
+   Taxonomy maps each fundCode → l1/l2/l3 for sunburst aggregation. */
+function buildAllocationFromQieman(qiePlan, taxJson, planId) {
+  const comp = qiePlan.composition;
+  const taxFunds = taxJson.funds || {};
+  const L1_ORDER = ["A股","海外新兴","海外成熟","商品","债券","房地产","外汇","现金","其他"];
+
+  // Use middle palette shade as legend color (must match SUNBURST_PALETTE depth 1)
+  const L1_COLOR = {
+    "A股":"#CC8987","海外新兴":"#6FA0AF","海外成熟":"#84B0BF",
+    "商品":"#CDA77D","债券":"#9494B5","房地产":"#A4B58A","外汇":"#88AAA3",
+    "现金":"#BDB8AD","其他":"#B0B0B0",
+  };
+
+  // ── by_category (and gather funds per L1 for taxonomy build) ──
+  const by_category = [];
+  const fundsByL1 = {};
+  for (const l1 of L1_ORDER) {
+    const c = comp.by_l1[l1];
+    if (!c) continue;
+    const fundsArr = (c.funds || []).map(function(f) {
+      const tax = taxFunds[f.code] || {};
+      return {
+        code:        f.code,
+        name:        f.variety || f.name,
+        fullName:    f.name,
+        units:       f.units,
+        share_pct:   f.percent,
+        return_pct:  f.accProfit,
+        last_trade:  f.navDate,
+        status:      f.units > 0 ? 'active' : 'cleared',
+        l2:          tax.l2 || '其他',
+        l3:          tax.l3 || '其他',
+      };
+    });
+    fundsByL1[l1] = fundsArr;
+
+    if (l1 === "现金") {
+      if (c.percent > 0) {
+        by_category.push({
+          class: l1, label: l1, color: L1_COLOR[l1],
+          units: c.units, share_pct: c.percent, return_pct: null, funds: [],
+        });
+      }
+      continue;
+    }
+    if (c.percent <= 0 && fundsArr.length === 0) continue;
+    // Sort funds: active by share desc, cleared by date desc
+    const active = fundsArr.filter(function(f){return f.status==='active';})
+                          .sort(function(a,b){return b.share_pct - a.share_pct;});
+    const cleared = fundsArr.filter(function(f){return f.status==='cleared';})
+                            .sort(function(a,b){return (b.last_trade||'').localeCompare(a.last_trade||'');});
+    by_category.push({
+      class: l1, label: l1, color: L1_COLOR[l1],
+      units: c.units, share_pct: c.percent,
+      return_pct: c.accProfitRate,
+      funds: active.concat(cleared),
+    });
+  }
+
+  // ── by_taxonomy (3-layer sunburst: L1 → L2 → L3) ──
+  const tree = {};
+  for (const l1 of Object.keys(fundsByL1)) {
+    if (l1 === "现金") continue;
+    for (const f of fundsByL1[l1]) {
+      const tax = taxFunds[f.code];
+      if (!tax) continue;
+      const taxL1 = tax.l1; // trust taxonomy l1 (should match qieman)
+      const l2 = tax.l2 || "(其他)";
+      const l3 = tax.l3 || "(其他)";
+
+      const l1Node = tree[taxL1] = tree[taxL1] || { value:0, units:0, children:{} };
+      const l2Node = l1Node.children[l2] = l1Node.children[l2] || { value:0, units:0, children:{} };
+      const l3Node = l2Node.children[l3] = l2Node.children[l3] || { value:0, units:0 };
+
+      if (f.status === 'active' && f.share_pct > 0) {
+        l3Node.value += f.share_pct;
+        l3Node.units += f.units;
+        l2Node.value += f.share_pct;
+        l2Node.units += f.units;
+        l1Node.value += f.share_pct;
+        l1Node.units += f.units;
+      }
+    }
+  }
+
+  // Convert nested → ordered array shape consumed by frontend
+  const by_taxonomy = [];
+  for (const l1 of L1_ORDER) {
+    if (l1 === "现金") continue;
+    const node = tree[l1];
+    if (!node || node.value <= 0) continue;
+    const l2arr = Object.keys(node.children).map(function(l2name) {
+      const l2n = node.children[l2name];
+      const l3arr = Object.keys(l2n.children).map(function(l3name) {
+        const l3n = l2n.children[l3name];
+        return { name: l3name, value: l3n.value, units: l3n.units, share_pct: l3n.value };
+      }).sort(function(a,b){return b.value - a.value;});
+      return { name: l2name, value: l2n.value, units: l2n.units, share_pct: l2n.value, children: l3arr };
+    }).sort(function(a,b){return b.value - a.value;});
+    by_taxonomy.push({
+      name: l1, value: node.value, units: node.units, share_pct: node.value,
+      color: L1_COLOR[l1], children: l2arr,
+    });
+  }
+
+  const cashEntry = comp.by_l1["现金"] || { units: 0, percent: 0 };
+  const totalUnits = comp.investedUnit + cashEntry.units;
+
+  return {
+    current: {
+      total_unit: totalUnits,
+      invested_unit: comp.investedUnit,
+      cash_unit: cashEntry.units,
+      by_category: by_category,
+      by_taxonomy: by_taxonomy,
+    },
+    timeseries: qiePlan.timeseries || [],
+    nav_history: qiePlan.nav_history || [],
+    updatedAt: comp.navDate,
+    _source: 'qieman',
+    _meta: {
+      nav: comp.nav, dailyReturn: comp.dailyReturn,
+      fromSetupReturn: comp.fromSetupReturn, annualReturn: comp.annualReturn,
+      maxDrawdown: comp.maxDrawdown, sharpe: comp.sharpe,
+    },
+  };
+}
+
 async function switchPlan(plan) {
-  if (plan === _currentPlan && _appData) return;
-  document.querySelectorAll(".plan-btn").forEach(function(b) {
+  // Clicking a plan in sidebar always returns to plan view
+  if (_currentView === "posts") {
+    _currentView = "plan";
+    switchView("plan");
+  }
+  if (plan === _currentPlan && _appData) {
+    document.querySelectorAll(".sidebar-btn[data-plan]").forEach(function(b) {
+      b.classList.toggle("active", b.getAttribute("data-plan") === plan);
+    });
+    return;
+  }
+  document.querySelectorAll(".sidebar-btn[data-plan]").forEach(function(b) {
     b.classList.toggle("active", b.getAttribute("data-plan") === plan);
   });
+  syncHash();
 
   // Show loading state
   document.getElementById("tab-signals").innerHTML  = '<div class="loading">切换到 ' + plan + ' 计划...</div>';
   document.getElementById("tab-strategy").innerHTML = '<div class="loading">切换中...</div>';
   document.getElementById("tab-analysis").innerHTML = '<div class="loading">切换中...</div>';
+  document.getElementById("tab-insights").innerHTML = '<div class="loading">切换中...</div>';
 
   try {
     const c = await loadPlan(plan);
@@ -692,11 +1209,15 @@ function renderAllForCurrentPlan() {
 
   renderStrategyTab();
   renderAnalysisTab();
+  renderInsightsTab();
 }
 
 /* ── Init ── */
 async function init() {
   try {
+    // Apply hash before loading so plan choice is honored
+    applyHash();
+
     // Posts/content are global (not plan-scoped)
     const [contentRes, indexRes] = await Promise.all([
       fetch(CONTENT_URL).catch(function() { return null; }),
@@ -706,23 +1227,318 @@ async function init() {
     if (indexRes && indexRes.ok)     _postsIndex = await indexRes.json();
 
     // Load default plan (150) and allocation in parallel
-    const [c, alloc] = await Promise.all([loadPlan(_currentPlan), loadAllocation()]);
+    const [c, alloc, baselineRes] = await Promise.all([
+      loadPlan(_currentPlan),
+      loadAllocation(),
+      fetch("./allocation_baseline.json").catch(function() { return null; }),
+    ]);
     _appData  = c.data;
     _analysis = c.analysis;
     _strategy = c.strategy;
     _allocation = alloc && alloc.plans && alloc.plans[_currentPlan] || null;
+    if (baselineRes && baselineRes.ok) _baseline = await baselineRes.json();
 
     renderAllForCurrentPlan();
     renderPostsTab();
 
+    // Sync UI state to hash (default = analysis/snapshot)
+    if (_currentView === "posts") {
+      switchView("posts");
+    } else {
+      switchTab(_currentTab);
+      if (_currentTab === "analysis") switchSubTab(_currentSubTab);
+    }
+
   } catch (e) {
-    document.getElementById("tab-signals").innerHTML = '<div class="error">数据加载失败：' + e.message + "</div>";
+    document.getElementById("tab-analysis").innerHTML = '<div class="error">数据加载失败：' + e.message + "</div>";
   }
 }
 
+/* ── L1 stripe + badge helpers ── */
+const L1_COLORS = {
+  "A股":"#CC8987","海外新兴":"#6FA0AF","海外成熟":"#84B0BF",
+  "商品":"#CDA77D","债券":"#9494B5","房地产":"#A4B58A","外汇":"#88AAA3",
+  "现金":"#BDB8AD","其他":"#B0B0B0",
+};
+function l1Style(l1) {
+  const c = L1_COLORS[l1] || L1_COLORS["其他"];
+  return { stripe: c, badge: 'background:' + c + '22;color:' + c + ';border:1px solid ' + c + '55;' };
+}
+function l1BadgeHtml(l1) {
+  if (!l1) return "";
+  const s = l1Style(l1);
+  return '<span class="tl-l1" style="' + s.badge + '">' + escHtml(l1) + '</span>';
+}
+function l1StripeStyle(l1) {
+  if (!l1) return "";
+  return ' style="border-left-color:' + l1Style(l1).stripe + ';"';
+}
+
 /* ── Signals tab ── */
+var _signalFilter = 'all';
+var _signalPage = 0;
+var _signalPageSize = 10;
+var _allTradesCache = null;
+
+function buildAllTrades(d) {
+  if (_allTradesCache) return _allTradesCache;
+  var trades = [];
+  for (var i = 0; i < d.holdings.length; i++) {
+    var h = d.holdings[i];
+    var tax = _taxonomyFunds && _taxonomyFunds[h.fundCode] || {};
+    for (var j = 0; j < h.history.length; j++) {
+      var r = h.history[j];
+      trades.push({
+        date: r.date,
+        action: r.action,
+        unit: r.unit || 1,
+        fundCode: h.fundCode,
+        fundName: h.fundName,
+        articleLink: r.articleLink,
+        l1: r.l1 || h.l1 || tax.l1 || '其他',
+        l2: tax.l2 || '其他',
+        l3: tax.l3 || '其他',
+      });
+    }
+  }
+  trades.sort(function(a, b) { return b.date.localeCompare(a.date); });
+  _allTradesCache = trades;
+  return trades;
+}
+
+function renderSignalRow(t) {
+  var itemId = extractItemId(t.articleLink);
+  var articleTitle = itemId && _contentMap[itemId] ? _contentMap[itemId].title : '';
+  var titleSpan = articleTitle
+    ? '<span class="tl-article-title" data-title="' + escHtml(articleTitle) + '"></span>'
+    : '';
+  var linkHtml = t.articleLink
+    ? '<a class="tl-link" href="' + escHtml(t.articleLink) + '" target="_blank" rel="noopener">&#x1F517; 发车文章</a>'
+    : '';
+  return '<li class="timeline-item"' + l1StripeStyle(t.l1) + '>'
+    + '<span class="dot ' + t.action + '"></span>'
+    + '<span class="tl-date">' + fmt(t.date) + '</span>'
+    + '<span class="badge ' + t.action + '">' + (t.action === 'buy' ? '买入' : '卖出') + '</span>'
+    + l1BadgeHtml(t.l1)
+    + '<span class="tl-fund"><span class="tl-fund-name">' + escHtml(t.fundCode) + '&nbsp;&nbsp;' + escHtml(t.fundName) + '</span>' + titleSpan + '</span>'
+    + '<span class="tl-unit">' + t.unit + ' 份</span>'
+    + linkHtml
+    + '</li>';
+}
+
+function renderTradesPanel(d) {
+  var trades = buildAllTrades(d);
+  var filtered = _signalFilter === 'all' ? trades : trades.filter(function(t) { return t.l1 === _signalFilter; });
+  var total = filtered.length;
+  var totalPages = Math.ceil(total / _signalPageSize);
+  if (_signalPage >= totalPages) _signalPage = Math.max(0, totalPages - 1);
+  var start = _signalPage * _signalPageSize;
+  var page = filtered.slice(start, start + _signalPageSize);
+
+  var l1Counts = {};
+  var L1_ORDER = ['A股','海外新兴','海外成熟','商品','债券'];
+  trades.forEach(function(t) { l1Counts[t.l1] = (l1Counts[t.l1] || 0) + 1; });
+
+  var filterHtml = '<div class="sig-filter">'
+    + '<button class="sig-filter-btn' + (_signalFilter === 'all' ? ' active' : '') + '" onclick="setSignalFilter(\'all\')">全部 ' + trades.length + '</button>';
+  L1_ORDER.forEach(function(l1) {
+    if (!l1Counts[l1]) return;
+    var s = l1Style(l1);
+    filterHtml += '<button class="sig-filter-btn' + (_signalFilter === l1 ? ' active' : '') + '" style="' + s.badge + '" onclick="setSignalFilter(\'' + l1 + '\')">' + l1 + ' ' + l1Counts[l1] + '</button>';
+  });
+  filterHtml += '</div>';
+
+  var rowsHtml = '';
+  for (var i = 0; i < page.length; i++) rowsHtml += renderSignalRow(page[i]);
+
+  var pageHtml = '';
+  if (totalPages > 1) {
+    pageHtml = '<div class="sig-pager">'
+      + '<button' + (_signalPage > 0 ? ' onclick="setSignalPage(' + (_signalPage - 1) + ')"' : ' disabled') + '>&laquo; 上一页</button>'
+      + '<span>' + (_signalPage + 1) + ' / ' + totalPages + '（共 ' + total + ' 条）</span>'
+      + '<button' + (_signalPage < totalPages - 1 ? ' onclick="setSignalPage(' + (_signalPage + 1) + ')"' : ' disabled') + '>下一页 &raquo;</button>'
+      + '</div>';
+  }
+
+  return '<div class="card">'
+    + '<div class="card-title">全部交易记录</div>'
+    + filterHtml
+    + '<ul class="timeline">' + rowsHtml + '</ul>'
+    + pageHtml
+    + '</div>';
+}
+
+function setSignalFilter(l1) {
+  _signalFilter = l1;
+  _signalPage = 0;
+  refreshTradesPanel();
+}
+function setSignalPage(p) {
+  _signalPage = p;
+  refreshTradesPanel();
+}
+function refreshTradesPanel() {
+  var el = document.getElementById('sig-trades-panel');
+  if (el && _appData) {
+    el.innerHTML = renderTradesPanel(_appData);
+    el.querySelectorAll('.tl-article-title[data-title]').forEach(function(e) {
+      e.textContent = e.getAttribute('data-title');
+    });
+  }
+}
+
+function renderSignalStats(d) {
+  var L1_ORDER = ['A股','海外新兴','海外成熟','商品','债券'];
+  var stats = {};
+  L1_ORDER.forEach(function(l1) { stats[l1] = { buy: 0, sell: 0, hold: 0 }; });
+  for (var i = 0; i < d.holdings.length; i++) {
+    var h = d.holdings[i];
+    var l1 = h.l1 || '其他';
+    if (!stats[l1]) stats[l1] = { buy: 0, sell: 0, hold: 0 };
+    stats[l1].buy += h.bought;
+    stats[l1].sell += h.sold;
+    stats[l1].hold += h.currentUnit;
+  }
+  var header = '<tr><th></th>';
+  var rowBuy = '<tr><td class="sig-stat-label">买入</td>';
+  var rowSell = '<tr><td class="sig-stat-label">卖出</td>';
+  var rowHold = '<tr><td class="sig-stat-label">持仓</td>';
+  var totB = 0, totS = 0, totH = 0;
+  L1_ORDER.forEach(function(l1) {
+    var s = stats[l1];
+    if (!s || (s.buy === 0 && s.sell === 0 && s.hold === 0)) return;
+    header += '<th>' + l1 + '</th>';
+    rowBuy += '<td class="green">' + s.buy + '</td>';
+    rowSell += '<td class="red">' + s.sell + '</td>';
+    rowHold += '<td class="blue">' + s.hold + '</td>';
+    totB += s.buy; totS += s.sell; totH += s.hold;
+  });
+  header += '<th>合计</th></tr>';
+  rowBuy += '<td class="green"><b>' + totB + '</b></td></tr>';
+  rowSell += '<td class="red"><b>' + totS + '</b></td></tr>';
+  rowHold += '<td class="blue"><b>' + totH + '</b></td></tr>';
+
+  return '<div class="card">'
+    + '<div class="card-title">数据统计</div>'
+    + '<table class="sig-stats-table">' + header + rowBuy + rowSell + rowHold + '</table>'
+    + '</div>';
+}
+
+function renderSignalHoldings(d) {
+  if (!_taxonomyFunds) return '';
+  var L1_ORDER = ['A股','海外新兴','海外成熟','商品','债券','房地产','外汇','现金'];
+  var L2_ORDER = {
+    'A股': ['大盘','中小盘','行业','价值红利'],
+    '海外新兴': ['香港','海外科技'],
+    '海外成熟': ['美国大盘','欧洲','全球医药'],
+    '商品': ['黄金','原油'],
+    '债券': ['国内债券','海外债券'],
+  };
+
+  function l2Sort(l1) {
+    var order = L2_ORDER[l1];
+    if (!order) return function(a, b) { return a.localeCompare(b); };
+    return function(a, b) {
+      var ia = order.indexOf(a), ib = order.indexOf(b);
+      if (ia < 0) ia = 999;
+      if (ib < 0) ib = 999;
+      return ia - ib;
+    };
+  }
+
+  var tree = {};
+  for (var i = 0; i < d.holdings.length; i++) {
+    var h = d.holdings[i];
+    var tax = _taxonomyFunds[h.fundCode] || {};
+    var l1 = tax.l1 || h.l1 || '其他';
+    var l2 = tax.l2 || '其他';
+    var l3 = tax.l3 || '其他';
+    if (!tree[l1]) tree[l1] = {};
+    if (!tree[l1][l2]) tree[l1][l2] = {};
+    if (!tree[l1][l2][l3]) tree[l1][l2][l3] = [];
+    tree[l1][l2][l3].push(h);
+  }
+
+  var html = '';
+  var l3Counter = 0;
+  L1_ORDER.forEach(function(l1) {
+    if (!tree[l1]) return;
+    var l1Funds = 0, l1Units = 0, l1Trades = 0;
+    Object.keys(tree[l1]).forEach(function(l2) {
+      Object.keys(tree[l1][l2]).forEach(function(l3) {
+        tree[l1][l2][l3].forEach(function(h) { l1Funds++; l1Units += h.currentUnit; l1Trades += h.history.length; });
+      });
+    });
+    var color = L1_COLORS[l1] || L1_COLORS['其他'];
+    html += '<div class="ac-cls-block">'
+      + '<div class="ac-cls-head">'
+      + '<span class="ac-cls-dot" style="background:' + color + '"></span>'
+      + '<span class="ac-cls-name">' + escHtml(l1) + '</span>'
+      + '<span class="ac-cls-meta">' + l1Funds + '只 · ' + l1Units + '份 · ' + l1Trades + '笔</span>'
+      + '</div>';
+
+    var l2Keys = Object.keys(tree[l1]).sort(l2Sort(l1));
+    l2Keys.forEach(function(l2) {
+        var l2Funds = [], l2Units = 0, l2AllTrades = [];
+        Object.keys(tree[l1][l2]).forEach(function(l3) {
+          tree[l1][l2][l3].forEach(function(h) {
+            l2Funds.push(h);
+            l2Units += h.currentUnit;
+            h.history.slice().sort(function(a, b) { return b.date.localeCompare(a.date); }).forEach(function(r) {
+              l2AllTrades.push({
+                date: r.date, action: r.action, unit: r.unit || 1,
+                fundCode: h.fundCode, fundName: h.fundName,
+                articleLink: r.articleLink, l1: r.l1 || h.l1,
+              });
+            });
+          });
+        });
+        l2AllTrades.sort(function(a, b) { return b.date.localeCompare(a.date); });
+
+        var l2TradesHtml = '';
+        for (var k = 0; k < l2AllTrades.length; k++) {
+          var t = l2AllTrades[k];
+          var itemId = extractItemId(t.articleLink);
+          var articleTitle = itemId && _contentMap[itemId] ? _contentMap[itemId].title : '';
+          var titleSpan = articleTitle
+            ? '<span class="tl-article-title" data-title="' + escHtml(articleTitle) + '"></span>'
+            : '';
+          var tLink = t.articleLink
+            ? '<a class="tl-link" href="' + escHtml(t.articleLink) + '" target="_blank" rel="noopener">&#x1F517; 发车文章</a>'
+            : '';
+          l2TradesHtml += '<li class="timeline-item"' + l1StripeStyle(t.l1) + '>'
+            + '<span class="dot ' + t.action + '"></span>'
+            + '<span class="tl-date">' + fmt(t.date) + '</span>'
+            + '<span class="badge ' + t.action + '">' + (t.action === 'buy' ? '买入' : '卖出') + '</span>'
+            + '<span class="tl-fund"><span class="tl-fund-name">' + escHtml(t.fundCode) + '&nbsp;&nbsp;' + escHtml(t.fundName) + '</span>' + titleSpan + '</span>'
+            + '<span class="tl-unit">' + t.unit + ' 份</span>'
+            + tLink
+            + '</li>';
+        }
+
+        var sl2id = 'sig-l2-' + (l3Counter++);
+        html += '<div class="ac-l2-block">'
+          + '<div class="ac-l2-head" onclick="toggleL3(\'' + sl2id + '\')" style="cursor:pointer">'
+          + '<span class="ac-l3-toggle" id="' + sl2id + '-tog">▶</span>'
+          + '<span class="ac-l2-name">' + escHtml(l2) + '</span>'
+          + '<span class="ac-l2-meta">' + l2Funds.length + '只 · ' + l2Units + '份 · ' + l2AllTrades.length + '笔</span>'
+          + '</div>'
+          + '<div class="ac-l3-funds" id="' + sl2id + '">'
+          + '<ul class="timeline">' + l2TradesHtml + '</ul>'
+          + '</div></div>';
+    });
+    html += '</div>';
+  });
+
+  return '<div class="card">'
+    + '<div class="card-title">投顾持仓</div>'
+    + html + '</div>';
+}
+
 function renderSignals(d) {
-  const infoHtml = '<div class="card">'
+  _allTradesCache = null;
+
+  var infoHtml = '<div class="card">'
     + '<div class="card-title">投顾计划信息</div>'
     + '<div class="info-grid">'
     + '<div class="info-item">投顾名称：<span>' + escHtml(d.poName) + '</span></div>'
@@ -731,83 +1547,12 @@ function renderSignals(d) {
     + '<div class="info-item">描述：<span>主理人：ETF拯救世界</span></div>'
     + '</div></div>';
 
-  let signalRows = "";
-  for (let i = 0; i < d.recentSignals.length; i++) {
-    const s = d.recentSignals[i];
-    const itemId = extractItemId(s.articleLink);
-    const articleTitle = itemId && _contentMap[itemId] ? _contentMap[itemId].title : "";
-    const titleSpan = articleTitle
-      ? '<span class="tl-article-title" data-title="' + escHtml(articleTitle) + '"></span>'
-      : "";
-    const linkHtml = s.articleLink
-      ? '<a class="tl-link" href="' + escHtml(s.articleLink) + '" target="_blank" rel="noopener">&#x1F517; 发车文章</a>'
-      : "";
-    signalRows += '<li class="timeline-item">'
-      + '<span class="dot ' + s.action + '"></span>'
-      + '<span class="tl-date">' + fmt(s.date) + '</span>'
-      + '<span class="badge ' + s.action + '">' + (s.action === "buy" ? "买入" : "卖出") + '</span>'
-      + '<span class="tl-fund"><span class="tl-fund-name">' + escHtml(s.fundCode) + '&nbsp;&nbsp;' + escHtml(s.fundName) + '</span>' + titleSpan + '</span>'
-      + '<span class="tl-unit">' + s.unit + ' 份</span>'
-      + linkHtml
-      + '</li>';
-  }
-  const signalsHtml = '<div class="card">'
-    + '<div class="card-title">最近发车</div>'
-    + '<ul class="timeline">' + signalRows + '</ul></div>';
+  var statsHtml = renderSignalStats(d);
+  var tradesHtml = '<div id="sig-trades-panel">' + renderTradesPanel(d) + '</div>';
+  var holdingsHtml = renderSignalHoldings(d);
+  var footer = '<div class="updated-at">数据更新时间：' + escHtml(d.updatedAt) + '</div>';
 
-  const statsHtml = '<div class="card">'
-    + '<div class="card-title">数据统计</div>'
-    + '<div class="stats-grid">'
-    + '<div class="stat-box"><div class="stat-num green">' + d.totalBuy + '</div><div class="stat-label">历史买入份数</div></div>'
-    + '<div class="stat-box"><div class="stat-num red">' + d.totalSell + '</div><div class="stat-label">历史卖出份数</div></div>'
-    + '<div class="stat-box"><div class="stat-num blue">' + d.investedUnit + '</div><div class="stat-label">当前持仓份数</div></div>'
-    + '</div></div>';
-
-  let holdingsRows = "";
-  for (let i = 0; i < d.holdings.length; i++) {
-    const h = d.holdings[i];
-    let historyHtml = "";
-    for (let j = 0; j < h.history.length; j++) {
-      const r = h.history[j];
-      const itemId = extractItemId(r.articleLink);
-      const articleTitle = itemId && _contentMap[itemId] ? _contentMap[itemId].title : "";
-      const titleSpan = articleTitle
-        ? '<span class="tl-article-title" data-title="' + escHtml(articleTitle) + '"></span>'
-        : "";
-      const rLink = r.articleLink
-        ? '<a class="tl-link" href="' + escHtml(r.articleLink) + '" target="_blank" rel="noopener">&#x1F517; 发车文章</a>'
-        : "";
-      historyHtml += '<li class="timeline-item">'
-        + '<span class="dot ' + r.action + '"></span>'
-        + '<span class="tl-date">' + fmt(r.date) + '</span>'
-        + '<span class="badge ' + r.action + '">' + (r.action === "buy" ? "买入" : "卖出") + '</span>'
-        + '<span class="tl-fund">' + titleSpan + '</span>'
-        + '<span class="tl-unit">' + r.unit + ' 份</span>'
-        + rLink
-        + '</li>';
-    }
-    holdingsRows += '<div class="holding-item" id="h' + i + '">'
-      + '<div class="holding-header" onclick="toggleHolding(\'h' + i + '\')">'
-      + '<div class="holding-left">'
-      + '<span class="holding-arrow">&#x25B6;</span>'
-      + '<span class="holding-code">' + escHtml(h.fundCode) + '</span>'
-      + '<span class="holding-name">' + escHtml(h.fundName) + '</span>'
-      + '</div>'
-      + '<div class="holding-right">'
-      + '<span class="holding-unit-label">持仓：<span class="holding-unit" onclick="event.stopPropagation();openChart(\'' + escHtml(h.fundCode) + '\',\'' + escHtml(h.fundName) + '\')">' + h.currentUnit + ' 份</span></span>'
-      + '<span class="holding-latest">最近发车: ' + (h.latestDate || "-") + '</span>'
-      + '</div>'
-      + '</div>'
-      + '<div class="holding-body"><ul class="timeline">' + historyHtml + '</ul></div>'
-      + '</div>';
-  }
-  const holdingsHtml = '<div class="card">'
-    + '<div class="card-title">投顾持仓</div>'
-    + holdingsRows + '</div>';
-
-  const footer = '<div class="updated-at">数据更新时间：' + escHtml(d.updatedAt) + '</div>';
-
-  return infoHtml + signalsHtml + statsHtml + holdingsHtml + footer;
+  return infoHtml + statsHtml + tradesHtml + holdingsHtml + footer;
 }
 
 /* ── Posts tab ── */
@@ -1010,7 +1755,11 @@ function renderStrategyTab() {
     return '<div class="st-pred" onclick="togglePredDetail(\'' + p.code + '\')">'
       + '<div class="st-pred-row">'
         + '<div class="st-pred-fund">'
-          + '<div class="st-pred-name">' + escHtml(p.fund) + '</div>'
+          + '<div class="st-pred-name">' + escHtml(p.fund)
+            + (p.data_quality === 'unit_only'
+                ? ' <span class="st-dq-warn" title="tushare 无复权数据，收益基于原始净值估算，可能偏离真实复权收益">⚠ 估算</span>'
+                : '')
+          + '</div>'
           + '<div class="st-pred-meta">'
             + '<span class="st-cat">' + escHtml(cat) + '</span>'
             + ' · ' + p.units + ' 份'
@@ -1082,10 +1831,17 @@ function renderStrategyTab() {
     + '</div>'
     + '</div>';
 
+  const unitOnlyCount = preds.filter(function(p) { return p.data_quality === 'unit_only'; }).length;
+  const dqBanner = unitOnlyCount > 0
+    ? '<div class="card" style="background:#fff7e6;border:1px solid #ffd591"><div style="font-size:13px;color:#874d00">ℹ️ <b>数据说明：</b>'
+        + unitOnlyCount + ' 只持仓（共 ' + preds.length + ' 只）因 tushare 无复权数据，收益基于原始净值估算，会偏离真实复权收益。列表中带 <span class="st-dq-warn">⚠ 估算</span> 标记的即是。</div></div>'
+    : '';
+
   el.innerHTML = '<div style="max-width:900px;margin:0 auto;padding:16px">'
     + '<div style="color:#999;font-size:12px;text-align:right;margin-bottom:8px">规则引擎更新于 ' + (_strategy.updatedAt || '').slice(0, 10) + '</div>'
     + philoHtml
     + '<div class="card" style="background:#fffbe6;border:1px solid #ffe58f"><div style="font-size:13px;color:#8c6900">⚠️ <b>免责说明：</b>本预测仅基于规则引擎对历史文章的解析，不代表E大实际操作。E大决策综合估值、技术面、宏观判断，规则引擎只能给出概率提示。</div></div>'
+    + dqBanner
     + predHtml
     + ruleHtml
     + '</div>';
@@ -1095,6 +1851,291 @@ function togglePredDetail(code) {
   const el = document.getElementById('pred-' + code);
   if (!el) return;
   el.style.display = el.style.display === 'none' ? 'block' : 'none';
+}
+
+function toggleL3(id) {
+  const body = document.getElementById(id);
+  const tog  = document.getElementById(id + '-tog');
+  if (!body) return;
+  const open = body.classList.toggle('open');
+  if (tog) tog.classList.toggle('open', open);
+}
+
+/* ── Insights tab (组合洞察 — 配置缺口雷达图) ── */
+
+/* Map baseline axis id → allocation.json category label + optional fund-filter.
+   For 可转债 / 红利低波 we subset of a broader category via taxonomy.l3 match. */
+const INSIGHT_AXES = [
+  { id: 'a_stock',         label: 'A股',        match: { category: 'A股' } },
+  { id: 'em_overseas',     label: '海外新兴',   match: { category: '海外新兴' } },
+  { id: 'dm_overseas',     label: '海外成熟',   match: { category: '海外成熟' } },
+  { id: 'commodities',     label: '商品',       match: { category: '商品' } },
+  { id: 'bonds',           label: '债券',       match: { category: '债券' } },
+  { id: 'cash',            label: '现金',       match: { category: '现金' } },
+  { id: 'convertibles',    label: '可转债',     match: { taxonomy_l3: '可转债' } },
+  { id: 'dividend_lowvol', label: '红利/低波',  match: { taxonomy_l2: '价值红利' } },
+];
+
+/* Compute actual pct for each axis from current allocation. */
+function computeActualAllocation() {
+  if (!_allocation || !_allocation.current) return {};
+  const cur = _allocation.current;
+  const cats = cur.by_category || [];
+  const out = {};
+  cats.forEach(function(c) {
+    out[c.class] = (out[c.class] || 0) + (c.share_pct || 0);
+  });
+
+  // For convertibles & dividend: sum share_pct of matching funds via taxonomy
+  const tax = _taxonomyFunds || {};
+  function subsetPct(predicate) {
+    let sum = 0;
+    cats.forEach(function(c) {
+      (c.funds || []).forEach(function(f) {
+        const t = tax[f.code] || {};
+        if (predicate(t) && f.share_pct) sum += f.share_pct;
+      });
+    });
+    return sum;
+  }
+
+  out.__convertibles    = subsetPct(function(t) { return t.l3 === '可转债'; });
+  out.__dividend_lowvol = subsetPct(function(t) { return t.l2 === '价值红利'; });
+  return out;
+}
+
+function actualForAxis(axisId, actualMap) {
+  switch (axisId) {
+    case 'a_stock':         return actualMap['A股']       || 0;
+    case 'em_overseas':     return actualMap['海外新兴']  || 0;
+    case 'dm_overseas':     return actualMap['海外成熟']  || 0;
+    case 'commodities':     return actualMap['商品']      || 0;
+    case 'bonds':           return actualMap['债券']      || 0;
+    case 'cash':            return actualMap['现金']      || 0;
+    case 'convertibles':    return actualMap.__convertibles    || 0;
+    case 'dividend_lowvol': return actualMap.__dividend_lowvol || 0;
+    default: return 0;
+  }
+}
+
+function gapInfo(actual, axis) {
+  const lo = axis.min_pct, hi = axis.max_pct;
+  if (lo == null || hi == null) {
+    return { status: 'na', label: '基线缺失', cssClass: 'ins-gap-na', delta: null };
+  }
+  if (actual < lo) {
+    return { status: 'under', label: '欠配 ' + (lo - actual).toFixed(1) + 'pp',
+             cssClass: 'ins-gap-under', delta: actual - lo };
+  }
+  if (actual > hi) {
+    return { status: 'over', label: '超配 ' + (actual - hi).toFixed(1) + 'pp',
+             cssClass: 'ins-gap-over', delta: actual - hi };
+  }
+  return { status: 'in', label: '符合区间', cssClass: 'ins-gap-in', delta: 0 };
+}
+
+function renderInsightsTab() {
+  const el = document.getElementById('tab-insights');
+  if (!el) return;
+
+  if (!_baseline || !_allocation) {
+    el.innerHTML = '<div class="ins-wrap">'
+      + '<div class="ins-disclaimer">⚠️ 基线或持仓数据尚未加载。'
+      + '请检查 <code>docs/allocation_baseline.json</code> 是否存在。</div></div>';
+    return;
+  }
+
+  const actualMap = computeActualAllocation();
+  const baselineById = {};
+  (_baseline.axes || []).forEach(function(a) { baselineById[a.id] = a; });
+
+  // Build radar indicators & series (capped at 50% so the chart doesn't collapse)
+  const indicators = INSIGHT_AXES.map(function(ax) {
+    const b = baselineById[ax.id] || {};
+    const actual = actualForAxis(ax.id, actualMap);
+    const axisMax = Math.max(50, Math.ceil(Math.max(actual, b.max_pct || 0) * 1.2 / 10) * 10);
+    return { name: ax.label, max: axisMax, _axisId: ax.id };
+  });
+
+  const actualData = INSIGHT_AXES.map(function(ax) {
+    return Math.round(actualForAxis(ax.id, actualMap) * 10) / 10;
+  });
+  const baselineMin = INSIGHT_AXES.map(function(ax) {
+    const b = baselineById[ax.id] || {};
+    return b.min_pct != null ? b.min_pct : null;
+  });
+  const baselineMax = INSIGHT_AXES.map(function(ax) {
+    const b = baselineById[ax.id] || {};
+    return b.max_pct != null ? b.max_pct : null;
+  });
+
+  // Gap table rows
+  const rows = INSIGHT_AXES.map(function(ax) {
+    const b = baselineById[ax.id] || {};
+    const actual = actualForAxis(ax.id, actualMap);
+    const gap = gapInfo(actual, b);
+    const rangeStr = (b.min_pct != null && b.max_pct != null)
+      ? b.min_pct.toFixed(0) + '%–' + b.max_pct.toFixed(0) + '%'
+      : '—';
+    const confClass = 'ins-conf-' + (b.confidence || 'low');
+    const confText  = { high: '高', medium: '中', low: '低' }[b.confidence || 'low'];
+    return '<tr onclick="toggleInsightQuotes(\'' + ax.id + '\')" id="ins-row-' + ax.id + '">'
+      + '<td><span class="ins-axis-label">' + escHtml(ax.label) + '</span></td>'
+      + '<td class="ins-actual">' + actual.toFixed(1) + '%</td>'
+      + '<td class="ins-range">' + rangeStr + '</td>'
+      + '<td><span class="ins-conf ' + confClass + '">' + confText + '</span></td>'
+      + '<td><span class="ins-gap-badge ' + gap.cssClass + '">' + gap.label + '</span></td>'
+      + '<td style="color:#999;font-size:11px">' + ((b.sources && b.sources.length) || 0) + ' 条引用 ▸</td>'
+    + '</tr>'
+    + '<tr id="ins-quotes-' + ax.id + '" style="display:none"><td colspan="6" style="padding:0">'
+      + '<div class="ins-quote-panel" id="ins-quote-panel-' + ax.id + '"></div>'
+    + '</td></tr>';
+  }).join('');
+
+  // Aggregate stats
+  const naCount = INSIGHT_AXES.filter(function(ax) {
+    const b = baselineById[ax.id] || {};
+    return b.min_pct == null;
+  }).length;
+  const stats = _baseline.extraction_stats || {};
+
+  el.innerHTML = '<div class="ins-wrap">'
+    + '<div class="ins-disclaimer">'
+      + '<b>⚠️ 免责说明：</b>'
+      + '本页面的"E大基线"为对 E大 公开文章的<b>启发式提取 + LLM 辅助分类</b>，'
+      + '数值区间为对 E大 文章里"目标 / 上限 / 下限 / 区间"类语句的聚合，'
+      + '不包含基于市场估值的动态调整，仅为研究辅助，<b>不构成任何投资建议</b>。'
+      + 'E大 实际操作综合估值、技术面、宏观判断，远比规则复杂。'
+    + '</div>'
+    + '<div class="ins-card">'
+      + '<div class="ins-card-title">配置对照雷达图 — ' + (_currentPlan === 's' ? '长赢S定投' : '长赢150份') + '</div>'
+      + '<div class="ins-card-sub">蓝色实线 = 当前实际占比（按且慢权威份额）；红色虚线 = E大 基线区间上/下限。'
+        + '轴外延伸表示超配，靠近中心表示欠配。</div>'
+      + '<div class="ins-radar" id="insRadar"></div>'
+      + '<div class="ins-legend">'
+        + '<div class="ins-leg-item"><div class="ins-leg-line" style="background:#1677ff"></div>实际占比</div>'
+        + '<div class="ins-leg-item"><div class="ins-leg-line" style="background:#ff4d4f;border-top:2px dashed #ff4d4f;height:0"></div>基线上限</div>'
+        + '<div class="ins-leg-item"><div class="ins-leg-line" style="background:#ff9c9c;border-top:2px dashed #ff9c9c;height:0"></div>基线下限</div>'
+      + '</div>'
+    + '</div>'
+    + '<div class="ins-card" style="padding:0;overflow:hidden">'
+      + '<div style="padding:20px 20px 8px">'
+        + '<div class="ins-card-title">逐轴缺口表 · 点击行查看 E大 原文引用</div>'
+        + '<div class="ins-card-sub">缺口 = 实际 − 基线区间。蓝色 = 欠配 / 红色 = 超配 / 绿色 = 在区间内 / 灰色 = 基线缺失。</div>'
+      + '</div>'
+      + '<table class="ins-gap-table">'
+        + '<thead><tr>'
+          + '<th>资产类别</th><th>实际</th><th>E大 区间</th><th>置信度</th><th>缺口</th><th></th>'
+        + '</tr></thead>'
+        + '<tbody>' + rows + '</tbody>'
+      + '</table>'
+    + '</div>'
+    + '<div class="ins-stats">'
+      + '<span>扫描文章：' + (stats.articles_scanned || '—') + ' 篇</span>'
+      + '<span>命中文章：' + (stats.articles_with_matches || '—') + ' 篇</span>'
+      + '<span>基线缺失轴：' + naCount + ' / ' + INSIGHT_AXES.length + '</span>'
+      + '<span>更新于：' + ((_baseline.updatedAt || '').slice(0, 10) || '—') + '</span>'
+    + '</div>'
+    + '</div>';
+
+  // Init radar chart
+  setTimeout(function() { initInsightsRadar(indicators, actualData, baselineMin, baselineMax); }, 0);
+}
+
+function initInsightsRadar(indicators, actualData, minData, maxData) {
+  const container = document.getElementById('insRadar');
+  if (!container) return;
+  if (_insightsChart) { try { _insightsChart.dispose(); } catch (e) {} _insightsChart = null; }
+  _insightsChart = echarts.init(container);
+  container._chart = _insightsChart;
+
+  _insightsChart.setOption({
+    tooltip: {
+      trigger: 'item',
+      formatter: function(p) {
+        const arr = p.value || [];
+        let s = '<b>' + p.seriesName + '</b><br/>';
+        indicators.forEach(function(ind, i) {
+          s += ind.name + '：' + (arr[i] != null ? arr[i].toFixed(1) + '%' : '—') + '<br/>';
+        });
+        return s;
+      }
+    },
+    radar: {
+      indicator: indicators,
+      shape: 'polygon',
+      radius: '68%',
+      center: ['50%', '54%'],
+      axisName: { color: '#444', fontSize: 12, fontWeight: 500 },
+      splitLine: { lineStyle: { color: '#e8e8e8' } },
+      splitArea: { areaStyle: { color: ['#fafafa', '#fff'] } },
+      axisLine: { lineStyle: { color: '#ddd' } }
+    },
+    series: [
+      {
+        name: 'E大 基线上限',
+        type: 'radar',
+        data: [{ value: maxData, name: '基线上限' }],
+        lineStyle: { color: '#ff4d4f', width: 1.5, type: 'dashed' },
+        itemStyle: { color: '#ff4d4f' },
+        areaStyle: { color: 'rgba(255,77,79,0.04)' },
+        symbol: 'none'
+      },
+      {
+        name: 'E大 基线下限',
+        type: 'radar',
+        data: [{ value: minData, name: '基线下限' }],
+        lineStyle: { color: '#ff9c9c', width: 1.5, type: 'dashed' },
+        itemStyle: { color: '#ff9c9c' },
+        areaStyle: { color: 'rgba(255,156,156,0.08)' },
+        symbol: 'none'
+      },
+      {
+        name: '当前实际',
+        type: 'radar',
+        data: [{ value: actualData, name: '当前实际' }],
+        lineStyle: { color: '#1677ff', width: 2.5 },
+        itemStyle: { color: '#1677ff' },
+        areaStyle: { color: 'rgba(22,119,255,0.12)' },
+        symbol: 'circle',
+        symbolSize: 6
+      }
+    ]
+  });
+}
+
+function toggleInsightQuotes(axisId) {
+  const row = document.getElementById('ins-quotes-' + axisId);
+  const mainRow = document.getElementById('ins-row-' + axisId);
+  if (!row) return;
+  const opening = row.style.display === 'none';
+  row.style.display = opening ? 'table-row' : 'none';
+  if (mainRow) mainRow.classList.toggle('expanded', opening);
+  if (!opening) return;
+
+  const panel = document.getElementById('ins-quote-panel-' + axisId);
+  if (!panel || panel.dataset.loaded === '1') return;
+  const ax = (_baseline.axes || []).find(function(a) { return a.id === axisId; });
+  if (!ax || !ax.sources || ax.sources.length === 0) {
+    panel.innerHTML = '<div class="ins-quote-empty">暂无来源引用 — 需人工补全基线。</div>';
+    panel.dataset.loaded = '1';
+    return;
+  }
+  panel.innerHTML = ax.sources.slice(0, 8).map(function(s) {
+    return '<div class="ins-quote">'
+      + '<div class="ins-quote-head">'
+        + '<span class="ins-quote-date">' + escHtml(s.date || '') + '</span>'
+        + '<span class="ins-quote-title">' + escHtml(s.title || '(无标题)') + '</span>'
+        + '<span style="color:#bbb">#' + escHtml(String(s.article_id || '')) + '</span>'
+      + '</div>'
+      + '<div class="ins-quote-body">' + escHtml(s.quote || '') + '</div>'
+      + (s.rule_extracted ? '<div class="ins-quote-rule">提取规则：' + escHtml(s.rule_extracted) + '</div>' : '')
+    + '</div>';
+  }).join('')
+  + (ax.sources.length > 8
+      ? '<div class="ins-quote-empty">其余 ' + (ax.sources.length - 8) + ' 条未展示。</div>'
+      : '');
+  panel.dataset.loaded = '1';
 }
 
 /* ── Analysis tab ── */
@@ -1123,14 +2164,92 @@ function renderAllocationComposition() {
       }).join('')
     + '</div>';
 
-  // Per-class blocks
-  const blocks = cats.filter(function(c) { return c.class !== "cash"; }).map(function(c) {
-    const retStr = c.return_pct === null || c.return_pct === undefined
-      ? '-'
-      : (c.return_pct >= 0 ? '+' : '') + c.return_pct.toFixed(2) + '%';
-    const retColor = c.return_pct === null || c.return_pct === undefined
-      ? '#999'
-      : c.return_pct >= 0 ? '#ff4d4f' : '#52c41a';
+  // Helpers
+  const fmtRet = function(r) {
+    if (r === null || r === undefined) return { str: '-', color: '#999' };
+    return {
+      str:   (r >= 0 ? '+' : '') + r.toFixed(2) + '%',
+      color: r >= 0 ? '#ff4d4f' : '#52c41a',
+    };
+  };
+  // Build a {fundCode -> holdings record} index from the current plan's data.json
+  const holdingByCode = {};
+  if (_appData && _appData.holdings) {
+    _appData.holdings.forEach(function(h) { holdingByCode[h.fundCode] = h; });
+  }
+
+  const fundRowHtml = function(f) {
+    const fr = fmtRet(f.return_pct);
+    const holding = holdingByCode[f.code];
+    const history = holding ? (holding.history || []) : [];
+    // Latest action: last item by date desc
+    const sortedHist = history.slice().sort(function(a, b) { return b.date.localeCompare(a.date); });
+    const latest = sortedHist[0];
+
+    let lastActionHtml = '';
+    if (latest) {
+      const fullDate = latest.date || '';
+      const act  = latest.action === 'buy' ? '买入' : '卖出';
+      const link = latest.articleLink
+        ? '<a class="ac-last-link" href="' + escHtml(latest.articleLink) + '" target="_blank" rel="noopener" onclick="event.stopPropagation()">&#x1F517;</a>'
+        : '';
+      lastActionHtml = '<span class="ac-last-action">'
+        + '最近发车：' + fullDate + ' '
+        + '<span class="ac-last-badge ' + latest.action + '">' + act + ' ' + (latest.unit || 1) + '份</span>'
+        + ' ' + link
+        + '</span>';
+    } else if (f.last_trade) {
+      lastActionHtml = '<span class="ac-trade-date">' + escHtml(f.last_trade) + '</span>';
+    }
+
+    // History rows for inline expansion
+    const histRows = sortedHist.map(function(h) {
+      const itemId = extractItemId(h.articleLink);
+      const title = (itemId && _contentMap[itemId]) ? _contentMap[itemId].title : '';
+      const link = h.articleLink
+        ? '<a class="h-link" href="' + escHtml(h.articleLink) + '" target="_blank" rel="noopener" onclick="event.stopPropagation()">&#x1F517; 文章</a>'
+        : '';
+      return '<div class="ac-fund-history-row">'
+        + '<span class="h-date">' + h.date + '</span>'
+        + '<span class="h-action ' + h.action + '">' + (h.action === 'buy' ? '买入' : '卖出') + '</span>'
+        + '<span class="h-unit">' + (h.unit || 1) + '份</span>'
+        + '<span class="h-title">' + escHtml(title) + '</span>'
+        + link
+        + '</div>';
+    }).join('');
+    const histPanel = histRows
+      ? '<div class="ac-fund-history" data-fund="' + escHtml(f.code) + '">'
+        + '<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">'
+        + '<span style="font-size:11px;color:#888">操作历史 · 共 ' + sortedHist.length + ' 笔</span>'
+        + '<button class="ac-fund-chart-btn" onclick="event.stopPropagation();openChart(\'' + escHtml(f.code) + '\',\'' + escHtml(f.name) + '\')">查看净值图</button>'
+        + '</div>' + histRows
+        + '</div>'
+      : '';
+
+    const rowAttrs = ' data-fund="' + escHtml(f.code) + '"'
+      + (history.length ? ' onclick="toggleFundRow(\'' + escHtml(f.code) + '\')"' : '');
+
+    return '<div class="ac-fund-row"' + rowAttrs + '>'
+      + (history.length ? '<span class="ac-fund-toggle">▶</span>' : '<span class="ac-fund-toggle" style="visibility:hidden">▶</span>')
+      + '<div class="ac-fund-name">'
+        + '<div class="ac-fund-name-line1">'
+          + '<span class="ac-fund-name-label">' + escHtml(f.name) + '</span>'
+          + '<span class="ac-fund-code">' + escHtml(f.code) + ' ' + escHtml(f.fullName || '') + '</span>'
+          + (f.status === 'cleared' ? '<span class="ac-fund-cleared">已清仓</span>' : '')
+        + '</div>'
+        + (lastActionHtml ? '<div class="ac-fund-name-line2"><span class="ac-fund-name-label" style="visibility:hidden">' + escHtml(f.name) + '</span>' + lastActionHtml + '</div>' : '')
+      + '</div>'
+      + '<div class="ac-fund-units">' + (f.status === 'cleared' ? '-' : f.units + '份') + '</div>'
+      + '<div class="ac-fund-share">' + (f.status === 'cleared' ? '-' : f.share_pct.toFixed(2) + '%') + '</div>'
+      + '<div class="ac-fund-ret" style="color:' + fr.color + '">' + fr.str + '</div>'
+      + '</div>'
+      + histPanel;
+  };
+
+  // Per-L1 block: L2 sub-groups (collapsible, default collapsed) → L3 fund rows
+  let l2Counter = 0;
+  const blocks = cats.filter(function(c) { return c.class !== "现金"; }).map(function(c) {
+    const cRet = fmtRet(c.return_pct);
     const head = '<div class="ac-cls-head">'
       + '<span class="ac-cls-dot" style="background:' + c.color + '"></span>'
       + '<span class="ac-cls-name">' + escHtml(c.label) + '</span>'
@@ -1138,37 +2257,138 @@ function renderAllocationComposition() {
         + (c.units > 0 ? ' 共' + c.units + '份' : ' 已清仓')
         + ' · 占比 ' + c.share_pct.toFixed(2) + '%'
       + '</span>'
-      + '<span class="ac-cls-ret" style="color:' + retColor + '">累计 ' + retStr + '</span>'
+      + '<span class="ac-cls-ret" style="color:' + cRet.color + '">累计 ' + cRet.str + '</span>'
       + '</div>';
 
-    const fundRows = (c.funds || []).map(function(f) {
-      const fr = f.return_pct;
-      const frStr = fr === null || fr === undefined ? '-'
-        : (fr >= 0 ? '+' : '') + fr.toFixed(2) + '%';
-      const frColor = fr === null || fr === undefined ? '#999'
-        : fr >= 0 ? '#ff4d4f' : '#52c41a';
-      const dateLabel = f.last_trade ? f.last_trade.slice(5) : '';
-      return '<div class="ac-fund-row">'
-        + '<div class="ac-fund-name">' + escHtml(f.name)
-          + (f.status === 'cleared'
-              ? '<span class="ac-fund-cleared">已清仓</span>'
-              : '<span class="ac-trade-date">' + escHtml(dateLabel) + '</span>')
-        + '</div>'
-        + '<div class="ac-fund-units">' + (f.status === 'cleared' ? '-' : f.units + '份') + '</div>'
-        + '<div class="ac-fund-share">' + (f.status === 'cleared' ? '-' : f.share_pct.toFixed(2) + '%') + '</div>'
-        + '<div class="ac-fund-ret" style="color:' + frColor + '">' + frStr + '</div>'
+    // Group funds by L2
+    const byL2 = {};
+    const l2Order = [];
+    (c.funds || []).forEach(function(f) {
+      const k = f.l2 || '其他';
+      if (!byL2[k]) { byL2[k] = []; l2Order.push(k); }
+      byL2[k].push(f);
+    });
+
+    // Build a ranked L2 list: sort by aggregated active share desc, then by cleared count
+    const l2Stats = l2Order.map(function(l2name) {
+      const funds = byL2[l2name];
+      const active = funds.filter(function(f){return f.status==='active';});
+      const cleared = funds.filter(function(f){return f.status==='cleared';});
+      const sumShare = active.reduce(function(a,f){return a+f.share_pct;}, 0);
+      const sumUnits = active.reduce(function(a,f){return a+f.units;}, 0);
+      // L2 累计 = active funds 按 share 加权平均；无 active 时取 cleared 平均
+      let l2Ret = null;
+      if (active.length) {
+        const w = active.reduce(function(a,f){return a+(f.share_pct||0);}, 0) || 1;
+        l2Ret = active.reduce(function(a,f){return a+(f.return_pct||0)*(f.share_pct||0);}, 0) / w;
+      } else if (cleared.length) {
+        const rets = cleared.map(function(f){return f.return_pct;}).filter(function(r){return r!=null;});
+        if (rets.length) l2Ret = rets.reduce(function(a,r){return a+r;},0)/rets.length;
+      }
+      return { name: l2name, funds: active.concat(cleared), units: sumUnits, share: sumShare, ret: l2Ret, hasActive: active.length > 0 };
+    }).sort(function(a,b){
+      if (a.hasActive !== b.hasActive) return a.hasActive ? -1 : 1;
+      return b.share - a.share;
+    });
+
+    const l2Blocks = l2Stats.map(function(s) {
+      const r = fmtRet(s.ret);
+      const meta = (s.hasActive ? s.units + '份 · ' + s.share.toFixed(2) + '%' : '已清仓')
+        + (s.funds.length > 1 ? '  (' + s.funds.length + ' 只)' : '');
+      // L2 head is always-visible (no toggle); collapse layer is L3 below
+      const headHtml = '<div class="ac-l2-head">'
+        + '<span class="ac-l2-name">' + escHtml(s.name) + '</span>'
+        + '<span class="ac-l2-meta">' + meta + '</span>'
+        + '<span class="ac-l2-ret" style="color:' + r.color + '">' + r.str + '</span>'
         + '</div>';
+      // Group funds by L3 within this L2
+      const byL3 = {};
+      const l3Order = [];
+      s.funds.forEach(function(f) {
+        const k = f.l3 || '其他';
+        if (!byL3[k]) { byL3[k] = []; l3Order.push(k); }
+        byL3[k].push(f);
+      });
+      const l3Stats = l3Order.map(function(l3name) {
+        const funds = byL3[l3name];
+        const active = funds.filter(function(f){return f.status==='active';});
+        const sumShare = active.reduce(function(a,f){return a+f.share_pct;}, 0);
+        const sumUnits = active.reduce(function(a,f){return a+f.units;}, 0);
+        let l3Ret = null;
+        if (active.length) {
+          const w = active.reduce(function(a,f){return a+(f.share_pct||0);}, 0) || 1;
+          l3Ret = active.reduce(function(a,f){return a+(f.return_pct||0)*(f.share_pct||0);}, 0) / w;
+        } else {
+          const rets = funds.map(function(f){return f.return_pct;}).filter(function(r){return r!=null;});
+          if (rets.length) l3Ret = rets.reduce(function(a,r){return a+r;},0)/rets.length;
+        }
+        return { name: l3name, funds: funds, units: sumUnits, share: sumShare, ret: l3Ret, hasActive: active.length > 0 };
+      }).sort(function(a,b){
+        if (a.hasActive !== b.hasActive) return a.hasActive ? -1 : 1;
+        return b.share - a.share;
+      });
+
+      const l3Html = l3Stats.map(function(g) {
+        // L3 header: skip when L3 name == L2 name (e.g. 原油/原油 redundant)
+        const sameAsParent = g.name === s.name;
+        const r = fmtRet(g.ret);
+        const meta = (g.hasActive ? g.units + '份 · ' + g.share.toFixed(2) + '%' : '已清仓');
+        const fundsHtml = g.funds.map(fundRowHtml).join('');
+        if (sameAsParent) {
+          // No L3 wrapper — funds attach directly under L2 (still collapsible? No — show inline)
+          return '<div class="ac-l3-block"><div class="ac-l3-funds open">' + fundsHtml + '</div></div>';
+        }
+        const l3id = 'ac-l3-' + (l2Counter++);
+        const head = '<div class="ac-l3-head" onclick="toggleL3(\'' + l3id + '\')">'
+          + '<span class="ac-l3-toggle" id="' + l3id + '-tog">▶</span>'
+          + '<span class="ac-l3-name">' + escHtml(g.name) + '</span>'
+          + '<span class="ac-l3-meta">' + meta + '</span>'
+          + '<span class="ac-l3-ret" style="color:' + r.color + '">' + r.str + '</span>'
+          + '</div>';
+        const fundsWrap = '<div class="ac-l3-funds" id="' + l3id + '">' + fundsHtml + '</div>';
+        return '<div class="ac-l3-block">' + head + fundsWrap + '</div>';
+      }).join('');
+
+      const bodyHtml = '<div class="ac-l2-body">' + l3Html + '</div>';
+      return '<div class="ac-l2-block">' + headHtml + bodyHtml + '</div>';
     }).join('');
 
-    return '<div class="ac-cls-block">' + head + fundRows + '</div>';
+    return '<div class="ac-cls-block">' + head + l2Blocks + '</div>';
   }).join('');
 
   return '<div class="card"><div class="card-title">资产成分</div>'
-    + '<div style="font-size:12px;color:#999;margin-bottom:6px">'
-    + '已投 ' + cur.invested_unit + '/' + cur.total_unit + '份  ·  现金 ' + cur.cash_unit + '份'
+    + blocks
+    + '<div style="font-size:11px;color:#aaa;margin-top:8px">'
+    + (_allocation && _allocation._source === 'qieman'
+        ? '✓ 数据来源：且慢官方 API（占比 / 累计收益率均为权威值）'
+        : '* 占比 = 该资产当前估值 / 组合总估值。算法基于 adj_nav，与且慢官方略有偏差。')
     + '</div>'
-    + barHtml + blocks
-    + '<div style="font-size:11px;color:#aaa;margin-top:8px">* 占比 = 该资产当前估值 / 组合总估值（含未投份额）。算法基于 adj_nav，与且慢官方略有偏差。</div>'
+    + '</div>';
+}
+
+/* L1 summary: stacked bar + legend + 已投/现金 — lifted to top of 资产配置 (shared across sub-tabs) */
+function renderL1Summary() {
+  if (!_allocation || !_allocation.current) return '';
+  const cur = _allocation.current;
+  const cats = (cur.by_category || []).filter(function(c) { return c.share_pct > 0; });
+  const barHtml = '<div class="ac-bar">'
+    + cats.map(function(c) {
+        return '<div class="ac-seg" title="' + escHtml(c.label + ' ' + c.share_pct.toFixed(2) + '%') + '"'
+          + ' style="width:' + c.share_pct + '%;background:' + c.color + '"></div>';
+      }).join('')
+    + '</div>'
+    + '<div class="ac-legend">'
+    + cats.map(function(c) {
+        return '<span><span class="ac-leg-dot" style="background:' + c.color + '"></span>'
+          + escHtml(c.label) + ' ' + c.share_pct.toFixed(2) + '%</span>';
+      }).join('')
+    + '</div>';
+  return '<div class="ac-l1-summary">'
+    + '<div style="font-size:12px;color:#666;margin-bottom:8px;display:flex;justify-content:space-between;align-items:center">'
+    + '<span>已投 <b style="color:#111">' + cur.invested_unit + '/' + cur.total_unit + '</b> 份  ·  现金 <b style="color:#111">' + cur.cash_unit + '</b> 份</span>'
+    + '<span style="color:#aaa;font-size:11px">' + (_currentPlan === 's' ? '长赢 S' : '长赢 150') + '</span>'
+    + '</div>'
+    + barHtml
     + '</div>';
 }
 
@@ -1192,8 +2412,8 @@ function initAllocationTrendChart() {
   const xs = ts.map(function(r) { return r.date; });
   const classes = (_allocationAll && _allocationAll.asset_classes) || [];
   // Render order: cash on top so it visually fills "未投" portion
-  const renderOrder = ["a_stock","overseas_emerging","overseas_developed",
-                       "domestic_bond","overseas_bond","gold","oil","other","cash"];
+  const renderOrder = ["A股","海外新兴","海外成熟",
+                       "商品","债券","房地产","外汇","其他","现金"];
   const labelMap = {}; const colorMap = {};
   classes.forEach(function(c) { labelMap[c.key] = c.label; colorMap[c.key] = c.color; });
 
@@ -1254,180 +2474,263 @@ function initAllocationTrendChart() {
   });
 }
 
-/* ── Allocation: 旭日图 demo (图3) ── */
-// 注: 截面 hardcoded（来自且慢 2026-04-30 资产成分截图），用于 demo 视觉
-const SUNBURST_DEMO_150 = {
-  date: "2026-04-30",
-  total_unit: 150,
-  data: [
-    { name: "A股", value: 44.21, units: 72, itemStyle: { color: "#7d9ec0" }, children: [
-      { name: "行业", value: 19.19, units: 36, children: [
-        { name: "医药", value: 9.94, units: 19 },
-        { name: "消费", value: 5.10, units: 8 },
-        { name: "养老", value: 2.87, units: 7 },
-        { name: "证券", value: 0.67, units: 1 },
-        { name: "金融", value: 0.61, units: 1 },
-      ]},
-      { name: "价值", value: 9.24, units: 15, children: [
-        { name: "红利", value: 9.24, units: 15 },
-      ]},
-      { name: "大盘", value: 8.90, units: 12, children: [
-        { name: "300", value: 7.04, units: 9 },
-        { name: "50",  value: 1.86, units: 3 },
-      ]},
-      { name: "中小盘", value: 6.88, units: 9, children: [
-        { name: "500", value: 6.88, units: 9 },
-      ]},
-    ]},
-    { name: "海外新兴", value: 9.46, units: 16, itemStyle: { color: "#e8a987" }, children: [
-      { name: "海外科技", value: 4.84, units: 9, children: [
-        { name: "海外互联", value: 2.82, units: 6 },
-        { name: "恒生科技", value: 2.02, units: 3 },
-      ]},
-      { name: "香港", value: 4.62, units: 7, children: [
-        { name: "恒生", value: 4.62, units: 7 },
-      ]},
-    ]},
-    { name: "海外成熟", value: 2.56, units: 3, itemStyle: { color: "#5cb87a" }, children: [
-      { name: "全球", value: 1.42, units: 2, children: [
-        { name: "全球医疗", value: 1.42, units: 2 },
-      ]},
-      { name: "美国", value: 1.14, units: 1, children: [
-        { name: "标普500", value: 1.14, units: 1 },
-      ]},
-    ]},
-    { name: "债券", value: 11.17, units: 15, itemStyle: { color: "#5b9bd5" }, children: [
-      { name: "国内债券", value: 7.64, units: 10, children: [
-        { name: "可转债", value: 5.45, units: 7 },
-        { name: "纯债",   value: 2.19, units: 3 },
-      ]},
-      { name: "海外债券", value: 3.53, units: 5, children: [
-        { name: "美元债", value: 3.53, units: 5 },
-      ]},
-    ]},
-    { name: "货币", value: 32.60, units: 44, itemStyle: { color: "#1f4e6e" }, children: [] },
-  ],
+/* ── Allocation: 组合净值曲线 ── */
+function renderNavChart() {
+  if (!_allocation || !_allocation.nav_history || !_allocation.nav_history.length) return '';
+  return '<div class="card">'
+    + '<div id="acNavChart" style="width:100%;height:360px"></div>'
+    + '</div>';
+}
+
+function initNavChart() {
+  if (!_allocation || !_allocation.nav_history || !_allocation.nav_history.length) return;
+  var container = document.getElementById('acNavChart');
+  if (!container) return;
+  if (_navChart) { _navChart.dispose(); _navChart = null; }
+  _navChart = echarts.init(container);
+  container._chart = _navChart;
+
+  var hist = _allocation.nav_history;
+  var xs = hist.map(function(r) { return r.date; });
+  var navs = hist.map(function(r) { return r.nav; });
+
+  var latest = hist[hist.length - 1];
+  var totalRet = ((latest.nav - 1) * 100).toFixed(2);
+  var maxNav = Math.max.apply(null, navs);
+  var minNav = Math.min.apply(null, navs);
+  var dd = ((1 - minNav / maxNav) * 100).toFixed(2);
+
+  _navChart.setOption({
+    title: {
+      text: '组合净值 ' + latest.nav.toFixed(4) + '  累计 ' + (totalRet >= 0 ? '+' : '') + totalRet + '%',
+      textStyle: { fontSize: 13, fontWeight: 500, color: '#333' },
+      left: 8, top: 4,
+    },
+    tooltip: {
+      trigger: 'axis',
+      formatter: function(params) {
+        var p = params[0];
+        var navRow = hist[p.dataIndex];
+        var ret = ((navRow.nav - 1) * 100).toFixed(2);
+        return p.axisValue + '<br/>'
+          + '净值 ' + navRow.nav.toFixed(4) + '<br/>'
+          + '累计 ' + (ret >= 0 ? '+' : '') + ret + '%';
+      },
+    },
+    grid: { left: 50, right: 16, top: 36, bottom: 40 },
+    xAxis: {
+      type: 'category',
+      data: xs,
+      axisLabel: { fontSize: 10, color: '#888' },
+      boundaryGap: false,
+    },
+    yAxis: {
+      type: 'value',
+      axisLabel: { fontSize: 10, color: '#888' },
+      splitLine: { lineStyle: { color: '#f0f0f0' } },
+    },
+    series: [{
+      type: 'line',
+      data: navs,
+      symbol: 'none',
+      lineStyle: { width: 1.5, color: '#3b82f6' },
+      areaStyle: {
+        color: {
+          type: 'linear', x: 0, y: 0, x2: 0, y2: 1,
+          colorStops: [
+            { offset: 0, color: 'rgba(59,130,246,0.18)' },
+            { offset: 1, color: 'rgba(59,130,246,0.02)' },
+          ],
+        },
+      },
+    }],
+  });
+}
+
+/* ── Allocation: 旭日图 (图3) — 真实 by_taxonomy 数据 ── */
+// 3-step muted earth-tone ramp per L1: inner=L1 (deep) / mid=L2 / outer=L3 (light).
+// Outer ring is the LAST shade — funds (L4 leaves) reuse L3 color, separated only by white border.
+// Lightest shade is calibrated for #333 dark text contrast (NOT pushed further toward white).
+// 同族不同支：海外新兴(深锚) 和 海外成熟(浅锚) 共享蓝绿色族，明度相邻。
+const SUNBURST_PALETTE = {
+  'A股':          ['#B85F5C', '#CC8987', '#E0B3B2'],  // dusty terracotta rose
+  '海外新兴': ['#3F7C8F', '#6FA0AF', '#A0C5CF'],  // slate teal (deep anchor)
+  '海外成熟': ['#5790A3', '#84B0BF', '#B5D0DA'],  // slate teal (light anchor — 同族 1 档)
+  '商品':         ['#B5874E', '#CDA77D', '#E0C6AC'],  // muted ochre
+  '债券':         ['#6B6B96', '#9494B5', '#BDBDD4'],  // slate violet
+  '房地产':       ['#7E8E5E', '#A4B58A', '#C8D4B3'],  // muted sage
+  '外汇':         ['#5C8B83', '#88AAA3', '#B5CBC4'],  // muted teal-green
+  '现金':         ['#9C9588', '#BDB8AD', '#DCD8D0'],  // warm taupe
+  '其他':         ['#8C8C8C', '#B0B0B0', '#D4D4D4'],  // neutral gray
 };
 
+function buildSunburstTree(byTaxonomy, cashUnits, totalMv) {
+  // by_taxonomy: [{name, value, units, share_pct, color, children: L2[...]}]
+  // L2/L3 nodes: {name, value, units, share_pct, children}
+  // L3 leaves are funds: {name, code, value, units, share_pct, return_pct, status}
+  // Drop status='cleared' leaves (value=0) so sunburst only shows live exposure.
+  function pruneLeaves(node) {
+    if (!node.children) return node;
+    const live = node.children
+      .filter(function(c) {
+        if (c.status === 'cleared') return false;
+        if (c.children) {
+          const pc = pruneLeaves(c);
+          return pc.children && pc.children.length > 0;
+        }
+        return c.value > 0.0001;
+      })
+      .map(pruneLeaves);
+    return Object.assign({}, node, { children: live });
+  }
+  // Darken a hex color by `amt` (0-1) for tonal border that blends with the layer.
+  function darken(hex, amt) {
+    const m = hex.replace('#', '').match(/.{2}/g);
+    if (!m) return hex;
+    const ch = m.map(function(h) {
+      const v = Math.max(0, Math.round(parseInt(h, 16) * (1 - amt)));
+      return v.toString(16).padStart(2, '0');
+    });
+    return '#' + ch.join('');
+  }
+
+  // Recursively colorize: depth 0=L1 / 1=L2 / 2=L3. Stop at L3 — drop fund leaves entirely.
+  // Border = same hue, ~15% darker → tonal separation without harsh white lines.
+  function colorize(node, palette, depth) {
+    const idx = Math.min(depth, palette.length - 1);
+    const color = palette[idx];
+    const labelColor = depth <= 1 ? '#ffffff' : '#333333';
+    const out = Object.assign({}, node, {
+      itemStyle: { color: color, borderColor: darken(color, 0.10), borderWidth: 1 },
+      label: { color: labelColor },
+    });
+    if (depth < 2 && node.children && node.children.length) {
+      out.children = node.children.map(function(c) { return colorize(c, palette, depth + 1); });
+    } else {
+      delete out.children;
+    }
+    return out;
+  }
+
+  const data = byTaxonomy
+    .map(pruneLeaves)
+    .filter(function(l1) { return (l1.children || []).length > 0; })
+    .map(function(l1) {
+      const palette = SUNBURST_PALETTE[l1.name] || SUNBURST_PALETTE['其他'];
+      return colorize(l1, palette, 0);
+    });
+
+  // Cash: synthesize 3-deep chain (L1→L2→L3), no L4 leaf.
+  if (cashUnits > 0 && totalMv > 0) {
+    const cashShare = cashUnits / totalMv * 100;
+    const palette = SUNBURST_PALETTE['现金'];
+    const cashNode = function(colorIdx, labelColor, children) {
+      const c = palette[colorIdx];
+      const n = {
+        name: '现金', value: cashUnits, units: cashUnits, share_pct: cashShare,
+        itemStyle: { color: c, borderColor: darken(c, 0.10), borderWidth: 1 },
+        label: { color: labelColor },
+      };
+      if (children) n.children = children;
+      return n;
+    };
+    const l3 = cashNode(2, '#333');
+    const l2 = cashNode(1, '#fff', [l3]);
+    data.push(cashNode(0, '#fff', [l2]));
+  }
+  return data;
+}
+
 function renderAllocationSunburst() {
+  if (!_allocation || !_allocation.current || !_allocation.current.by_taxonomy) return '';
   return '<div class="card">'
     + '<div class="card-title">资产成分（多层）</div>'
     + '<div style="font-size:11px;color:#aaa;margin-bottom:6px">'
-    + '【XX】= 份数  ·  XX.XX% = 市值占比 · demo 数据来自且慢 2026-04-30'
+    + '内→外：大类 / 中类 / 细类 / 基金。份数 · 占比'
     + '</div>'
     + '<div id="acSunburst" class="ac-sunburst"></div>'
     + '</div>';
 }
 
 function initAllocationSunburst() {
+  if (!_allocation || !_allocation.current || !_allocation.current.by_taxonomy) return;
   const container = document.getElementById('acSunburst');
   if (!container || !window.echarts) return;
   if (container._chart) container._chart.dispose();
   const chart = echarts.init(container);
   container._chart = chart;
 
+  const cur = _allocation.current;
+  // Total MV = sum of L1 values + cash
+  let totalMv = (cur.by_taxonomy || []).reduce(function(a, l1) { return a + (l1.value || 0); }, 0);
+  totalMv += cur.cash_unit || 0;
+  const data = buildSunburstTree(cur.by_taxonomy, cur.cash_unit || 0, totalMv);
+
   const fmtLabel = function(p) {
     const d = p.data || {};
-    if (d.units !== undefined) return d.name + ' [' + d.units + ']\n' + d.value.toFixed(2) + '%';
-    return d.name + '\n' + (d.value || 0).toFixed(2) + '%';
+    const units = d.units !== undefined ? d.units : '';
+    const share = d.share_pct !== undefined ? d.share_pct.toFixed(2) + '%' : '';
+    if (units !== '' && share) return d.name + '\n' + units + '份\n' + share;
+    return d.name;
+  };
+  const fmtTip = function(p) {
+    const d = p.data || {};
+    const lines = ['<b>' + escHtml(d.name) + '</b>'];
+    if (d.units !== undefined) lines.push('份数: ' + d.units);
+    if (d.share_pct !== undefined) lines.push('占比: ' + d.share_pct.toFixed(2) + '%');
+    if (d.return_pct !== undefined && d.return_pct !== null) {
+      const sign = d.return_pct >= 0 ? '+' : '';
+      lines.push('累计收益: ' + sign + d.return_pct.toFixed(2) + '%');
+    }
+    return lines.join('<br>');
   };
 
-  chart.setOption({
+  const planLabel = _currentPlan === 's' ? '长赢-S' : '长赢 150';
+
+  const baseOption = {
+    tooltip: { trigger: 'item', formatter: fmtTip },
     series: [{
       type: 'sunburst',
-      data: SUNBURST_DEMO_150.data,
+      data: data,
       radius: ['18%', '95%'],
       sort: null,
+      nodeClick: 'rootToNode',
       label: {
         rotate: 'tangential',
         fontSize: 11,
         color: '#fff',
         formatter: fmtLabel,
+        minAngle: 8,
       },
       levels: [
         {},
         { r0: '18%', r: '45%', label: { rotate: 'tangential' } },
-        { r0: '45%', r: '72%', label: { rotate: 'tangential' } },
-        { r0: '72%', r: '95%', label: { rotate: 'tangential', fontSize: 10 } },
+        { r0: '45%', r: '70%', label: { rotate: 'tangential' } },
+        { r0: '70%', r: '95%', label: { rotate: 'tangential', fontSize: 11 } },
       ],
-      itemStyle: { borderColor: '#fff', borderWidth: 1 },
+      itemStyle: { borderWidth: 0 },  // per-node borders set in colorize()/cashNode
       emphasis: { focus: 'ancestor' },
     }],
     title: {
-      text: '长赢 150',
+      text: planLabel,
+      subtext: '点击回到全局',
       left: 'center',
       top: 'center',
-      textStyle: { fontSize: 18, color: '#1a3454', fontWeight: 700 },
+      itemGap: 6,
+      textStyle: { fontSize: 18, color: '#1a3454', fontWeight: 700, cursor: 'pointer' },
+      subtextStyle: { fontSize: 10, color: '#8c8c8c', cursor: 'pointer' },
+      triggerEvent: true,
     },
+  };
+  chart.setOption(baseOption);
+
+  // Click center title → fully reset (notMerge=true clears drill-down state).
+  chart.off('click');
+  chart.on('click', function(p) {
+    if (p && p.componentType === 'title') {
+      chart.setOption(baseOption, true);
+    }
   });
-}
-
-/* ── Allocation: 累计收益率排序 (图4) ── */
-function flattenAllocationFunds() {
-  if (!_allocation || !_allocation.current) return [];
-  const out = [];
-  (_allocation.current.by_category || []).forEach(function(c) {
-    if (c.class === 'cash') return;
-    (c.funds || []).forEach(function(f) {
-      if (f.return_pct === null || f.return_pct === undefined) return;
-      out.push({
-        name: f.name,
-        short: shortFundName(f.name),
-        cleared: f.status === 'cleared',
-        return_pct: f.return_pct,
-        units: f.units,
-      });
-    });
-  });
-  out.sort(function(a, b) { return b.return_pct - a.return_pct; });
-  return out;
-}
-
-function shortFundName(name) {
-  // Strip common 后缀
-  return name
-    .replace(/(联接|发起式|指数|增强|混合|债券|纯利|股票|主题|灵活配置)/g, '')
-    .replace(/\([^)]*\)/g, '')
-    .replace(/[A-Z]+$/, '')
-    .replace(/\s+/g, ' ').trim();
-}
-
-function renderAllocationReturnBar() {
-  const list = flattenAllocationFunds();
-  if (!list.length) return '';
-
-  const maxAbs = Math.max.apply(null, list.map(function(x) { return Math.abs(x.return_pct); })) || 1;
-
-  const rowHtml = list.map(function(f) {
-    const r = f.return_pct;
-    const isPos = r >= 0;
-    const cls = isPos ? 'ac-rb-bar-pos' : 'ac-rb-bar-neg';
-    const valCls = isPos ? 'ac-rb-val-pos' : 'ac-rb-val-neg';
-    // axis at 50%, bar grows from middle
-    const halfWidth = Math.abs(r) / maxAbs * 50;
-    const left = isPos ? 50 : (50 - halfWidth);
-    const valStyle = isPos
-      ? 'left: calc(50% + ' + halfWidth + '% + 4px)'
-      : 'right: calc(50% + ' + halfWidth + '% + 4px)';
-    const cleared = f.cleared ? ' (已清仓)' : '';
-    return '<div class="ac-rb-row">'
-      + '<div class="ac-rb-name" title="' + escHtml(f.name) + '">'
-        + escHtml(f.short + cleared) + '</div>'
-      + '<div class="ac-rb-track">'
-        + '<div class="ac-rb-axis" style="left:50%"></div>'
-        + '<div class="ac-rb-bar ' + cls + '" style="left:' + left + '%;width:' + halfWidth + '%"></div>'
-        + '<div class="ac-rb-val ' + valCls + '" style="' + valStyle + '">'
-          + (r >= 0 ? '' : '') + r.toFixed(2) + '%</div>'
-      + '</div>'
-      + '</div>';
-  }).join('');
-
-  return '<div class="card">'
-    + '<div class="card-title">『长赢' + (_currentPlan === '150' ? '150' : 'S') + '』资产成分 累计收益率%</div>'
-    + '<div style="font-size:11px;color:#aaa;text-align:center;margin-bottom:8px">'
-    + (_allocation.updatedAt || '').slice(0, 10) + ' · ' + list.length + ' 个品种</div>'
-    + '<div style="padding:4px 0">' + rowHtml + '</div>'
-    + '</div>';
 }
 
 /* ── Allocation: 月度涨跌幅 (图5) ── */
@@ -1668,19 +2971,32 @@ function renderAnalysisTab() {
   const compHtml     = renderAllocationComposition();
   const sunburstHtml = renderAllocationSunburst();
   const trendHtml    = renderAllocationTrend();
-  const retBarHtml   = renderAllocationReturnBar();
   const monthlyHtml  = renderAllocationMonthly();
+  const navHtml      = renderNavChart();
+
+  const summaryHtml = renderL1Summary();
+  const subtabBar = '<div class="subtab-bar">'
+    + '<button class="subtab-btn active" data-subtab="snapshot"   onclick="switchSubTab(\'snapshot\')">资产详情</button>'
+    + '<button class="subtab-btn"        data-subtab="layered"    onclick="switchSubTab(\'layered\')">资产分布</button>'
+    + '<button class="subtab-btn"        data-subtab="timeseries" onclick="switchSubTab(\'timeseries\')">组合净值</button>'
+    + '<button class="subtab-btn"        data-subtab="strategy"   onclick="switchSubTab(\'strategy\')">策略数据</button>'
+    + '</div>';
 
   el.innerHTML = '<div style="max-width:900px;margin:0 auto;padding:16px">'
     + '<div style="color:#999;font-size:12px;text-align:right;margin-bottom:8px">更新于 ' + (_analysis.updatedAt || '').slice(0, 10) + '</div>'
-    + compHtml + sunburstHtml + trendHtml + retBarHtml + monthlyHtml
-    + kpiHtml + distHtml + actHtml + posHtml + tradesHtml
+    + summaryHtml
+    + subtabBar
+    + '<div class="subtab-panel active" data-subtab="snapshot">' + compHtml + '</div>'
+    + '<div class="subtab-panel"        data-subtab="layered">'  + sunburstHtml + '</div>'
+    + '<div class="subtab-panel"        data-subtab="timeseries">' + navHtml + trendHtml + monthlyHtml + '</div>'
+    + '<div class="subtab-panel"        data-subtab="strategy">' + kpiHtml + distHtml + actHtml + posHtml + tradesHtml + '</div>'
     + '</div>';
 
   // ECharts must init after DOM is in place
   initAllocationSunburst();
   initAllocationTrendChart();
   initAllocationMonthly();
+  initNavChart();
 }
 
 function renderChart(nav, fundCode) {

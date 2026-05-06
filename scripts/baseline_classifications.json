@@ -1,0 +1,1181 @@
+[
+  {
+    "axis_id": "a_stock",
+    "article_id": "68683",
+    "quote_prefix": "首先，目前150仓位如下图。由于之前不断整体减仓，目前A股仓位只有不到46%。加",
+    "rule_kind": "current_status",
+    "pct_low": 46,
+    "pct_high": 46,
+    "reasoning": "当前 A股仓位 46%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "67237",
+    "quote_prefix": "少了5个点。A股总仓位高了点，目前40%左右合适。其中行业仓位略高了几个点。",
+    "rule_kind": "target",
+    "pct_low": 40,
+    "pct_high": 40,
+    "reasoning": "40% 合适 = 目标仓位"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "60967",
+    "quote_prefix": "在A股投资，真的要懂得进退。A股是一个有别于其他市场的地方，赚钱了不在合适的时间",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 40,
+    "reasoning": "过热时可降至 40% 左右或更低"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "60967",
+    "quote_prefix": "A股是一个有别于其他市场的地方，赚钱了不在合适的时间走，有一天会一把给你收回去。",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 40,
+    "reasoning": "同一说法重复引用"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "21295",
+    "quote_prefix": "S的现金更多。第二，由于不断减仓以及市场调整，A股仓位已经低于50%，加仓空间再",
+    "rule_kind": "current_status",
+    "pct_low": 50,
+    "pct_high": 50,
+    "reasoning": "当前 A股低于 50%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "57271",
+    "quote_prefix": "最近几个月，两个计划实际上持续在减仓。目前150的A股仓位只有48%，现金已经接",
+    "rule_kind": "current_status",
+    "pct_low": 48,
+    "pct_high": 48,
+    "reasoning": "当前 A股仓位 48%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "56233",
+    "quote_prefix": "虽然绝对数不说明什么，还是需要纵向横向比较，但是这绝对数也说明了什么。从估值整体",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "引用来自估值讨论的数字"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "55159",
+    "quote_prefix": "# 目前150的A股仓位已经不到50%了。现金超过26%，看起来。",
+    "rule_kind": "current_status",
+    "pct_low": 50,
+    "pct_high": 50,
+    "reasoning": "当前不到 50%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "55159",
+    "quote_prefix": "现金超过26%，看起来。目前150的A股仓位已经不到50%了。现金超过26%，看",
+    "rule_kind": "current_status",
+    "pct_low": 50,
+    "pct_high": 50,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "54745",
+    "quote_prefix": "更新一下仓位，托跌跌的福，终于（又）下去了。2018年大建仓以来，以及，2024",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 50,
+    "reasoning": "明确提到把 A股降到 50% 以内"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "19717",
+    "quote_prefix": "买入一份1-3年国开债（场外006484）随着市场调整，以及我们之前不断的卖出回",
+    "rule_kind": "current_status",
+    "pct_low": 25,
+    "pct_high": 25,
+    "reasoning": "当前现金>25%，上下文是 A股 但讲现金"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "18625",
+    "quote_prefix": "再叠加波段计划，基本上不能说全部，在座95%以上的朋友，金融投资资产都在新高，这",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "95% 是受益朋友占比，非仓位"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "14815",
+    "quote_prefix": "卖出一份恒生科技（场外012348）。未来一个阶段，150计划的目标是将A股仓位",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 50,
+    "reasoning": "目标是 A股再平衡到 50% 以内"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "13789",
+    "quote_prefix": "买入一份富国全球债C（场外019518）（存在自目前价格下跌幅度达35%的可能性",
+    "rule_kind": "current_status",
+    "pct_low": 25,
+    "pct_high": 25,
+    "reasoning": "当前现金 21% / 25%，非 A股规则"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/n7vQ2AzF3bcbc5Y9wWsfOQ",
+    "quote_prefix": "贰：继续分散。经过两年的调整，A股渐渐的有了越来越多的投资价值。我们的A股仓位，",
+    "rule_kind": "current_status",
+    "pct_low": 22,
+    "pct_high": 22,
+    "reasoning": "当前 A股 22%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/n7vQ2AzF3bcbc5Y9wWsfOQ",
+    "quote_prefix": "经过两年的调整，A股渐渐的有了越来越多的投资价值。我们的A股仓位，已经上升到22",
+    "rule_kind": "range",
+    "pct_low": 60,
+    "pct_high": 80,
+    "reasoning": "未来规划 A股占比 60-80%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/n7vQ2AzF3bcbc5Y9wWsfOQ",
+    "quote_prefix": "我们的A股仓位，已经上升到22%左右。在我的未来规划中，A股占计划的比重在60%",
+    "rule_kind": "range",
+    "pct_low": 60,
+    "pct_high": 80,
+    "reasoning": "同上重复"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/T-02WkWpEI-LoJkxEo4mTw",
+    "quote_prefix": "也就是说，业绩增长及保持稳定的企业占比72.68%，业绩减少的有24.69%。很",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "业绩增长占比 72.68%，非仓位"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/T-02WkWpEI-LoJkxEo4mTw",
+    "quote_prefix": "如果从2017年以来计算，下跌股票数量2337，占比78.31%（以2016年末",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "下跌股票占比，非仓位"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+    "quote_prefix": "贰：仓位。目前计划的A股仓位已经超过35%。真的是非常困难，2015年7月以来开",
+    "rule_kind": "current_status",
+    "pct_low": 35,
+    "pct_high": 35,
+    "reasoning": "当前 A股 35%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+    "quote_prefix": "目前计划的A股仓位已经超过35%。真的是非常困难，2015年7月以来开始的这轮建",
+    "rule_kind": "current_status",
+    "pct_low": 35,
+    "pct_high": 35,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+    "quote_prefix": "到了今时今日，我们的组合中已经有了一些品种仓位超过了5%。它们分别是：恒生指数、",
+    "rule_kind": "current_status",
+    "pct_low": 5,
+    "pct_high": 5,
+    "reasoning": "5% 是单品种仓位阈值"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/rnAWZmqGAmez7PrUcJNNyg",
+    "quote_prefix": "那是第二轮计划买入最疯狂的一次。买完以后，计划A股仓位90%左右。A股见大底。",
+    "rule_kind": "current_status",
+    "pct_low": 90,
+    "pct_high": 90,
+    "reasoning": "当时 A股 90%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/rnAWZmqGAmez7PrUcJNNyg",
+    "quote_prefix": "买完以后，计划A股仓位90%左右。A股见大底。当然，说起来容易，做起来未必那么简",
+    "rule_kind": "current_status",
+    "pct_low": 90,
+    "pct_high": 90,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/gaOkrA_oICuQU-LfcIXVxA",
+    "quote_prefix": "我们买的创业板指数其实严格来说也不能算小指数，姑且把它列入。这样你就知道，在我们",
+    "rule_kind": "current_status",
+    "pct_low": 60,
+    "pct_high": 60,
+    "reasoning": "当前已配 60% A股"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/R3-B4ElIXF4rLjrojDnU-g",
+    "quote_prefix": "咱们交易什么品种，不仅要看品种的情况，要看看当下自己的现实状况。咱们的150份计",
+    "rule_kind": "current_status",
+    "pct_low": 65,
+    "pct_high": 65,
+    "reasoning": "当前 A股 65%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/XPM2EWudS8PpItcwoqhfkQ",
+    "quote_prefix": "TIPS：。A股仓位建议：。如果你的A股最大仓位给100%，目前从保守到激进65",
+    "rule_kind": "range",
+    "pct_low": 65,
+    "pct_high": 85,
+    "reasoning": "A股最大100% 时建议 65-85%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/XPM2EWudS8PpItcwoqhfkQ",
+    "quote_prefix": "A股仓位建议：。如果你的A股最大仓位给100%，目前从保守到激进65%-85%比",
+    "rule_kind": "range",
+    "pct_low": 65,
+    "pct_high": 85,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/Jz7Cn3Z-g0WYPZP3H73ihA",
+    "quote_prefix": "我们用了四年的时间，终于把计划内的150份资金买的差不多了。目前现金只剩7%，A",
+    "rule_kind": "current_status",
+    "pct_low": 70,
+    "pct_high": 70,
+    "reasoning": "当前 A股 70%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/Jz7Cn3Z-g0WYPZP3H73ihA",
+    "quote_prefix": "亏损幅度超过3%的只有3只。如果把中证500三个品种算作一个大类，则浮亏幅度超过",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "盈利占比 / 浮亏占比"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/Jz7Cn3Z-g0WYPZP3H73ihA",
+    "quote_prefix": "环保与传媒都浮亏17%左右。然而再看这两只自最高点的跌幅：中证环保自计划开始以来",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "单品种跌幅 63%/75%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/vOVdiqVled07HiYCbEt8vg",
+    "quote_prefix": "2022年3月ETF计划（一）：\\r\\n\\r\\n150计划：\\r\\n\\r\\n卖出",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 20,
+    "reasoning": "红利超过 20% 投资原则 → 属红利轴，A股轴为 noise"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "https://mp.weixin.qq.com/s/bwwYxdl3Ytvg6UrdqlFIXw",
+    "quote_prefix": "你有没有发现我们的150计划仓位是不断变化的。2015年7月，股灾前最高点时，我",
+    "rule_kind": "current_status",
+    "pct_low": 100,
+    "pct_high": 100,
+    "reasoning": "股灾前现金 100%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "fanmade_wz_2019-03-07",
+    "quote_prefix": "\"各位好友：。临时发车一次，卖出计划持仓中2018年10月11日买的“中证500",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "23% 是单笔收益率"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_405564763_1",
+    "quote_prefix": "是啊，为什么这么少。对于2015年新参考计划的朋友来说，买了整整8个月，总仓位才",
+    "rule_kind": "current_status",
+    "pct_low": 12,
+    "pct_high": 12,
+    "reasoning": "建仓 8 个月总仓位 12%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408449_1",
+    "quote_prefix": "*上证跌破3000点，ETF计划收益率首次超过6%，继续新高。相对同期沪深300",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "6% 是收益率"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408486_1",
+    "quote_prefix": "我们有A股、港股、原油、德股、债券……无论市场怎么震荡，我们的十一个品种中，除了",
+    "rule_kind": "current_status",
+    "pct_low": 20,
+    "pct_high": 20,
+    "reasoning": "当时权益仓位 20%"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408486_1",
+    "quote_prefix": "悄悄的，我们的权益仓位已经上升到了20%。然而，这并没有明显增加整个组合的风险度",
+    "rule_kind": "current_status",
+    "pct_low": 20,
+    "pct_high": 20,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408505_1",
+    "quote_prefix": "计划收益率继续新高，首次超过8%。领先沪深300与中证500超过30%、35%。",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "8% 是收益率"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408543_1",
+    "quote_prefix": "一个是各指数趋势再次破位，向下的概率加大。第二个是计划的A股配置已经增加到15%",
+    "rule_kind": "current_status",
+    "pct_low": 15,
+    "pct_high": 15,
+    "reasoning": "当前 A股配置 15% 以上"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "69841",
+    "quote_prefix": "发车记录。【150】中概仓位4.98%，共9份（恒科3份+易方达2份+交银4份)",
+    "rule_kind": "current_status",
+    "pct_low": 5,
+    "pct_high": 9,
+    "reasoning": "中概 4.98% / 8.75%"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "69841",
+    "quote_prefix": "【150】中概仓位4.98%，共9份（恒科3份+易方达2份+交银4份)。【S】中",
+    "rule_kind": "current_status",
+    "pct_low": 5,
+    "pct_high": 9,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "68899",
+    "quote_prefix": "创业板清仓了。500，恒生，恒生科技，金融地产减仓了。整体仓位50%。",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "整体仓位 50%，非海外新兴"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "68683",
+    "quote_prefix": "由于之前不断整体减仓，目前A股仓位只有不到46%。加上港股也不超过50%。其中还",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "A股 46%，非海外新兴轴"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "14815",
+    "quote_prefix": "S计划：。卖出一份恒生科技（场外012348）。未来一个阶段，150计划的目标是",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "A股 50% 再平衡，非海外新兴"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "13789",
+    "quote_prefix": "买入一份富国全球债C（场外019518）（存在自目前价格下跌幅度达35%的可能性",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "现金 25%，非海外新兴"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "13141",
+    "quote_prefix": "本次卖出主要原因是：。第一：港股仓位超过15%，动态平衡减仓。第二：恒生指数到了",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 15,
+    "reasoning": "港股超过 15% 动态平衡减仓"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "13141",
+    "quote_prefix": "第一：港股仓位超过15%，动态平衡减仓。第二：恒生指数到了一个小压力位。减一点点",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 15,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "2904",
+    "quote_prefix": "并非看多看空，而是动态再平衡。恒生医疗持仓7个月，收益率将近30%，不错的品种。",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "30% 是持仓 7 个月收益率"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+    "quote_prefix": "到了今时今日，我们的组合中已经有了一些品种仓位超过了5%。它们分别是：恒生指数、",
+    "rule_kind": "floor",
+    "pct_low": 5,
+    "pct_high": null,
+    "reasoning": "多品种超过 5% (含恒生)"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A",
+    "quote_prefix": "2020年7月ETF计划（三）：150卖出三份；S卖出三份\\n\\n150卖出三份",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "66%/50%/65%/60% 均为收益率"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "https://mp.weixin.qq.com/s/XTVhQ2jpHirI3Po9RQGiPA",
+    "quote_prefix": "2022年2月ETF计划（一）：\\r\\n\\r\\n150计划：\\r\\n\\r\\n买入",
+    "rule_kind": "current_status",
+    "pct_low": 3,
+    "pct_high": 9,
+    "reasoning": "150中概 2.81%, S 9.21%"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "https://mp.weixin.qq.com/s/vOVdiqVled07HiYCbEt8vg",
+    "quote_prefix": "2022年3月ETF计划（一）：\\r\\n\\r\\n150计划：\\r\\n\\r\\n卖出",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 20,
+    "reasoning": "红利超过 20% 原则；与海外新兴相关性弱"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "https://mp.weixin.qq.com/s/Gg2MgKM-hDFqckUUM1rOhQ",
+    "quote_prefix": "也许还会买，但是要走右侧通道了。\\r\\n\\r\\n目前仓位，150恒生6.4%，S",
+    "rule_kind": "current_status",
+    "pct_low": 4,
+    "pct_high": 8,
+    "reasoning": "恒生 6.4%/8.33%"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "https://mp.weixin.qq.com/s/E6OLuOviVt9qQOekzXRHVw",
+    "quote_prefix": "2022年3月ETF计划（四）： \\r\\n\\r\\n150计划： \\r\\n买入一份",
+    "rule_kind": "current_status",
+    "pct_low": 1,
+    "pct_high": 2,
+    "reasoning": "恒科仓位 1%/2%"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_403415084_1",
+    "quote_prefix": "总持仓比例大致是94.2%；。恒生ETF收益率-12.77%，总持仓比例大致3.",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "总持仓比例细节 / 历史"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408449_1",
+    "quote_prefix": "如果不理解这点，请不要参考计划。2月份有人质问我为什么持仓的恒生跌了10%，让我",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "恒生跌 10%"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408449_1",
+    "quote_prefix": "2月份有人质问我为什么持仓的恒生跌了10%，让我非常心寒。到现在恒生成了我们最赚",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408486_1",
+    "quote_prefix": "悄悄的，我们的权益仓位已经上升到了20%。然而，这并没有明显增加整个组合的风险度",
+    "rule_kind": "current_status",
+    "pct_low": 20,
+    "pct_high": 20,
+    "reasoning": "权益仓位 20%"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+    "quote_prefix": "但是没有办法，这是我们的交易体系和交易策略决定的。先说恒生，它是我们第三轮计划中",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "50% 是收益率"
+  },
+  {
+    "axis_id": "em_overseas",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+    "quote_prefix": "先说恒生，它是我们第三轮计划中第一个收益率超过50%的品种，也是从2015年下半",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "dm_overseas",
+    "article_id": "52117",
+    "quote_prefix": "也包括老巴买入的西方石油，包括耐克，costco，陶氏化学，UPS，高露洁，默沙",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "27%/36%/51% 是标普/纳指成分权重"
+  },
+  {
+    "axis_id": "dm_overseas",
+    "article_id": "52117",
+    "quote_prefix": "在标普500权重中，前五大公司，占比27%。而纳斯达克100，前五大公司占比36",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "dm_overseas",
+    "article_id": "52117",
+    "quote_prefix": "而纳斯达克100，前五大公司占比36%，前十大公司占比51%。这几年美股的飙涨，",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "dm_overseas",
+    "article_id": "16963",
+    "quote_prefix": "一般来说出现这种走势，都会萎靡一段时间。未来，我的美股配置计划是10%-15%仓",
+    "rule_kind": "target",
+    "pct_low": 10,
+    "pct_high": 15,
+    "reasoning": "未来美股配置计划 10-15%"
+  },
+  {
+    "axis_id": "dm_overseas",
+    "article_id": "16963",
+    "quote_prefix": "未来，我的美股配置计划是10%-15%仓位。如果你问我，这一波美股最差会怎样。以",
+    "rule_kind": "target",
+    "pct_low": 10,
+    "pct_high": 15,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "dm_overseas",
+    "article_id": "16927",
+    "quote_prefix": "这一年多，我的投资体系有了极大的升级。这一份纳指的买入，是用配置思维，而非波段或",
+    "rule_kind": "target",
+    "pct_low": 10,
+    "pct_high": 15,
+    "reasoning": "美股 10-15% 仓位"
+  },
+  {
+    "axis_id": "dm_overseas",
+    "article_id": "16927",
+    "quote_prefix": "这一份纳指的买入，是用配置思维，而非波段或者抄底思维买入。未来，美股会在我们的长",
+    "rule_kind": "target",
+    "pct_low": 10,
+    "pct_high": 15,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "dm_overseas",
+    "article_id": "3945",
+    "quote_prefix": "卖出一份纳斯达克100（场外270042）。去年美股大跌后，我们分别在去年11月",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "37% 是持仓收益率"
+  },
+  {
+    "axis_id": "dm_overseas",
+    "article_id": "https://mp.weixin.qq.com/s/imNxENhGgPTSqabUUjGuwQ",
+    "quote_prefix": "我们想买的主要是海外市场的指数基金。包括美国标普500、纳斯达克、德国DAX、日",
+    "rule_kind": "target",
+    "pct_low": null,
+    "pct_high": 20,
+    "reasoning": "海外成熟可到 20%；当前 DAX 3%"
+  },
+  {
+    "axis_id": "dm_overseas",
+    "article_id": "https://mp.weixin.qq.com/s/NHrXZSceR-3xEs2A09VT0Q",
+    "quote_prefix": "当然，配置方面目前还有一些缺陷。最大的缺陷是海外成熟配置不足。目前美国+德国占比",
+    "rule_kind": "target",
+    "pct_low": null,
+    "pct_high": 20,
+    "reasoning": "美国+德国 可给到 20%"
+  },
+  {
+    "axis_id": "dm_overseas",
+    "article_id": "https://mp.weixin.qq.com/s/NHrXZSceR-3xEs2A09VT0Q",
+    "quote_prefix": "就好像过去三四年任何时候你急了，买入美股，今年都会被套一样。你可以回去看一下我们",
+    "rule_kind": "floor",
+    "pct_low": 10,
+    "pct_high": null,
+    "reasoning": "至少买到占比 10%"
+  },
+  {
+    "axis_id": "commodities",
+    "article_id": "66277",
+    "quote_prefix": "具体配置多少，根据情况动态分配。「商品：最大仓位可以给到15% 」。「债券：最大",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 15,
+    "reasoning": "商品最大仓位 15%"
+  },
+  {
+    "axis_id": "commodities",
+    "article_id": "52117",
+    "quote_prefix": "今年下跌的股票，可不是你想象的垃圾股。也包括老巴买入的西方石油，包括耐克，cos",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "标普权重 27%，非商品"
+  },
+  {
+    "axis_id": "commodities",
+    "article_id": "https://mp.weixin.qq.com/s/8QEC5GKEfzKPJjkPWKlV7g",
+    "quote_prefix": "既然体会过了捡垃圾的快乐，垃圾也为你赚了很多钱，那咱们就继续捡。这次我们买德国和",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "20% 是海外发达仓位，非商品"
+  },
+  {
+    "axis_id": "commodities",
+    "article_id": "https://mp.weixin.qq.com/s/VZwwgE92m7lASr4YCVriyg",
+    "quote_prefix": "这个也需要理解。再悄悄的说一句，我们的央行已经连续7个月增持黄金了。但是提醒一下",
+    "rule_kind": "current_status",
+    "pct_low": 2,
+    "pct_high": 2,
+    "reasoning": "计划内黄金不到 2%"
+  },
+  {
+    "axis_id": "commodities",
+    "article_id": "https://mp.weixin.qq.com/s/VZwwgE92m7lASr4YCVriyg",
+    "quote_prefix": "再悄悄的说一句，我们的央行已经连续7个月增持黄金了。但是提醒一下，我只能对计划里",
+    "rule_kind": "current_status",
+    "pct_low": 2,
+    "pct_high": 2,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "commodities",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_403415084_1",
+    "quote_prefix": "50ETF收益率-11.75%，总持仓比例大致1.8%；。华安石油收益率-11.",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "0.59% 是历史持仓比例 小样本"
+  },
+  {
+    "axis_id": "commodities",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653409270_1",
+    "quote_prefix": "稍微对本次发车做一个小梳理。150份投资计划中，我们曾经交易过31个品种(包括清",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "16% 是浮亏品种占比"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "68683",
+    "quote_prefix": "这提供了很厚的安全垫。债券仓位会在目前提供对冲，仓位接近10%。下一步，将针对波",
+    "rule_kind": "current_status",
+    "pct_low": 10,
+    "pct_high": 10,
+    "reasoning": "债券仓位接近 10%"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "66277",
+    "quote_prefix": "「商品：最大仓位可以给到15% 」。「债券：最大仓位可以给到30%~40%」。「",
+    "rule_kind": "ceiling",
+    "pct_low": 30,
+    "pct_high": 40,
+    "reasoning": "债券最大仓位 30-40%"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "53809",
+    "quote_prefix": "核心结论：。美国（1896）债券跑赢占比为 0，而意大利（1881）占比高达 5",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "52% 是意大利历史占比"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "53233",
+    "quote_prefix": "例如，留足现金储备或稳定现金流来覆盖短期支出，避免因为急需用钱而在熊市被迫卖出；",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "100% 股票 假设对比"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+    "quote_prefix": "到了今时今日，我们的组合中已经有了一些品种仓位超过了5%。它们分别是：恒生指数、",
+    "rule_kind": "floor",
+    "pct_low": 5,
+    "pct_high": null,
+    "reasoning": "多品种超 5%，含境内债"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "https://mp.weixin.qq.com/s/XcleAmXQiIwoEBfPFohEeg",
+    "quote_prefix": "然而我们的A股仓位已经不小，所以这个区间不会再继续加仓。债券经过6个月的调整，虽",
+    "rule_kind": "current_status",
+    "pct_low": 1,
+    "pct_high": 1,
+    "reasoning": "当前纯债 1%"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "https://mp.weixin.qq.com/s/XcleAmXQiIwoEBfPFohEeg",
+    "quote_prefix": "债券经过6个月的调整，虽说并没有特别大的投资价值，却有了一定的配置意义。由于我们",
+    "rule_kind": "current_status",
+    "pct_low": 1,
+    "pct_high": 1,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "https://mp.weixin.qq.com/s/XcleAmXQiIwoEBfPFohEeg",
+    "quote_prefix": "由于我们的配置中只有不到1%的纯债仓位，买入一份纯债基就非常合理了。\\n\\n仓位",
+    "rule_kind": "current_status",
+    "pct_low": 1,
+    "pct_high": 1,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408505_1",
+    "quote_prefix": "信用债和利率债表现会有所分化。然而对于一个成熟的资产组合来说，债券是必不可少的存",
+    "rule_kind": "current_status",
+    "pct_low": 1,
+    "pct_high": 2,
+    "reasoning": "债券持仓 1.3%"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408505_1",
+    "quote_prefix": "然而对于一个成熟的资产组合来说，债券是必不可少的存在。即使明天买完，我们的债券持",
+    "rule_kind": "target",
+    "pct_low": 20,
+    "pct_high": 30,
+    "reasoning": "未来债券 20-30%"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408505_1",
+    "quote_prefix": "即使明天买完，我们的债券持仓也只有1.3%而已，债市涨跌都不会有什么影响，这个仓",
+    "rule_kind": "target",
+    "pct_low": 20,
+    "pct_high": 30,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+    "quote_prefix": "愁的是看着手里债券或者债基不断下跌欲哭无泪的人，喜的是拿着现金等着抄底债市的人。",
+    "rule_kind": "current_status",
+    "pct_low": 4,
+    "pct_high": 5,
+    "reasoning": "国内债券超 4%，将到 5%"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+    "quote_prefix": "特别有意思的是，我们既有下跌的债基，又有大量现金等着买入，妙不妙。目前本轮ETF",
+    "rule_kind": "current_status",
+    "pct_low": 4,
+    "pct_high": 5,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+    "quote_prefix": "目前本轮ETF计划的国内债券持仓已经超过4%，今天买完之后可能已经有5%左右。其",
+    "rule_kind": "current_status",
+    "pct_low": 4,
+    "pct_high": 4,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+    "quote_prefix": "其中利率债与信用债基本平分秋色。十年国债的下跌，目前阶段影响的主要是利率债，所以",
+    "rule_kind": "current_status",
+    "pct_low": 1,
+    "pct_high": 1,
+    "reasoning": "债基浮亏不到 1%"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+    "quote_prefix": "十年国债的下跌，目前阶段影响的主要是利率债，所以我们的利率债指数债基7-10国开",
+    "rule_kind": "floor",
+    "pct_low": 5,
+    "pct_high": null,
+    "reasoning": "权重超 5% 开始影响组合"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+    "quote_prefix": "未来我们的计划大致是这样的，供您审阅：。十年国债收益率在4%-4.5%之间，债券",
+    "rule_kind": "range",
+    "pct_low": 10,
+    "pct_high": 15,
+    "reasoning": "国债 4-4.5% 时债券加到 10-15%"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+    "quote_prefix": "收益率在4.5%-5%之间，仓位会加到15%-25%。如果有机会超过5%，则会将",
+    "rule_kind": "range",
+    "pct_low": 15,
+    "pct_high": 25,
+    "reasoning": "国债 4.5-5% 时 15-25%"
+  },
+  {
+    "axis_id": "bonds",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+    "quote_prefix": "如果有机会超过5%，则会将仓位加到最最极限的30%，同时增大杠杆债基的配置。本人",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 30,
+    "reasoning": "极限 30%"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "68683",
+    "quote_prefix": "其中还包括8%红利仓位，波动会远低于其它股票品种。现金仓位已经上升到32%，远超",
+    "rule_kind": "current_status",
+    "pct_low": 32,
+    "pct_high": 32,
+    "reasoning": "现金 32% 远超最高限额"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "65959",
+    "quote_prefix": "连续6车8份卖出。现金仓位加到31%以上，2017年以来最高。不是专业能力有多强",
+    "rule_kind": "current_status",
+    "pct_low": 31,
+    "pct_high": 31,
+    "reasoning": "现金 31%"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "21295",
+    "quote_prefix": "150的现金已经远超过预定上限25%。S的现金更多。第二，由于不断减仓以及市场调",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 25,
+    "reasoning": "150 现金已远超上限 25%"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "57271",
+    "quote_prefix": "最近几个月，两个计划实际上持续在减仓。目前150的A股仓位只有48%，现金已经接",
+    "rule_kind": "current_status",
+    "pct_low": 30,
+    "pct_high": 30,
+    "reasoning": "当前现金接近 30%"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "55159",
+    "quote_prefix": "# 目前150的A股仓位已经不到50%了。现金超过26%，看起来。目前150的A",
+    "rule_kind": "current_status",
+    "pct_low": 26,
+    "pct_high": 26,
+    "reasoning": "当前现金 26%"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "55159",
+    "quote_prefix": "目前150的A股仓位已经不到50%了。现金超过26%，看起来还会继续上升。S的A",
+    "rule_kind": "current_status",
+    "pct_low": 26,
+    "pct_high": 26,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "53233",
+    "quote_prefix": "风险管理的一环是确保在市场剧烈波动时自己不被迫斩仓。例如，留足现金储备或稳定现金",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "100% 股票 假设对比"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "19717",
+    "quote_prefix": "S计划：。买入一份1-3年国开债（场外006484）随着市场调整，以及我们之前不",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 25,
+    "reasoning": "现金持仓超 25% 超上限"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "13789",
+    "quote_prefix": "买入一份富国全球债C（场外019518）（存在自目前价格下跌幅度达35%的可能性",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 25,
+    "reasoning": "现金最大不应超 25%"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "13789",
+    "quote_prefix": "随着在A股及港股市场非常缓慢的减仓，我们150的现金储备已经达到了21%，S计划",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 25,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "https://mp.weixin.qq.com/s/Jz7Cn3Z-g0WYPZP3H73ihA",
+    "quote_prefix": "我们用了四年的时间，终于把计划内的150份资金买的差不多了。目前现金只剩7%，A",
+    "rule_kind": "current_status",
+    "pct_low": 7,
+    "pct_high": 7,
+    "reasoning": "当时现金仅剩 7%"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "https://mp.weixin.qq.com/s/bwwYxdl3Ytvg6UrdqlFIXw",
+    "quote_prefix": "你有没有发现我们的150计划仓位是不断变化的。2015年7月，股灾前最高点时，我",
+    "rule_kind": "current_status",
+    "pct_low": 100,
+    "pct_high": 100,
+    "reasoning": "2015 年股灾前现金几乎 100%"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_403415084_1",
+    "quote_prefix": "其他的资金，如果朋友们买入货币基金（我这里以广发钱袋子和华夏活期通两者的月度平均",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "1.79% 是货基收益"
+  },
+  {
+    "axis_id": "cash",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+    "quote_prefix": "愁的是看着手里债券或者债基不断下跌欲哭无泪的人，喜的是拿着现金等着抄底债市的人。",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "债券相关，非现金"
+  },
+  {
+    "axis_id": "dividend_lowvol",
+    "article_id": "68899",
+    "quote_prefix": "整体仓位50%。红利在新高。朋友们不要慌。",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "整体 50%，非红利"
+  },
+  {
+    "axis_id": "dividend_lowvol",
+    "article_id": "68683",
+    "quote_prefix": "加上港股也不超过50%。其中还包括8%红利仓位，波动会远低于其它股票品种。现金仓",
+    "rule_kind": "current_status",
+    "pct_low": 8,
+    "pct_high": 8,
+    "reasoning": "当前红利仓位 8%"
+  },
+  {
+    "axis_id": "dividend_lowvol",
+    "article_id": "63901",
+    "quote_prefix": "2）“因为这个品种离标准越远，交易机会就越大。（from【20260120】（1",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "-3% 是加仓价位，非仓位"
+  },
+  {
+    "axis_id": "dividend_lowvol",
+    "article_id": "63643",
+    "quote_prefix": "# 认真学习的朋友都知道，之前我给红利设定的加仓位置在-3%左右。认真学习的朋友",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "dividend_lowvol",
+    "article_id": "63643",
+    "quote_prefix": "# 认真学习的朋友都知道，之前我给红利设定的加仓位置在-3%左右。认真学习的朋友",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "dividend_lowvol",
+    "article_id": "58201",
+    "quote_prefix": "给个明牌：。下一次红利100加仓位置，大致是目前价位下跌3%。所有的买入卖出计划",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "下跌 3% 加仓"
+  },
+  {
+    "axis_id": "dividend_lowvol",
+    "article_id": "21295",
+    "quote_prefix": "第二，由于不断减仓以及市场调整，A股仓位已经低于50%，加仓空间再次出现。第三，",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "A股 50%，非红利"
+  },
+  {
+    "axis_id": "dividend_lowvol",
+    "article_id": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+    "quote_prefix": "到了今时今日，我们的组合中已经有了一些品种仓位超过了5%。它们分别是：恒生指数、",
+    "rule_kind": "floor",
+    "pct_low": 5,
+    "pct_high": null,
+    "reasoning": "红利持仓已超 5%"
+  },
+  {
+    "axis_id": "dividend_lowvol",
+    "article_id": "https://mp.weixin.qq.com/s/7OcNSC77GFYnXOhXk7iNHA",
+    "quote_prefix": "问题是你买了多少。你知道目前红利和500每天新高吧。作为对比，红利目前在150里",
+    "rule_kind": "current_status",
+    "pct_low": 13,
+    "pct_high": 19,
+    "reasoning": "150:13%, S:19%"
+  },
+  {
+    "axis_id": "dividend_lowvol",
+    "article_id": "https://mp.weixin.qq.com/s/7OcNSC77GFYnXOhXk7iNHA",
+    "quote_prefix": "你知道目前红利和500每天新高吧。作为对比，红利目前在150里面持仓占比13%，",
+    "rule_kind": "current_status",
+    "pct_low": 13,
+    "pct_high": 19,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "dividend_lowvol",
+    "article_id": "https://mp.weixin.qq.com/s/vOVdiqVled07HiYCbEt8vg",
+    "quote_prefix": "2022年3月ETF计划（一）：\\r\\n\\r\\n150计划：\\r\\n\\r\\n卖出",
+    "rule_kind": "ceiling",
+    "pct_low": null,
+    "pct_high": 20,
+    "reasoning": "红利突破 20% 投资原则"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408550_1",
+    "quote_prefix": "这应该是这一年多来力度最大的一次买入。这次买入后，A股仓位已经迅速提高到计划的2",
+    "rule_kind": "current_status",
+    "pct_low": 20,
+    "pct_high": 20,
+    "reasoning": "本次买入后 A股仓位提到 20% 附近"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408557_1",
+    "quote_prefix": "本月计划继续新高，收益率连续突破10%、11%；。加大对中证500的领先幅度至4",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "10%/11%/42% 都是收益率/领先幅度"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+    "quote_prefix": "如果有机会超过5%，则会将仓位加到最最极限的30%，同时增大杠杆债基的配置。本人",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "30%/5% 都是债券相关，A股轴为噪音"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408723_1",
+    "quote_prefix": "资产配置&收益率。沪深300指数持续大涨，与第三轮计划的收益率差距缩小到只剩20",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "20%/45% 是计划领先沪深300/中证500 幅度"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408723_1",
+    "quote_prefix": "沪深300指数持续大涨，与第三轮计划的收益率差距缩小到只剩20%。中证500依然",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "同上"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408837_1",
+    "quote_prefix": "资产配置&收益率。第三轮计划继续保持对沪深300接近30%，对中证500超过50",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "30%/50% 是领先幅度"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIxOTYxNTY4MQ==_100007390_1",
+    "quote_prefix": "亲爱的用户：。本次长赢计划150份临时发车一次，卖出计划持仓中2018年10月1",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "23% 是单笔收益率"
+  },
+  {
+    "axis_id": "a_stock",
+    "article_id": "wx_old_MzIwMTIzNDMwNA==_2653409270_1",
+    "quote_prefix": "150份资产配置&收益率。截至目前，第三轮计划领先同期沪深300 32%；领先同",
+    "rule_kind": "noise",
+    "pct_low": null,
+    "pct_high": null,
+    "reasoning": "32%/63% 是领先幅度"
+  }
+]

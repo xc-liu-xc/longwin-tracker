@@ -62,10 +62,13 @@ jobs:
       - name: Build asset allocation snapshot + timeseries
         run: python scripts/build_allocation.py
 
+      - name: Build E大 allocation baseline (组合洞察)
+        run: python scripts/build_baseline.py
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data.json docs/data_s.json docs/nav/ docs/content.json docs/posts/ docs/posts-index.json docs/funds.json docs/analysis.json docs/analysis_s.json docs/strategy.json docs/strategy_s.json docs/allocation.json posts/
+          git add docs/data.json docs/data_s.json docs/nav/ docs/content.json docs/posts/ docs/posts-index.json docs/funds.json docs/analysis.json docs/analysis_s.json docs/strategy.json docs/strategy_s.json docs/allocation.json docs/allocation-daily/ docs/allocation_baseline.json posts/
           git diff --staged --quiet || git commit -m "chore: update longwin data $(TZ='Asia/Shanghai' date '+%Y-%m-%d')"
           git push

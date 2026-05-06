@@ -1,0 +1,927 @@
+{
+  "updatedAt": "2026-05-06 12:29 CST",
+  "version": "v_b (heuristic extraction → pre-classified rule_kind aggregation)",
+  "source": "extracted from 1094 E大 articles via V_A heuristics, classifications loaded from scripts/baseline_classifications.json",
+  "disclaimer": "本基线仅为对 E大 公开文章的启发式提取 + 分类整理，不包含基于市场估值的动态调整，不构成任何投资建议。",
+  "axes": [
+    {
+      "id": "a_stock",
+      "label": "A股",
+      "min_pct": 40,
+      "max_pct": 85,
+      "target_pct": 62,
+      "confidence": "medium",
+      "sources": [
+        {
+          "article_id": "68683",
+          "date": "2026-03-02",
+          "title": "说一下目前的情况，以及未来的应对。",
+          "quote": "首先，目前150仓位如下图。由于之前不断整体减仓，目前A股仓位只有不到46%。加上港股也不超过50%。",
+          "rule_kind": "current_status",
+          "reasoning": "当前 A股仓位 46%",
+          "pct_low": 46,
+          "pct_high": 46,
+          "rule_extracted": "status=46%"
+        },
+        {
+          "article_id": "67237",
+          "date": "2026-02-13",
+          "title": "快过年了，锐评一下目前150的持仓。",
+          "quote": "少了5个点。A股总仓位高了点，目前40%左右合适。其中行业仓位略高了几个点。",
+          "rule_kind": "target",
+          "reasoning": "40% 合适 = 目标仓位",
+          "pct_low": 40,
+          "pct_high": 40,
+          "rule_extracted": "target 40%"
+        },
+        {
+          "article_id": "60967",
+          "date": "2026-01-08",
+          "title": "太阳出来了，又可以元气满满的工作了。（双子座A面人格闪现）",
+          "quote": "在A股投资，真的要懂得进退。A股是一个有别于其他市场的地方，赚钱了不在合适的时间走，有一天会一把给你收回去。A股总仓位方面，以150为基准，如果市场出现超级过热的情况，我可以接受将仓位降至40%左右，甚至有可能会更低。",
+          "rule_kind": "ceiling",
+          "reasoning": "过热时可降至 40% 左右或更低",
+          "pct_low": null,
+          "pct_high": 40,
+          "rule_extracted": "ceiling ≤40%"
+        },
+        {
+          "article_id": "60967",
+          "date": "2026-01-08",
+          "title": "太阳出来了，又可以元气满满的工作了。（双子座A面人格闪现）",
+          "quote": "A股是一个有别于其他市场的地方，赚钱了不在合适的时间走，有一天会一把给你收回去。A股总仓位方面，以150为基准，如果市场出现超级过热的情况，我可以接受将仓位降至40%左右，甚至有可能会更低。每天上帝派人救牧师的故事都会在我脑子里回响。",
+          "rule_kind": "ceiling",
+          "reasoning": "同一说法重复引用",
+          "pct_low": null,
+          "pct_high": 40,
+          "rule_extracted": "ceiling ≤40%"
+        },
+        {
+          "article_id": "21295",
+          "date": "2025-12-15",
+          "title": "2025年12月ETF计划（二）",
+          "quote": "S的现金更多。第二，由于不断减仓以及市场调整，A股仓位已经低于50%，加仓空间再次出现。第三，各品种综合来看，红利类基金算是目前风险较低的一类。",
+          "rule_kind": "current_status",
+          "reasoning": "当前 A股低于 50%",
+          "pct_low": 50,
+          "pct_high": 50,
+          "rule_extracted": "status=50%"
+        },
+        {
+          "article_id": "57271",
+          "date": "2025-12-09",
+          "title": "最近几个月，两个计划实际上持续在减仓。",
+          "quote": "最近几个月，两个计划实际上持续在减仓。目前150的A股仓位只有48%，现金已经接近30%。我一点都不怕所谓的牛市跑输。",
+          "rule_kind": "current_status",
+          "reasoning": "当前 A股仓位 48%",
+          "pct_low": 48,
+          "pct_high": 48,
+          "rule_extracted": "status=48%"
+        },
+        {
+          "article_id": "55159",
+          "date": "2025-11-21",
+          "title": "目前150的A股仓位已经不到50%了。现金超过26%，看起来",
+          "quote": "# 目前150的A股仓位已经不到50%了。现金超过26%，看起来。",
+          "rule_kind": "current_status",
+          "reasoning": "当前不到 50%",
+          "pct_low": 50,
+          "pct_high": 50,
+          "rule_extracted": "status=50%"
+        },
+        {
+          "article_id": "55159",
+          "date": "2025-11-21",
+          "title": "目前150的A股仓位已经不到50%了。现金超过26%，看起来",
+          "quote": "现金超过26%，看起来。目前150的A股仓位已经不到50%了。现金超过26%，看起来还会继续上升。",
+          "rule_kind": "current_status",
+          "reasoning": "同上",
+          "pct_low": 50,
+          "pct_high": 50,
+          "rule_extracted": "status=50%"
+        },
+        {
+          "article_id": "54745",
+          "date": "2025-11-18",
+          "title": "某市场仓位<50%了",
+          "quote": "更新一下仓位，托跌跌的福，终于（又）下去了。2018年大建仓以来，以及，2024年924行情启动后（去年11月WB开始提起）老大说要把A股仓位降低到50%之内，以来，。第二次小于50%了~。",
+          "rule_kind": "ceiling",
+          "reasoning": "明确提到把 A股降到 50% 以内",
+          "pct_low": null,
+          "pct_high": 50,
+          "rule_extracted": "ceiling ≤50%"
+        },
+        {
+          "article_id": "19717",
+          "date": "2025-09-04",
+          "title": "2025年9月ETF计划（二）",
+          "quote": "买入一份1-3年国开债（场外006484）随着市场调整，以及我们之前不断的卖出回流现金，目前150的现金持仓已经超过25%，超出交易策略上限。而以目前的情况看，150短期内买回A股的概率极低（S也许会在近期内买）。但是尴尬的地方在于，我们想买也值得买的品种，不让我们买。",
+          "rule_kind": "current_status",
+          "reasoning": "当前现金>25%，上下文是 A股 但讲现金",
+          "pct_low": 25,
+          "pct_high": 25,
+          "rule_extracted": "status=25%"
+        },
+        {
+          "article_id": "14815",
+          "date": "2024-12-10",
+          "title": "2024年12月ETF计划（一）",
+          "quote": "卖出一份恒生科技（场外012348）。未来一个阶段，150计划的目标是将A股仓位再平衡到50%以内。同时，未来也会在一个更加保守的上、下限之间，进行动态再平衡操作。",
+          "rule_kind": "ceiling",
+          "reasoning": "目标是 A股再平衡到 50% 以内",
+          "pct_low": null,
+          "pct_high": 50,
+          "rule_extracted": "ceiling ≤50%"
+        },
+        {
+          "article_id": "13789",
+          "date": "2024-10-25",
+          "title": "2024年10月ETF计划（三）",
+          "quote": "买入一份富国全球债C（场外019518）（存在自目前价格下跌幅度达35%的可能性）。随着在A股及港股市场非常缓慢的减仓，我们150的现金储备已经达到了21%，S计划实际上更高（算上应投未投份额）。我个人认为，一个成熟的、可以贯穿一生的投资组合，现金配置最大不应该超过25%。",
+          "rule_kind": "current_status",
+          "reasoning": "当前现金 21% / 25%，非 A股规则",
+          "pct_low": 25,
+          "pct_high": 25,
+          "rule_extracted": "status=25%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/n7vQ2AzF3bcbc5Y9wWsfOQ",
+          "date": "",
+          "title": "2017年8月ETF计划（二）：买入两份",
+          "quote": "贰：继续分散。经过两年的调整，A股渐渐的有了越来越多的投资价值。我们的A股仓位，已经上升到22%左右。",
+          "rule_kind": "current_status",
+          "reasoning": "当前 A股 22%",
+          "pct_low": 22,
+          "pct_high": 22,
+          "rule_extracted": "status=22%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/n7vQ2AzF3bcbc5Y9wWsfOQ",
+          "date": "",
+          "title": "2017年8月ETF计划（二）：买入两份",
+          "quote": "经过两年的调整，A股渐渐的有了越来越多的投资价值。我们的A股仓位，已经上升到22%左右。在我的未来规划中，A股占计划的比重在60%-80%之间。",
+          "rule_kind": "range",
+          "reasoning": "未来规划 A股占比 60-80%",
+          "pct_low": 60,
+          "pct_high": 80,
+          "rule_extracted": "range 60-80%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/n7vQ2AzF3bcbc5Y9wWsfOQ",
+          "date": "",
+          "title": "2017年8月ETF计划（二）：买入两份",
+          "quote": "我们的A股仓位，已经上升到22%左右。在我的未来规划中，A股占计划的比重在60%-80%之间。也就是说以最低标准来看，长征已经走完了1/3。",
+          "rule_kind": "range",
+          "reasoning": "同上重复",
+          "pct_low": 60,
+          "pct_high": 80,
+          "rule_extracted": "range 60-80%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+          "date": "",
+          "title": "2018年3月ETF计划（一）：买入一份",
+          "quote": "贰：仓位。目前计划的A股仓位已经超过35%。真的是非常困难，2015年7月以来开始的这轮建仓，将近3年过去，只买了35%的A股……。",
+          "rule_kind": "current_status",
+          "reasoning": "当前 A股 35%",
+          "pct_low": 35,
+          "pct_high": 35,
+          "rule_extracted": "status=35%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+          "date": "",
+          "title": "2018年3月ETF计划（一）：买入一份",
+          "quote": "目前计划的A股仓位已经超过35%。真的是非常困难，2015年7月以来开始的这轮建仓，将近3年过去，只买了35%的A股……。困难的原因在于A股这两年多来全市场依然高估。",
+          "rule_kind": "current_status",
+          "reasoning": "同上",
+          "pct_low": 35,
+          "pct_high": 35,
+          "rule_extracted": "status=35%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+          "date": "",
+          "title": "2018年3月ETF计划（一）：买入一份",
+          "quote": "到了今时今日，我们的组合中已经有了一些品种仓位超过了5%。它们分别是：恒生指数、上证50（+沪深300）、中证500（+建信500）、中证红利、境内债券、大医药（医药+养老）。这些品种的未来表现，将影响整个组合的走势。",
+          "rule_kind": "current_status",
+          "reasoning": "5% 是单品种仓位阈值",
+          "pct_low": 5,
+          "pct_high": 5,
+          "rule_extracted": "status=5%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/rnAWZmqGAmez7PrUcJNNyg",
+          "date": "",
+          "title": "2018年9月ETF计划（二）：买入一份",
+          "quote": "那是第二轮计划买入最疯狂的一次。买完以后，计划A股仓位90%左右。A股见大底。",
+          "rule_kind": "current_status",
+          "reasoning": "当时 A股 90%",
+          "pct_low": 90,
+          "pct_high": 90,
+          "rule_extracted": "status=90%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/rnAWZmqGAmez7PrUcJNNyg",
+          "date": "",
+          "title": "2018年9月ETF计划（二）：买入一份",
+          "quote": "买完以后，计划A股仓位90%左右。A股见大底。当然，说起来容易，做起来未必那么简单。",
+          "rule_kind": "current_status",
+          "reasoning": "同上",
+          "pct_low": 90,
+          "pct_high": 90,
+          "rule_extracted": "status=90%"
+        }
+      ],
+      "notes": "共 32 条非噪音候选，展示最新 20 条。",
+      "total_candidates": 48,
+      "classified_count": 48
+    },
+    {
+      "id": "em_overseas",
+      "label": "海外新兴",
+      "min_pct": 5,
+      "max_pct": 20,
+      "target_pct": 12,
+      "confidence": "high",
+      "sources": [
+        {
+          "article_id": "69841",
+          "date": "2026-03-07",
+          "title": "长赢 发车后【1/2】（2026.03.07）",
+          "quote": "发车记录。【150】中概仓位4.98%，共9份（恒科3份+易方达2份+交银4份)。【S】中概仓位8.75%，共11份（恒科2份+易方达2份+交银7份)。",
+          "rule_kind": "current_status",
+          "reasoning": "中概 4.98% / 8.75%",
+          "pct_low": 5,
+          "pct_high": 9,
+          "rule_extracted": "status=5-9%"
+        },
+        {
+          "article_id": "69841",
+          "date": "2026-03-07",
+          "title": "长赢 发车后【1/2】（2026.03.07）",
+          "quote": "【150】中概仓位4.98%，共9份（恒科3份+易方达2份+交银4份)。【S】中概仓位8.75%，共11份（恒科2份+易方达2份+交银7份)。（前面有说，QDII的关系，S显示晚一天，S我先自己算的，等再过一天，再更新得和且慢展示得一样）。",
+          "rule_kind": "current_status",
+          "reasoning": "同上",
+          "pct_low": 5,
+          "pct_high": 9,
+          "rule_extracted": "status=5-9%"
+        },
+        {
+          "article_id": "13141",
+          "date": "2024-09-24",
+          "title": "2024年9月ETF计划（三）",
+          "quote": "本次卖出主要原因是：。第一：港股仓位超过15%，动态平衡减仓。第二：恒生指数到了一个小压力位。",
+          "rule_kind": "ceiling",
+          "reasoning": "港股超过 15% 动态平衡减仓",
+          "pct_low": null,
+          "pct_high": 15,
+          "rule_extracted": "ceiling ≤15%"
+        },
+        {
+          "article_id": "13141",
+          "date": "2024-09-24",
+          "title": "2024年9月ETF计划（三）",
+          "quote": "第一：港股仓位超过15%，动态平衡减仓。第二：恒生指数到了一个小压力位。减一点点，为未来的买入回收子弹。",
+          "rule_kind": "ceiling",
+          "reasoning": "同上",
+          "pct_low": null,
+          "pct_high": 15,
+          "rule_extracted": "ceiling ≤15%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+          "date": "",
+          "title": "2018年3月ETF计划（一）：买入一份",
+          "quote": "到了今时今日，我们的组合中已经有了一些品种仓位超过了5%。它们分别是：恒生指数、上证50（+沪深300）、中证500（+建信500）、中证红利、境内债券、大医药（医药+养老）。这些品种的未来表现，将影响整个组合的走势。",
+          "rule_kind": "floor",
+          "reasoning": "多品种超过 5% (含恒生)",
+          "pct_low": 5,
+          "pct_high": null,
+          "rule_extracted": "floor ≥5%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/XTVhQ2jpHirI3Po9RQGiPA",
+          "date": "",
+          "title": "2022年2月ETF计划（一）：\\r\\n\\r\\n150计划：\\r\\n\\r\\n买入一份恒生科技：（场内513180；场外012348）\\r\\n\\r\\n（该品种自目前价格最大下跌幅度：50%，请做好压力测试）\\r\\n\\r\\nS计划：\\r\\n\\r\\n买入一份恒生科技：（场内513180；场外012348）\\r\\n\\r\\n（该品种自目前价格最大下跌幅度：50%，请做好压力测试）\\r\\n\\r\\n目前S中概仓位9.21%，150中概仓位2.81%。\\r\\n\\r\\n自上次买入恒生科技已经过去近两个月。虽然空间没有拉开，但时间已经有了，可以继续买。\\r\\n\\r\\n拉开买入时间的意义，在于避免下跌过程中在同一个位置堆砌大量筹码，导致大仓位成本高，后期无法有效降低成本。",
+          "quote": "2022年2月ETF计划（一）：\\r\\n\\r\\n150计划：\\r\\n\\r\\n买入一份恒生科技：（场内513180；场外012348）\\r\\n\\r\\n（该品种自目前价格最大下跌幅度：50%，请做好压力测试）\\r\\n\\r\\nS计划：\\r\\n\\r\\n买入一份恒生科技：（场内513180；场外012348）\\r\\n\\r\\n（该品种自目前价格最大下跌幅度：50%，请做好压力测试）\\r\\n\\r\\n目前S中概仓位9.21%，150中概仓位2.8...",
+          "rule_kind": "current_status",
+          "reasoning": "150中概 2.81%, S 9.21%",
+          "pct_low": 3,
+          "pct_high": 9,
+          "rule_extracted": "status=3-9%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/vOVdiqVled07HiYCbEt8vg",
+          "date": "",
+          "title": "2022年3月ETF计划（一）：\\r\\n\\r\\n150计划：\\r\\n\\r\\n卖出一份中证红利（场外100032）\\r\\n\\r\\n买入一份恒生指数（场内159920，场外000071）\\r\\n\\r\\nS计划：\\r\\n\\r\\n卖出一份中证红利（场外100032）\\r\\n\\r\\n买入一份恒生指数（场内159920，场外000071）\\r\\n\\r\\n卖出红利有两个原因：一：由于其他品种不断下跌，导致红利仓位被动上升，已经突破20%的投资原则，所以减持一份。二：腾出资金买入想买的品种。\\r\\n\\r\\n买入恒生的原因。一：距离上次买入已经过去三个月，时间有了。二：空间不用说。三：已经进入我预设的18500-22000这个极具投资价值区间，不可能不买。\\r\\n\\r\\n注意节奏。",
+          "quote": "2022年3月ETF计划（一）：\\r\\n\\r\\n150计划：\\r\\n\\r\\n卖出一份中证红利（场外100032）\\r\\n\\r\\n买入一份恒生指数（场内159920，场外000071）\\r\\n\\r\\nS计划：\\r\\n\\r\\n卖出一份中证红利（场外100032）\\r\\n\\r\\n买入一份恒生指数（场内159920，场外000071）\\r\\n\\r\\n卖出红利有两个原因：一：由于其他品种不断下跌，导致红利仓位被动上升，已经突破20%的投资原...",
+          "rule_kind": "ceiling",
+          "reasoning": "红利超过 20% 原则；与海外新兴相关性弱",
+          "pct_low": null,
+          "pct_high": 20,
+          "rule_extracted": "ceiling ≤20%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/Gg2MgKM-hDFqckUUM1rOhQ",
+          "date": "",
+          "title": "2022年3月ETF计划（三）：\\r\\n\\r\\n150计划：\\r\\n\\r\\n卖出一份南方通利债（场外000563）\\r\\n卖出一份易方达安心回报（场外110027）\\r\\n买入一份恒生指数（场内159920、场外000071）\\r\\n\\r\\nS计划：\\r\\n\\r\\n买入一份恒生指数（场内159920、场外000071）\\r\\n\\r\\n\\r\\n150卖出一份纯债，一份可转债，有序收缩债券战线。两个计划各买入一份恒生指数，是在18200-18500这个我能理解的最后区域买入一份。接下来如果跌破这个区域，两个计划都不再买入。也许还会买，但是要走右侧通道了。\\r\\n\\r\\n目前仓位，150恒生6.4%，S恒生8.33%。稍微有点略低，但也算舒服。等右侧吧。",
+          "quote": "也许还会买，但是要走右侧通道了。\\r\\n\\r\\n目前仓位，150恒生6.4%，S恒生8.33%。稍微有点略低，但也算舒服。",
+          "rule_kind": "current_status",
+          "reasoning": "恒生 6.4%/8.33%",
+          "pct_low": 4,
+          "pct_high": 8,
+          "rule_extracted": "status=4-8%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/E6OLuOviVt9qQOekzXRHVw",
+          "date": "",
+          "title": "2022年3月ETF计划（四）： \\r\\n\\r\\n150计划： \\r\\n买入一份富国消费（场外519915）\\r\\n（自目前价格最大下跌幅度50%）\\r\\n\\r\\n买入一份恒生科技（场内513180；场外012348）\\r\\n（自目前价格最大下跌幅度60%）\\r\\n\\r\\n卖出一份环保（场内512580，场外001064）\\r\\n\\r\\nS计划： \\r\\n买入一份富国消费（场外519915）\\r\\n（自目前价格最大下跌幅度50%）\\r\\n\\r\\n买入一份恒生科技（场内513180；场外012348）\\r\\n（自目前价格最大下跌幅度60%）\\r\\n\\r\\n富国消费买了六个月浮亏6%，但它是过去六个月表现最好的主动消费基金。恒科仓位是1%和2%，感到不舒服可以不买。",
+          "quote": "2022年3月ETF计划（四）： \\r\\n\\r\\n150计划： \\r\\n买入一份富国消费（场外519915）\\r\\n（自目前价格最大下跌幅度50%）\\r\\n\\r\\n买入一份恒生科技（场内513180；场外012348）\\r\\n（自目前价格最大下跌幅度60%）\\r\\n\\r\\n卖出一份环保（场内512580，场外001064）\\r\\n\\r\\nS计划： \\r\\n买入一份富国消费（场外519915）\\r\\n（自目前价格最大下跌幅度50%）...",
+          "rule_kind": "current_status",
+          "reasoning": "恒科仓位 1%/2%",
+          "pct_low": 1,
+          "pct_high": 2,
+          "rule_extracted": "status=1-2%"
+        },
+        {
+          "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408486_1",
+          "date": "",
+          "title": "2017年1月ETF计划：买入一份",
+          "quote": "悄悄的，我们的权益仓位已经上升到了20%。然而，这并没有明显增加整个组合的风险度——本月沪深300跌幅6.8%，恒生指数跌幅4.4%，我们的组合，净值下跌0.7%。巴菲特说，投资有两条原则，第一：不要亏损；第二：记住第一条。",
+          "rule_kind": "current_status",
+          "reasoning": "权益仓位 20%",
+          "pct_low": 20,
+          "pct_high": 20,
+          "rule_extracted": "status=20%"
+        }
+      ],
+      "notes": "",
+      "total_candidates": 21,
+      "classified_count": 21
+    },
+    {
+      "id": "dm_overseas",
+      "label": "海外成熟",
+      "min_pct": 10,
+      "max_pct": 20,
+      "target_pct": 15,
+      "confidence": "high",
+      "sources": [
+        {
+          "article_id": "16963",
+          "date": "2025-04-09",
+          "title": "2025年4月ETF计划（二）",
+          "quote": "一般来说出现这种走势，都会萎靡一段时间。未来，我的美股配置计划是10%-15%仓位。如果你问我，这一波美股最差会怎样。",
+          "rule_kind": "target",
+          "reasoning": "未来美股配置计划 10-15%",
+          "pct_low": 10,
+          "pct_high": 15,
+          "rule_extracted": "target 10-15%"
+        },
+        {
+          "article_id": "16963",
+          "date": "2025-04-09",
+          "title": "2025年4月ETF计划（二）",
+          "quote": "未来，我的美股配置计划是10%-15%仓位。如果你问我，这一波美股最差会怎样。以我从数据上的观察看，如果变成2008年那样的状态，美股跌幅从现在起，最差可能会跌40%-50%。",
+          "rule_kind": "target",
+          "reasoning": "同上",
+          "pct_low": 10,
+          "pct_high": 15,
+          "rule_extracted": "target 10-15%"
+        },
+        {
+          "article_id": "16927",
+          "date": "2025-04-07",
+          "title": "2025年4月ETF计划（一）",
+          "quote": "这一年多，我的投资体系有了极大的升级。这一份纳指的买入，是用配置思维，而非波段或者抄底思维买入。未来，美股会在我们的长线计划中占有10%-15%的仓位。",
+          "rule_kind": "target",
+          "reasoning": "美股 10-15% 仓位",
+          "pct_low": 10,
+          "pct_high": 15,
+          "rule_extracted": "target 10-15%"
+        },
+        {
+          "article_id": "16927",
+          "date": "2025-04-07",
+          "title": "2025年4月ETF计划（一）",
+          "quote": "这一份纳指的买入，是用配置思维，而非波段或者抄底思维买入。未来，美股会在我们的长线计划中占有10%-15%的仓位。今天只是一个开始。",
+          "rule_kind": "target",
+          "reasoning": "同上",
+          "pct_low": 10,
+          "pct_high": 15,
+          "rule_extracted": "target 10-15%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/imNxENhGgPTSqabUUjGuwQ",
+          "date": "",
+          "title": "2020年3月ETF计划（六） ：150买入两份，卖出一份；S买入两份，卖出一份",
+          "quote": "我们想买的主要是海外市场的指数基金。包括美国标普500、纳斯达克、德国DAX、日经225。这部分仓位最终我希望可以占到20%，然而目前150里面只有DAX，仓位还不到3%。",
+          "rule_kind": "target",
+          "reasoning": "海外成熟可到 20%；当前 DAX 3%",
+          "pct_low": null,
+          "pct_high": 20,
+          "rule_extracted": "target 20%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/NHrXZSceR-3xEs2A09VT0Q",
+          "date": "",
+          "title": "2020年5月ETF计划（一）：150买入一份，卖出一份；S买入一份",
+          "quote": "当然，配置方面目前还有一些缺陷。最大的缺陷是海外成熟配置不足。目前美国+德国占比4个多点，最多我可以给到20%。",
+          "rule_kind": "target",
+          "reasoning": "美国+德国 可给到 20%",
+          "pct_low": null,
+          "pct_high": 20,
+          "rule_extracted": "target 20%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/NHrXZSceR-3xEs2A09VT0Q",
+          "date": "",
+          "title": "2020年5月ETF计划（一）：150买入一份，卖出一份；S买入一份",
+          "quote": "就好像过去三四年任何时候你急了，买入美股，今年都会被套一样。你可以回去看一下我们那一份标普500的买入位置——这轮下跌次低日。所以买当然还会买，至少至少也会买到占比10%。",
+          "rule_kind": "floor",
+          "reasoning": "至少买到占比 10%",
+          "pct_low": 10,
+          "pct_high": null,
+          "rule_extracted": "floor ≥10%"
+        }
+      ],
+      "notes": "",
+      "total_candidates": 11,
+      "classified_count": 11
+    },
+    {
+      "id": "commodities",
+      "label": "商品",
+      "min_pct": null,
+      "max_pct": 15,
+      "target_pct": 15,
+      "confidence": "low",
+      "sources": [
+        {
+          "article_id": "66277",
+          "date": "2026-02-04",
+          "title": "【更新】一些《E大的仓位》笔记",
+          "quote": "具体配置多少，根据情况动态分配。「商品：最大仓位可以给到15% 」。「债券：最大仓位可以给到30%~40%」。",
+          "rule_kind": "ceiling",
+          "reasoning": "商品最大仓位 15%",
+          "pct_low": null,
+          "pct_high": 15,
+          "rule_extracted": "ceiling ≤15%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/VZwwgE92m7lASr4YCVriyg",
+          "date": "",
+          "title": "2019年8月ETF计划（一）：买入一份",
+          "quote": "这个也需要理解。再悄悄的说一句，我们的央行已经连续7个月增持黄金了。但是提醒一下，我只能对计划里的不到2%黄金负责，你如果自己乱买我爱莫能助……。",
+          "rule_kind": "current_status",
+          "reasoning": "计划内黄金不到 2%",
+          "pct_low": 2,
+          "pct_high": 2,
+          "rule_extracted": "status=2%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/VZwwgE92m7lASr4YCVriyg",
+          "date": "",
+          "title": "2019年8月ETF计划（一）：买入一份",
+          "quote": "再悄悄的说一句，我们的央行已经连续7个月增持黄金了。但是提醒一下，我只能对计划里的不到2%黄金负责，你如果自己乱买我爱莫能助……。var first_sceen__time = (+new Date());。",
+          "rule_kind": "current_status",
+          "reasoning": "同上",
+          "pct_low": 2,
+          "pct_high": 2,
+          "rule_extracted": "status=2%"
+        }
+      ],
+      "notes": "",
+      "total_candidates": 7,
+      "classified_count": 7
+    },
+    {
+      "id": "bonds",
+      "label": "债券",
+      "min_pct": 5,
+      "max_pct": 40,
+      "target_pct": 22,
+      "confidence": "medium",
+      "sources": [
+        {
+          "article_id": "68683",
+          "date": "2026-03-02",
+          "title": "说一下目前的情况，以及未来的应对。",
+          "quote": "这提供了很厚的安全垫。债券仓位会在目前提供对冲，仓位接近10%。下一步，将针对波动巨大的品种，加大波段力度。",
+          "rule_kind": "current_status",
+          "reasoning": "债券仓位接近 10%",
+          "pct_low": 10,
+          "pct_high": 10,
+          "rule_extracted": "status=10%"
+        },
+        {
+          "article_id": "66277",
+          "date": "2026-02-04",
+          "title": "【更新】一些《E大的仓位》笔记",
+          "quote": "「商品：最大仓位可以给到15% 」。「债券：最大仓位可以给到30%~40%」。「给各位一个数值：5%。",
+          "rule_kind": "ceiling",
+          "reasoning": "债券最大仓位 30-40%",
+          "pct_low": 30,
+          "pct_high": 40,
+          "rule_extracted": "ceiling ≤40%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+          "date": "",
+          "title": "2018年3月ETF计划（一）：买入一份",
+          "quote": "到了今时今日，我们的组合中已经有了一些品种仓位超过了5%。它们分别是：恒生指数、上证50（+沪深300）、中证500（+建信500）、中证红利、境内债券、大医药（医药+养老）。这些品种的未来表现，将影响整个组合的走势。",
+          "rule_kind": "floor",
+          "reasoning": "多品种超 5%，含境内债",
+          "pct_low": 5,
+          "pct_high": null,
+          "rule_extracted": "floor ≥5%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/XcleAmXQiIwoEBfPFohEeg",
+          "date": "",
+          "title": "2020年9月ETF计划（一）：150买入一份\\n\\n\\n时间不够，文字发车：\\n\\n150买入一份\\n\\n买入南方通利A一份（场外000563）\\n\\n简要说明：\\n\\n目前A股除了部分板块泡沫非常严重，整体并不算贵。然而我们的A股仓位已经不小，所以这个区间不会再继续加仓。债券经过6个月的调整，虽说并没有特别大的投资价值，却有了一定的配置意义。由于我们的配置中只有不到1%的纯债仓位，买入一份纯债基就非常合理了。\\n\\n仓位中加入债券基金并不能让你资产一飞冲天，但能在大多数时候帮你平衡波动。并非适合每个人，但适合大多数人配置。你可以根据自己的情况取舍。\\n\\n毕竟我们不懂投资，只能做点资产配置才能维持的了生活这样子。",
+          "quote": "然而我们的A股仓位已经不小，所以这个区间不会再继续加仓。债券经过6个月的调整，虽说并没有特别大的投资价值，却有了一定的配置意义。由于我们的配置中只有不到1%的纯债仓位，买入一份纯债基就非常合理了。",
+          "rule_kind": "current_status",
+          "reasoning": "当前纯债 1%",
+          "pct_low": 1,
+          "pct_high": 1,
+          "rule_extracted": "status=1%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/XcleAmXQiIwoEBfPFohEeg",
+          "date": "",
+          "title": "2020年9月ETF计划（一）：150买入一份\\n\\n\\n时间不够，文字发车：\\n\\n150买入一份\\n\\n买入南方通利A一份（场外000563）\\n\\n简要说明：\\n\\n目前A股除了部分板块泡沫非常严重，整体并不算贵。然而我们的A股仓位已经不小，所以这个区间不会再继续加仓。债券经过6个月的调整，虽说并没有特别大的投资价值，却有了一定的配置意义。由于我们的配置中只有不到1%的纯债仓位，买入一份纯债基就非常合理了。\\n\\n仓位中加入债券基金并不能让你资产一飞冲天，但能在大多数时候帮你平衡波动。并非适合每个人，但适合大多数人配置。你可以根据自己的情况取舍。\\n\\n毕竟我们不懂投资，只能做点资产配置才能维持的了生活这样子。",
+          "quote": "债券经过6个月的调整，虽说并没有特别大的投资价值，却有了一定的配置意义。由于我们的配置中只有不到1%的纯债仓位，买入一份纯债基就非常合理了。\\n\\n仓位中加入债券基金并不能让你资产一飞冲天，但能在大多数时候帮你平衡波动。",
+          "rule_kind": "current_status",
+          "reasoning": "同上",
+          "pct_low": 1,
+          "pct_high": 1,
+          "rule_extracted": "status=1%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/XcleAmXQiIwoEBfPFohEeg",
+          "date": "",
+          "title": "2020年9月ETF计划（一）：150买入一份\\n\\n\\n时间不够，文字发车：\\n\\n150买入一份\\n\\n买入南方通利A一份（场外000563）\\n\\n简要说明：\\n\\n目前A股除了部分板块泡沫非常严重，整体并不算贵。然而我们的A股仓位已经不小，所以这个区间不会再继续加仓。债券经过6个月的调整，虽说并没有特别大的投资价值，却有了一定的配置意义。由于我们的配置中只有不到1%的纯债仓位，买入一份纯债基就非常合理了。\\n\\n仓位中加入债券基金并不能让你资产一飞冲天，但能在大多数时候帮你平衡波动。并非适合每个人，但适合大多数人配置。你可以根据自己的情况取舍。\\n\\n毕竟我们不懂投资，只能做点资产配置才能维持的了生活这样子。",
+          "quote": "由于我们的配置中只有不到1%的纯债仓位，买入一份纯债基就非常合理了。\\n\\n仓位中加入债券基金并不能让你资产一飞冲天，但能在大多数时候帮你平衡波动。并非适合每个人，但适合大多数人配置。",
+          "rule_kind": "current_status",
+          "reasoning": "同上",
+          "pct_low": 1,
+          "pct_high": 1,
+          "rule_extracted": "status=1%"
+        },
+        {
+          "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408505_1",
+          "date": "",
+          "title": "2017年2月ETF计划(2/2）：买入一份",
+          "quote": "信用债和利率债表现会有所分化。然而对于一个成熟的资产组合来说，债券是必不可少的存在。即使明天买完，我们的债券持仓也只有1.3%而已，债市涨跌都不会有什么影响，这个仓位还远远不够。",
+          "rule_kind": "current_status",
+          "reasoning": "债券持仓 1.3%",
+          "pct_low": 1,
+          "pct_high": 2,
+          "rule_extracted": "status=1-2%"
+        },
+        {
+          "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408505_1",
+          "date": "",
+          "title": "2017年2月ETF计划(2/2）：买入一份",
+          "quote": "然而对于一个成熟的资产组合来说，债券是必不可少的存在。即使明天买完，我们的债券持仓也只有1.3%而已，债市涨跌都不会有什么影响，这个仓位还远远不够。未来债券配置在我们的计划中应该有机会做到20%-30%。",
+          "rule_kind": "target",
+          "reasoning": "未来债券 20-30%",
+          "pct_low": 20,
+          "pct_high": 30,
+          "rule_extracted": "target 20-30%"
+        },
+        {
+          "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408505_1",
+          "date": "",
+          "title": "2017年2月ETF计划(2/2）：买入一份",
+          "quote": "即使明天买完，我们的债券持仓也只有1.3%而已，债市涨跌都不会有什么影响，这个仓位还远远不够。未来债券配置在我们的计划中应该有机会做到20%-30%。不急，慢慢买。",
+          "rule_kind": "target",
+          "reasoning": "同上",
+          "pct_low": 20,
+          "pct_high": 30,
+          "rule_extracted": "target 20-30%"
+        },
+        {
+          "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+          "date": "",
+          "title": "2017年11月ETF计划（三）：卖出一份；买入一份",
+          "quote": "愁的是看着手里债券或者债基不断下跌欲哭无泪的人，喜的是拿着现金等着抄底债市的人。特别有意思的是，我们既有下跌的债基，又有大量现金等着买入，妙不妙。目前本轮ETF计划的国内债券持仓已经超过4%，今天买完之后可能已经有5%左右。",
+          "rule_kind": "current_status",
+          "reasoning": "国内债券超 4%，将到 5%",
+          "pct_low": 4,
+          "pct_high": 5,
+          "rule_extracted": "status=4-5%"
+        },
+        {
+          "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+          "date": "",
+          "title": "2017年11月ETF计划（三）：卖出一份；买入一份",
+          "quote": "特别有意思的是，我们既有下跌的债基，又有大量现金等着买入，妙不妙。目前本轮ETF计划的国内债券持仓已经超过4%，今天买完之后可能已经有5%左右。其中利率债与信用债基本平分秋色。",
+          "rule_kind": "current_status",
+          "reasoning": "同上",
+          "pct_low": 4,
+          "pct_high": 5,
+          "rule_extracted": "status=4-5%"
+        },
+        {
+          "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+          "date": "",
+          "title": "2017年11月ETF计划（三）：卖出一份；买入一份",
+          "quote": "目前本轮ETF计划的国内债券持仓已经超过4%，今天买完之后可能已经有5%左右。其中利率债与信用债基本平分秋色。十年国债的下跌，目前阶段影响的主要是利率债，所以我们的利率债指数债基7-10国开债就会跌得多一点。",
+          "rule_kind": "current_status",
+          "reasoning": "同上",
+          "pct_low": 4,
+          "pct_high": 4,
+          "rule_extracted": "status=4%"
+        },
+        {
+          "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+          "date": "",
+          "title": "2017年11月ETF计划（三）：卖出一份；买入一份",
+          "quote": "其中利率债与信用债基本平分秋色。十年国债的下跌，目前阶段影响的主要是利率债，所以我们的利率债指数债基7-10国开债就会跌得多一点。总的来看，我们目前持仓的4个多点债基浮亏不到1%，成本控制非常好。",
+          "rule_kind": "current_status",
+          "reasoning": "债基浮亏不到 1%",
+          "pct_low": 1,
+          "pct_high": 1,
+          "rule_extracted": "status=1%"
+        },
+        {
+          "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+          "date": "",
+          "title": "2017年11月ETF计划（三）：卖出一份；买入一份",
+          "quote": "十年国债的下跌，目前阶段影响的主要是利率债，所以我们的利率债指数债基7-10国开债就会跌得多一点。总的来看，我们目前持仓的4个多点债基浮亏不到1%，成本控制非常好。一个品种在一个组合中，权重超过5%，就已经可以开始影响这个组合的表现。",
+          "rule_kind": "floor",
+          "reasoning": "权重超 5% 开始影响组合",
+          "pct_low": 5,
+          "pct_high": null,
+          "rule_extracted": "floor ≥5%"
+        },
+        {
+          "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+          "date": "",
+          "title": "2017年11月ETF计划（三）：卖出一份；买入一份",
+          "quote": "未来我们的计划大致是这样的，供您审阅：。十年国债收益率在4%-4.5%之间，债券仓位最少会加到10%-15%（这意味着我们会在未来一段时间有可能加速建仓债券）。收益率在4.5%-5%之间，仓位会加到15%-25%。",
+          "rule_kind": "range",
+          "reasoning": "国债 4-4.5% 时债券加到 10-15%",
+          "pct_low": 10,
+          "pct_high": 15,
+          "rule_extracted": "range 10-15%"
+        },
+        {
+          "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+          "date": "",
+          "title": "2017年11月ETF计划（三）：卖出一份；买入一份",
+          "quote": "收益率在4.5%-5%之间，仓位会加到15%-25%。如果有机会超过5%，则会将仓位加到最最极限的30%，同时增大杠杆债基的配置。本人不才，投资A股市场已经快15年，十年国债收益率超过5%的情况我只见过一次，那是在遥远的2004年。",
+          "rule_kind": "range",
+          "reasoning": "国债 4.5-5% 时 15-25%",
+          "pct_low": 15,
+          "pct_high": 25,
+          "rule_extracted": "range 15-25%"
+        },
+        {
+          "article_id": "wx_old_MzIwMTIzNDMwNA==_2653408664_1",
+          "date": "",
+          "title": "2017年11月ETF计划（三）：卖出一份；买入一份",
+          "quote": "如果有机会超过5%，则会将仓位加到最最极限的30%，同时增大杠杆债基的配置。本人不才，投资A股市场已经快15年，十年国债收益率超过5%的情况我只见过一次，那是在遥远的2004年。再之前，看历史数据，就是1999年了。",
+          "rule_kind": "ceiling",
+          "reasoning": "极限 30%",
+          "pct_low": null,
+          "pct_high": 30,
+          "rule_extracted": "ceiling ≤30%"
+        }
+      ],
+      "notes": "",
+      "total_candidates": 19,
+      "classified_count": 19
+    },
+    {
+      "id": "cash",
+      "label": "现金",
+      "min_pct": null,
+      "max_pct": 25,
+      "target_pct": 25,
+      "confidence": "medium",
+      "sources": [
+        {
+          "article_id": "68683",
+          "date": "2026-03-02",
+          "title": "说一下目前的情况，以及未来的应对。",
+          "quote": "其中还包括8%红利仓位，波动会远低于其它股票品种。现金仓位已经上升到32%，远超应有的最高限额。这提供了很厚的安全垫。",
+          "rule_kind": "current_status",
+          "reasoning": "现金 32% 远超最高限额",
+          "pct_low": 32,
+          "pct_high": 32,
+          "rule_extracted": "status=32%"
+        },
+        {
+          "article_id": "65959",
+          "date": "2026-02-02",
+          "title": "1月关门禁止新人跟车。",
+          "quote": "连续6车8份卖出。现金仓位加到31%以上，2017年以来最高。不是专业能力有多强，而是把所有朋友的钱与自己的一样珍惜。",
+          "rule_kind": "current_status",
+          "reasoning": "现金 31%",
+          "pct_low": 31,
+          "pct_high": 31,
+          "rule_extracted": "status=31%"
+        },
+        {
+          "article_id": "21295",
+          "date": "2025-12-15",
+          "title": "2025年12月ETF计划（二）",
+          "quote": "150的现金已经远超过预定上限25%。S的现金更多。第二，由于不断减仓以及市场调整，A股仓位已经低于50%，加仓空间再次出现。",
+          "rule_kind": "ceiling",
+          "reasoning": "150 现金已远超上限 25%",
+          "pct_low": null,
+          "pct_high": 25,
+          "rule_extracted": "ceiling ≤25%"
+        },
+        {
+          "article_id": "57271",
+          "date": "2025-12-09",
+          "title": "最近几个月，两个计划实际上持续在减仓。",
+          "quote": "最近几个月，两个计划实际上持续在减仓。目前150的A股仓位只有48%，现金已经接近30%。我一点都不怕所谓的牛市跑输。",
+          "rule_kind": "current_status",
+          "reasoning": "当前现金接近 30%",
+          "pct_low": 30,
+          "pct_high": 30,
+          "rule_extracted": "status=30%"
+        },
+        {
+          "article_id": "55159",
+          "date": "2025-11-21",
+          "title": "目前150的A股仓位已经不到50%了。现金超过26%，看起来",
+          "quote": "# 目前150的A股仓位已经不到50%了。现金超过26%，看起来。目前150的A股仓位已经不到50%了。",
+          "rule_kind": "current_status",
+          "reasoning": "当前现金 26%",
+          "pct_low": 26,
+          "pct_high": 26,
+          "rule_extracted": "status=26%"
+        },
+        {
+          "article_id": "55159",
+          "date": "2025-11-21",
+          "title": "目前150的A股仓位已经不到50%了。现金超过26%，看起来",
+          "quote": "目前150的A股仓位已经不到50%了。现金超过26%，看起来还会继续上升。S的A股仓位看着高，实际上你再看看应买未买的现金。",
+          "rule_kind": "current_status",
+          "reasoning": "同上",
+          "pct_low": 26,
+          "pct_high": 26,
+          "rule_extracted": "status=26%"
+        },
+        {
+          "article_id": "19717",
+          "date": "2025-09-04",
+          "title": "2025年9月ETF计划（二）",
+          "quote": "S计划：。买入一份1-3年国开债（场外006484）随着市场调整，以及我们之前不断的卖出回流现金，目前150的现金持仓已经超过25%，超出交易策略上限。而以目前的情况看，150短期内买回A股的概率极低（S也许会在近期内买）。",
+          "rule_kind": "ceiling",
+          "reasoning": "现金持仓超 25% 超上限",
+          "pct_low": null,
+          "pct_high": 25,
+          "rule_extracted": "ceiling ≤25%"
+        },
+        {
+          "article_id": "13789",
+          "date": "2024-10-25",
+          "title": "2024年10月ETF计划（三）",
+          "quote": "买入一份富国全球债C（场外019518）（存在自目前价格下跌幅度达35%的可能性）。随着在A股及港股市场非常缓慢的减仓，我们150的现金储备已经达到了21%，S计划实际上更高（算上应投未投份额）。我个人认为，一个成熟的、可以贯穿一生的投资组合，现金配置最大不应该超过25%。",
+          "rule_kind": "ceiling",
+          "reasoning": "现金最大不应超 25%",
+          "pct_low": null,
+          "pct_high": 25,
+          "rule_extracted": "ceiling ≤25%"
+        },
+        {
+          "article_id": "13789",
+          "date": "2024-10-25",
+          "title": "2024年10月ETF计划（三）",
+          "quote": "随着在A股及港股市场非常缓慢的减仓，我们150的现金储备已经达到了21%，S计划实际上更高（算上应投未投份额）。我个人认为，一个成熟的、可以贯穿一生的投资组合，现金配置最大不应该超过25%。所以目前如何把收回来的钱投出去，是最重要的课题之一。",
+          "rule_kind": "ceiling",
+          "reasoning": "同上",
+          "pct_low": null,
+          "pct_high": 25,
+          "rule_extracted": "ceiling ≤25%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/Jz7Cn3Z-g0WYPZP3H73ihA",
+          "date": "",
+          "title": "2019年7月ETF计划（一）：买入一份",
+          "quote": "我们用了四年的时间，终于把计划内的150份资金买的差不多了。目前现金只剩7%，A股仓位接近70%，其它各类权益资产加起来接近20%。超过80%的权益类仓位，无论未来如何上涨，我们都会吃到肉。",
+          "rule_kind": "current_status",
+          "reasoning": "当时现金仅剩 7%",
+          "pct_low": 7,
+          "pct_high": 7,
+          "rule_extracted": "status=7%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/bwwYxdl3Ytvg6UrdqlFIXw",
+          "date": "",
+          "title": "2020年10月ETF计划（一）：150买入一份；S不操作",
+          "quote": "你有没有发现我们的150计划仓位是不断变化的。2015年7月，股灾前最高点时，我们的现金仓位几乎占了100%，A股基本没有。之后，随着市场不断下跌，我们的权益类资产占比越来越大，最终在2018年钻石坑前附近大幅提升。",
+          "rule_kind": "current_status",
+          "reasoning": "2015 年股灾前现金几乎 100%",
+          "pct_low": 100,
+          "pct_high": 100,
+          "rule_extracted": "status=100%"
+        }
+      ],
+      "notes": "",
+      "total_candidates": 14,
+      "classified_count": 14
+    },
+    {
+      "id": "convertibles",
+      "label": "可转债",
+      "min_pct": null,
+      "max_pct": null,
+      "target_pct": null,
+      "confidence": "low",
+      "sources": [],
+      "notes": "LLM 未判定任何硬性配置规则（仅有现状快照），基线缺失，需人工补全。",
+      "total_candidates": 0,
+      "classified_count": 0
+    },
+    {
+      "id": "dividend_lowvol",
+      "label": "红利/低波",
+      "min_pct": 5,
+      "max_pct": 20,
+      "target_pct": 12,
+      "confidence": "medium",
+      "sources": [
+        {
+          "article_id": "68683",
+          "date": "2026-03-02",
+          "title": "说一下目前的情况，以及未来的应对。",
+          "quote": "加上港股也不超过50%。其中还包括8%红利仓位，波动会远低于其它股票品种。现金仓位已经上升到32%，远超应有的最高限额。",
+          "rule_kind": "current_status",
+          "reasoning": "当前红利仓位 8%",
+          "pct_low": 8,
+          "pct_high": 8,
+          "rule_extracted": "status=8%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+          "date": "",
+          "title": "2018年3月ETF计划（一）：买入一份",
+          "quote": "到了今时今日，我们的组合中已经有了一些品种仓位超过了5%。它们分别是：恒生指数、上证50（+沪深300）、中证500（+建信500）、中证红利、境内债券、大医药（医药+养老）。这些品种的未来表现，将影响整个组合的走势。",
+          "rule_kind": "floor",
+          "reasoning": "红利持仓已超 5%",
+          "pct_low": 5,
+          "pct_high": null,
+          "rule_extracted": "floor ≥5%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/7OcNSC77GFYnXOhXk7iNHA",
+          "date": "",
+          "title": "2021年9月ETF计划（一）：150买入一份；S买入一份",
+          "quote": "问题是你买了多少。你知道目前红利和500每天新高吧。作为对比，红利目前在150里面持仓占比13%，在S计划里面占比超过19%。",
+          "rule_kind": "current_status",
+          "reasoning": "150:13%, S:19%",
+          "pct_low": 13,
+          "pct_high": 19,
+          "rule_extracted": "status=13-19%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/7OcNSC77GFYnXOhXk7iNHA",
+          "date": "",
+          "title": "2021年9月ETF计划（一）：150买入一份；S买入一份",
+          "quote": "你知道目前红利和500每天新高吧。作为对比，红利目前在150里面持仓占比13%，在S计划里面占比超过19%。500在150里面占比17%，在S计划里面占比接近25%。",
+          "rule_kind": "current_status",
+          "reasoning": "同上",
+          "pct_low": 13,
+          "pct_high": 19,
+          "rule_extracted": "status=13-19%"
+        },
+        {
+          "article_id": "https://mp.weixin.qq.com/s/vOVdiqVled07HiYCbEt8vg",
+          "date": "",
+          "title": "2022年3月ETF计划（一）：\\r\\n\\r\\n150计划：\\r\\n\\r\\n卖出一份中证红利（场外100032）\\r\\n\\r\\n买入一份恒生指数（场内159920，场外000071）\\r\\n\\r\\nS计划：\\r\\n\\r\\n卖出一份中证红利（场外100032）\\r\\n\\r\\n买入一份恒生指数（场内159920，场外000071）\\r\\n\\r\\n卖出红利有两个原因：一：由于其他品种不断下跌，导致红利仓位被动上升，已经突破20%的投资原则，所以减持一份。二：腾出资金买入想买的品种。\\r\\n\\r\\n买入恒生的原因。一：距离上次买入已经过去三个月，时间有了。二：空间不用说。三：已经进入我预设的18500-22000这个极具投资价值区间，不可能不买。\\r\\n\\r\\n注意节奏。",
+          "quote": "2022年3月ETF计划（一）：\\r\\n\\r\\n150计划：\\r\\n\\r\\n卖出一份中证红利（场外100032）\\r\\n\\r\\n买入一份恒生指数（场内159920，场外000071）\\r\\n\\r\\nS计划：\\r\\n\\r\\n卖出一份中证红利（场外100032）\\r\\n\\r\\n买入一份恒生指数（场内159920，场外000071）\\r\\n\\r\\n卖出红利有两个原因：一：由于其他品种不断下跌，导致红利仓位被动上升，已经突破20%的投资原...",
+          "rule_kind": "ceiling",
+          "reasoning": "红利突破 20% 投资原则",
+          "pct_low": null,
+          "pct_high": 20,
+          "rule_extracted": "ceiling ≤20%"
+        }
+      ],
+      "notes": "",
+      "total_candidates": 11,
+      "classified_count": 11
+    }
+  ],
+  "extraction_stats": {
+    "articles_scanned": 1094,
+    "total_candidates_classified": 131,
+    "rule_kind_distribution": {
+      "current_status": 49,
+      "ceiling": 16,
+      "noise": 46,
+      "range": 6,
+      "target": 9,
+      "floor": 5
+    },
+    "new_unclassified_count": 0
+  }
+}
