@@ -13,7 +13,8 @@
       "fundCode": "000478",
       "fundName": "建信中证500指数增强A",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/23089"
+      "articleLink": "https://content.qieman.com/n/items/23089",
+      "l1": "A股"
     },
     {
       "date": "2026-04-16",
@@ -21,7 +22,8 @@
       "fundCode": "021550",
       "fundName": "博时中证红利低波动100ETF联接A",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22987"
+      "articleLink": "https://content.qieman.com/n/items/22987",
+      "l1": "A股"
     },
     {
       "date": "2026-04-15",
@@ -29,7 +31,8 @@
       "fundCode": "012323",
       "fundName": "华宝医疗ETF联接C",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22957"
+      "articleLink": "https://content.qieman.com/n/items/22957",
+      "l1": "A股"
     },
     {
       "date": "2026-04-10",
@@ -37,7 +40,8 @@
       "fundCode": "007562",
       "fundName": "景顺长城景泰纯利债券A",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22897"
+      "articleLink": "https://content.qieman.com/n/items/22897",
+      "l1": "债券"
     },
     {
       "date": "2026-04-10",
@@ -45,7 +49,8 @@
       "fundCode": "001052",
       "fundName": "华夏中证500ETF联接A",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22897"
+      "articleLink": "https://content.qieman.com/n/items/22897",
+      "l1": "A股"
     },
     {
       "date": "2026-04-09",
@@ -53,7 +58,8 @@
       "fundCode": "000478",
       "fundName": "建信中证500指数增强A",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22873"
+      "articleLink": "https://content.qieman.com/n/items/22873",
+      "l1": "A股"
     },
     {
       "date": "2026-03-24",
@@ -61,7 +67,8 @@
       "fundCode": "110022",
       "fundName": "易方达消费行业",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22597"
+      "articleLink": "https://content.qieman.com/n/items/22597",
+      "l1": "A股"
     },
     {
       "date": "2026-03-24",
@@ -69,7 +76,8 @@
       "fundCode": "001064",
       "fundName": "广发中证环保ETF联接A",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22597"
+      "articleLink": "https://content.qieman.com/n/items/22597",
+      "l1": "A股"
     },
     {
       "date": "2026-03-23",
@@ -77,7 +85,8 @@
       "fundCode": "012323",
       "fundName": "华宝医疗ETF联接C",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22537"
+      "articleLink": "https://content.qieman.com/n/items/22537",
+      "l1": "A股"
     },
     {
       "date": "2026-03-06",
@@ -85,7 +94,8 @@
       "fundCode": "006327",
       "fundName": "易方达中证海外联接人民币A",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22369"
+      "articleLink": "https://content.qieman.com/n/items/22369",
+      "l1": "海外新兴"
     },
     {
       "date": "2026-03-06",
@@ -93,7 +103,8 @@
       "fundCode": "000071",
       "fundName": "华夏恒生ETF联接A",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22369"
+      "articleLink": "https://content.qieman.com/n/items/22369",
+      "l1": "海外新兴"
     },
     {
       "date": "2026-03-03",
@@ -101,7 +112,8 @@
       "fundCode": "100050",
       "fundName": "富国全球债券(QDII)人民币A",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22279"
+      "articleLink": "https://content.qieman.com/n/items/22279",
+      "l1": "债券"
     },
     {
       "date": "2026-01-30",
@@ -109,7 +121,8 @@
       "fundCode": "000478",
       "fundName": "建信中证500指数增强A",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/21913"
+      "articleLink": "https://content.qieman.com/n/items/21913",
+      "l1": "A股"
     },
     {
       "date": "2026-01-30",
@@ -117,7 +130,8 @@
       "fundCode": "001052",
       "fundName": "华夏中证500ETF联接A",
       "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/21913"
+      "articleLink": "https://content.qieman.com/n/items/21913",
+      "l1": "A股"
     }
   ],
   "holdings": [
@@ -131,107 +145,125 @@
           "date": "2024-03-07",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/8443"
+          "articleLink": "https://content.qieman.com/n/items/8443",
+          "l1": "A股"
         },
         {
           "date": "2022-03-07",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/vOVdiqVled07HiYCbEt8vg"
+          "articleLink": "https://mp.weixin.qq.com/s/vOVdiqVled07HiYCbEt8vg",
+          "l1": "A股"
         },
         {
           "date": "2020-04-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/NHrXZSceR-3xEs2A09VT0Q"
+          "articleLink": "https://mp.weixin.qq.com/s/NHrXZSceR-3xEs2A09VT0Q",
+          "l1": "A股"
         },
         {
           "date": "2018-12-27",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/J37XMWDxhHhzLgKvy7-ilg"
+          "articleLink": "https://mp.weixin.qq.com/s/J37XMWDxhHhzLgKvy7-ilg",
+          "l1": "A股"
         },
         {
           "date": "2018-11-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/WbHZfDcCVtcBq1z-Ze4B7w"
+          "articleLink": "https://mp.weixin.qq.com/s/WbHZfDcCVtcBq1z-Ze4B7w",
+          "l1": "A股"
         },
         {
           "date": "2018-08-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/iweFKl8cid__6J3xFDdJ9g"
+          "articleLink": "https://mp.weixin.qq.com/s/iweFKl8cid__6J3xFDdJ9g",
+          "l1": "A股"
         },
         {
           "date": "2018-07-05",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/POTDp9k4S_UmWqHG-W82tA"
+          "articleLink": "https://mp.weixin.qq.com/s/POTDp9k4S_UmWqHG-W82tA",
+          "l1": "A股"
         },
         {
           "date": "2018-04-18",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/frfPPCWsXJgC0DBUYl3QoA"
+          "articleLink": "https://mp.weixin.qq.com/s/frfPPCWsXJgC0DBUYl3QoA",
+          "l1": "A股"
         },
         {
           "date": "2018-04-02",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/pxd7EDN1P5pklSnOzksq3g"
+          "articleLink": "https://mp.weixin.qq.com/s/pxd7EDN1P5pklSnOzksq3g",
+          "l1": "A股"
         },
         {
           "date": "2018-03-01",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA"
+          "articleLink": "https://mp.weixin.qq.com/s/THanlppU0ZUpn-w3YKyDFA",
+          "l1": "A股"
         },
         {
           "date": "2018-02-13",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408748&idx=1&sn=731d5a9cdb91d16938790b8374cf5c09&chksm=8d226f03ba55e615846d17c747eee508ef1466fe801127b73a6409ade900e0aad564ac3399d9&scene=0&key=ba1ab88e28f6c0edcf3dbd2635904057961558b3ae55b76d9eac83fe3539ec15ee822ec0b126f5ecf295c0b29dbde7e911808382d1d2434c2e21f103ef23ab57e0dd69041c70b89722fc42fd49896cfb&ascene=0&uin=MjQ0NDEzNjkyMg%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=wvwLDHfOTLyH8PVRWABWxcnLJjRGQdOYFX9HRz%2BEMhbA2kX7ztJ8oOEq96sr6koR"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408748&idx=1&sn=731d5a9cdb91d16938790b8374cf5c09&chksm=8d226f03ba55e615846d17c747eee508ef1466fe801127b73a6409ade900e0aad564ac3399d9&scene=0&key=ba1ab88e28f6c0edcf3dbd2635904057961558b3ae55b76d9eac83fe3539ec15ee822ec0b126f5ecf295c0b29dbde7e911808382d1d2434c2e21f103ef23ab57e0dd69041c70b89722fc42fd49896cfb&ascene=0&uin=MjQ0NDEzNjkyMg%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=wvwLDHfOTLyH8PVRWABWxcnLJjRGQdOYFX9HRz%2BEMhbA2kX7ztJ8oOEq96sr6koR",
+          "l1": "A股"
         },
         {
           "date": "2017-12-29",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408700&idx=1&sn=f05ca4a983b0ff2d353680eeea2782a5&chksm=8d226f53ba55e6450e5375c902312cca86ba75b4c5f2ff8284463a07ec53b9cf623fd41de1a3&scene=0&key=57d22f5855d672bb018ff50ed082bb2374227a527c8f6aea974d4fbf5b22544298dd3f981b8fa5e792c75d3615226d699c2ef59624d43810b23ceba93824aab982a85bd2d18bb32e77b05b2ed307e5ee&ascene=0&uin=MzYzODEyMzU0OQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=VTcYBykx%2FapKHpZC9wzIUxZ90ZvkZ16qCX9if%2FQaZlQl5lGlERLuiBdQSYHGG5mT"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408700&idx=1&sn=f05ca4a983b0ff2d353680eeea2782a5&chksm=8d226f53ba55e6450e5375c902312cca86ba75b4c5f2ff8284463a07ec53b9cf623fd41de1a3&scene=0&key=57d22f5855d672bb018ff50ed082bb2374227a527c8f6aea974d4fbf5b22544298dd3f981b8fa5e792c75d3615226d699c2ef59624d43810b23ceba93824aab982a85bd2d18bb32e77b05b2ed307e5ee&ascene=0&uin=MzYzODEyMzU0OQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=VTcYBykx%2FapKHpZC9wzIUxZ90ZvkZ16qCX9if%2FQaZlQl5lGlERLuiBdQSYHGG5mT",
+          "l1": "A股"
         },
         {
           "date": "2017-12-14",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/TUMZL6aj6Xoub-qwEUKmrQ"
+          "articleLink": "https://mp.weixin.qq.com/s/TUMZL6aj6Xoub-qwEUKmrQ",
+          "l1": "A股"
         },
         {
           "date": "2017-05-23",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408550&idx=1&sn=2e3f4e76ba74cf6778307ad941adbd28&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408550&idx=1&sn=2e3f4e76ba74cf6778307ad941adbd28&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2017-01-24",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408498&idx=1&sn=c72677f806f827e4ed76e1c66d917c13&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408498&idx=1&sn=c72677f806f827e4ed76e1c66d917c13&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2016-12-29",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408486&idx=1&sn=fe715058ed7b6595f7f919aa725e8135&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408486&idx=1&sn=fe715058ed7b6595f7f919aa725e8135&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2016-12-14",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408477&idx=1&sn=6e2d07df54ed423f4cc489bc3b6e3297&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408477&idx=1&sn=6e2d07df54ed423f4cc489bc3b6e3297&scene=19#wechat_redirect",
+          "l1": "A股"
         }
       ],
       "currentUnit": 13,
-      "latestDate": "2024-03-07"
+      "latestDate": "2024-03-07",
+      "l1": "A股"
     },
     {
       "fundCode": "100038",
@@ -243,47 +275,55 @@
           "date": "2019-01-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/iJsvgEUQDnOoLi220TR5Lw"
+          "articleLink": "https://mp.weixin.qq.com/s/iJsvgEUQDnOoLi220TR5Lw",
+          "l1": "A股"
         },
         {
           "date": "2018-10-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ"
+          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ",
+          "l1": "A股"
         },
         {
           "date": "2018-09-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/gaOkrA_oICuQU-LfcIXVxA"
+          "articleLink": "https://mp.weixin.qq.com/s/gaOkrA_oICuQU-LfcIXVxA",
+          "l1": "A股"
         },
         {
           "date": "2018-09-03",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/txb6GAAyhIYeP5IkGhV-LA"
+          "articleLink": "https://mp.weixin.qq.com/s/txb6GAAyhIYeP5IkGhV-LA",
+          "l1": "A股"
         },
         {
           "date": "2018-08-06",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/e0o1tpg0lpfkH4Z9vFv3Hw"
+          "articleLink": "https://mp.weixin.qq.com/s/e0o1tpg0lpfkH4Z9vFv3Hw",
+          "l1": "A股"
         },
         {
           "date": "2018-06-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/_Sdqubfem4lHJqqA6Jo61g"
+          "articleLink": "https://mp.weixin.qq.com/s/_Sdqubfem4lHJqqA6Jo61g",
+          "l1": "A股"
         },
         {
           "date": "2018-05-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/vQWOgs3Ex68iVPED-0Hb1A"
+          "articleLink": "https://mp.weixin.qq.com/s/vQWOgs3Ex68iVPED-0Hb1A",
+          "l1": "A股"
         }
       ],
       "currentUnit": 7,
-      "latestDate": "2019-01-31"
+      "latestDate": "2019-01-31",
+      "l1": "A股"
     },
     {
       "fundCode": "000968",
@@ -295,89 +335,104 @@
           "date": "2020-09-11",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/0Ne8f__5oe7CHpXJC4xang"
+          "articleLink": "https://mp.weixin.qq.com/s/0Ne8f__5oe7CHpXJC4xang",
+          "l1": "A股"
         },
         {
           "date": "2020-08-12",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/X2F6CpXWKcWyZ2TTNMe6gw"
+          "articleLink": "https://mp.weixin.qq.com/s/X2F6CpXWKcWyZ2TTNMe6gw",
+          "l1": "A股"
         },
         {
           "date": "2020-07-16",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A"
+          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A",
+          "l1": "A股"
         },
         {
           "date": "2020-06-24",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZE8rPooJv61QdaZkiJtxcQ"
+          "articleLink": "https://mp.weixin.qq.com/s/ZE8rPooJv61QdaZkiJtxcQ",
+          "l1": "A股"
         },
         {
           "date": "2018-12-27",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/J37XMWDxhHhzLgKvy7-ilg"
+          "articleLink": "https://mp.weixin.qq.com/s/J37XMWDxhHhzLgKvy7-ilg",
+          "l1": "A股"
         },
         {
           "date": "2018-10-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ"
+          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ",
+          "l1": "A股"
         },
         {
           "date": "2018-08-20",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/E-6RrsJjG_hEytnxtaIj4Q"
+          "articleLink": "https://mp.weixin.qq.com/s/E-6RrsJjG_hEytnxtaIj4Q",
+          "l1": "A股"
         },
         {
           "date": "2018-06-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/_Sdqubfem4lHJqqA6Jo61g"
+          "articleLink": "https://mp.weixin.qq.com/s/_Sdqubfem4lHJqqA6Jo61g",
+          "l1": "A股"
         },
         {
           "date": "2017-07-17",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408559&idx=1&sn=26f07b61b8f5d5aca1468be93af7acb2&chksm=8d226fc0ba55e6d6dc8a5c8135c1f439905fd7f2ce89cfbe0032b55080db2dcff0e357e26d49&mpshare=1&scene=1&srcid=0717ikSI0sdDt5xHnN1YjmBK&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408559&idx=1&sn=26f07b61b8f5d5aca1468be93af7acb2&chksm=8d226fc0ba55e6d6dc8a5c8135c1f439905fd7f2ce89cfbe0032b55080db2dcff0e357e26d49&mpshare=1&scene=1&srcid=0717ikSI0sdDt5xHnN1YjmBK&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2017-05-23",
           "action": "buy",
           "unit": 2,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408550&idx=1&sn=2e3f4e76ba74cf6778307ad941adbd28&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408550&idx=1&sn=2e3f4e76ba74cf6778307ad941adbd28&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2017-04-25",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408538&idx=1&sn=025f9129a8a663451cf0d26c4eef7b74&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408538&idx=1&sn=025f9129a8a663451cf0d26c4eef7b74&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2017-04-14",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408529&idx=1&sn=40e18bdddfd5969ef5933dcd2d64bac1&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408529&idx=1&sn=40e18bdddfd5969ef5933dcd2d64bac1&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2017-01-24",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408498&idx=1&sn=c72677f806f827e4ed76e1c66d917c13&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408498&idx=1&sn=c72677f806f827e4ed76e1c66d917c13&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2016-01-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=403415084&idx=1&sn=f3682715cbaccb1002f8058c77455380&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=403415084&idx=1&sn=f3682715cbaccb1002f8058c77455380&scene=19#wechat_redirect",
+          "l1": "A股"
         }
       ],
       "currentUnit": 7,
-      "latestDate": "2020-09-11"
+      "latestDate": "2020-09-11",
+      "l1": "A股"
     },
     {
       "fundCode": "001180",
@@ -389,107 +444,125 @@
           "date": "2023-06-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3713"
+          "articleLink": "https://content.qieman.com/n/items/3713",
+          "l1": "A股"
         },
         {
           "date": "2022-01-25",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/emzHXtxVCjVcpuVPbkm3cA"
+          "articleLink": "https://mp.weixin.qq.com/s/emzHXtxVCjVcpuVPbkm3cA",
+          "l1": "A股"
         },
         {
           "date": "2020-09-11",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/0Ne8f__5oe7CHpXJC4xang"
+          "articleLink": "https://mp.weixin.qq.com/s/0Ne8f__5oe7CHpXJC4xang",
+          "l1": "A股"
         },
         {
           "date": "2020-07-16",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A"
+          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A",
+          "l1": "A股"
         },
         {
           "date": "2020-07-10",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/V8O1C1hth4wU_nX2uJDSPQ"
+          "articleLink": "https://mp.weixin.qq.com/s/V8O1C1hth4wU_nX2uJDSPQ",
+          "l1": "A股"
         },
         {
           "date": "2020-04-30",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/NHrXZSceR-3xEs2A09VT0Q"
+          "articleLink": "https://mp.weixin.qq.com/s/NHrXZSceR-3xEs2A09VT0Q",
+          "l1": "A股"
         },
         {
           "date": "2020-03-25",
           "action": "sell",
           "unit": 1,
-          "articleLink": null
+          "articleLink": null,
+          "l1": "A股"
         },
         {
           "date": "2018-10-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/4anBh_dyZvM6zm6WfsH6LA"
+          "articleLink": "https://mp.weixin.qq.com/s/4anBh_dyZvM6zm6WfsH6LA",
+          "l1": "A股"
         },
         {
           "date": "2018-08-06",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/e0o1tpg0lpfkH4Z9vFv3Hw"
+          "articleLink": "https://mp.weixin.qq.com/s/e0o1tpg0lpfkH4Z9vFv3Hw",
+          "l1": "A股"
         },
         {
           "date": "2018-02-06",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/J02ieARPAt7KIa0PLA_ZDw"
+          "articleLink": "https://mp.weixin.qq.com/s/J02ieARPAt7KIa0PLA_ZDw",
+          "l1": "A股"
         },
         {
           "date": "2017-07-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408564&idx=1&sn=16e1b133e361684c3c021647a25c4198"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408564&idx=1&sn=16e1b133e361684c3c021647a25c4198",
+          "l1": "A股"
         },
         {
           "date": "2017-05-23",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408550&idx=1&sn=2e3f4e76ba74cf6778307ad941adbd28&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408550&idx=1&sn=2e3f4e76ba74cf6778307ad941adbd28&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2017-04-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408543&idx=1&sn=7dab4bb3e838e92cd4a9ac1062429011&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408543&idx=1&sn=7dab4bb3e838e92cd4a9ac1062429011&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2017-04-25",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408538&idx=1&sn=025f9129a8a663451cf0d26c4eef7b74&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408538&idx=1&sn=025f9129a8a663451cf0d26c4eef7b74&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2017-03-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408523&idx=1&sn=03f846bf9386336dd8323769315832c4&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408523&idx=1&sn=03f846bf9386336dd8323769315832c4&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2017-01-13",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408490&idx=1&sn=ac8588b9deef91a29a1f6fd00e99bc3d&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408490&idx=1&sn=ac8588b9deef91a29a1f6fd00e99bc3d&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2016-12-14",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408477&idx=1&sn=6e2d07df54ed423f4cc489bc3b6e3297&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408477&idx=1&sn=6e2d07df54ed423f4cc489bc3b6e3297&scene=19#wechat_redirect",
+          "l1": "A股"
         }
       ],
       "currentUnit": 7,
-      "latestDate": "2023-06-26"
+      "latestDate": "2023-06-26",
+      "l1": "A股"
     },
     {
       "fundCode": "000071",
@@ -501,155 +574,181 @@
           "date": "2026-03-06",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22369"
+          "articleLink": "https://content.qieman.com/n/items/22369",
+          "l1": "海外新兴"
         },
         {
           "date": "2025-11-21",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/20905"
+          "articleLink": "https://content.qieman.com/n/items/20905",
+          "l1": "海外新兴"
         },
         {
           "date": "2025-09-12",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/19825"
+          "articleLink": "https://content.qieman.com/n/items/19825",
+          "l1": "海外新兴"
         },
         {
           "date": "2025-02-20",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/15943"
+          "articleLink": "https://content.qieman.com/n/items/15943",
+          "l1": "海外新兴"
         },
         {
           "date": "2024-10-08",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/13309"
+          "articleLink": "https://content.qieman.com/n/items/13309",
+          "l1": "海外新兴"
         },
         {
           "date": "2024-09-24",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/13141"
+          "articleLink": "https://content.qieman.com/n/items/13141",
+          "l1": "海外新兴"
         },
         {
           "date": "2024-05-17",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/10111"
+          "articleLink": "https://content.qieman.com/n/items/10111",
+          "l1": "海外新兴"
         },
         {
           "date": "2022-03-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Gg2MgKM-hDFqckUUM1rOhQ"
+          "articleLink": "https://mp.weixin.qq.com/s/Gg2MgKM-hDFqckUUM1rOhQ",
+          "l1": "海外新兴"
         },
         {
           "date": "2022-03-07",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/vOVdiqVled07HiYCbEt8vg"
+          "articleLink": "https://mp.weixin.qq.com/s/vOVdiqVled07HiYCbEt8vg",
+          "l1": "海外新兴"
         },
         {
           "date": "2021-12-03",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/XRpglzj8QZpQy_Up2zGEYQ"
+          "articleLink": "https://mp.weixin.qq.com/s/XRpglzj8QZpQy_Up2zGEYQ",
+          "l1": "海外新兴"
         },
         {
           "date": "2021-02-24",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/8mGdshNuuz3gQZSCMB63fg"
+          "articleLink": "https://mp.weixin.qq.com/s/8mGdshNuuz3gQZSCMB63fg",
+          "l1": "海外新兴"
         },
         {
           "date": "2020-10-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/fWZgeUCE2eg_S3dER9KPZg"
+          "articleLink": "https://mp.weixin.qq.com/s/fWZgeUCE2eg_S3dER9KPZg",
+          "l1": "海外新兴"
         },
         {
           "date": "2020-03-19",
           "action": "buy",
           "unit": 1,
-          "articleLink": null
+          "articleLink": null,
+          "l1": "海外新兴"
         },
         {
           "date": "2020-03-13",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/imNxENhGgPTSqabUUjGuwQ"
+          "articleLink": "https://mp.weixin.qq.com/s/imNxENhGgPTSqabUUjGuwQ",
+          "l1": "海外新兴"
         },
         {
           "date": "2018-11-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w"
+          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w",
+          "l1": "海外新兴"
         },
         {
           "date": "2017-11-15",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408664&idx=1&sn=a9698d449b603d5e4d5a4c4be24c7a89&chksm=8d226f77ba55e661e6718771dba77037f8b8277bc070656ddff1d88212af22d27c72b71adda3&scene=0&key=8c29d006290c3bc34165199aae68580cca06aade7817f56e79e544e31c74db0436626ddb462fee77de27cad574b2a32dd6a6f70be3ba7dc9df856deeec4d3312612c1333c379a51bfc03dfad02b4a5fd&ascene=0&uin=MjQ0NDEzNjkyMg%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=AmikmRwy%2FAEIDG3bqcE9hQ6PFc5Ysa6k5aJRTKMZIzd1mm%2BrlC9EZhjNmaeY8wxg"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408664&idx=1&sn=a9698d449b603d5e4d5a4c4be24c7a89&chksm=8d226f77ba55e661e6718771dba77037f8b8277bc070656ddff1d88212af22d27c72b71adda3&scene=0&key=8c29d006290c3bc34165199aae68580cca06aade7817f56e79e544e31c74db0436626ddb462fee77de27cad574b2a32dd6a6f70be3ba7dc9df856deeec4d3312612c1333c379a51bfc03dfad02b4a5fd&ascene=0&uin=MjQ0NDEzNjkyMg%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=AmikmRwy%2FAEIDG3bqcE9hQ6PFc5Ysa6k5aJRTKMZIzd1mm%2BrlC9EZhjNmaeY8wxg",
+          "l1": "海外新兴"
         },
         {
           "date": "2017-07-31",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408564&idx=1&sn=16e1b133e361684c3c021647a25c4198"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408564&idx=1&sn=16e1b133e361684c3c021647a25c4198",
+          "l1": "海外新兴"
         },
         {
           "date": "2016-03-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=405564763&idx=1&sn=6a2d8b9b1a9bfc7d4eb982c8ea4069a5&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=405564763&idx=1&sn=6a2d8b9b1a9bfc7d4eb982c8ea4069a5&scene=19#wechat_redirect",
+          "l1": "海外新兴"
         },
         {
           "date": "2016-02-29",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=404278898&idx=1&sn=5db3f6196daeaf2892071becf36d7a2f&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=404278898&idx=1&sn=5db3f6196daeaf2892071becf36d7a2f&scene=19#wechat_redirect",
+          "l1": "海外新兴"
         },
         {
           "date": "2016-01-26",
           "action": "buy",
           "unit": 2,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=403415084&idx=1&sn=f3682715cbaccb1002f8058c77455380&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=403415084&idx=1&sn=f3682715cbaccb1002f8058c77455380&scene=19#wechat_redirect",
+          "l1": "海外新兴"
         },
         {
           "date": "2015-12-29",
           "action": "buy",
           "unit": 2,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=402790655&idx=1&sn=ef3529ecbbeec1408e7f6ca59deace39&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=402790655&idx=1&sn=ef3529ecbbeec1408e7f6ca59deace39&scene=19#wechat_redirect",
+          "l1": "海外新兴"
         },
         {
           "date": "2015-11-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=401830497&idx=1&sn=02495da934bc029cd0dc21d0bb8f17c6&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=401830497&idx=1&sn=02495da934bc029cd0dc21d0bb8f17c6&scene=19#wechat_redirect",
+          "l1": "海外新兴"
         },
         {
           "date": "2015-11-02",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=400592749&idx=1&sn=b06dd50dcf17031f37ad7fd0e26a70fb&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=400592749&idx=1&sn=b06dd50dcf17031f37ad7fd0e26a70fb&scene=19#wechat_redirect",
+          "l1": "海外新兴"
         },
         {
           "date": "2015-10-08",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=211051506&idx=1&sn=1d099b4adc5d847c957c4e2494f24a93&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=211051506&idx=1&sn=1d099b4adc5d847c957c4e2494f24a93&scene=19#wechat_redirect",
+          "l1": "海外新兴"
         },
         {
           "date": "2015-08-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=210417088&idx=1&sn=4b62384b013127b6f6b66148e1f66395&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=210417088&idx=1&sn=4b62384b013127b6f6b66148e1f66395&scene=19#wechat_redirect",
+          "l1": "海外新兴"
         }
       ],
       "currentUnit": 7,
-      "latestDate": "2026-03-06"
+      "latestDate": "2026-03-06",
+      "l1": "海外新兴"
     },
     {
       "fundCode": "164906",
@@ -661,65 +760,76 @@
           "date": "2021-10-22",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Ov8NzBcH56dhaflpG4bX7g"
+          "articleLink": "https://mp.weixin.qq.com/s/Ov8NzBcH56dhaflpG4bX7g",
+          "l1": "海外新兴"
         },
         {
           "date": "2021-07-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/XDbjPeVrz1GHgopfpWOIBg"
+          "articleLink": "https://mp.weixin.qq.com/s/XDbjPeVrz1GHgopfpWOIBg",
+          "l1": "海外新兴"
         },
         {
           "date": "2021-06-09",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/VWY9XFy2hwdv9Xd4r_1u4A"
+          "articleLink": "https://mp.weixin.qq.com/s/VWY9XFy2hwdv9Xd4r_1u4A",
+          "l1": "海外新兴"
         },
         {
           "date": "2021-04-16",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/lEf1lUNpvsbi3UmL-uxOpg"
+          "articleLink": "https://mp.weixin.qq.com/s/lEf1lUNpvsbi3UmL-uxOpg",
+          "l1": "海外新兴"
         },
         {
           "date": "2020-11-11",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/z7ButJBYo2WAH9y6T2l6JQ"
+          "articleLink": "https://mp.weixin.qq.com/s/z7ButJBYo2WAH9y6T2l6JQ",
+          "l1": "海外新兴"
         },
         {
           "date": "2020-07-16",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A"
+          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A",
+          "l1": "海外新兴"
         },
         {
           "date": "2020-06-09",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/T_g7Br6WF8Jgq3edcDbv9w"
+          "articleLink": "https://mp.weixin.qq.com/s/T_g7Br6WF8Jgq3edcDbv9w",
+          "l1": "海外新兴"
         },
         {
           "date": "2019-05-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/XPM2EWudS8PpItcwoqhfkQ"
+          "articleLink": "https://mp.weixin.qq.com/s/XPM2EWudS8PpItcwoqhfkQ",
+          "l1": "海外新兴"
         },
         {
           "date": "2018-11-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/WbHZfDcCVtcBq1z-Ze4B7w"
+          "articleLink": "https://mp.weixin.qq.com/s/WbHZfDcCVtcBq1z-Ze4B7w",
+          "l1": "海外新兴"
         },
         {
           "date": "2018-09-04",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/txb6GAAyhIYeP5IkGhV-LA"
+          "articleLink": "https://mp.weixin.qq.com/s/txb6GAAyhIYeP5IkGhV-LA",
+          "l1": "海外新兴"
         }
       ],
       "currentUnit": 4,
-      "latestDate": "2021-10-22"
+      "latestDate": "2021-10-22",
+      "l1": "海外新兴"
     },
     {
       "fundCode": "340001",
@@ -731,41 +841,48 @@
           "date": "2022-02-28",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/UkrFSkCDzCJuiT2qEqHwSg"
+          "articleLink": "https://mp.weixin.qq.com/s/UkrFSkCDzCJuiT2qEqHwSg",
+          "l1": "债券"
         },
         {
           "date": "2018-11-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w"
+          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w",
+          "l1": "债券"
         },
         {
           "date": "2018-10-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ"
+          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ",
+          "l1": "债券"
         },
         {
           "date": "2018-09-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/gaOkrA_oICuQU-LfcIXVxA"
+          "articleLink": "https://mp.weixin.qq.com/s/gaOkrA_oICuQU-LfcIXVxA",
+          "l1": "债券"
         },
         {
           "date": "2018-06-19",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408846&idx=1&sn=d6ed087bfa68eea0ec3bcc0c8935c179&chksm=8d226ca1ba55e5b76b72199b939fd3991124972e0f5cc971aa6a2c7d457c6dd2d531fa485868&mpshare=1&scene=1&srcid=0619aWPgAwTNepMJqXr6eixF&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408846&idx=1&sn=d6ed087bfa68eea0ec3bcc0c8935c179&chksm=8d226ca1ba55e5b76b72199b939fd3991124972e0f5cc971aa6a2c7d457c6dd2d531fa485868&mpshare=1&scene=1&srcid=0619aWPgAwTNepMJqXr6eixF&rd2werd=1#wechat_redirect",
+          "l1": "债券"
         },
         {
           "date": "2018-05-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/vQWOgs3Ex68iVPED-0Hb1A"
+          "articleLink": "https://mp.weixin.qq.com/s/vQWOgs3Ex68iVPED-0Hb1A",
+          "l1": "债券"
         }
       ],
       "currentUnit": 4,
-      "latestDate": "2022-02-28"
+      "latestDate": "2022-02-28",
+      "l1": "债券"
     },
     {
       "fundCode": "002708",
@@ -777,29 +894,34 @@
           "date": "2023-06-12",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3550"
+          "articleLink": "https://content.qieman.com/n/items/3550",
+          "l1": "A股"
         },
         {
           "date": "2022-09-19",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/2338"
+          "articleLink": "https://content.qieman.com/items/2338",
+          "l1": "A股"
         },
         {
           "date": "2022-06-10",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1889"
+          "articleLink": "https://content.qieman.com/n/items/1889",
+          "l1": "A股"
         },
         {
           "date": "2022-04-14",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1716"
+          "articleLink": "https://content.qieman.com/n/items/1716",
+          "l1": "A股"
         }
       ],
       "currentUnit": 4,
-      "latestDate": "2023-06-12"
+      "latestDate": "2023-06-12",
+      "l1": "A股"
     },
     {
       "fundCode": "001052",
@@ -811,89 +933,104 @@
           "date": "2026-04-10",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22897"
+          "articleLink": "https://content.qieman.com/n/items/22897",
+          "l1": "A股"
         },
         {
           "date": "2026-01-30",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21913"
+          "articleLink": "https://content.qieman.com/n/items/21913",
+          "l1": "A股"
         },
         {
           "date": "2026-01-07",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21493"
+          "articleLink": "https://content.qieman.com/n/items/21493",
+          "l1": "A股"
         },
         {
           "date": "2024-10-08",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/13309"
+          "articleLink": "https://content.qieman.com/n/items/13309",
+          "l1": "A股"
         },
         {
           "date": "2023-02-27",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3034"
+          "articleLink": "https://content.qieman.com/n/items/3034",
+          "l1": "A股"
         },
         {
           "date": "2018-11-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w"
+          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w",
+          "l1": "A股"
         },
         {
           "date": "2018-09-14",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/rnAWZmqGAmez7PrUcJNNyg"
+          "articleLink": "https://mp.weixin.qq.com/s/rnAWZmqGAmez7PrUcJNNyg",
+          "l1": "A股"
         },
         {
           "date": "2018-08-20",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/E-6RrsJjG_hEytnxtaIj4Q"
+          "articleLink": "https://mp.weixin.qq.com/s/E-6RrsJjG_hEytnxtaIj4Q",
+          "l1": "A股"
         },
         {
           "date": "2018-06-19",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408846&idx=1&sn=d6ed087bfa68eea0ec3bcc0c8935c179&chksm=8d226ca1ba55e5b76b72199b939fd3991124972e0f5cc971aa6a2c7d457c6dd2d531fa485868&mpshare=1&scene=1&srcid=0619aWPgAwTNepMJqXr6eixF&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408846&idx=1&sn=d6ed087bfa68eea0ec3bcc0c8935c179&chksm=8d226ca1ba55e5b76b72199b939fd3991124972e0f5cc971aa6a2c7d457c6dd2d531fa485868&mpshare=1&scene=1&srcid=0619aWPgAwTNepMJqXr6eixF&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2018-05-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/vQWOgs3Ex68iVPED-0Hb1A"
+          "articleLink": "https://mp.weixin.qq.com/s/vQWOgs3Ex68iVPED-0Hb1A",
+          "l1": "A股"
         },
         {
           "date": "2018-05-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408812&idx=1&sn=be9a31e658f0dcb4e2cd5070044219e9&chksm=8d226cc3ba55e5d5220af47191f92cc045b987a249b0306c77656a78ccbde9d4f07071a86fe9&mpshare=1&scene=1&srcid=05154p6mISTgEgJtSpTki53C&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408812&idx=1&sn=be9a31e658f0dcb4e2cd5070044219e9&chksm=8d226cc3ba55e5d5220af47191f92cc045b987a249b0306c77656a78ccbde9d4f07071a86fe9&mpshare=1&scene=1&srcid=05154p6mISTgEgJtSpTki53C&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2017-11-02",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/xiCe3xBLq1-DGsPR2qWVrw"
+          "articleLink": "https://mp.weixin.qq.com/s/xiCe3xBLq1-DGsPR2qWVrw",
+          "l1": "A股"
         },
         {
           "date": "2017-05-23",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408550&idx=1&sn=2e3f4e76ba74cf6778307ad941adbd28&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408550&idx=1&sn=2e3f4e76ba74cf6778307ad941adbd28&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2016-02-29",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=404278898&idx=1&sn=5db3f6196daeaf2892071becf36d7a2f&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=404278898&idx=1&sn=5db3f6196daeaf2892071becf36d7a2f&scene=19#wechat_redirect",
+          "l1": "A股"
         }
       ],
       "currentUnit": 4,
-      "latestDate": "2026-04-10"
+      "latestDate": "2026-04-10",
+      "l1": "A股"
     },
     {
       "fundCode": "012323",
@@ -905,53 +1042,62 @@
           "date": "2026-04-15",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22957"
+          "articleLink": "https://content.qieman.com/n/items/22957",
+          "l1": "A股"
         },
         {
           "date": "2026-03-23",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22537"
+          "articleLink": "https://content.qieman.com/n/items/22537",
+          "l1": "A股"
         },
         {
           "date": "2026-01-29",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21895"
+          "articleLink": "https://content.qieman.com/n/items/21895",
+          "l1": "A股"
         },
         {
           "date": "2026-01-13",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21583"
+          "articleLink": "https://content.qieman.com/n/items/21583",
+          "l1": "A股"
         },
         {
           "date": "2024-04-11",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/9223"
+          "articleLink": "https://content.qieman.com/n/items/9223",
+          "l1": "A股"
         },
         {
           "date": "2023-08-17",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3996"
+          "articleLink": "https://content.qieman.com/n/items/3996",
+          "l1": "A股"
         },
         {
           "date": "2023-06-07",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3524"
+          "articleLink": "https://content.qieman.com/n/items/3524",
+          "l1": "A股"
         },
         {
           "date": "2023-04-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3333"
+          "articleLink": "https://content.qieman.com/n/items/3333",
+          "l1": "A股"
         }
       ],
       "currentUnit": 4,
-      "latestDate": "2026-04-15"
+      "latestDate": "2026-04-15",
+      "l1": "A股"
     },
     {
       "fundCode": "000478",
@@ -963,119 +1109,139 @@
           "date": "2026-04-23",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/23089"
+          "articleLink": "https://content.qieman.com/n/items/23089",
+          "l1": "A股"
         },
         {
           "date": "2026-04-09",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22873"
+          "articleLink": "https://content.qieman.com/n/items/22873",
+          "l1": "A股"
         },
         {
           "date": "2026-01-30",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21913"
+          "articleLink": "https://content.qieman.com/n/items/21913",
+          "l1": "A股"
         },
         {
           "date": "2026-01-09",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21547"
+          "articleLink": "https://content.qieman.com/n/items/21547",
+          "l1": "A股"
         },
         {
           "date": "2026-01-07",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21493"
+          "articleLink": "https://content.qieman.com/n/items/21493",
+          "l1": "A股"
         },
         {
           "date": "2025-08-13",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/19297"
+          "articleLink": "https://content.qieman.com/n/items/19297",
+          "l1": "A股"
         },
         {
           "date": "2023-02-01",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2904"
+          "articleLink": "https://content.qieman.com/n/items/2904",
+          "l1": "A股"
         },
         {
           "date": "2021-09-27",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Co06iEW7CVewD4duhnfjYQ"
+          "articleLink": "https://mp.weixin.qq.com/s/Co06iEW7CVewD4duhnfjYQ",
+          "l1": "A股"
         },
         {
           "date": "2019-12-02",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653409270&idx=1&sn=4afccf683c0fea4a9fb1d36f87401565&chksm=8d226d19ba55e40f2d4e4e20f69f8c83f5e7e292f8e5ed2dd0482266c0ce82d17ad0e4e93abf&mpshare=1&scene=1&srcid=&sharer_sharetime=1575259392409&sharer_shareid=ff03485fb1b9157a8502443815041e61&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653409270&idx=1&sn=4afccf683c0fea4a9fb1d36f87401565&chksm=8d226d19ba55e40f2d4e4e20f69f8c83f5e7e292f8e5ed2dd0482266c0ce82d17ad0e4e93abf&mpshare=1&scene=1&srcid=&sharer_sharetime=1575259392409&sharer_shareid=ff03485fb1b9157a8502443815041e61&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2018-06-14",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408837&idx=1&sn=bc364667a2b8f4dfdf7fc3253d8849af&chksm=8d226caaba55e5bcdc948915d72b74693b68c7c0690426a7e691024e03ff4ca2534f37824ac7&scene=0&key=ce969f24fc1b9f53d5d923c25a83050957aedbc12c484248e997a2db39829f6a1cd1c6d22f1292665aedc795c24ee30eb771e93ae21a3543f58304eb60c9fa95ce69b677f825167ec3954f957335f258&ascene=0&uin=MjMzNDA5ODE0MA%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G1036)&version=12010310&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=xwQcBPS4Ufls6HhU%2BnAPAAT5XGam7dAPlWoxXFsC1EOwtRrqB3t5KgkqwRCNyP7C"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408837&idx=1&sn=bc364667a2b8f4dfdf7fc3253d8849af&chksm=8d226caaba55e5bcdc948915d72b74693b68c7c0690426a7e691024e03ff4ca2534f37824ac7&scene=0&key=ce969f24fc1b9f53d5d923c25a83050957aedbc12c484248e997a2db39829f6a1cd1c6d22f1292665aedc795c24ee30eb771e93ae21a3543f58304eb60c9fa95ce69b677f825167ec3954f957335f258&ascene=0&uin=MjMzNDA5ODE0MA%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G1036)&version=12010310&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=xwQcBPS4Ufls6HhU%2BnAPAAT5XGam7dAPlWoxXFsC1EOwtRrqB3t5KgkqwRCNyP7C",
+          "l1": "A股"
         },
         {
           "date": "2018-04-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408792&idx=1&sn=243af5873781e76bcae38e55c98dc9a3&chksm=8d226cf7ba55e5e1c34ed21e5b0e0d1333c91bc691f7bcd9abc54cab44c5d3b409c52c03bf81&mpshare=1&scene=1&srcid=0426nwSTTqlsdavldLvx7hI0&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408792&idx=1&sn=243af5873781e76bcae38e55c98dc9a3&chksm=8d226cf7ba55e5e1c34ed21e5b0e0d1333c91bc691f7bcd9abc54cab44c5d3b409c52c03bf81&mpshare=1&scene=1&srcid=0426nwSTTqlsdavldLvx7hI0&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2018-02-06",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/J02ieARPAt7KIa0PLA_ZDw"
+          "articleLink": "https://mp.weixin.qq.com/s/J02ieARPAt7KIa0PLA_ZDw",
+          "l1": "A股"
         },
         {
           "date": "2018-02-01",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/T-02WkWpEI-LoJkxEo4mTw"
+          "articleLink": "https://mp.weixin.qq.com/s/T-02WkWpEI-LoJkxEo4mTw",
+          "l1": "A股"
         },
         {
           "date": "2017-12-29",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408700&idx=1&sn=f05ca4a983b0ff2d353680eeea2782a5&chksm=8d226f53ba55e6450e5375c902312cca86ba75b4c5f2ff8284463a07ec53b9cf623fd41de1a3&scene=0&key=57d22f5855d672bb018ff50ed082bb2374227a527c8f6aea974d4fbf5b22544298dd3f981b8fa5e792c75d3615226d699c2ef59624d43810b23ceba93824aab982a85bd2d18bb32e77b05b2ed307e5ee&ascene=0&uin=MzYzODEyMzU0OQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=VTcYBykx%2FapKHpZC9wzIUxZ90ZvkZ16qCX9if%2FQaZlQl5lGlERLuiBdQSYHGG5mT"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408700&idx=1&sn=f05ca4a983b0ff2d353680eeea2782a5&chksm=8d226f53ba55e6450e5375c902312cca86ba75b4c5f2ff8284463a07ec53b9cf623fd41de1a3&scene=0&key=57d22f5855d672bb018ff50ed082bb2374227a527c8f6aea974d4fbf5b22544298dd3f981b8fa5e792c75d3615226d699c2ef59624d43810b23ceba93824aab982a85bd2d18bb32e77b05b2ed307e5ee&ascene=0&uin=MzYzODEyMzU0OQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=VTcYBykx%2FapKHpZC9wzIUxZ90ZvkZ16qCX9if%2FQaZlQl5lGlERLuiBdQSYHGG5mT",
+          "l1": "A股"
         },
         {
           "date": "2017-11-30",
           "action": "buy",
           "unit": 2,
-          "articleLink": "https://mp.weixin.qq.com/s/QFkmrnJd3w3AiCFo-CNFaw"
+          "articleLink": "https://mp.weixin.qq.com/s/QFkmrnJd3w3AiCFo-CNFaw",
+          "l1": "A股"
         },
         {
           "date": "2017-10-27",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/SvcNJAIWBOSgBGiDoUwMEw"
+          "articleLink": "https://mp.weixin.qq.com/s/SvcNJAIWBOSgBGiDoUwMEw",
+          "l1": "A股"
         },
         {
           "date": "2017-09-29",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/_9KUMNPq0o5M9hOOF9rAFg"
+          "articleLink": "https://mp.weixin.qq.com/s/_9KUMNPq0o5M9hOOF9rAFg",
+          "l1": "A股"
         },
         {
           "date": "2017-09-01",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408600&idx=1&sn=8d6e5a6196d76ad8a7ff194494f5bd44&chksm=8d226fb7ba55e6a1a639a366e23c111beab10d92c684e0625eae201ee8daf85db7e221ddbcdd&mpshare=1&scene=1&srcid=0831SQp5sAPUvdwXeUvnSZml&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408600&idx=1&sn=8d6e5a6196d76ad8a7ff194494f5bd44&chksm=8d226fb7ba55e6a1a639a366e23c111beab10d92c684e0625eae201ee8daf85db7e221ddbcdd&mpshare=1&scene=1&srcid=0831SQp5sAPUvdwXeUvnSZml&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2017-04-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408543&idx=1&sn=7dab4bb3e838e92cd4a9ac1062429011&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408543&idx=1&sn=7dab4bb3e838e92cd4a9ac1062429011&scene=19#wechat_redirect",
+          "l1": "A股"
         }
       ],
       "currentUnit": 4,
-      "latestDate": "2026-04-23"
+      "latestDate": "2026-04-23",
+      "l1": "A股"
     },
     {
       "fundCode": "110027",
@@ -1087,47 +1253,55 @@
           "date": "2022-04-14",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1716"
+          "articleLink": "https://content.qieman.com/n/items/1716",
+          "l1": "债券"
         },
         {
           "date": "2022-03-15",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Gg2MgKM-hDFqckUUM1rOhQ"
+          "articleLink": "https://mp.weixin.qq.com/s/Gg2MgKM-hDFqckUUM1rOhQ",
+          "l1": "债券"
         },
         {
           "date": "2019-07-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/VZwwgE92m7lASr4YCVriyg"
+          "articleLink": "https://mp.weixin.qq.com/s/VZwwgE92m7lASr4YCVriyg",
+          "l1": "债券"
         },
         {
           "date": "2019-06-18",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/yPb-oTpCfoUF5WT3I4uXdQ"
+          "articleLink": "https://mp.weixin.qq.com/s/yPb-oTpCfoUF5WT3I4uXdQ",
+          "l1": "债券"
         },
         {
           "date": "2019-05-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/XPM2EWudS8PpItcwoqhfkQ"
+          "articleLink": "https://mp.weixin.qq.com/s/XPM2EWudS8PpItcwoqhfkQ",
+          "l1": "债券"
         },
         {
           "date": "2019-05-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Abc5-nwdQFJoPwH1pFX3Rw"
+          "articleLink": "https://mp.weixin.qq.com/s/Abc5-nwdQFJoPwH1pFX3Rw",
+          "l1": "债券"
         },
         {
           "date": "2019-01-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/iJsvgEUQDnOoLi220TR5Lw"
+          "articleLink": "https://mp.weixin.qq.com/s/iJsvgEUQDnOoLi220TR5Lw",
+          "l1": "债券"
         }
       ],
       "currentUnit": 3,
-      "latestDate": "2022-04-14"
+      "latestDate": "2022-04-14",
+      "l1": "债券"
     },
     {
       "fundCode": "162412",
@@ -1139,23 +1313,27 @@
           "date": "2023-08-22",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/4021"
+          "articleLink": "https://content.qieman.com/n/items/4021",
+          "l1": "A股"
         },
         {
           "date": "2023-07-19",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3822"
+          "articleLink": "https://content.qieman.com/n/items/3822",
+          "l1": "A股"
         },
         {
           "date": "2023-05-10",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3377"
+          "articleLink": "https://content.qieman.com/n/items/3377",
+          "l1": "A股"
         }
       ],
       "currentUnit": 3,
-      "latestDate": "2023-08-22"
+      "latestDate": "2023-08-22",
+      "l1": "A股"
     },
     {
       "fundCode": "011309",
@@ -1167,35 +1345,41 @@
           "date": "2024-08-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/12481"
+          "articleLink": "https://content.qieman.com/n/items/12481",
+          "l1": "A股"
         },
         {
           "date": "2024-06-04",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/10555"
+          "articleLink": "https://content.qieman.com/n/items/10555",
+          "l1": "A股"
         },
         {
           "date": "2024-05-06",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/9799"
+          "articleLink": "https://content.qieman.com/n/items/9799",
+          "l1": "A股"
         },
         {
           "date": "2024-01-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/7711"
+          "articleLink": "https://content.qieman.com/n/items/7711",
+          "l1": "A股"
         },
         {
           "date": "2023-05-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3480"
+          "articleLink": "https://content.qieman.com/n/items/3480",
+          "l1": "A股"
         }
       ],
       "currentUnit": 3,
-      "latestDate": "2024-08-28"
+      "latestDate": "2024-08-28",
+      "l1": "A股"
     },
     {
       "fundCode": "519915",
@@ -1207,35 +1391,41 @@
           "date": "2024-09-18",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/12931"
+          "articleLink": "https://content.qieman.com/n/items/12931",
+          "l1": "A股"
         },
         {
           "date": "2024-07-24",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/11725"
+          "articleLink": "https://content.qieman.com/n/items/11725",
+          "l1": "A股"
         },
         {
           "date": "2023-02-23",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3020"
+          "articleLink": "https://content.qieman.com/n/items/3020",
+          "l1": "A股"
         },
         {
           "date": "2022-03-18",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/E6OLuOviVt9qQOekzXRHVw"
+          "articleLink": "https://mp.weixin.qq.com/s/E6OLuOviVt9qQOekzXRHVw",
+          "l1": "A股"
         },
         {
           "date": "2021-09-03",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/epaxsrV1NyIPW4ksyRYMHw"
+          "articleLink": "https://mp.weixin.qq.com/s/epaxsrV1NyIPW4ksyRYMHw",
+          "l1": "A股"
         }
       ],
       "currentUnit": 3,
-      "latestDate": "2024-09-18"
+      "latestDate": "2024-09-18",
+      "l1": "A股"
     },
     {
       "fundCode": "012348",
@@ -1247,59 +1437,69 @@
           "date": "2025-04-23",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/17305"
+          "articleLink": "https://content.qieman.com/n/items/17305",
+          "l1": "海外新兴"
         },
         {
           "date": "2025-04-07",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/16927"
+          "articleLink": "https://content.qieman.com/n/items/16927",
+          "l1": "海外新兴"
         },
         {
           "date": "2025-03-07",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/16207"
+          "articleLink": "https://content.qieman.com/n/items/16207",
+          "l1": "海外新兴"
         },
         {
           "date": "2024-12-10",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/14815"
+          "articleLink": "https://content.qieman.com/n/items/14815",
+          "l1": "海外新兴"
         },
         {
           "date": "2023-04-06",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3234"
+          "articleLink": "https://content.qieman.com/n/items/3234",
+          "l1": "海外新兴"
         },
         {
           "date": "2022-05-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/1850"
+          "articleLink": "https://content.qieman.com/items/1850",
+          "l1": "海外新兴"
         },
         {
           "date": "2022-03-18",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/E6OLuOviVt9qQOekzXRHVw"
+          "articleLink": "https://mp.weixin.qq.com/s/E6OLuOviVt9qQOekzXRHVw",
+          "l1": "海外新兴"
         },
         {
           "date": "2022-02-09",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/XTVhQ2jpHirI3Po9RQGiPA"
+          "articleLink": "https://mp.weixin.qq.com/s/XTVhQ2jpHirI3Po9RQGiPA",
+          "l1": "海外新兴"
         },
         {
           "date": "2021-12-16",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/9xYvoENEJ6ODmqPFFseK5g?st=591665A7860647ABC4C329AB7C501598B1603A4FB4A959524FDBB39BAE1D78004C94A4E55180711192711006B0BA8F53F14139A653658DD744EEBFAD85049B31AE6BA55AE0A5400A0AD2D0C1A10B2A6C1C84F032B9242B564619D392331804B45D97485361148DAF4966F9D9670BC25756B47EF79748C99353B29720EEF9DBADA3830D4F80BDC6D9105B8209FD0BDDFA1EEC53285E687F5D4AA27497D0E7B540C293902AC54652B57A11C3B38DFB221EE96DF9674FA8FF4FCBEB0C60A847BEDCA7A646A6ED44DC5DD10551DACF6A4FEF&vid=1688853776721151&cst=48C4F7E7457F58734E89A1BC2453AC95A018FCBA78BC36062C839C8AC7CF5D2DCFDE253239736121F781223C630C0DD3&deviceid=493ea59a-4e46-4630-a5c6-cb409f2df607&version=3.1.18.70072&platform=mac"
+          "articleLink": "https://mp.weixin.qq.com/s/9xYvoENEJ6ODmqPFFseK5g?st=591665A7860647ABC4C329AB7C501598B1603A4FB4A959524FDBB39BAE1D78004C94A4E55180711192711006B0BA8F53F14139A653658DD744EEBFAD85049B31AE6BA55AE0A5400A0AD2D0C1A10B2A6C1C84F032B9242B564619D392331804B45D97485361148DAF4966F9D9670BC25756B47EF79748C99353B29720EEF9DBADA3830D4F80BDC6D9105B8209FD0BDDFA1EEC53285E687F5D4AA27497D0E7B540C293902AC54652B57A11C3B38DFB221EE96DF9674FA8FF4FCBEB0C60A847BEDCA7A646A6ED44DC5DD10551DACF6A4FEF&vid=1688853776721151&cst=48C4F7E7457F58734E89A1BC2453AC95A018FCBA78BC36062C839C8AC7CF5D2DCFDE253239736121F781223C630C0DD3&deviceid=493ea59a-4e46-4630-a5c6-cb409f2df607&version=3.1.18.70072&platform=mac",
+          "l1": "海外新兴"
         }
       ],
       "currentUnit": 3,
-      "latestDate": "2025-04-23"
+      "latestDate": "2025-04-23",
+      "l1": "海外新兴"
     },
     {
       "fundCode": "001051",
@@ -1311,107 +1511,125 @@
           "date": "2025-09-01",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/19633"
+          "articleLink": "https://content.qieman.com/n/items/19633",
+          "l1": "A股"
         },
         {
           "date": "2022-07-05",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2034"
+          "articleLink": "https://content.qieman.com/n/items/2034",
+          "l1": "A股"
         },
         {
           "date": "2021-02-23",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/BvttuaaIOfWcsZUGOLoj9Q"
+          "articleLink": "https://mp.weixin.qq.com/s/BvttuaaIOfWcsZUGOLoj9Q",
+          "l1": "A股"
         },
         {
           "date": "2021-01-28",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/2LSFsCXMT8RfrfEmfMu28A"
+          "articleLink": "https://mp.weixin.qq.com/s/2LSFsCXMT8RfrfEmfMu28A",
+          "l1": "A股"
         },
         {
           "date": "2020-12-15",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/5LsBSf_kAYp2l7CJLEFDLg"
+          "articleLink": "https://mp.weixin.qq.com/s/5LsBSf_kAYp2l7CJLEFDLg",
+          "l1": "A股"
         },
         {
           "date": "2020-08-12",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/X2F6CpXWKcWyZ2TTNMe6gw"
+          "articleLink": "https://mp.weixin.qq.com/s/X2F6CpXWKcWyZ2TTNMe6gw",
+          "l1": "A股"
         },
         {
           "date": "2018-09-21",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/8xpujuycsExjw0PpjCsf1w"
+          "articleLink": "https://mp.weixin.qq.com/s/8xpujuycsExjw0PpjCsf1w",
+          "l1": "A股"
         },
         {
           "date": "2018-07-05",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/POTDp9k4S_UmWqHG-W82tA"
+          "articleLink": "https://mp.weixin.qq.com/s/POTDp9k4S_UmWqHG-W82tA",
+          "l1": "A股"
         },
         {
           "date": "2016-12-14",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408477&idx=1&sn=6e2d07df54ed423f4cc489bc3b6e3297&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408477&idx=1&sn=6e2d07df54ed423f4cc489bc3b6e3297&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2016-05-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408395&idx=1&sn=6583cf8ea0e81d3070c27f0ece0e415a&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408395&idx=1&sn=6583cf8ea0e81d3070c27f0ece0e415a&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2016-04-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408373&idx=1&sn=6874500f093b98ca2e598833a25368a9&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408373&idx=1&sn=6874500f093b98ca2e598833a25368a9&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2016-03-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=405564763&idx=1&sn=6a2d8b9b1a9bfc7d4eb982c8ea4069a5&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=405564763&idx=1&sn=6a2d8b9b1a9bfc7d4eb982c8ea4069a5&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2016-02-29",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=404278898&idx=1&sn=5db3f6196daeaf2892071becf36d7a2f&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=404278898&idx=1&sn=5db3f6196daeaf2892071becf36d7a2f&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2016-01-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=403415084&idx=1&sn=f3682715cbaccb1002f8058c77455380&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=403415084&idx=1&sn=f3682715cbaccb1002f8058c77455380&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2015-10-08",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=211051506&idx=1&sn=1d099b4adc5d847c957c4e2494f24a93&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=211051506&idx=1&sn=1d099b4adc5d847c957c4e2494f24a93&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2015-08-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=210417088&idx=1&sn=4b62384b013127b6f6b66148e1f66395&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=210417088&idx=1&sn=4b62384b013127b6f6b66148e1f66395&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2015-08-03",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=209850116&idx=1&sn=843617112021f20f3a568bd589e40925&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=209850116&idx=1&sn=843617112021f20f3a568bd589e40925&scene=19#wechat_redirect",
+          "l1": "A股"
         }
       ],
       "currentUnit": 3,
-      "latestDate": "2025-09-01"
+      "latestDate": "2025-09-01",
+      "l1": "A股"
     },
     {
       "fundCode": "000051",
@@ -1423,29 +1641,34 @@
           "date": "2023-01-06",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2801"
+          "articleLink": "https://content.qieman.com/n/items/2801",
+          "l1": "A股"
         },
         {
           "date": "2021-01-29",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/oKBz2wNMkhfP17PRB-5czg"
+          "articleLink": "https://mp.weixin.qq.com/s/oKBz2wNMkhfP17PRB-5czg",
+          "l1": "A股"
         },
         {
           "date": "2019-05-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Abc5-nwdQFJoPwH1pFX3Rw"
+          "articleLink": "https://mp.weixin.qq.com/s/Abc5-nwdQFJoPwH1pFX3Rw",
+          "l1": "A股"
         },
         {
           "date": "2016-05-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408395&idx=1&sn=6583cf8ea0e81d3070c27f0ece0e415a&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408395&idx=1&sn=6583cf8ea0e81d3070c27f0ece0e415a&scene=19#wechat_redirect",
+          "l1": "A股"
         }
       ],
       "currentUnit": 2,
-      "latestDate": "2023-01-06"
+      "latestDate": "2023-01-06",
+      "l1": "A股"
     },
     {
       "fundCode": "000369",
@@ -1457,17 +1680,20 @@
           "date": "2025-07-24",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/18883"
+          "articleLink": "https://content.qieman.com/n/items/18883",
+          "l1": "海外成熟"
         },
         {
           "date": "2023-12-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/6811"
+          "articleLink": "https://content.qieman.com/n/items/6811",
+          "l1": "海外成熟"
         }
       ],
       "currentUnit": 2,
-      "latestDate": "2025-07-24"
+      "latestDate": "2025-07-24",
+      "l1": "海外成熟"
     },
     {
       "fundCode": "100050",
@@ -1479,17 +1705,20 @@
           "date": "2026-03-03",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22279"
+          "articleLink": "https://content.qieman.com/n/items/22279",
+          "l1": "债券"
         },
         {
           "date": "2024-10-25",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/13789"
+          "articleLink": "https://content.qieman.com/n/items/13789",
+          "l1": "债券"
         }
       ],
       "currentUnit": 2,
-      "latestDate": "2026-03-03"
+      "latestDate": "2026-03-03",
+      "l1": "债券"
     },
     {
       "fundCode": "006327",
@@ -1501,17 +1730,20 @@
           "date": "2026-03-06",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22369"
+          "articleLink": "https://content.qieman.com/n/items/22369",
+          "l1": "海外新兴"
         },
         {
           "date": "2021-09-27",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Co06iEW7CVewD4duhnfjYQ"
+          "articleLink": "https://mp.weixin.qq.com/s/Co06iEW7CVewD4duhnfjYQ",
+          "l1": "海外新兴"
         }
       ],
       "currentUnit": 2,
-      "latestDate": "2026-03-06"
+      "latestDate": "2026-03-06",
+      "l1": "海外新兴"
     },
     {
       "fundCode": "021550",
@@ -1523,17 +1755,20 @@
           "date": "2026-04-16",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22987"
+          "articleLink": "https://content.qieman.com/n/items/22987",
+          "l1": "A股"
         },
         {
           "date": "2025-12-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21295"
+          "articleLink": "https://content.qieman.com/n/items/21295",
+          "l1": "A股"
         }
       ],
       "currentUnit": 2,
-      "latestDate": "2026-04-16"
+      "latestDate": "2026-04-16",
+      "l1": "A股"
     },
     {
       "fundCode": "003376",
@@ -1545,107 +1780,125 @@
           "date": "2022-12-08",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2672"
+          "articleLink": "https://content.qieman.com/n/items/2672",
+          "l1": "债券"
         },
         {
           "date": "2022-05-31",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/1850"
+          "articleLink": "https://content.qieman.com/items/1850",
+          "l1": "债券"
         },
         {
           "date": "2022-02-11",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZMf05SDgcadKQIupG_yGlw?st=C1040DB6D0D8050F6BB36A0810A3F01FA479B2CC027695CDD8638541F97FD87F53E3A42E5A7B9C8EC6F6CA549EB75DF48A6B696B39C167F28AEB59C4366CBB138110DC9DDDD0400E56FABCE9FC52DD740D8CEE50B16075F475A3D2513E4F0CE962C9ED119B1AE2B30E7DF8BEE2DB23B1746E75885F50243DF38CAA3477528CE9783FBBC9AFD24FF0BAAF05C5CBD7D7CE7532649CC370885B00DDD1F0E60612EAB1E86C563755C97EF741F1FD40D9D8F572AE5C8FF420990DB40E04F617B0CAC1059330B6E275A3503488569C6254B0DE&vid=1688853776721151&cst=C497AAC15D93CEEC03B34CDA9C400F336B08A8ACA59E19CDE9E0A97AF5128439CD1584B2E160F6857A4AD2ED55EB4B9C&deviceid=493ea59a-4e46-4630-a5c6-cb409f2df607&version=3.1.18.70072&platform=mac"
+          "articleLink": "https://mp.weixin.qq.com/s/ZMf05SDgcadKQIupG_yGlw?st=C1040DB6D0D8050F6BB36A0810A3F01FA479B2CC027695CDD8638541F97FD87F53E3A42E5A7B9C8EC6F6CA549EB75DF48A6B696B39C167F28AEB59C4366CBB138110DC9DDDD0400E56FABCE9FC52DD740D8CEE50B16075F475A3D2513E4F0CE962C9ED119B1AE2B30E7DF8BEE2DB23B1746E75885F50243DF38CAA3477528CE9783FBBC9AFD24FF0BAAF05C5CBD7D7CE7532649CC370885B00DDD1F0E60612EAB1E86C563755C97EF741F1FD40D9D8F572AE5C8FF420990DB40E04F617B0CAC1059330B6E275A3503488569C6254B0DE&vid=1688853776721151&cst=C497AAC15D93CEEC03B34CDA9C400F336B08A8ACA59E19CDE9E0A97AF5128439CD1584B2E160F6857A4AD2ED55EB4B9C&deviceid=493ea59a-4e46-4630-a5c6-cb409f2df607&version=3.1.18.70072&platform=mac",
+          "l1": "债券"
         },
         {
           "date": "2020-12-29",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/MqnYJTj0efT602bBR1XLAQ"
+          "articleLink": "https://mp.weixin.qq.com/s/MqnYJTj0efT602bBR1XLAQ",
+          "l1": "债券"
         },
         {
           "date": "2020-12-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/5LsBSf_kAYp2l7CJLEFDLg"
+          "articleLink": "https://mp.weixin.qq.com/s/5LsBSf_kAYp2l7CJLEFDLg",
+          "l1": "债券"
         },
         {
           "date": "2020-03-19",
           "action": "sell",
           "unit": 1,
-          "articleLink": null
+          "articleLink": null,
+          "l1": "债券"
         },
         {
           "date": "2019-01-15",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/R3-B4ElIXF4rLjrojDnU-g"
+          "articleLink": "https://mp.weixin.qq.com/s/R3-B4ElIXF4rLjrojDnU-g",
+          "l1": "债券"
         },
         {
           "date": "2018-11-30",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w"
+          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w",
+          "l1": "债券"
         },
         {
           "date": "2018-08-06",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/e0o1tpg0lpfkH4Z9vFv3Hw"
+          "articleLink": "https://mp.weixin.qq.com/s/e0o1tpg0lpfkH4Z9vFv3Hw",
+          "l1": "债券"
         },
         {
           "date": "2018-07-05",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/POTDp9k4S_UmWqHG-W82tA"
+          "articleLink": "https://mp.weixin.qq.com/s/POTDp9k4S_UmWqHG-W82tA",
+          "l1": "债券"
         },
         {
           "date": "2018-04-26",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408792&idx=1&sn=243af5873781e76bcae38e55c98dc9a3&chksm=8d226cf7ba55e5e1c34ed21e5b0e0d1333c91bc691f7bcd9abc54cab44c5d3b409c52c03bf81&mpshare=1&scene=1&srcid=0426nwSTTqlsdavldLvx7hI0&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408792&idx=1&sn=243af5873781e76bcae38e55c98dc9a3&chksm=8d226cf7ba55e5e1c34ed21e5b0e0d1333c91bc691f7bcd9abc54cab44c5d3b409c52c03bf81&mpshare=1&scene=1&srcid=0426nwSTTqlsdavldLvx7hI0&rd2werd=1#wechat_redirect",
+          "l1": "债券"
         },
         {
           "date": "2017-11-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/QFkmrnJd3w3AiCFo-CNFaw"
+          "articleLink": "https://mp.weixin.qq.com/s/QFkmrnJd3w3AiCFo-CNFaw",
+          "l1": "债券"
         },
         {
           "date": "2017-11-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408664&idx=1&sn=a9698d449b603d5e4d5a4c4be24c7a89&chksm=8d226f77ba55e661e6718771dba77037f8b8277bc070656ddff1d88212af22d27c72b71adda3&scene=0&key=8c29d006290c3bc34165199aae68580cca06aade7817f56e79e544e31c74db0436626ddb462fee77de27cad574b2a32dd6a6f70be3ba7dc9df856deeec4d3312612c1333c379a51bfc03dfad02b4a5fd&ascene=0&uin=MjQ0NDEzNjkyMg%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=AmikmRwy%2FAEIDG3bqcE9hQ6PFc5Ysa6k5aJRTKMZIzd1mm%2BrlC9EZhjNmaeY8wxg"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408664&idx=1&sn=a9698d449b603d5e4d5a4c4be24c7a89&chksm=8d226f77ba55e661e6718771dba77037f8b8277bc070656ddff1d88212af22d27c72b71adda3&scene=0&key=8c29d006290c3bc34165199aae68580cca06aade7817f56e79e544e31c74db0436626ddb462fee77de27cad574b2a32dd6a6f70be3ba7dc9df856deeec4d3312612c1333c379a51bfc03dfad02b4a5fd&ascene=0&uin=MjQ0NDEzNjkyMg%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=AmikmRwy%2FAEIDG3bqcE9hQ6PFc5Ysa6k5aJRTKMZIzd1mm%2BrlC9EZhjNmaeY8wxg",
+          "l1": "债券"
         },
         {
           "date": "2017-07-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408564&idx=1&sn=16e1b133e361684c3c021647a25c4198"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408564&idx=1&sn=16e1b133e361684c3c021647a25c4198",
+          "l1": "债券"
         },
         {
           "date": "2017-05-23",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408550&idx=1&sn=2e3f4e76ba74cf6778307ad941adbd28&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408550&idx=1&sn=2e3f4e76ba74cf6778307ad941adbd28&scene=19#wechat_redirect",
+          "l1": "债券"
         },
         {
           "date": "2017-04-25",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408538&idx=1&sn=025f9129a8a663451cf0d26c4eef7b74&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408538&idx=1&sn=025f9129a8a663451cf0d26c4eef7b74&scene=19#wechat_redirect",
+          "l1": "债券"
         },
         {
           "date": "2017-02-14",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408505&idx=1&sn=60deb585c6c446f4fe4c5e1043d92a9b&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408505&idx=1&sn=60deb585c6c446f4fe4c5e1043d92a9b&scene=19#wechat_redirect",
+          "l1": "债券"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2022-12-08"
+      "latestDate": "2022-12-08",
+      "l1": "债券"
     },
     {
       "fundCode": "000727",
@@ -1657,23 +1910,27 @@
           "date": "2023-08-07",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3924"
+          "articleLink": "https://content.qieman.com/n/items/3924",
+          "l1": "A股"
         },
         {
           "date": "2022-11-17",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2602"
+          "articleLink": "https://content.qieman.com/n/items/2602",
+          "l1": "A股"
         },
         {
           "date": "2022-09-23",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/2371"
+          "articleLink": "https://content.qieman.com/items/2371",
+          "l1": "A股"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2023-08-07"
+      "latestDate": "2023-08-07",
+      "l1": "A股"
     },
     {
       "fundCode": "050025",
@@ -1685,35 +1942,41 @@
           "date": "2023-08-18",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/4008"
+          "articleLink": "https://content.qieman.com/n/items/4008",
+          "l1": "海外成熟"
         },
         {
           "date": "2022-10-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/2497"
+          "articleLink": "https://content.qieman.com/items/2497",
+          "l1": "海外成熟"
         },
         {
           "date": "2022-06-21",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/1924"
+          "articleLink": "https://content.qieman.com/items/1924",
+          "l1": "海外成熟"
         },
         {
           "date": "2020-05-18",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/KhXN98CDxoZtAxVeAkF_FA"
+          "articleLink": "https://mp.weixin.qq.com/s/KhXN98CDxoZtAxVeAkF_FA",
+          "l1": "海外成熟"
         },
         {
           "date": "2020-03-19",
           "action": "buy",
           "unit": 1,
-          "articleLink": null
+          "articleLink": null,
+          "l1": "海外成熟"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2023-08-18"
+      "latestDate": "2023-08-18",
+      "l1": "海外成熟"
     },
     {
       "fundCode": "004419",
@@ -1725,11 +1988,13 @@
           "date": "2024-09-09",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/12763"
+          "articleLink": "https://content.qieman.com/n/items/12763",
+          "l1": "债券"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2024-09-09"
+      "latestDate": "2024-09-09",
+      "l1": "债券"
     },
     {
       "fundCode": "019518",
@@ -1741,11 +2006,13 @@
           "date": "2024-10-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/13945"
+          "articleLink": "https://content.qieman.com/n/items/13945",
+          "l1": "债券"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2024-10-31"
+      "latestDate": "2024-10-31",
+      "l1": "债券"
     },
     {
       "fundCode": "502010",
@@ -1757,47 +2024,55 @@
           "date": "2024-11-11",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/14053"
+          "articleLink": "https://content.qieman.com/n/items/14053",
+          "l1": "A股"
         },
         {
           "date": "2023-08-08",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/3929"
+          "articleLink": "https://content.qieman.com/items/3929",
+          "l1": "A股"
         },
         {
           "date": "2023-02-01",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2904"
+          "articleLink": "https://content.qieman.com/n/items/2904",
+          "l1": "A股"
         },
         {
           "date": "2018-10-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/4anBh_dyZvM6zm6WfsH6LA"
+          "articleLink": "https://mp.weixin.qq.com/s/4anBh_dyZvM6zm6WfsH6LA",
+          "l1": "A股"
         },
         {
           "date": "2018-06-19",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408846&idx=1&sn=d6ed087bfa68eea0ec3bcc0c8935c179&chksm=8d226ca1ba55e5b76b72199b939fd3991124972e0f5cc971aa6a2c7d457c6dd2d531fa485868&mpshare=1&scene=1&srcid=0619aWPgAwTNepMJqXr6eixF&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408846&idx=1&sn=d6ed087bfa68eea0ec3bcc0c8935c179&chksm=8d226ca1ba55e5b76b72199b939fd3991124972e0f5cc971aa6a2c7d457c6dd2d531fa485868&mpshare=1&scene=1&srcid=0619aWPgAwTNepMJqXr6eixF&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2018-04-02",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/pxd7EDN1P5pklSnOzksq3g"
+          "articleLink": "https://mp.weixin.qq.com/s/pxd7EDN1P5pklSnOzksq3g",
+          "l1": "A股"
         },
         {
           "date": "2017-12-14",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/TUMZL6aj6Xoub-qwEUKmrQ"
+          "articleLink": "https://mp.weixin.qq.com/s/TUMZL6aj6Xoub-qwEUKmrQ",
+          "l1": "A股"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2024-11-11"
+      "latestDate": "2024-11-11",
+      "l1": "A股"
     },
     {
       "fundCode": "002286",
@@ -1809,11 +2084,13 @@
           "date": "2025-07-14",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/18625?preview=1"
+          "articleLink": "https://content.qieman.com/items/18625?preview=1",
+          "l1": "债券"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2025-07-14"
+      "latestDate": "2025-07-14",
+      "l1": "债券"
     },
     {
       "fundCode": "001469",
@@ -1825,59 +2102,69 @@
           "date": "2025-07-14",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/18625?preview=1"
+          "articleLink": "https://content.qieman.com/items/18625?preview=1",
+          "l1": "A股"
         },
         {
           "date": "2024-12-10",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/14815"
+          "articleLink": "https://content.qieman.com/n/items/14815",
+          "l1": "A股"
         },
         {
           "date": "2024-11-06",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/14011"
+          "articleLink": "https://content.qieman.com/n/items/14011",
+          "l1": "A股"
         },
         {
           "date": "2024-09-30",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/13285"
+          "articleLink": "https://content.qieman.com/n/items/13285",
+          "l1": "A股"
         },
         {
           "date": "2021-01-11",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/9tHoumt9747EOIAdg4YXLQ"
+          "articleLink": "https://mp.weixin.qq.com/s/9tHoumt9747EOIAdg4YXLQ",
+          "l1": "A股"
         },
         {
           "date": "2020-02-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/eIkjc08htB_XgKLR3GsQJA"
+          "articleLink": "https://mp.weixin.qq.com/s/eIkjc08htB_XgKLR3GsQJA",
+          "l1": "A股"
         },
         {
           "date": "2018-09-21",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/8xpujuycsExjw0PpjCsf1w"
+          "articleLink": "https://mp.weixin.qq.com/s/8xpujuycsExjw0PpjCsf1w",
+          "l1": "A股"
         },
         {
           "date": "2018-06-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/_Sdqubfem4lHJqqA6Jo61g"
+          "articleLink": "https://mp.weixin.qq.com/s/_Sdqubfem4lHJqqA6Jo61g",
+          "l1": "A股"
         },
         {
           "date": "2018-06-14",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408837&idx=1&sn=bc364667a2b8f4dfdf7fc3253d8849af&chksm=8d226caaba55e5bcdc948915d72b74693b68c7c0690426a7e691024e03ff4ca2534f37824ac7&scene=0&key=ce969f24fc1b9f53d5d923c25a83050957aedbc12c484248e997a2db39829f6a1cd1c6d22f1292665aedc795c24ee30eb771e93ae21a3543f58304eb60c9fa95ce69b677f825167ec3954f957335f258&ascene=0&uin=MjMzNDA5ODE0MA%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G1036)&version=12010310&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=xwQcBPS4Ufls6HhU%2BnAPAAT5XGam7dAPlWoxXFsC1EOwtRrqB3t5KgkqwRCNyP7C"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408837&idx=1&sn=bc364667a2b8f4dfdf7fc3253d8849af&chksm=8d226caaba55e5bcdc948915d72b74693b68c7c0690426a7e691024e03ff4ca2534f37824ac7&scene=0&key=ce969f24fc1b9f53d5d923c25a83050957aedbc12c484248e997a2db39829f6a1cd1c6d22f1292665aedc795c24ee30eb771e93ae21a3543f58304eb60c9fa95ce69b677f825167ec3954f957335f258&ascene=0&uin=MjMzNDA5ODE0MA%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G1036)&version=12010310&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=xwQcBPS4Ufls6HhU%2BnAPAAT5XGam7dAPlWoxXFsC1EOwtRrqB3t5KgkqwRCNyP7C",
+          "l1": "A股"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2025-07-14"
+      "latestDate": "2025-07-14",
+      "l1": "A股"
     },
     {
       "fundCode": "006484",
@@ -1889,11 +2176,13 @@
           "date": "2025-09-04",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/19717"
+          "articleLink": "https://content.qieman.com/n/items/19717",
+          "l1": "债券"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2025-09-04"
+      "latestDate": "2025-09-04",
+      "l1": "债券"
     },
     {
       "fundCode": "000248",
@@ -1905,11 +2194,13 @@
           "date": "2026-01-07",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21493"
+          "articleLink": "https://content.qieman.com/n/items/21493",
+          "l1": "A股"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2026-01-07"
+      "latestDate": "2026-01-07",
+      "l1": "A股"
     },
     {
       "fundCode": "161017",
@@ -1921,35 +2212,41 @@
           "date": "2026-01-23",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21823"
+          "articleLink": "https://content.qieman.com/n/items/21823",
+          "l1": "A股"
         },
         {
           "date": "2025-11-25",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/20971"
+          "articleLink": "https://content.qieman.com/n/items/20971",
+          "l1": "A股"
         },
         {
           "date": "2018-10-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ"
+          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ",
+          "l1": "A股"
         },
         {
           "date": "2018-09-03",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/txb6GAAyhIYeP5IkGhV-LA"
+          "articleLink": "https://mp.weixin.qq.com/s/txb6GAAyhIYeP5IkGhV-LA",
+          "l1": "A股"
         },
         {
           "date": "2018-08-01",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/b2zhpr7MUcETDg3D0VKQ1w"
+          "articleLink": "https://mp.weixin.qq.com/s/b2zhpr7MUcETDg3D0VKQ1w",
+          "l1": "A股"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2026-01-23"
+      "latestDate": "2026-01-23",
+      "l1": "A股"
     },
     {
       "fundCode": "110022",
@@ -1961,35 +2258,41 @@
           "date": "2026-03-24",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22597"
+          "articleLink": "https://content.qieman.com/n/items/22597",
+          "l1": "A股"
         },
         {
           "date": "2023-01-06",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2801"
+          "articleLink": "https://content.qieman.com/n/items/2801",
+          "l1": "A股"
         },
         {
           "date": "2022-05-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/1850"
+          "articleLink": "https://content.qieman.com/items/1850",
+          "l1": "A股"
         },
         {
           "date": "2019-05-15",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Abc5-nwdQFJoPwH1pFX3Rw"
+          "articleLink": "https://mp.weixin.qq.com/s/Abc5-nwdQFJoPwH1pFX3Rw",
+          "l1": "A股"
         },
         {
           "date": "2018-10-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ"
+          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ",
+          "l1": "A股"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2026-03-24"
+      "latestDate": "2026-03-24",
+      "l1": "A股"
     },
     {
       "fundCode": "007562",
@@ -2001,11 +2304,13 @@
           "date": "2026-04-10",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22897"
+          "articleLink": "https://content.qieman.com/n/items/22897",
+          "l1": "债券"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2026-04-10"
+      "latestDate": "2026-04-10",
+      "l1": "债券"
     },
     {
       "fundCode": "110026",
@@ -2017,29 +2322,34 @@
           "date": "2020-03-09",
           "action": "sell",
           "unit": 1,
-          "articleLink": null
+          "articleLink": null,
+          "l1": "A股"
         },
         {
           "date": "2019-12-02",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653409270&idx=1&sn=4afccf683c0fea4a9fb1d36f87401565&chksm=8d226d19ba55e40f2d4e4e20f69f8c83f5e7e292f8e5ed2dd0482266c0ce82d17ad0e4e93abf&mpshare=1&scene=1&srcid=&sharer_sharetime=1575259392409&sharer_shareid=ff03485fb1b9157a8502443815041e61&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653409270&idx=1&sn=4afccf683c0fea4a9fb1d36f87401565&chksm=8d226d19ba55e40f2d4e4e20f69f8c83f5e7e292f8e5ed2dd0482266c0ce82d17ad0e4e93abf&mpshare=1&scene=1&srcid=&sharer_sharetime=1575259392409&sharer_shareid=ff03485fb1b9157a8502443815041e61&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2018-10-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ"
+          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ",
+          "l1": "A股"
         },
         {
           "date": "2017-06-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408557&idx=1&sn=6a076cc1d6f40afdc263fea01f9e3f02"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408557&idx=1&sn=6a076cc1d6f40afdc263fea01f9e3f02",
+          "l1": "A股"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2020-03-09"
+      "latestDate": "2020-03-09",
+      "l1": "A股"
     },
     {
       "fundCode": "001061",
@@ -2051,53 +2361,62 @@
           "date": "2020-03-11",
           "action": "sell",
           "unit": 1,
-          "articleLink": null
+          "articleLink": null,
+          "l1": "债券"
         },
         {
           "date": "2019-01-15",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/R3-B4ElIXF4rLjrojDnU-g"
+          "articleLink": "https://mp.weixin.qq.com/s/R3-B4ElIXF4rLjrojDnU-g",
+          "l1": "债券"
         },
         {
           "date": "2018-10-30",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ"
+          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ",
+          "l1": "债券"
         },
         {
           "date": "2018-08-15",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/iweFKl8cid__6J3xFDdJ9g"
+          "articleLink": "https://mp.weixin.qq.com/s/iweFKl8cid__6J3xFDdJ9g",
+          "l1": "债券"
         },
         {
           "date": "2018-04-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408792&idx=1&sn=243af5873781e76bcae38e55c98dc9a3&chksm=8d226cf7ba55e5e1c34ed21e5b0e0d1333c91bc691f7bcd9abc54cab44c5d3b409c52c03bf81&mpshare=1&scene=1&srcid=0426nwSTTqlsdavldLvx7hI0&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408792&idx=1&sn=243af5873781e76bcae38e55c98dc9a3&chksm=8d226cf7ba55e5e1c34ed21e5b0e0d1333c91bc691f7bcd9abc54cab44c5d3b409c52c03bf81&mpshare=1&scene=1&srcid=0426nwSTTqlsdavldLvx7hI0&rd2werd=1#wechat_redirect",
+          "l1": "债券"
         },
         {
           "date": "2018-01-19",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408723&idx=1&sn=bdbe88f7a8e3ea41a1bd10c0a2aca471&chksm=8d226f3cba55e62a68d02ddfeb3ef6b503044d771943fa471230fa09a3d5c4af7f5997776c84&mpshare=1&scene=1&srcid=0118ekYNU29yFMlypaocwMcr&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408723&idx=1&sn=bdbe88f7a8e3ea41a1bd10c0a2aca471&chksm=8d226f3cba55e62a68d02ddfeb3ef6b503044d771943fa471230fa09a3d5c4af7f5997776c84&mpshare=1&scene=1&srcid=0118ekYNU29yFMlypaocwMcr&rd2werd=1#wechat_redirect",
+          "l1": "债券"
         },
         {
           "date": "2017-09-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/_Vd0QX8LKwjhDGtcdYOnrg"
+          "articleLink": "https://mp.weixin.qq.com/s/_Vd0QX8LKwjhDGtcdYOnrg",
+          "l1": "债券"
         },
         {
           "date": "2017-08-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/n7vQ2AzF3bcbc5Y9wWsfOQ"
+          "articleLink": "https://mp.weixin.qq.com/s/n7vQ2AzF3bcbc5Y9wWsfOQ",
+          "l1": "债券"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2020-03-11"
+      "latestDate": "2020-03-11",
+      "l1": "债券"
     },
     {
       "fundCode": "519977",
@@ -2109,17 +2428,20 @@
           "date": "2020-03-19",
           "action": "sell",
           "unit": 1,
-          "articleLink": null
+          "articleLink": null,
+          "l1": "债券"
         },
         {
           "date": "2019-01-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/R3-B4ElIXF4rLjrojDnU-g"
+          "articleLink": "https://mp.weixin.qq.com/s/R3-B4ElIXF4rLjrojDnU-g",
+          "l1": "债券"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2020-03-19"
+      "latestDate": "2020-03-19",
+      "l1": "债券"
     },
     {
       "fundCode": "050027",
@@ -2131,29 +2453,34 @@
           "date": "2020-11-13",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/JqFWVaRS8Es59G1lRw76rw"
+          "articleLink": "https://mp.weixin.qq.com/s/JqFWVaRS8Es59G1lRw76rw",
+          "l1": "债券"
         },
         {
           "date": "2018-08-20",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/E-6RrsJjG_hEytnxtaIj4Q"
+          "articleLink": "https://mp.weixin.qq.com/s/E-6RrsJjG_hEytnxtaIj4Q",
+          "l1": "债券"
         },
         {
           "date": "2017-10-16",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/QHYTFvlgov1UGXNF8YWu4g"
+          "articleLink": "https://mp.weixin.qq.com/s/QHYTFvlgov1UGXNF8YWu4g",
+          "l1": "债券"
         },
         {
           "date": "2016-11-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408469&idx=1&sn=f9a852589ecd34c0decd8ad76e9b5601&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408469&idx=1&sn=f9a852589ecd34c0decd8ad76e9b5601&scene=19#wechat_redirect",
+          "l1": "债券"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2020-11-13"
+      "latestDate": "2020-11-13",
+      "l1": "债券"
     },
     {
       "fundCode": "160416",
@@ -2165,17 +2492,20 @@
           "date": "2021-03-08",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/3PZM5PgC9guzBKoBn7q1kA"
+          "articleLink": "https://mp.weixin.qq.com/s/3PZM5PgC9guzBKoBn7q1kA",
+          "l1": "商品"
         },
         {
           "date": "2015-10-08",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=211051506&idx=1&sn=1d099b4adc5d847c957c4e2494f24a93&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=211051506&idx=1&sn=1d099b4adc5d847c957c4e2494f24a93&scene=19#wechat_redirect",
+          "l1": "商品"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2021-03-08"
+      "latestDate": "2021-03-08",
+      "l1": "商品"
     },
     {
       "fundCode": "501018",
@@ -2187,29 +2517,34 @@
           "date": "2021-03-08",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/3PZM5PgC9guzBKoBn7q1kA"
+          "articleLink": "https://mp.weixin.qq.com/s/3PZM5PgC9guzBKoBn7q1kA",
+          "l1": "商品"
         },
         {
           "date": "2020-03-09",
           "action": "buy",
           "unit": 1,
-          "articleLink": null
+          "articleLink": null,
+          "l1": "商品"
         },
         {
           "date": "2016-09-29",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408449&idx=1&sn=ddaa22a36fe1c4795c0fd50178105ae2&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408449&idx=1&sn=ddaa22a36fe1c4795c0fd50178105ae2&scene=19#wechat_redirect",
+          "l1": "商品"
         },
         {
           "date": "2016-08-01",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408422&idx=1&sn=dce9cbdb4f30838930e31655c6a2bed7&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408422&idx=1&sn=dce9cbdb4f30838930e31655c6a2bed7&scene=19#wechat_redirect",
+          "l1": "商品"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2021-03-08"
+      "latestDate": "2021-03-08",
+      "l1": "商品"
     },
     {
       "fundCode": "162411",
@@ -2221,65 +2556,76 @@
           "date": "2022-04-22",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1754"
+          "articleLink": "https://content.qieman.com/n/items/1754",
+          "l1": "商品"
         },
         {
           "date": "2022-03-10",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/pOSDVufBGZ4YhNw8KEgMKA"
+          "articleLink": "https://mp.weixin.qq.com/s/pOSDVufBGZ4YhNw8KEgMKA",
+          "l1": "商品"
         },
         {
           "date": "2021-12-07",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?scene=1&__biz=MzIwMTIzNDMwNA%3D%3D&mid=2653410426&idx=1&sn=3f2e63afdbc6fd60ecf2de9a9bfb634c&version=3.1.18.70072&platform=mac#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?scene=1&__biz=MzIwMTIzNDMwNA%3D%3D&mid=2653410426&idx=1&sn=3f2e63afdbc6fd60ecf2de9a9bfb634c&version=3.1.18.70072&platform=mac#wechat_redirect",
+          "l1": "商品"
         },
         {
           "date": "2019-03-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/8QEC5GKEfzKPJjkPWKlV7g"
+          "articleLink": "https://mp.weixin.qq.com/s/8QEC5GKEfzKPJjkPWKlV7g",
+          "l1": "商品"
         },
         {
           "date": "2018-12-27",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/J37XMWDxhHhzLgKvy7-ilg"
+          "articleLink": "https://mp.weixin.qq.com/s/J37XMWDxhHhzLgKvy7-ilg",
+          "l1": "商品"
         },
         {
           "date": "2018-11-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w"
+          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w",
+          "l1": "商品"
         },
         {
           "date": "2018-08-20",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/E-6RrsJjG_hEytnxtaIj4Q"
+          "articleLink": "https://mp.weixin.qq.com/s/E-6RrsJjG_hEytnxtaIj4Q",
+          "l1": "商品"
         },
         {
           "date": "2018-05-31",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/vQWOgs3Ex68iVPED-0Hb1A"
+          "articleLink": "https://mp.weixin.qq.com/s/vQWOgs3Ex68iVPED-0Hb1A",
+          "l1": "商品"
         },
         {
           "date": "2017-08-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/n7vQ2AzF3bcbc5Y9wWsfOQ"
+          "articleLink": "https://mp.weixin.qq.com/s/n7vQ2AzF3bcbc5Y9wWsfOQ",
+          "l1": "商品"
         },
         {
           "date": "2017-04-19",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408523&idx=1&sn=03f846bf9386336dd8323769315832c4&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408523&idx=1&sn=03f846bf9386336dd8323769315832c4&scene=19#wechat_redirect",
+          "l1": "商品"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2022-04-22"
+      "latestDate": "2022-04-22",
+      "l1": "商品"
     },
     {
       "fundCode": "000147",
@@ -2291,17 +2637,20 @@
           "date": "2022-04-26",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1765"
+          "articleLink": "https://content.qieman.com/n/items/1765",
+          "l1": "债券"
         },
         {
           "date": "2020-10-13",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/bwwYxdl3Ytvg6UrdqlFIXw"
+          "articleLink": "https://mp.weixin.qq.com/s/bwwYxdl3Ytvg6UrdqlFIXw",
+          "l1": "债券"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2022-04-26"
+      "latestDate": "2022-04-26",
+      "l1": "债券"
     },
     {
       "fundCode": "270048",
@@ -2313,41 +2662,48 @@
           "date": "2022-10-31",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/2497"
+          "articleLink": "https://content.qieman.com/items/2497",
+          "l1": "债券"
         },
         {
           "date": "2020-06-24",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZE8rPooJv61QdaZkiJtxcQ"
+          "articleLink": "https://mp.weixin.qq.com/s/ZE8rPooJv61QdaZkiJtxcQ",
+          "l1": "债券"
         },
         {
           "date": "2020-05-18",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/KhXN98CDxoZtAxVeAkF_FA"
+          "articleLink": "https://mp.weixin.qq.com/s/KhXN98CDxoZtAxVeAkF_FA",
+          "l1": "债券"
         },
         {
           "date": "2018-10-30",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ"
+          "articleLink": "https://mp.weixin.qq.com/s/ZMOxEhPIP1G9e0NHFdB7IQ",
+          "l1": "债券"
         },
         {
           "date": "2017-10-27",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/SvcNJAIWBOSgBGiDoUwMEw"
+          "articleLink": "https://mp.weixin.qq.com/s/SvcNJAIWBOSgBGiDoUwMEw",
+          "l1": "债券"
         },
         {
           "date": "2017-10-16",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/QHYTFvlgov1UGXNF8YWu4g"
+          "articleLink": "https://mp.weixin.qq.com/s/QHYTFvlgov1UGXNF8YWu4g",
+          "l1": "债券"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2022-10-31"
+      "latestDate": "2022-10-31",
+      "l1": "债券"
     },
     {
       "fundCode": "000563",
@@ -2359,35 +2715,41 @@
           "date": "2022-11-10",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2557"
+          "articleLink": "https://content.qieman.com/n/items/2557",
+          "l1": "债券"
         },
         {
           "date": "2022-09-23",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/2371"
+          "articleLink": "https://content.qieman.com/items/2371",
+          "l1": "债券"
         },
         {
           "date": "2022-03-15",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Gg2MgKM-hDFqckUUM1rOhQ"
+          "articleLink": "https://mp.weixin.qq.com/s/Gg2MgKM-hDFqckUUM1rOhQ",
+          "l1": "债券"
         },
         {
           "date": "2020-10-30",
           "action": "buy",
           "unit": 2,
-          "articleLink": "https://mp.weixin.qq.com/s/fWZgeUCE2eg_S3dER9KPZg"
+          "articleLink": "https://mp.weixin.qq.com/s/fWZgeUCE2eg_S3dER9KPZg",
+          "l1": "债券"
         },
         {
           "date": "2020-09-01",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/XcleAmXQiIwoEBfPFohEeg"
+          "articleLink": "https://mp.weixin.qq.com/s/XcleAmXQiIwoEBfPFohEeg",
+          "l1": "债券"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2022-11-10"
+      "latestDate": "2022-11-10",
+      "l1": "债券"
     },
     {
       "fundCode": "001092",
@@ -2399,17 +2761,20 @@
           "date": "2022-12-20",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2727"
+          "articleLink": "https://content.qieman.com/n/items/2727",
+          "l1": "海外成熟"
         },
         {
           "date": "2022-07-01",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1998"
+          "articleLink": "https://content.qieman.com/n/items/1998",
+          "l1": "海外成熟"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2022-12-20"
+      "latestDate": "2022-12-20",
+      "l1": "海外成熟"
     },
     {
       "fundCode": "000614",
@@ -2421,77 +2786,90 @@
           "date": "2023-03-14",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3100"
+          "articleLink": "https://content.qieman.com/n/items/3100",
+          "l1": "海外成熟"
         },
         {
           "date": "2022-06-21",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/1924"
+          "articleLink": "https://content.qieman.com/items/1924",
+          "l1": "海外成熟"
         },
         {
           "date": "2022-01-19",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/tzdJXPoEJCveI0vIF8QA4Q"
+          "articleLink": "https://mp.weixin.qq.com/s/tzdJXPoEJCveI0vIF8QA4Q",
+          "l1": "海外成熟"
         },
         {
           "date": "2021-09-27",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Co06iEW7CVewD4duhnfjYQ"
+          "articleLink": "https://mp.weixin.qq.com/s/Co06iEW7CVewD4duhnfjYQ",
+          "l1": "海外成熟"
         },
         {
           "date": "2021-04-29",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Ztn7t1E3xYCpEkL_NijP5A"
+          "articleLink": "https://mp.weixin.qq.com/s/Ztn7t1E3xYCpEkL_NijP5A",
+          "l1": "海外成熟"
         },
         {
           "date": "2021-01-28",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/2LSFsCXMT8RfrfEmfMu28A"
+          "articleLink": "https://mp.weixin.qq.com/s/2LSFsCXMT8RfrfEmfMu28A",
+          "l1": "海外成熟"
         },
         {
           "date": "2020-03-13",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/imNxENhGgPTSqabUUjGuwQ"
+          "articleLink": "https://mp.weixin.qq.com/s/imNxENhGgPTSqabUUjGuwQ",
+          "l1": "海外成熟"
         },
         {
           "date": "2020-03-11",
           "action": "buy",
           "unit": 1,
-          "articleLink": null
+          "articleLink": null,
+          "l1": "海外成熟"
         },
         {
           "date": "2019-03-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/8QEC5GKEfzKPJjkPWKlV7g"
+          "articleLink": "https://mp.weixin.qq.com/s/8QEC5GKEfzKPJjkPWKlV7g",
+          "l1": "海外成熟"
         },
         {
           "date": "2018-11-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w"
+          "articleLink": "https://mp.weixin.qq.com/s/KuPNRUBMNWlnlg7HaHx24w",
+          "l1": "海外成熟"
         },
         {
           "date": "2018-07-16",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/xCV34rb_cV0_CYHLX8JjLg"
+          "articleLink": "https://mp.weixin.qq.com/s/xCV34rb_cV0_CYHLX8JjLg",
+          "l1": "海外成熟"
         },
         {
           "date": "2016-09-13",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408442&idx=1&sn=a9b62dc8b2b92fa54bde63a06f298049&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408442&idx=1&sn=a9b62dc8b2b92fa54bde63a06f298049&scene=19#wechat_redirect",
+          "l1": "海外成熟"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2023-03-14"
+      "latestDate": "2023-03-14",
+      "l1": "海外成熟"
     },
     {
       "fundCode": "001513",
@@ -2503,17 +2881,20 @@
           "date": "2023-06-20",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3673"
+          "articleLink": "https://content.qieman.com/n/items/3673",
+          "l1": "A股"
         },
         {
           "date": "2022-04-12",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/JL8yPrrvNbf2F_1ejZB2Jg?st=A9AD87BC0CFEDDEDBBCE74EAEE59B155992D93463AC22883894A28ED368F9E8786A75B1A9CA5A5EABCEB1C1771895E3AA3A8ED988E60A6388AFC8E63E85E80B3369A3D60A20540FDB6791DA1D6CDB9CB686FEA779422E4EBAD41EB224C041CE988F27515D7865109CC79FE19124A79F819F648B160ED3437D80D7429C19051926D1F257BE88648607B0D43FC80592D9455D85968B3EE84E8658C6841CDB74C18EC0F5C6AA2BA8C2842BC35F4351BD20BDA7EF386A8454F2D3A07296624598FF4C4A0EAB1BF198CFBAD317899F1D7B3E0&vid=1688853776605235&cst=336723CC27C5E4B5EAB490C69025E76ECFC3DBD7F1B6BD1E2A3742988DC013067B00C9F6A922F1614A30DE0FD2A052F7&deviceid=4177fffa-320a-42e4-92d4-11611e3cb9d0&version=4.0.0.90415&platform=mac"
+          "articleLink": "https://mp.weixin.qq.com/s/JL8yPrrvNbf2F_1ejZB2Jg?st=A9AD87BC0CFEDDEDBBCE74EAEE59B155992D93463AC22883894A28ED368F9E8786A75B1A9CA5A5EABCEB1C1771895E3AA3A8ED988E60A6388AFC8E63E85E80B3369A3D60A20540FDB6791DA1D6CDB9CB686FEA779422E4EBAD41EB224C041CE988F27515D7865109CC79FE19124A79F819F648B160ED3437D80D7429C19051926D1F257BE88648607B0D43FC80592D9455D85968B3EE84E8658C6841CDB74C18EC0F5C6AA2BA8C2842BC35F4351BD20BDA7EF386A8454F2D3A07296624598FF4C4A0EAB1BF198CFBAD317899F1D7B3E0&vid=1688853776605235&cst=336723CC27C5E4B5EAB490C69025E76ECFC3DBD7F1B6BD1E2A3742988DC013067B00C9F6A922F1614A30DE0FD2A052F7&deviceid=4177fffa-320a-42e4-92d4-11611e3cb9d0&version=4.0.0.90415&platform=mac",
+          "l1": "A股"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2023-06-20"
+      "latestDate": "2023-06-20",
+      "l1": "A股"
     },
     {
       "fundCode": "000216",
@@ -2525,29 +2906,34 @@
           "date": "2023-12-05",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/6211"
+          "articleLink": "https://content.qieman.com/n/items/6211",
+          "l1": "商品"
         },
         {
           "date": "2020-03-13",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/imNxENhGgPTSqabUUjGuwQ"
+          "articleLink": "https://mp.weixin.qq.com/s/imNxENhGgPTSqabUUjGuwQ",
+          "l1": "商品"
         },
         {
           "date": "2019-07-01",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Jz7Cn3Z-g0WYPZP3H73ihA"
+          "articleLink": "https://mp.weixin.qq.com/s/Jz7Cn3Z-g0WYPZP3H73ihA",
+          "l1": "商品"
         },
         {
           "date": "2017-09-29",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/_9KUMNPq0o5M9hOOF9rAFg"
+          "articleLink": "https://mp.weixin.qq.com/s/_9KUMNPq0o5M9hOOF9rAFg",
+          "l1": "商品"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2023-12-05"
+      "latestDate": "2023-12-05",
+      "l1": "商品"
     },
     {
       "fundCode": "002903",
@@ -2559,65 +2945,76 @@
           "date": "2024-02-28",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/8155"
+          "articleLink": "https://content.qieman.com/n/items/8155",
+          "l1": "A股"
         },
         {
           "date": "2024-01-22",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/7483"
+          "articleLink": "https://content.qieman.com/n/items/7483",
+          "l1": "A股"
         },
         {
           "date": "2022-05-16",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1805"
+          "articleLink": "https://content.qieman.com/n/items/1805",
+          "l1": "A股"
         },
         {
           "date": "2022-04-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1765"
+          "articleLink": "https://content.qieman.com/n/items/1765",
+          "l1": "A股"
         },
         {
           "date": "2022-01-10",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/GvVf7NmHp5i8vGe4tM4t8w"
+          "articleLink": "https://mp.weixin.qq.com/s/GvVf7NmHp5i8vGe4tM4t8w",
+          "l1": "A股"
         },
         {
           "date": "2020-02-26",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/eIkjc08htB_XgKLR3GsQJA"
+          "articleLink": "https://mp.weixin.qq.com/s/eIkjc08htB_XgKLR3GsQJA",
+          "l1": "A股"
         },
         {
           "date": "2019-06-18",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/yPb-oTpCfoUF5WT3I4uXdQ"
+          "articleLink": "https://mp.weixin.qq.com/s/yPb-oTpCfoUF5WT3I4uXdQ",
+          "l1": "A股"
         },
         {
           "date": "2019-03-07",
           "action": "sell",
           "unit": 1,
-          "articleLink": "http://mp.weixin.qq.com/s?__biz=MzIxOTYxNTY4MQ==&mid=100007390&idx=1&sn=9c09a0ad0f01561968f1ae0b5859689b&chksm=17d9c57020ae4c6635f7106d3fd280a392f00bae68027900d2249c734dfe67e7fb8e7aeb39c7#rd"
+          "articleLink": "http://mp.weixin.qq.com/s?__biz=MzIxOTYxNTY4MQ==&mid=100007390&idx=1&sn=9c09a0ad0f01561968f1ae0b5859689b&chksm=17d9c57020ae4c6635f7106d3fd280a392f00bae68027900d2249c734dfe67e7fb8e7aeb39c7#rd",
+          "l1": "A股"
         },
         {
           "date": "2018-10-11",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/dsz0E6OFeunV4W5dil4Dag"
+          "articleLink": "https://mp.weixin.qq.com/s/dsz0E6OFeunV4W5dil4Dag",
+          "l1": "A股"
         },
         {
           "date": "2018-08-06",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/e0o1tpg0lpfkH4Z9vFv3Hw"
+          "articleLink": "https://mp.weixin.qq.com/s/e0o1tpg0lpfkH4Z9vFv3Hw",
+          "l1": "A股"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2024-02-28"
+      "latestDate": "2024-02-28",
+      "l1": "A股"
     },
     {
       "fundCode": "005658",
@@ -2629,17 +3026,20 @@
           "date": "2024-09-30",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/13285"
+          "articleLink": "https://content.qieman.com/n/items/13285",
+          "l1": "A股"
         },
         {
           "date": "2023-10-20",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/4897"
+          "articleLink": "https://content.qieman.com/n/items/4897",
+          "l1": "A股"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2024-09-30"
+      "latestDate": "2024-09-30",
+      "l1": "A股"
     },
     {
       "fundCode": "000942",
@@ -2651,41 +3051,48 @@
           "date": "2024-11-12",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/14113"
+          "articleLink": "https://content.qieman.com/n/items/14113",
+          "l1": "A股"
         },
         {
           "date": "2024-10-21",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/13333"
+          "articleLink": "https://content.qieman.com/n/items/13333",
+          "l1": "A股"
         },
         {
           "date": "2023-03-23",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3178"
+          "articleLink": "https://content.qieman.com/n/items/3178",
+          "l1": "A股"
         },
         {
           "date": "2022-04-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1765"
+          "articleLink": "https://content.qieman.com/n/items/1765",
+          "l1": "A股"
         },
         {
           "date": "2022-04-22",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1754"
+          "articleLink": "https://content.qieman.com/n/items/1754",
+          "l1": "A股"
         },
         {
           "date": "2021-04-29",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Ztn7t1E3xYCpEkL_NijP5A"
+          "articleLink": "https://mp.weixin.qq.com/s/Ztn7t1E3xYCpEkL_NijP5A",
+          "l1": "A股"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2024-11-12"
+      "latestDate": "2024-11-12",
+      "l1": "A股"
     },
     {
       "fundCode": "270042",
@@ -2697,41 +3104,48 @@
           "date": "2025-05-06",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/17497"
+          "articleLink": "https://content.qieman.com/n/items/17497",
+          "l1": "海外成熟"
         },
         {
           "date": "2025-04-09",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/16963"
+          "articleLink": "https://content.qieman.com/n/items/16963",
+          "l1": "海外成熟"
         },
         {
           "date": "2024-04-18",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/9427"
+          "articleLink": "https://content.qieman.com/n/items/9427",
+          "l1": "海外成熟"
         },
         {
           "date": "2023-08-10",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3945"
+          "articleLink": "https://content.qieman.com/n/items/3945",
+          "l1": "海外成熟"
         },
         {
           "date": "2023-01-03",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2775"
+          "articleLink": "https://content.qieman.com/n/items/2775",
+          "l1": "海外成熟"
         },
         {
           "date": "2022-11-16",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2582"
+          "articleLink": "https://content.qieman.com/n/items/2582",
+          "l1": "海外成熟"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2025-05-06"
+      "latestDate": "2025-05-06",
+      "l1": "海外成熟"
     },
     {
       "fundCode": "014424",
@@ -2743,41 +3157,48 @@
           "date": "2025-07-22",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/18823"
+          "articleLink": "https://content.qieman.com/n/items/18823",
+          "l1": "海外新兴"
         },
         {
           "date": "2025-04-25",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/17401"
+          "articleLink": "https://content.qieman.com/n/items/17401",
+          "l1": "海外新兴"
         },
         {
           "date": "2024-08-13",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/12103"
+          "articleLink": "https://content.qieman.com/n/items/12103",
+          "l1": "海外新兴"
         },
         {
           "date": "2023-02-27",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3034"
+          "articleLink": "https://content.qieman.com/n/items/3034",
+          "l1": "海外新兴"
         },
         {
           "date": "2023-02-01",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2904"
+          "articleLink": "https://content.qieman.com/n/items/2904",
+          "l1": "海外新兴"
         },
         {
           "date": "2022-05-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/items/1850"
+          "articleLink": "https://content.qieman.com/items/1850",
+          "l1": "海外新兴"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2025-07-22"
+      "latestDate": "2025-07-22",
+      "l1": "海外新兴"
     },
     {
       "fundCode": "003765",
@@ -2789,41 +3210,48 @@
           "date": "2025-10-24",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/20443"
+          "articleLink": "https://content.qieman.com/n/items/20443",
+          "l1": "A股"
         },
         {
           "date": "2024-01-10",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/7057"
+          "articleLink": "https://content.qieman.com/n/items/7057",
+          "l1": "A股"
         },
         {
           "date": "2020-03-12",
           "action": "sell",
           "unit": 1,
-          "articleLink": null
+          "articleLink": null,
+          "l1": "A股"
         },
         {
           "date": "2020-02-26",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/eIkjc08htB_XgKLR3GsQJA"
+          "articleLink": "https://mp.weixin.qq.com/s/eIkjc08htB_XgKLR3GsQJA",
+          "l1": "A股"
         },
         {
           "date": "2018-09-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/gaOkrA_oICuQU-LfcIXVxA"
+          "articleLink": "https://mp.weixin.qq.com/s/gaOkrA_oICuQU-LfcIXVxA",
+          "l1": "A股"
         },
         {
           "date": "2017-07-31",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408564&idx=1&sn=16e1b133e361684c3c021647a25c4198"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408564&idx=1&sn=16e1b133e361684c3c021647a25c4198",
+          "l1": "A股"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2025-10-24"
+      "latestDate": "2025-10-24",
+      "l1": "A股"
     },
     {
       "fundCode": "004752",
@@ -2835,89 +3263,104 @@
           "date": "2026-01-15",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21643"
+          "articleLink": "https://content.qieman.com/n/items/21643",
+          "l1": "A股"
         },
         {
           "date": "2025-08-22",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/19507"
+          "articleLink": "https://content.qieman.com/n/items/19507",
+          "l1": "A股"
         },
         {
           "date": "2023-05-31",
           "action": "sell",
           "unit": 2,
-          "articleLink": "https://content.qieman.com/n/items/3496"
+          "articleLink": "https://content.qieman.com/n/items/3496",
+          "l1": "A股"
         },
         {
           "date": "2023-04-14",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3265"
+          "articleLink": "https://content.qieman.com/n/items/3265",
+          "l1": "A股"
         },
         {
           "date": "2023-04-03",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3217"
+          "articleLink": "https://content.qieman.com/n/items/3217",
+          "l1": "A股"
         },
         {
           "date": "2023-03-20",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3150"
+          "articleLink": "https://content.qieman.com/n/items/3150",
+          "l1": "A股"
         },
         {
           "date": "2021-08-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/7OcNSC77GFYnXOhXk7iNHA"
+          "articleLink": "https://mp.weixin.qq.com/s/7OcNSC77GFYnXOhXk7iNHA",
+          "l1": "A股"
         },
         {
           "date": "2021-04-29",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Ztn7t1E3xYCpEkL_NijP5A"
+          "articleLink": "https://mp.weixin.qq.com/s/Ztn7t1E3xYCpEkL_NijP5A",
+          "l1": "A股"
         },
         {
           "date": "2020-03-09",
           "action": "sell",
           "unit": 1,
-          "articleLink": null
+          "articleLink": null,
+          "l1": "A股"
         },
         {
           "date": "2019-04-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653409129&idx=1&sn=a16650576cca27da96476e718fa5247d&chksm=8d226d86ba55e49022937e9c97da7d9162edb7670c5907ddcbeeef5dcb01bacf9888b538c8cb&mpshare=1&scene=1&srcid=&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653409129&idx=1&sn=a16650576cca27da96476e718fa5247d&chksm=8d226d86ba55e49022937e9c97da7d9162edb7670c5907ddcbeeef5dcb01bacf9888b538c8cb&mpshare=1&scene=1&srcid=&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2018-08-20",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/E-6RrsJjG_hEytnxtaIj4Q"
+          "articleLink": "https://mp.weixin.qq.com/s/E-6RrsJjG_hEytnxtaIj4Q",
+          "l1": "A股"
         },
         {
           "date": "2018-07-16",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/xCV34rb_cV0_CYHLX8JjLg"
+          "articleLink": "https://mp.weixin.qq.com/s/xCV34rb_cV0_CYHLX8JjLg",
+          "l1": "A股"
         },
         {
           "date": "2018-05-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408812&idx=1&sn=be9a31e658f0dcb4e2cd5070044219e9&chksm=8d226cc3ba55e5d5220af47191f92cc045b987a249b0306c77656a78ccbde9d4f07071a86fe9&mpshare=1&scene=1&srcid=05154p6mISTgEgJtSpTki53C&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408812&idx=1&sn=be9a31e658f0dcb4e2cd5070044219e9&chksm=8d226cc3ba55e5d5220af47191f92cc045b987a249b0306c77656a78ccbde9d4f07071a86fe9&mpshare=1&scene=1&srcid=05154p6mISTgEgJtSpTki53C&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2018-01-19",
           "action": "buy",
           "unit": 2,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408723&idx=1&sn=bdbe88f7a8e3ea41a1bd10c0a2aca471&chksm=8d226f3cba55e62a68d02ddfeb3ef6b503044d771943fa471230fa09a3d5c4af7f5997776c84&mpshare=1&scene=1&srcid=0118ekYNU29yFMlypaocwMcr&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408723&idx=1&sn=bdbe88f7a8e3ea41a1bd10c0a2aca471&chksm=8d226f3cba55e62a68d02ddfeb3ef6b503044d771943fa471230fa09a3d5c4af7f5997776c84&mpshare=1&scene=1&srcid=0118ekYNU29yFMlypaocwMcr&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2026-01-15"
+      "latestDate": "2026-01-15",
+      "l1": "A股"
     },
     {
       "fundCode": "001064",
@@ -2929,125 +3372,146 @@
           "date": "2026-03-24",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22597"
+          "articleLink": "https://content.qieman.com/n/items/22597",
+          "l1": "A股"
         },
         {
           "date": "2023-12-12",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/6361"
+          "articleLink": "https://content.qieman.com/n/items/6361",
+          "l1": "A股"
         },
         {
           "date": "2022-03-18",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/E6OLuOviVt9qQOekzXRHVw"
+          "articleLink": "https://mp.weixin.qq.com/s/E6OLuOviVt9qQOekzXRHVw",
+          "l1": "A股"
         },
         {
           "date": "2022-02-28",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/UkrFSkCDzCJuiT2qEqHwSg"
+          "articleLink": "https://mp.weixin.qq.com/s/UkrFSkCDzCJuiT2qEqHwSg",
+          "l1": "A股"
         },
         {
           "date": "2021-12-17",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/fjdbfFQxWlGVTiVA1Wo6pw?st=8C18F682219145EB1FB12DD9074CE08141385D5852F5DA5CB42C03B83D5C50DDB750DD70A1D466BB89700794E65F4B356A3155003D8D4AEA600131D448279C10BCDCF514975F58EACB5B09D2CD512CAD5FDB49088F8A199587CCC53BF3EB5585738F81183DD837258EDEF846A642BCC960A4B1FD05697247F8387288D1121D958F8173D419281AF6D1F597FCBA2E54F1480D7F10FF064CA9C8C0AF29A20C4164C836CA2E0D399600BC9966AE29A0794154CDC213424521867B4AC93DC8900531B760AD5E63F19D5D7DC2F95E6F7B0B1A&vid=1688853776605235&cst=56B2FC93D7D9F16D06136561413C7EF4704200467C3D69B6B21AE7EDA8EC55A427F5CF0F0C5373009BFBC478A3FCF4B1&deviceid=4177fffa-320a-42e4-92d4-11611e3cb9d0&version=3.1.20.90367&platform=mac"
+          "articleLink": "https://mp.weixin.qq.com/s/fjdbfFQxWlGVTiVA1Wo6pw?st=8C18F682219145EB1FB12DD9074CE08141385D5852F5DA5CB42C03B83D5C50DDB750DD70A1D466BB89700794E65F4B356A3155003D8D4AEA600131D448279C10BCDCF514975F58EACB5B09D2CD512CAD5FDB49088F8A199587CCC53BF3EB5585738F81183DD837258EDEF846A642BCC960A4B1FD05697247F8387288D1121D958F8173D419281AF6D1F597FCBA2E54F1480D7F10FF064CA9C8C0AF29A20C4164C836CA2E0D399600BC9966AE29A0794154CDC213424521867B4AC93DC8900531B760AD5E63F19D5D7DC2F95E6F7B0B1A&vid=1688853776605235&cst=56B2FC93D7D9F16D06136561413C7EF4704200467C3D69B6B21AE7EDA8EC55A427F5CF0F0C5373009BFBC478A3FCF4B1&deviceid=4177fffa-320a-42e4-92d4-11611e3cb9d0&version=3.1.20.90367&platform=mac",
+          "l1": "A股"
         },
         {
           "date": "2021-08-03",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/13falsU8pCe1b6tJ1l0peg"
+          "articleLink": "https://mp.weixin.qq.com/s/13falsU8pCe1b6tJ1l0peg",
+          "l1": "A股"
         },
         {
           "date": "2021-07-20",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/6BJRiYnyltYRCTGLKrbFtg"
+          "articleLink": "https://mp.weixin.qq.com/s/6BJRiYnyltYRCTGLKrbFtg",
+          "l1": "A股"
         },
         {
           "date": "2021-03-12",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ApH7PBLcFUjDTXwhnZf1pA"
+          "articleLink": "https://mp.weixin.qq.com/s/ApH7PBLcFUjDTXwhnZf1pA",
+          "l1": "A股"
         },
         {
           "date": "2021-01-26",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/uTncP1e7kzmoK8M_7_EVBQ"
+          "articleLink": "https://mp.weixin.qq.com/s/uTncP1e7kzmoK8M_7_EVBQ",
+          "l1": "A股"
         },
         {
           "date": "2021-01-11",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/9tHoumt9747EOIAdg4YXLQ"
+          "articleLink": "https://mp.weixin.qq.com/s/9tHoumt9747EOIAdg4YXLQ",
+          "l1": "A股"
         },
         {
           "date": "2020-12-29",
           "action": "sell",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/MqnYJTj0efT602bBR1XLAQ"
+          "articleLink": "https://mp.weixin.qq.com/s/MqnYJTj0efT602bBR1XLAQ",
+          "l1": "A股"
         },
         {
           "date": "2018-10-15",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/4anBh_dyZvM6zm6WfsH6LA"
+          "articleLink": "https://mp.weixin.qq.com/s/4anBh_dyZvM6zm6WfsH6LA",
+          "l1": "A股"
         },
         {
           "date": "2018-06-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/_Sdqubfem4lHJqqA6Jo61g"
+          "articleLink": "https://mp.weixin.qq.com/s/_Sdqubfem4lHJqqA6Jo61g",
+          "l1": "A股"
         },
         {
           "date": "2018-04-26",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408792&idx=1&sn=243af5873781e76bcae38e55c98dc9a3&chksm=8d226cf7ba55e5e1c34ed21e5b0e0d1333c91bc691f7bcd9abc54cab44c5d3b409c52c03bf81&mpshare=1&scene=1&srcid=0426nwSTTqlsdavldLvx7hI0&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408792&idx=1&sn=243af5873781e76bcae38e55c98dc9a3&chksm=8d226cf7ba55e5e1c34ed21e5b0e0d1333c91bc691f7bcd9abc54cab44c5d3b409c52c03bf81&mpshare=1&scene=1&srcid=0426nwSTTqlsdavldLvx7hI0&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2018-02-13",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408748&idx=1&sn=731d5a9cdb91d16938790b8374cf5c09&chksm=8d226f03ba55e615846d17c747eee508ef1466fe801127b73a6409ade900e0aad564ac3399d9&scene=0&key=ba1ab88e28f6c0edcf3dbd2635904057961558b3ae55b76d9eac83fe3539ec15ee822ec0b126f5ecf295c0b29dbde7e911808382d1d2434c2e21f103ef23ab57e0dd69041c70b89722fc42fd49896cfb&ascene=0&uin=MjQ0NDEzNjkyMg%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=wvwLDHfOTLyH8PVRWABWxcnLJjRGQdOYFX9HRz%2BEMhbA2kX7ztJ8oOEq96sr6koR"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408748&idx=1&sn=731d5a9cdb91d16938790b8374cf5c09&chksm=8d226f03ba55e615846d17c747eee508ef1466fe801127b73a6409ade900e0aad564ac3399d9&scene=0&key=ba1ab88e28f6c0edcf3dbd2635904057961558b3ae55b76d9eac83fe3539ec15ee822ec0b126f5ecf295c0b29dbde7e911808382d1d2434c2e21f103ef23ab57e0dd69041c70b89722fc42fd49896cfb&ascene=0&uin=MjQ0NDEzNjkyMg%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=wvwLDHfOTLyH8PVRWABWxcnLJjRGQdOYFX9HRz%2BEMhbA2kX7ztJ8oOEq96sr6koR",
+          "l1": "A股"
         },
         {
           "date": "2017-11-30",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/QFkmrnJd3w3AiCFo-CNFaw"
+          "articleLink": "https://mp.weixin.qq.com/s/QFkmrnJd3w3AiCFo-CNFaw",
+          "l1": "A股"
         },
         {
           "date": "2017-11-02",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/xiCe3xBLq1-DGsPR2qWVrw"
+          "articleLink": "https://mp.weixin.qq.com/s/xiCe3xBLq1-DGsPR2qWVrw",
+          "l1": "A股"
         },
         {
           "date": "2017-09-01",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408600&idx=1&sn=8d6e5a6196d76ad8a7ff194494f5bd44&chksm=8d226fb7ba55e6a1a639a366e23c111beab10d92c684e0625eae201ee8daf85db7e221ddbcdd&mpshare=1&scene=1&srcid=0831SQp5sAPUvdwXeUvnSZml&rd2werd=1#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408600&idx=1&sn=8d6e5a6196d76ad8a7ff194494f5bd44&chksm=8d226fb7ba55e6a1a639a366e23c111beab10d92c684e0625eae201ee8daf85db7e221ddbcdd&mpshare=1&scene=1&srcid=0831SQp5sAPUvdwXeUvnSZml&rd2werd=1#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2016-11-01",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408455&idx=1&sn=e6e955f0300d0c962c1653fedfb2fbf4&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408455&idx=1&sn=e6e955f0300d0c962c1653fedfb2fbf4&scene=19#wechat_redirect",
+          "l1": "A股"
         },
         {
           "date": "2016-04-28",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408373&idx=1&sn=6874500f093b98ca2e598833a25368a9&scene=19#wechat_redirect"
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408373&idx=1&sn=6874500f093b98ca2e598833a25368a9&scene=19#wechat_redirect",
+          "l1": "A股"
         }
       ],
       "currentUnit": 0,
-      "latestDate": "2026-03-24"
+      "latestDate": "2026-03-24",
+      "l1": "A股"
     }
   ]
 }

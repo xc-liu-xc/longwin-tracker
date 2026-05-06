@@ -15,120 +15,80 @@ Caliber (与且慢截图一致):
 import json
 import os
 import bisect
+import shutil
 import sys
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
-# ── Asset class taxonomy ──────────────────────────────────────────────────
+TZ_CN = timezone(timedelta(hours=8))
+
+# ── Asset class taxonomy (L1 keys = Chinese names, source of truth: docs/taxonomy.json) ──
+# Color = Tailwind 500-shade for legend / stacked bar (sunburst uses its own 4-step ramp)
 ASSET_CLASS_ORDER = [
-    "a_stock",
-    "overseas_emerging",
-    "overseas_developed",
-    "domestic_bond",
-    "overseas_bond",
-    "gold",
-    "oil",
-    "cash",
-    "other",
+    "A股",
+    "海外新兴",
+    "海外成熟",
+    "商品",
+    "债券",
+    "房地产",
+    "外汇",
+    "现金",
+    "其他",
 ]
 
-ASSET_LABELS = {
-    "a_stock": "A股",
-    "overseas_emerging": "海外新兴市场股票",
-    "overseas_developed": "海外成熟市场股票",
-    "domestic_bond": "境内债券",
-    "overseas_bond": "海外债券",
-    "gold": "黄金",
-    "oil": "原油",
-    "cash": "现金",
-    "other": "其他",
-}
-
 ASSET_COLORS = {
-    "a_stock": "#ff7875",
-    "overseas_emerging": "#95de64",
-    "overseas_developed": "#5b8def",
-    "domestic_bond": "#b37feb",
-    "overseas_bond": "#ff9c6e",
-    "gold": "#ffc53d",
-    "oil": "#69c0ff",
-    "cash": "#bfbfbf",
-    "other": "#595959",
+    # Stacked-bar / legend uses middle shade (palette[1]) of sunburst ramps for visual consistency.
+    "A股":          "#CC8987",  # dusty rose mid
+    "海外新兴": "#6FA0AF",  # slate teal mid (deep family)
+    "海外成熟": "#84B0BF",  # slate teal mid (light family — 同族 1 档)
+    "商品":         "#CDA77D",  # ochre mid
+    "债券":         "#9494B5",  # slate violet mid
+    "房地产":       "#A4B58A",  # sage mid
+    "外汇":         "#88AAA3",  # teal-green mid
+    "现金":         "#BDB8AD",  # warm taupe mid
+    "其他":         "#B0B0B0",  # neutral mid
 }
 
-# Per-user provided categorization (150 计划) + S-only inferred
-FUND_CLASS = {
-    # ── A股 ──
-    "100032": "a_stock",  # 富国中证红利指数增强A
-    "100038": "a_stock",  # 富国沪深300指数增强A
-    "001180": "a_stock",  # 广发医药卫生联接A (全指医药)
-    "001052": "a_stock",  # 华夏中证500ETF联接A
-    "000968": "a_stock",  # 广发养老指数A
-    "000478": "a_stock",  # 建信中证500指数增强A
-    "012323": "a_stock",  # 华宝医疗ETF联接C
-    "002708": "a_stock",  # 大摩健康产业混合A
-    "001051": "a_stock",  # 华夏上证50ETF联接A
-    "519915": "a_stock",  # 富国消费主题混合A
-    "011309": "a_stock",  # 富国消费主题混合C
-    "162412": "a_stock",  # 华宝医疗ETF联接A
-    "000051": "a_stock",  # 华夏沪深300ETF联接A
-    "021550": "a_stock",  # 博时中证红利低波动100ETF联接A
-    "161017": "a_stock",  # 富国中证500指数增强A LOF
-    "110022": "a_stock",  # 易方达消费行业
-    "502010": "a_stock",  # 易方达中证全指证券公司指数LOF A
-    "000248": "a_stock",  # 汇添富中证主要消费ETF联接A
-    "001469": "a_stock",  # 广发中证全指金融地产联接A (全指金融)
-    "000727": "a_stock",  # 融通健康产业灵活配置混合A
-    "001064": "a_stock",  # 广发中证环保ETF联接A (已清仓)
-    "110026": "a_stock",  # 易方达创业板ETF联接A (已清仓)
-    "003765": "a_stock",  # 广发创业板ETF联接A (已清仓)
-    "004752": "a_stock",  # 广发中证传媒ETF联接A (已清仓)
-    "000942": "a_stock",  # 广发信息技术联接A (已清仓)
-    "001513": "a_stock",  # 易方达信息产业混合A (已清仓)
-    "005658": "a_stock",  # 华夏沪深300ETF联接C (已清仓)
-    "002903": "a_stock",  # 广发中证500ETF联接C (已清仓)
-    # S 计划 A 股独有
-    "004424": "a_stock",  # 汇添富文体娱乐混合A
-    "110020": "a_stock",  # 易方达沪深300ETF联接A
-    "001552": "a_stock",  # 天弘中证证券保险A
-    # ── 海外新兴市场股票 ──
-    "000071": "overseas_emerging",  # 华夏恒生ETF联接A
-    "012348": "overseas_emerging",  # 天弘恒生科技指数联接(QDII)A
-    "164906": "overseas_emerging",  # 交银施罗德中证海外中国互联网指数(QDII-LOF)A
-    "006327": "overseas_emerging",  # 易方达中证海外联接人民币A (中概互联)
-    "014424": "overseas_emerging",  # 博时恒生医疗保健ETF发起式联接(QDII)A (已清仓)
-    # ── 境内债券 ──
-    "340001": "domestic_bond",  # 兴全可转债混合
-    "110027": "domestic_bond",  # 易方达安心债券A (安心回报)
-    "003376": "domestic_bond",  # 广发中债7-10年国开债指数A
-    "007562": "domestic_bond",  # 景顺长城景泰纯利债券A
-    "006484": "domestic_bond",  # 广发中债1-3年国开债A
-    "050027": "domestic_bond",  # 博时信用债纯债债券A (已清仓)
-    "270048": "domestic_bond",  # 广发纯债债券A (已清仓)
-    "519977": "domestic_bond",  # 长信可转债债券A (已清仓)
-    "000563": "domestic_bond",  # 南方通利A (已清仓)
-    "000147": "domestic_bond",  # 易方达高等级信用债A (已清仓)
-    # ── 海外债券 ──
-    "100050": "overseas_bond",  # 富国全球债券(QDII)人民币A
-    "004419": "overseas_bond",  # 汇添富美元债债券人民币A
-    "019518": "overseas_bond",  # 富国全球债券(QDII)人民币C
-    "002286": "overseas_bond",  # 中银美元债债券人民币A
-    "001061": "overseas_bond",  # 华夏海外收益债券A (已清仓)
-    # ── 海外成熟市场股票 ──
-    "000369": "overseas_developed",  # 广发全球医疗保健(QDII)
-    "050025": "overseas_developed",  # 博时标普500ETF联接A
-    "000614": "overseas_developed",  # 华安德国(DAX)ETF联接A (已清仓)
-    "001092": "overseas_developed",  # 广发生物科技指数(QDII)A (已清仓)
-    "270042": "overseas_developed",  # 广发纳指100ETF联接(QDII)A (已清仓)
-    # S 计划 海外成熟独有
-    "019524": "overseas_developed",  # 华泰柏瑞纳斯达克100ETF联接(QDII)A
-    # ── 原油 ──
-    "160416": "oil",  # 华安标普全球石油指数(LOF)A (已清仓)
-    "162411": "oil",  # 华宝标普油气上游股票人民币(LOF)A (已清仓)
-    "501018": "oil",  # 南方原油A (已清仓)
-    # ── 黄金 ──
-    "000216": "gold",  # 华安黄金ETF联接A (已清仓)
-}
+
+def load_taxonomy():
+    """Load docs/taxonomy.json, return {code: {l1, l2, l3, display_name}}."""
+    p = "docs/taxonomy.json"
+    if not os.path.exists(p):
+        return {}
+    with open(p, encoding="utf-8") as f:
+        return json.load(f).get("funds", {})
+
+
+def load_qieman_l1_map():
+    """Build {code: l1} from qieman_allocation.json — authoritative source.
+    Merges both 150 and S plans; later plans override earlier on conflict (rare)."""
+    p = "docs/qieman_allocation.json"
+    if not os.path.exists(p):
+        return {}
+    with open(p, encoding="utf-8") as f:
+        qie = json.load(f)
+    out = {}
+    for plan in (qie.get("plans") or {}).values():
+        by_l1 = ((plan.get("composition") or {}).get("by_l1")) or {}
+        for l1, bucket in by_l1.items():
+            for fund in (bucket.get("funds") or []):
+                code = fund.get("code")
+                if code:
+                    out[code] = l1
+    return out
+
+
+_TAXONOMY = load_taxonomy()
+_QIEMAN_L1 = load_qieman_l1_map()
+
+
+def class_for(code):
+    """L1 lookup: qieman authoritative → taxonomy fallback → '其他'."""
+    if code in _QIEMAN_L1:
+        return _QIEMAN_L1[code]
+    return (_TAXONOMY.get(code) or {}).get("l1", "其他")
+
+
 
 
 def load_nav(fund_code):
@@ -219,7 +179,7 @@ def build_current_snapshot(holdings, total_unit, nav_cache, funds_meta, plan_id)
 
     for h in holdings:
         code = h["fundCode"]
-        cls = FUND_CLASS.get(code, "other")
+        cls = class_for(code)
         meta = funds_meta.get(code, {})
         plan_meta = meta.get("plans", {}).get(plan_id, {})
         ret = plan_meta.get("return_avg_compound")
@@ -261,10 +221,10 @@ def build_current_snapshot(holdings, total_unit, nav_cache, funds_meta, plan_id)
     # Build ordered output
     by_category = []
     for cls in ASSET_CLASS_ORDER:
-        if cls == "cash":
+        if cls == "现金":
             by_category.append({
                 "class": cls,
-                "label": ASSET_LABELS[cls],
+                "label": cls,
                 "color": ASSET_COLORS[cls],
                 "units": cash_units,
                 "share_pct": round(cash_mv / total_mv * 100, 2),
@@ -288,7 +248,7 @@ def build_current_snapshot(holdings, total_unit, nav_cache, funds_meta, plan_id)
             cat_ret = sum(ret_list) / len(ret_list) if ret_list else 0
         by_category.append({
             "class": cls,
-            "label": ASSET_LABELS[cls],
+            "label": cls,
             "color": ASSET_COLORS[cls],
             "units": d["units"],
             "share_pct": round(d["mv"] / total_mv * 100, 2),
@@ -296,12 +256,110 @@ def build_current_snapshot(holdings, total_unit, nav_cache, funds_meta, plan_id)
             "funds": funds_active + funds_cleared,
         })
 
+    # ── Sunburst tree: L1 → L2 → L3 → fund ──
+    # Aggregates active+cleared MV/units; cleared funds contribute 0 MV but appear as leaves.
+    tax_tree = build_taxonomy_tree(holdings, fund_mv, bought_map, name_lookup,
+                                    funds_meta, plan_id, total_mv)
+
     return {
         "total_unit": total_unit,
         "invested_unit": held_units,
         "cash_unit": cash_units,
         "by_category": by_category,
+        "by_taxonomy": tax_tree,
     }
+
+
+def build_taxonomy_tree(holdings, fund_mv, bought_map, name_lookup,
+                        funds_meta, plan_id, total_mv):
+    """3-layer sunburst data: L1 → L2 → L3 → fund leaf.
+
+    Each node: {name, value (MV), units, share_pct, return_pct, children?}
+    Leaf (fund): {name (display_name), code, value, units, share_pct, return_pct, status}
+    Cleared funds appear as leaves with value=0 (sunburst won't render zero, but
+    we keep return_pct so frontend can display them in a side panel).
+    """
+    tree = {}  # {l1: {meta, l2: {meta, l3: {meta, funds: []}}}}
+
+    for h in holdings:
+        code = h["fundCode"]
+        if bought_map.get(code, 0) <= 0:
+            continue  # never bought, skip
+        tax = _TAXONOMY.get(code) or {}
+        l1 = tax.get("l1", "其他")
+        l2 = tax.get("l2") or "(其他)"
+        l3 = tax.get("l3") or "(其他)"
+        disp = tax.get("display_name") or name_lookup.get(code, code)
+
+        info = fund_mv.get(code)
+        units = info["units"] if info else 0
+        mv    = info["mv"] if info else 0
+        active = info is not None
+
+        meta = funds_meta.get(code, {})
+        plan_meta = meta.get("plans", {}).get(plan_id, {})
+        ret = plan_meta.get("return_avg_compound")
+        ret_round = round(ret, 2) if ret is not None else None
+
+        l1_node = tree.setdefault(l1, {"_units": 0, "_mv": 0.0, "children": {}})
+        l2_node = l1_node["children"].setdefault(l2, {"_units": 0, "_mv": 0.0, "children": {}})
+        l3_node = l2_node["children"].setdefault(l3, {"_units": 0, "_mv": 0.0, "funds": []})
+
+        l3_node["funds"].append({
+            "name":       disp,
+            "code":       code,
+            "value":      round(mv, 4),
+            "units":      units,
+            "share_pct":  round(mv / total_mv * 100, 2) if mv else 0,
+            "return_pct": ret_round,
+            "status":     "active" if active else "cleared",
+        })
+        if active:
+            l3_node["_units"] += units
+            l3_node["_mv"]    += mv
+            l2_node["_units"] += units
+            l2_node["_mv"]    += mv
+            l1_node["_units"] += units
+            l1_node["_mv"]    += mv
+
+    # Convert nested dicts → ordered ECharts-friendly tree
+    def fmt_l3(name, node):
+        return {
+            "name":       name,
+            "value":      round(node["_mv"], 4),
+            "units":      node["_units"],
+            "share_pct":  round(node["_mv"] / total_mv * 100, 2) if node["_mv"] else 0,
+            "children":   sorted(node["funds"], key=lambda f: -f["value"]),
+        }
+    def fmt_l2(name, node):
+        return {
+            "name":       name,
+            "value":      round(node["_mv"], 4),
+            "units":      node["_units"],
+            "share_pct":  round(node["_mv"] / total_mv * 100, 2) if node["_mv"] else 0,
+            "children":   sorted([fmt_l3(k, v) for k, v in node["children"].items()],
+                                  key=lambda x: -x["value"]),
+        }
+    def fmt_l1(name, node):
+        return {
+            "name":       name,
+            "value":      round(node["_mv"], 4),
+            "units":      node["_units"],
+            "share_pct":  round(node["_mv"] / total_mv * 100, 2) if node["_mv"] else 0,
+            "color":      ASSET_COLORS.get(name, "#999"),
+            "children":   sorted([fmt_l2(k, v) for k, v in node["children"].items()],
+                                  key=lambda x: -x["value"]),
+        }
+
+    out = []
+    for cls in ASSET_CLASS_ORDER:
+        if cls in tree:
+            out.append(fmt_l1(cls, tree[cls]))
+    # Append any L1 not in canonical order (defensive)
+    for k, v in tree.items():
+        if k not in ASSET_CLASS_ORDER:
+            out.append(fmt_l1(k, v))
+    return out
 
 
 def build_timeseries(holdings, total_unit, nav_cache, max_points=600):
@@ -360,12 +418,12 @@ def build_timeseries(holdings, total_unit, nav_cache, max_points=600):
             if not cur_nav:
                 continue
             mv = sum(cur_nav / bn for bn in buy_navs if bn)
-            cls = FUND_CLASS.get(code, "other")
+            cls = class_for(code)
             cat_mv[cls] += mv
             held += len(buy_navs)
 
         cash_at = max(0, total_unit - held) * 1.0
-        cat_mv["cash"] = cash_at
+        cat_mv["现金"] = cash_at
         total_at = sum(cat_mv.values())
         if total_at <= 0:
             continue
@@ -396,6 +454,49 @@ def build_for_plan(data_path, plan_id, funds_meta):
     }
 
 
+def tag_data_with_l1(data_path):
+    """Inject `l1` field into data[*].recentSignals and data.holdings[].history.
+    Idempotent — overwrites any existing l1 each run.
+    Skips silently if file missing."""
+    if not os.path.exists(data_path):
+        return 0
+    with open(data_path, encoding="utf-8") as f:
+        data = json.load(f)
+
+    n = 0
+    for sig in data.get("recentSignals") or []:
+        code = sig.get("fundCode")
+        if code:
+            sig["l1"] = class_for(code)
+            n += 1
+    for h in data.get("holdings") or []:
+        code = h.get("fundCode")
+        l1 = class_for(code) if code else "其他"
+        h["l1"] = l1
+        for ev in h.get("history") or []:
+            ev["l1"] = l1
+            n += 1
+
+    with open(data_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    return n
+
+
+def save_daily_snapshot():
+    """Copy docs/qieman_allocation.json → docs/allocation-daily/{YYYY-MM-DD}.json
+    using Asia/Shanghai date. Idempotent — same-day reruns overwrite."""
+    src = "docs/qieman_allocation.json"
+    if not os.path.exists(src):
+        print("[allocation-daily] qieman_allocation.json missing, skip", file=sys.stderr)
+        return None
+    today = datetime.now(TZ_CN).strftime("%Y-%m-%d")
+    out_dir = "docs/allocation-daily"
+    os.makedirs(out_dir, exist_ok=True)
+    dst = os.path.join(out_dir, f"{today}.json")
+    shutil.copyfile(src, dst)
+    return dst
+
+
 def main():
     funds_meta = {}
     if os.path.exists("docs/funds.json"):
@@ -405,7 +506,7 @@ def main():
     out = {
         "generatedAt": datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
         "asset_classes": [
-            {"key": cls, "label": ASSET_LABELS[cls], "color": ASSET_COLORS[cls]}
+            {"key": cls, "label": cls, "color": ASSET_COLORS[cls]}
             for cls in ASSET_CLASS_ORDER
         ],
         "plans": {},
@@ -431,6 +532,17 @@ def main():
     with open("docs/allocation.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
     print(f"[allocation] saved docs/allocation.json")
+
+    # Tag signals/history with L1 (uses qieman → taxonomy fallback)
+    for plan_id, path in plans:
+        n = tag_data_with_l1(path)
+        if n:
+            print(f"[allocation] {plan_id}: tagged {n} signal/history entries with l1")
+
+    # Daily snapshot of qieman authoritative composition (CN date)
+    snap = save_daily_snapshot()
+    if snap:
+        print(f"[allocation] daily snapshot saved: {snap}")
 
 
 if __name__ == "__main__":

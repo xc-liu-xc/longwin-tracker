@@ -24,7 +24,16 @@ from strategy_framework import categorize_fund, CATEGORIES
 NAV_DIR        = "docs/nav"
 DATA_PATHS     = {"150": "docs/data.json", "s": "docs/data_s.json"}
 OUTPUT_PATH    = "docs/funds.json"
+TAXONOMY_PATH  = "docs/taxonomy.json"
 TZ_CN          = timezone(timedelta(hours=8))
+
+
+@functools.lru_cache(maxsize=1)
+def load_taxonomy() -> Dict[str, dict]:
+    if not os.path.exists(TAXONOMY_PATH):
+        return {}
+    with open(TAXONOMY_PATH, encoding="utf-8") as f:
+        return json.load(f).get("funds", {})
 
 
 def _load_env():
@@ -243,6 +252,7 @@ def main():
 
         category = categorize_fund(f["fundName"])
         cat_meta = CATEGORIES.get(category, {})
+        taxonomy = load_taxonomy().get(code)
 
         # Per-plan metrics
         plans = {}
@@ -277,6 +287,7 @@ def main():
             "tsCode":            nav.get("tsCode"),
             "category":          category,
             "category_label":    cat_meta.get("label", "其他"),
+            "taxonomy":          taxonomy,
             "data_quality":      data_quality,
             "has_adj_data":      adj_present,
             "current_unit_nav":  nav["unitNav"][-1],

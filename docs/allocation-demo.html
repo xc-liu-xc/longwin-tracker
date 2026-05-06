@@ -1,0 +1,557 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>资产配置 (Demo)</title>
+<style>
+  /* ── Base ── */
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", sans-serif;
+    background: #f5f7fa; color: #222; padding: 16px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; }
+
+  /* ── Header ── */
+  .header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 12px 0 16px;
+  }
+  .title { font-size: 18px; font-weight: 600; color: #111; }
+  .title .demo-tag {
+    margin-left: 8px; font-size: 11px; color: #fff;
+    background: #fa8c16; padding: 2px 6px; border-radius: 3px; vertical-align: 2px;
+  }
+  .range {
+    display: inline-flex; gap: 0;
+    background: #fff; border: 1px solid #eaeaea; border-radius: 6px; overflow: hidden;
+  }
+  .range button {
+    padding: 6px 12px; border: 0; background: transparent;
+    font-size: 12px; cursor: pointer; color: #555;
+    border-right: 1px solid #eaeaea;
+  }
+  .range button:last-child { border-right: 0; }
+  .range button.active { background: #1677ff; color: #fff; }
+
+  /* ── Card ── */
+  .card {
+    background: #fff; border-radius: 10px; padding: 16px;
+    border: 1px solid #eef0f2; margin-bottom: 14px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+  }
+  .card-title {
+    font-size: 13px; font-weight: 600; color: #444;
+    margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between;
+  }
+  .card-title .sub { font-weight: 400; font-size: 11px; color: #999; }
+
+  /* ── Section A: stacked area + feed grid ── */
+  .grid-a {
+    display: grid; grid-template-columns: 1fr 320px; gap: 14px;
+  }
+  @media (max-width: 900px) { .grid-a { grid-template-columns: 1fr; } }
+
+  /* ── Stacked area ── */
+  .stack-host { width: 100%; height: 320px; position: relative; }
+  .stack-host svg { width: 100%; height: 100%; display: block; }
+  .stack-host .axis-tick { font-size: 10px; fill: #aaa; }
+  .stack-host .axis-line { stroke: #eee; stroke-width: 1; }
+  .stack-host .signal-mark {
+    cursor: pointer; transition: transform 0.1s;
+  }
+  .stack-host .signal-mark:hover { transform: scale(1.4); }
+  .stack-host .signal-mark.highlighted text { font-weight: 700; }
+  .stack-host .guide-line {
+    stroke: #333; stroke-width: 1; stroke-dasharray: 3 3;
+    pointer-events: none; opacity: 0; transition: opacity 0.15s;
+  }
+  .stack-host .guide-line.show { opacity: 0.6; }
+
+  .legend {
+    display: flex; flex-wrap: wrap; gap: 6px 12px; margin-top: 10px;
+    font-size: 11px; color: #666;
+  }
+  .legend .chip {
+    display: inline-flex; align-items: center; gap: 4px;
+    padding: 2px 8px; border-radius: 10px; background: #fafafa;
+  }
+  .legend .swatch {
+    width: 10px; height: 10px; border-radius: 2px; display: inline-block;
+  }
+
+  /* ── Event feed ── */
+  .feed {
+    max-height: 420px; overflow-y: auto;
+    border: 1px solid #f0f0f0; border-radius: 8px;
+  }
+  .feed-item {
+    display: flex; align-items: center; gap: 8px;
+    padding: 8px 10px 8px 8px;
+    border-left: 4px solid transparent;
+    border-bottom: 1px solid #f5f5f5;
+    font-size: 12px; cursor: pointer;
+    transition: background 0.1s;
+  }
+  .feed-item:last-child { border-bottom: none; }
+  .feed-item:hover { background: #fafbfc; }
+  .feed-item.active { background: #fff7e6; border-left-color: #fa8c16 !important; }
+  .feed-date { color: #999; min-width: 64px; font-size: 11px; }
+  .feed-action {
+    padding: 1px 5px; border-radius: 3px; font-size: 11px;
+    min-width: 26px; text-align: center;
+  }
+  .feed-action.buy  { background: #f6ffed; color: #389e0d; border: 1px solid #d9f7be; }
+  .feed-action.sell { background: #fff1f0; color: #cf1322; border: 1px solid #ffccc7; }
+  .feed-l1 {
+    padding: 1px 5px; border-radius: 3px;
+    font-size: 10px; font-weight: 500; white-space: nowrap;
+  }
+  .feed-fund { color: #555; flex: 1; min-width: 0;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .feed-unit { color: #111; font-weight: 600; min-width: 30px; text-align: right; font-size: 11px; }
+
+  /* ── Section B: swim lanes ── */
+  .lane-row {
+    display: grid; grid-template-columns: 110px 60px 1fr;
+    gap: 12px; align-items: center;
+    padding: 6px 0;
+    border-bottom: 1px dashed #f0f0f0;
+    transition: background 0.1s;
+  }
+  .lane-row:last-child { border-bottom: none; }
+  .lane-row:hover { background: #fafbfc; }
+  .lane-row.dim { opacity: 0.35; }
+  .lane-name {
+    display: flex; align-items: center; gap: 6px;
+    font-size: 13px; color: #333;
+  }
+  .lane-name .swatch {
+    width: 12px; height: 12px; border-radius: 2px; flex-shrink: 0;
+  }
+  .lane-pct {
+    font-size: 12px; font-weight: 600; color: #111;
+    text-align: right; font-variant-numeric: tabular-nums;
+  }
+  .lane-pct .delta {
+    display: block; font-size: 10px; font-weight: 500; color: #999;
+  }
+  .lane-svg { height: 32px; width: 100%; }
+  .lane-svg .signal-mark { cursor: pointer; }
+  .lane-svg .signal-mark:hover { opacity: 0.7; }
+
+  /* ── Tooltip ── */
+  .tooltip {
+    position: fixed; z-index: 100; pointer-events: none;
+    background: rgba(20,20,20,0.92); color: #fff;
+    padding: 6px 10px; border-radius: 4px; font-size: 11px;
+    line-height: 1.5; opacity: 0; transition: opacity 0.1s;
+    white-space: nowrap;
+  }
+  .tooltip.show { opacity: 1; }
+  .tooltip b { font-weight: 600; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- ── Header ── -->
+  <div class="header">
+    <div class="title">
+      资产配置
+      <span class="demo-tag">DEMO · 假数据</span>
+    </div>
+    <div class="range" id="rangePicker">
+      <button data-r="1y">近 1 年</button>
+      <button data-r="3y" class="active">近 3 年</button>
+      <button data-r="all">全部</button>
+    </div>
+  </div>
+
+  <!-- ── Section A: stacked area + feed ── -->
+  <div class="grid-a">
+    <div class="card">
+      <div class="card-title">
+        L1 占比演化
+        <span class="sub">堆叠 = 100% · ↓买入 ↑卖出</span>
+      </div>
+      <div class="stack-host" id="stackHost"></div>
+      <div class="legend" id="legend"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">
+        信号事件流
+        <span class="sub">按时间倒序</span>
+      </div>
+      <div class="feed" id="feed"></div>
+    </div>
+  </div>
+
+  <!-- ── Section B: swim lanes ── -->
+  <div class="card">
+    <div class="card-title">
+      L1 泳道
+      <span class="sub">每条 = 该资产类占比折线 + 信号 marker</span>
+    </div>
+    <div id="lanes"></div>
+  </div>
+
+</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script>
+/* ──────────────────────────────────────────
+   Dummy data — for visual demo only
+   ────────────────────────────────────────── */
+const L1 = ["A股","海外新兴","海外成熟","商品","债券","房地产","外汇","现金"];
+const L1_COLOR = {
+  "A股":"#CC8987","海外新兴":"#6FA0AF","海外成熟":"#84B0BF",
+  "商品":"#CDA77D","债券":"#9494B5","房地产":"#A4B58A","外汇":"#88AAA3",
+  "现金":"#BDB8AD",
+};
+
+// 28 monthly snapshots: [date, A, 新兴, 成熟, 商品, 债, 地产, 外汇, 现金] — sums to 100
+const SERIES = [
+  ["2024-01", 38, 6, 2, 0, 9,  0, 0, 45],
+  ["2024-02", 40, 6, 2, 0, 9,  0, 0, 43],
+  ["2024-03", 43, 7, 2, 0, 9,  0, 0, 39],
+  ["2024-04", 44, 7, 2, 0, 10, 0, 0, 37],
+  ["2024-05", 45, 8, 2, 0, 10, 0, 0, 35],
+  ["2024-06", 46, 8, 2, 0, 10, 0, 0, 34],
+  ["2024-07", 47, 9, 2, 0, 11, 0, 0, 31],
+  ["2024-08", 48, 9, 2, 0, 11, 0, 0, 30],
+  ["2024-09", 49, 9, 2, 0, 11, 0, 0, 29],
+  ["2024-10", 50, 9, 2, 0, 11, 0, 0, 28],
+  ["2024-11", 51, 9, 2, 0, 12, 0, 0, 26],
+  ["2024-12", 52, 9, 2, 0, 12, 0, 0, 25],
+  ["2025-01", 53, 9, 2, 0, 12, 0, 0, 24],
+  ["2025-02", 54, 9, 2, 0, 12, 0, 0, 23],
+  ["2025-03", 55, 9, 2, 0, 13, 0, 0, 21],
+  ["2025-04", 55, 9, 2, 0, 13, 0, 0, 21],
+  ["2025-05", 54, 9, 2, 0, 13, 0, 0, 22],
+  ["2025-06", 54, 10, 2, 0, 13, 0, 0, 21],
+  ["2025-07", 55, 10, 2, 0, 12, 0, 0, 21],
+  ["2025-08", 56, 10, 2, 0, 12, 0, 0, 20],
+  ["2025-09", 56, 10, 2, 0, 12, 0, 0, 20],
+  ["2025-10", 55, 10, 2, 0, 12, 0, 0, 21],
+  ["2025-11", 54, 10, 2, 0, 12, 0, 0, 22],
+  ["2025-12", 54, 9, 2, 0, 11, 0, 0, 24],
+  ["2026-01", 53, 9, 2, 0, 11, 0, 0, 25],
+  ["2026-02", 53, 9, 2, 0, 11, 0, 0, 25],
+  ["2026-03", 53, 9, 2, 0, 11, 0, 0, 24],
+  ["2026-04", 53, 9, 2, 0, 11, 0, 0, 24],
+];
+
+// 18 fake signals scattered through the time range
+const SIGNALS = [
+  {date: "2024-02-12", l1: "A股",    action: "buy",  fund: "富国300",       unit: 1},
+  {date: "2024-03-08", l1: "A股",    action: "buy",  fund: "建信500",       unit: 2},
+  {date: "2024-04-22", l1: "海外新兴",action: "buy",  fund: "恒生",          unit: 1},
+  {date: "2024-06-18", l1: "债券",    action: "buy",  fund: "中长期纯债",     unit: 1},
+  {date: "2024-08-05", l1: "A股",    action: "buy",  fund: "红利低波",       unit: 1},
+  {date: "2024-09-12", l1: "海外成熟",action: "buy",  fund: "标普500",       unit: 1},
+  {date: "2024-10-21", l1: "A股",    action: "buy",  fund: "中证500",       unit: 1},
+  {date: "2024-12-14", l1: "A股",    action: "buy",  fund: "全指消费",       unit: 1},
+  {date: "2025-01-23", l1: "海外新兴",action: "buy",  fund: "印度",          unit: 1},
+  {date: "2025-03-15", l1: "A股",    action: "buy",  fund: "全指医药",       unit: 1},
+  {date: "2025-05-08", l1: "A股",    action: "sell", fund: "上证50",        unit: 1},
+  {date: "2025-07-19", l1: "A股",    action: "buy",  fund: "证券公司",       unit: 1},
+  {date: "2025-09-04", l1: "A股",    action: "sell", fund: "建信500",       unit: 1},
+  {date: "2025-10-30", l1: "A股",    action: "sell", fund: "富国300",       unit: 1},
+  {date: "2025-12-11", l1: "债券",    action: "sell", fund: "中长期纯债",     unit: 1},
+  {date: "2026-01-22", l1: "海外新兴",action: "sell", fund: "恒生",          unit: 1},
+  {date: "2026-03-06", l1: "A股",    action: "sell", fund: "全指医药",       unit: 1},
+  {date: "2026-04-23", l1: "A股",    action: "sell", fund: "建信500",       unit: 1},
+];
+
+/* ──────────────────────────────────────────
+   Helpers
+   ────────────────────────────────────────── */
+function dateToX(d, x0, x1, w) {
+  const t0 = new Date(SERIES[0][0]).getTime();
+  const t1 = new Date(SERIES[SERIES.length-1][0]).getTime();
+  const t  = new Date(d).getTime();
+  return x0 + (w - x0 - 8) * (t - t0) / (t1 - t0);
+}
+function escHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+  })[c]);
+}
+
+const tooltip = document.getElementById('tooltip');
+function showTooltip(html, ev) {
+  tooltip.innerHTML = html;
+  tooltip.classList.add('show');
+  tooltip.style.left = (ev.clientX + 12) + 'px';
+  tooltip.style.top  = (ev.clientY + 12) + 'px';
+}
+function hideTooltip() { tooltip.classList.remove('show'); }
+
+/* ──────────────────────────────────────────
+   Section A: stacked area + signal markers
+   ────────────────────────────────────────── */
+function renderStacked() {
+  const host = document.getElementById('stackHost');
+  const W = host.clientWidth || 760;
+  const H = 320;
+  const padL = 36, padR = 8, padT = 10, padB = 26;
+  const innerW = W - padL - padR;
+  const innerH = H - padT - padB;
+
+  // Build stacked path for each L1 (from top of stack down)
+  // Convention: top-most = 现金, bottom = A股 — but stacked area looks better with stable bottom.
+  // We'll stack in L1 order, bottom = A股, top = 现金.
+  const N = SERIES.length;
+  const xAt = i => padL + innerW * i / (N - 1);
+  const yAt = pct => padT + innerH * (1 - pct/100);
+
+  // cumulative percentages per row
+  const stacked = SERIES.map(row => {
+    const out = []; let acc = 0;
+    for (let k = 0; k < L1.length; k++) {
+      const v = row[k+1];
+      out.push([acc, acc + v]); // [bottom%, top%]
+      acc += v;
+    }
+    return out;
+  });
+
+  let svg = `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">`;
+  // baseline
+  svg += `<line class="axis-line" x1="${padL}" y1="${padT+innerH}" x2="${W-padR}" y2="${padT+innerH}"/>`;
+  // 4 horizontal grid lines at 25/50/75/100
+  for (const pct of [25, 50, 75]) {
+    const y = yAt(pct);
+    svg += `<line class="axis-line" x1="${padL}" y1="${y}" x2="${W-padR}" y2="${y}" stroke-dasharray="2 3"/>`;
+    svg += `<text class="axis-tick" x="${padL-4}" y="${y+3}" text-anchor="end">${pct}%</text>`;
+  }
+  svg += `<text class="axis-tick" x="${padL-4}" y="${padT+5}" text-anchor="end">100%</text>`;
+  svg += `<text class="axis-tick" x="${padL-4}" y="${padT+innerH+3}" text-anchor="end">0%</text>`;
+
+  // x-axis ticks (yearly)
+  let lastYear = '';
+  for (let i = 0; i < N; i++) {
+    const yr = SERIES[i][0].slice(0,4);
+    if (yr !== lastYear) {
+      svg += `<text class="axis-tick" x="${xAt(i)}" y="${H-8}" text-anchor="middle">${yr}</text>`;
+      lastYear = yr;
+    }
+  }
+
+  // 8 stacked bands
+  for (let k = 0; k < L1.length; k++) {
+    const cls = L1[k];
+    const color = L1_COLOR[cls];
+    let topPath = '', botPath = '';
+    for (let i = 0; i < N; i++) {
+      const [b, t] = stacked[i][k];
+      const x = xAt(i);
+      topPath += (i === 0 ? 'M' : 'L') + x + ',' + yAt(t) + ' ';
+    }
+    for (let i = N-1; i >= 0; i--) {
+      const [b] = stacked[i][k];
+      const x = xAt(i);
+      botPath += 'L' + x + ',' + yAt(b) + ' ';
+    }
+    svg += `<path d="${topPath}${botPath}Z" fill="${color}" fill-opacity="0.85" stroke="${color}" stroke-width="0.4"/>`;
+  }
+
+  // signal markers (above the chart, just below top)
+  SIGNALS.forEach((s, idx) => {
+    const x = dateToX(s.date, padL, W-padR+padL, W);
+    const color = L1_COLOR[s.l1];
+    // arrow above or below band? show as small triangle on top with color
+    const y0 = padT + 2;
+    const dir = s.action === 'buy' ? 1 : -1; // ↓ buy points down, ↑ sell points up
+    const tri = s.action === 'buy'
+      ? `M${x-4},${y0} L${x+4},${y0} L${x},${y0+8} Z`     // pointing down
+      : `M${x-4},${y0+8} L${x+4},${y0+8} L${x},${y0} Z`; // pointing up
+    svg += `
+      <g class="signal-mark" data-sig="${idx}" data-date="${s.date}">
+        <path d="${tri}" fill="${color}" stroke="#fff" stroke-width="1"/>
+      </g>`;
+  });
+
+  // guide line
+  svg += `<line class="guide-line" id="guideLine" x1="0" y1="${padT}" x2="0" y2="${padT+innerH}"/>`;
+
+  svg += `</svg>`;
+  host.innerHTML = svg;
+
+  // Wire interactivity
+  host.querySelectorAll('.signal-mark').forEach(g => {
+    const idx = +g.getAttribute('data-sig');
+    const s = SIGNALS[idx];
+    g.addEventListener('mouseenter', e => {
+      showTooltip(`<b>${s.date}</b><br/>${s.action==='buy'?'买入':'卖出'} · <b style="color:${L1_COLOR[s.l1]}">${s.l1}</b><br/>${s.fund} · ${s.unit} 份`, e);
+      highlightDate(s.date);
+    });
+    g.addEventListener('mousemove', e => showTooltip(tooltip.innerHTML, e));
+    g.addEventListener('mouseleave', () => { hideTooltip(); clearHighlight(); });
+    g.addEventListener('click', () => focusFeedItem(idx));
+  });
+}
+
+function highlightDate(date) {
+  const guide = document.getElementById('guideLine');
+  if (!guide) return;
+  const host = document.getElementById('stackHost');
+  const W = host.clientWidth || 760;
+  const padL = 36, padR = 8;
+  const x = dateToX(date, padL, W-padR+padL, W);
+  guide.setAttribute('x1', x); guide.setAttribute('x2', x);
+  guide.classList.add('show');
+}
+function clearHighlight() {
+  const guide = document.getElementById('guideLine');
+  if (guide) guide.classList.remove('show');
+}
+
+/* ──────────────────────────────────────────
+   Legend
+   ────────────────────────────────────────── */
+function renderLegend() {
+  const host = document.getElementById('legend');
+  host.innerHTML = L1.map(cls => `
+    <span class="chip"><span class="swatch" style="background:${L1_COLOR[cls]}"></span>${cls}</span>
+  `).join('');
+}
+
+/* ──────────────────────────────────────────
+   Event feed
+   ────────────────────────────────────────── */
+function renderFeed() {
+  const host = document.getElementById('feed');
+  // sort by date desc
+  const sorted = SIGNALS.map((s, idx) => ({...s, idx})).sort((a,b) => b.date.localeCompare(a.date));
+  host.innerHTML = sorted.map(s => {
+    const c = L1_COLOR[s.l1];
+    return `
+      <div class="feed-item" data-idx="${s.idx}" style="border-left-color:${c}">
+        <span class="feed-date">${s.date.slice(5)}</span>
+        <span class="feed-action ${s.action}">${s.action==='buy'?'买':'卖'}</span>
+        <span class="feed-l1" style="background:${c}22;color:${c};border:1px solid ${c}55">${s.l1}</span>
+        <span class="feed-fund">${escHtml(s.fund)}</span>
+        <span class="feed-unit">${s.unit}份</span>
+      </div>`;
+  }).join('');
+  host.querySelectorAll('.feed-item').forEach(el => {
+    const idx = +el.getAttribute('data-idx');
+    const s = SIGNALS[idx];
+    el.addEventListener('mouseenter', () => highlightDate(s.date));
+    el.addEventListener('mouseleave', () => clearHighlight());
+    el.addEventListener('click', () => focusSignalMark(idx));
+  });
+}
+function focusFeedItem(idx) {
+  document.querySelectorAll('.feed-item').forEach(e => e.classList.remove('active'));
+  const el = document.querySelector(`.feed-item[data-idx="${idx}"]`);
+  if (el) {
+    el.classList.add('active');
+    el.scrollIntoView({block: 'nearest', behavior: 'smooth'});
+  }
+}
+function focusSignalMark(idx) {
+  document.querySelectorAll('.signal-mark').forEach(e => e.classList.remove('highlighted'));
+  const el = document.querySelector(`.signal-mark[data-sig="${idx}"]`);
+  if (el) el.classList.add('highlighted');
+  highlightDate(SIGNALS[idx].date);
+  setTimeout(clearHighlight, 1500);
+}
+
+/* ──────────────────────────────────────────
+   Section B: swim lanes
+   ────────────────────────────────────────── */
+function renderLanes() {
+  const host = document.getElementById('lanes');
+  const N = SERIES.length;
+
+  host.innerHTML = L1.map((cls, k) => {
+    const color = L1_COLOR[cls];
+    const series = SERIES.map(r => r[k+1]);
+    const max = Math.max(...series, 1);
+    const last = series[series.length-1];
+    const prev = series[series.length-13] ?? series[0]; // ~1y ago
+    const delta = last - prev;
+    const deltaTxt = (delta >= 0 ? '+' : '') + delta.toFixed(1) + ' pp · 12m';
+
+    // mini area path
+    const W = 600; // logical viewBox width; SVG scales to container
+    const H = 32;
+    const padL = 4, padR = 4;
+    const innerW = W - padL - padR;
+    const xAt = i => padL + innerW * i / (N - 1);
+    const yAt = v => H - 2 - (H-4) * v / max;
+    let path = `M${xAt(0)},${H} `;
+    for (let i = 0; i < N; i++) path += 'L' + xAt(i) + ',' + yAt(series[i]) + ' ';
+    path += `L${xAt(N-1)},${H} Z`;
+
+    // signal markers in this lane
+    const laneSignals = SIGNALS.filter(s => s.l1 === cls);
+    const marks = laneSignals.map((s) => {
+      const x = dateToX(s.date, padL, W-padR+padL, W);
+      const y = 8;
+      const isBuy = s.action === 'buy';
+      const tri = isBuy
+        ? `M${x-3},${y-4} L${x+3},${y-4} L${x},${y+2} Z`
+        : `M${x-3},${y+2} L${x+3},${y+2} L${x},${y-4} Z`;
+      return `<path class="signal-mark" d="${tri}" fill="${color}" stroke="#fff" stroke-width="0.6" data-tip="${s.date} ${isBuy?'买':'卖'} ${escHtml(s.fund)} ${s.unit}份"/>`;
+    }).join('');
+
+    return `
+      <div class="lane-row" data-l1="${cls}">
+        <div class="lane-name"><span class="swatch" style="background:${color}"></span>${cls}</div>
+        <div class="lane-pct">${last.toFixed(1)}%<span class="delta">${deltaTxt}</span></div>
+        <svg class="lane-svg" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
+          <path d="${path}" fill="${color}" fill-opacity="0.4" stroke="${color}" stroke-width="0.8"/>
+          ${marks}
+        </svg>
+      </div>`;
+  }).join('');
+
+  // Lane signal-mark tooltips
+  host.querySelectorAll('.signal-mark').forEach(el => {
+    el.addEventListener('mouseenter', e => showTooltip(el.getAttribute('data-tip').replace(' ', ' · '), e));
+    el.addEventListener('mousemove',  e => showTooltip(tooltip.innerHTML, e));
+    el.addEventListener('mouseleave', hideTooltip);
+  });
+
+  // Hover a lane → dim others
+  host.querySelectorAll('.lane-row').forEach(row => {
+    row.addEventListener('mouseenter', () => {
+      host.querySelectorAll('.lane-row').forEach(r => {
+        if (r !== row) r.classList.add('dim');
+      });
+    });
+    row.addEventListener('mouseleave', () => {
+      host.querySelectorAll('.lane-row').forEach(r => r.classList.remove('dim'));
+    });
+  });
+}
+
+/* ──────────────────────────────────────────
+   Range picker (visual only — full-width re-render placeholder)
+   ────────────────────────────────────────── */
+document.getElementById('rangePicker').addEventListener('click', e => {
+  if (e.target.tagName !== 'BUTTON') return;
+  document.querySelectorAll('#rangePicker button').forEach(b => b.classList.remove('active'));
+  e.target.classList.add('active');
+  // demo: no real filtering, just visual feedback
+});
+
+/* ──────────────────────────────────────────
+   Init
+   ────────────────────────────────────────── */
+renderStacked();
+renderLegend();
+renderFeed();
+renderLanes();
+window.addEventListener('resize', () => { renderStacked(); renderLanes(); });
+</script>
+</body>
+</html>
