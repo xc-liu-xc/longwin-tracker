@@ -1,0 +1,90 @@
+{
+  "postId": "57907",
+  "fetchedAt": "2026-05-09T16:07:55+08:00",
+  "totalCommentNum": 37,
+  "totalScanned": 25,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 694291,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "PS: 因为明牌了是波段的起始。\n（其实和自己小黑车中证红利位置上周四买入的几乎“一样”，差4厘，哈哈，还以为开早了，要等下一档呢，发现没事，脸没那么肿了，大冬天的，耗冰。）\n嗯，老大人高腿长，步子会迈得比较大，我个子小，步子小，会开个小网，非常简单的双向运行，压力测试做好。",
+      "images": [],
+      "createdAt": "2025-12-15T14:53:17",
+      "ipLocation": "上海市",
+      "likeNum": 22
+    },
+    {
+      "type": "reply",
+      "id": 694381,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "宽进窄出？？？\n来的时候都是300/500，\n走的时候都是行业基金…\n还想戴“博士帽”呢，结果脑门上敲的都是“毛栗子”，我说我。",
+      "images": [],
+      "createdAt": "2025-12-15T14:55:47",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 694177,
+        "userName": "二级市场拾荒者",
+        "content": "博导说：要毕业？休想！我这里宽进窄出。",
+        "images": [],
+        "createdAt": "2025-12-15T14:49:16",
+        "ipLocation": "河南省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 694417,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "很近了！！！\n就问裱好了吗？",
+      "images": [],
+      "createdAt": "2025-12-15T14:56:20",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 694081,
+        "userName": "玫瑰色的米",
+        "content": "老大太调皮（慎重考虑）了 说是有可能在易方达里买 最后买了博时hah 让我等好一顿猜！",
+        "images": [],
+        "createdAt": "2025-12-15T14:44:57",
+        "ipLocation": "北京市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 695701,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "跟你讲，买完就涨这种感受真的超级棒。\n先高兴起来，该高兴就要及时高兴。",
+      "images": [],
+      "createdAt": "2025-12-15T15:36:39",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 694291,
+        "userName": "新米练习菌",
+        "content": "PS: 因为明牌了是波段的起始。\n（其实和自己小黑车中证红利位置上周四买入的几乎“一样”，差4厘，哈哈，还以为开早了，要等下一档呢，发现没事，脸没那么肿了，大冬天的，耗冰。）\n嗯，老大人高腿长，步子会迈得比较大，我个子小，步子小，会开个小网，非常简单的双向运行，压力测试做好。",
+        "images": [],
+        "createdAt": "2025-12-15T14:53:17",
+        "ipLocation": "上海市",
+        "likeNum": 22
+      },
+      "replyTo": {
+        "id": 694435,
+        "userName": "战火小阿蛮",
+        "content": "上周场内买了一点 发现今天已经开始涨了 哈哈哈 期待红利后续表现 ",
+        "images": []
+      }
+    }
+  ]
+}

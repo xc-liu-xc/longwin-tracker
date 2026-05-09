@@ -1,0 +1,43 @@
+{
+  "postId": "58045",
+  "fetchedAt": "2026-05-09T16:04:41+08:00",
+  "totalCommentNum": 156,
+  "totalScanned": 116,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 704143,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "上周做做作业的时候，4个指数的走势对比过。\n港版红利低波，波不低的。\n波动还是挺大的~",
+      "images": [],
+      "createdAt": "2025-12-16T10:58:33",
+      "ipLocation": "上海市",
+      "likeNum": 68
+    },
+    {
+      "type": "reply",
+      "id": 704569,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "BTW, 老大，这是您在这里营业的第100篇~\n202510月\t=8（文章）\t+8（帖子）\t=16篇\t（含1删）\n202511月\t=6（文章）\t+34（帖子）\t=40篇\t（含1隐）\n202512月\t=5（文章）\t+39（帖子）\t=44篇\t\n合计\t=19（文章）\t+81（帖子）\t=100篇\t\n约58000字",
+      "images": [],
+      "createdAt": "2025-12-16T11:06:38",
+      "ipLocation": "上海市",
+      "likeNum": 58,
+      "parent": {
+        "id": 704143,
+        "userName": "新米练习菌",
+        "content": "上周做做作业的时候，4个指数的走势对比过。\n港版红利低波，波不低的。\n波动还是挺大的~",
+        "images": [],
+        "createdAt": "2025-12-16T10:58:33",
+        "ipLocation": "上海市",
+        "likeNum": 68
+      },
+      "replyTo": null
+    }
+  ]
+}

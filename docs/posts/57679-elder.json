@@ -1,0 +1,189 @@
+{
+  "postId": "57679",
+  "fetchedAt": "2026-05-09T16:13:18+08:00",
+  "totalCommentNum": 91,
+  "totalScanned": 66,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 669619,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不知道呀，好像还是有选择性的， 其他的也还是有没显示的。\n我其实不知道为什么…",
+      "images": [],
+      "createdAt": "2025-12-13T21:34:55",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 668761,
+        "userName": "拙拙",
+        "content": "米米，是审核通过了吗？突然小铃铛响了",
+        "images": [],
+        "createdAt": "2025-12-13T20:58:15",
+        "ipLocation": "浙江省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 670405,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊，那个留言好像也出来了，和这篇文一样的。我看到有友友给我点了赞，我想是出现了的意思吧~",
+      "images": [],
+      "createdAt": "2025-12-13T22:07:58",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 668761,
+        "userName": "拙拙",
+        "content": "米米，是审核通过了吗？突然小铃铛响了",
+        "images": [],
+        "createdAt": "2025-12-13T20:58:15",
+        "ipLocation": "浙江省",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 669907,
+        "userName": "拙拙",
+        "content": "是的，我去红利那篇底下去翻，翻不到。😖",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 670441,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "可能也因为已经有中证红利了，是100个样本，想稍微换换，100变50？标准换低波？就这样倾向了一下吧。\n其实不一样也没关系，我也没指望和老大一样，猜错也不碍事，大方向一样，自己也有思考，能赚到钱都是好的~",
+      "images": [],
+      "createdAt": "2025-12-13T22:11:05",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 669919,
+        "userName": "人未鱼",
+        "content": "我自己买场内的上证红利基金，持有体验比较好，一直想入中证红利这个品种。\n老大出题后，我问了AI，从行业集中度的区别，第一印象倾向于选中证红利，而不是红利低波。然后也比较了低波50和低波100的区别，我首先排除的就是低波50。\n做作业没有新米这么细致，结果还完全相反。嗯，自己还有很大进步空间。\n期待老大的答案，期待发车。",
+        "images": [],
+        "createdAt": "2025-12-13T21:48:11",
+        "ipLocation": "北京市",
+        "likeNum": 5
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 671743,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不通过长赢买的那些，其实会增大规模，场外我说。这样想，倒也没啥不好。",
+      "images": [],
+      "createdAt": "2025-12-14T00:18:13",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 670711,
+        "userName": "无-",
+        "content": "这么多人一车的总金额太大，还有很多公众号跟车的，单就发车金额这一条，就限制了具体基金不好选，还必须得是场外的，限制太多了。",
+        "images": [],
+        "createdAt": "2025-12-13T22:28:32",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 675979,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊，谢谢关心，只有一方面要审核，一方面，因为要阅读思考，动脑子，所以写得也会慢一些",
+      "images": [],
+      "createdAt": "2025-12-14T13:29:37",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 672667,
+        "userName": "是笑笑笑笑笑笑啊",
+        "content": "米米～在老大最新的文章里没有看到你的留言呢～经历了留言发布搁置时间，不知道这次是搁置了还是身体不舒服呀～就是比较担心",
+        "images": [],
+        "createdAt": "2025-12-14T09:39:16",
+        "ipLocation": "吉林省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 676957,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我也只是写写我的想法，不一定对。\n我配置它就是为了吃息策略，银行多不多，行业分不分散，我其实不是很介意，按策略把高分红的给我选进来就好。\n我自己配着分红的个股也有银行股。没太在意。\n万一哪个分红不好了，指数自己也会调仓，又给换出去的。\n啊，我只是说我自己，不一定对。",
+      "images": [],
+      "createdAt": "2025-12-14T16:56:10",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 676129,
+        "userName": "小满_胜万全",
+        "content": "谢谢米米分享，我汇率是一点也不懂，看股息率真想选港股的，哈哈哈。然后，我倾向是含银行比例低的，不知道在哪里看这个，等我找一找。如果找到再来分享",
+        "images": [],
+        "createdAt": "2025-12-14T13:54:13",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 681283,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "辛苦啦~~一定没问题的！\n先休息放松一下的，然后，等你好消息了~~",
+      "images": [],
+      "createdAt": "2025-12-15T07:35:04",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 678859,
+        "userName": "被陈末沉没了的沉默",
+        "content": "米，晚上好啊！终于考完了太不容易了，但还不知道最终结果，还需要再等两个工作日，内心依旧非常忐忑。自己虽然没有超常发挥，但也算还可以吧，只希望老天保佑可以保住第一的位置，也算对得起自己的努力了🙏🏻。PS：我的且慢居然有171条未读🤣我到底都错过了些什么！需要猛猛补课了！",
+        "images": [],
+        "createdAt": "2025-12-14T19:45:49",
+        "ipLocation": "黑龙江省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 688255,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "二维码还真是不知道，虽然那是E大公众号的二维码，嗯，知道了，以后会切图切掉。\n谢谢你的反馈。",
+      "images": [],
+      "createdAt": "2025-12-15T11:59:34",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 668761,
+        "userName": "拙拙",
+        "content": "米米，是审核通过了吗？突然小铃铛响了",
+        "images": [],
+        "createdAt": "2025-12-13T20:58:15",
+        "ipLocation": "浙江省",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 687079,
+        "userName": "且小慢",
+        "content": "同路人您好，首先非常感谢您的分享\n如您的帖子因涉及平台限制词汇或者含有二维码的图片，会导致未能成功发布。\n期待您稍作修改后再次提交。再次感谢您为社区贡献内容！",
+        "images": []
+      }
+    }
+  ]
+}

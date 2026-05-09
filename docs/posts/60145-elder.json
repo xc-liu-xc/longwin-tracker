@@ -1,0 +1,132 @@
+{
+  "postId": "60145",
+  "fetchedAt": "2026-05-09T15:50:21+08:00",
+  "totalCommentNum": 92,
+  "totalScanned": 73,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 835927,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是不是大隔壁【留言4】还没显示？\n嗯，等等吧~",
+      "images": [],
+      "createdAt": "2026-01-02T21:26:54",
+      "ipLocation": "上海市",
+      "likeNum": 1
+    },
+    {
+      "type": "reply",
+      "id": 836167,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊啊，谢谢提醒，\n啊呀呀，真的写反了，是我的问题。\n感觉从被窝里爬出去改~",
+      "images": [],
+      "createdAt": "2026-01-02T22:14:42",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 836035,
+        "userName": "占线ing",
+        "content": "新米，A3和A4单元格的说明好像反了，可以自己按周甚至天实时更新的“当前最新资产”是1300000那个单元格。\n\n“ 修改更多信息里面的项目，我建议没事儿别改。尤其是年初资产，这个是一切的起点。”\n\n“*你所在年下一年的年初资产，是你在这一年填入的最新资产。而从再下一年开始的增长率，是根据你填入的预期收益率随机生成。”",
+        "images": [],
+        "createdAt": "2026-01-02T21:48:35",
+        "ipLocation": "上海市",
+        "likeNum": 5
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 836221,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "改好了，图重发了，文件也重新上传了，再次感谢~~~",
+      "images": [],
+      "createdAt": "2026-01-02T22:21:35",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 836035,
+        "userName": "占线ing",
+        "content": "新米，A3和A4单元格的说明好像反了，可以自己按周甚至天实时更新的“当前最新资产”是1300000那个单元格。\n\n“ 修改更多信息里面的项目，我建议没事儿别改。尤其是年初资产，这个是一切的起点。”\n\n“*你所在年下一年的年初资产，是你在这一年填入的最新资产。而从再下一年开始的增长率，是根据你填入的预期收益率随机生成。”",
+        "images": [],
+        "createdAt": "2026-01-02T21:48:35",
+        "ipLocation": "上海市",
+        "likeNum": 5
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 837343,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯嗯，是我偷懒了，看到通胀数字一样，就没移位置...\nI5=K4*(1+G4)\n2029年基础提款金额 (元)= 2028年最终提款金额 (元)✖(1+2028年通货膨胀率)\n改好了，图重放了，文件也已重传，多谢~~~",
+      "images": [],
+      "createdAt": "2026-01-03T11:09:05",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 837115,
+        "userName": "ZZ-369",
+        "content": "新米，我刚又看了E大说的 “”基础提款金额是上一年的最终提款额加上一年通货膨胀得出的数字。而基础提款率是基础提款金额/今年初资产。“”。\n那比如你举例的2029年的I5=K4*(1+G5),是不是应该为I5=K4*(1+G4)？ ,29年提取金额应该是28年的最终提款和和28年的通胀率得出的29年的？\n",
+        "images": [],
+        "createdAt": "2026-01-03T10:11:43",
+        "ipLocation": "天津市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 840841,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "就老大的小组。\n微博时代，就这么喊着了，\n老大在哪儿，我在哪儿，我在他隔壁的。",
+      "images": [],
+      "createdAt": "2026-01-04T10:20:22",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 835927,
+        "userName": "新米练习菌",
+        "content": "是不是大隔壁【留言4】还没显示？\n嗯，等等吧~",
+        "images": [],
+        "createdAt": "2026-01-02T21:26:54",
+        "ipLocation": "上海市",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 840763,
+        "userName": "富足莅临",
+        "content": "窃窃的问：大隔壁是哪里呀？我一直没找到啊？谢谢米米",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 840847,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大的小组，评论区，放了网盘链接~",
+      "images": [],
+      "createdAt": "2026-01-04T10:21:36",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 840235,
+        "userName": "仰起头",
+        "content": "米米想抄你的作业，请问excel表在哪里下载😊",
+        "images": [],
+        "createdAt": "2026-01-03T22:42:11",
+        "ipLocation": "江西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

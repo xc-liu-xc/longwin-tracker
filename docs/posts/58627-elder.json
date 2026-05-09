@@ -1,0 +1,53 @@
+{
+  "postId": "58627",
+  "fetchedAt": "2026-05-09T16:01:36+08:00",
+  "totalCommentNum": 100,
+  "totalScanned": 95,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 748483,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "红利在行业指数PE那个图里，老大这回还没有放那个图。",
+      "images": [],
+      "createdAt": "2025-12-21T20:56:40",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 748345,
+        "userName": "开饭了秀",
+        "content": "以前有红利，现在没了",
+        "images": [],
+        "createdAt": "2025-12-21T19:36:47",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 748489,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大的是他自己开发的模型算的，不是查的，他不用别人的。",
+      "images": [],
+      "createdAt": "2025-12-21T20:59:08",
+      "ipLocation": "上海市",
+      "likeNum": 17,
+      "parent": {
+        "id": 748105,
+        "userName": "专注捡垃圾3w天",
+        "content": "米米，这个全市场PE和加权PE在哪里可以查到啊？谢谢米米，能否给点提示也可以。\n",
+        "images": [],
+        "createdAt": "2025-12-21T17:14:32",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

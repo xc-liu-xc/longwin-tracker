@@ -1,0 +1,79 @@
+{
+  "postId": "58975",
+  "fetchedAt": "2026-05-09T16:00:52+08:00",
+  "totalCommentNum": 28,
+  "totalScanned": 18,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 758893,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没有没有，就有朋友说win+；键可以网页发表情嘛，我试了试，觉得很有意思，就多用了几个~",
+      "images": [],
+      "createdAt": "2025-12-23T18:08:32",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 758875,
+        "userName": "胖菜",
+        "content": "我每个图标都双击了好几次，突然醒悟过来，走神了，在试图打开它们。",
+        "images": [],
+        "createdAt": "2025-12-23T18:00:05",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 767779,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是说网页，电脑打的时候，手机📱容易~",
+      "images": [],
+      "createdAt": "2025-12-24T15:46:06",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 767263,
+        "userName": "wingmen",
+        "content": "用微信输入法，直接就可以打出emoji了🤣，比如打tubiao就有📊，打shu就有📚，超级方便",
+        "images": [],
+        "createdAt": "2025-12-24T14:53:56",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 769171,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "公司的电脑固定设置着输入法，不能自己装其他的。需要申请，IT部再推送或安装。不会批准装这个的。",
+      "images": [],
+      "createdAt": "2025-12-24T21:08:53",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 767263,
+        "userName": "wingmen",
+        "content": "用微信输入法，直接就可以打出emoji了🤣，比如打tubiao就有📊，打shu就有📚，超级方便",
+        "images": [],
+        "createdAt": "2025-12-24T14:53:56",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 767833,
+        "userName": "wingmen",
+        "content": "电脑也可以安装输入法，我就是用电脑打的😊",
+        "images": []
+      }
+    }
+  ]
+}

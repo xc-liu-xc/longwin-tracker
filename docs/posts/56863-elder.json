@@ -1,0 +1,53 @@
+{
+  "postId": "56863",
+  "fetchedAt": "2026-05-09T16:18:35+08:00",
+  "totalCommentNum": 24,
+  "totalScanned": 19,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 585535,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "有道理~今日确实是三见。",
+      "images": [],
+      "createdAt": "2025-12-05T12:58:33",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 584881,
+        "userName": "小卡拉米橙子",
+        "content": "每日三见吾师",
+        "images": [],
+        "createdAt": "2025-12-05T11:46:22",
+        "ipLocation": "湖北省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 596713,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯~去了去了，谢谢提醒~",
+      "images": [],
+      "createdAt": "2025-12-06T11:26:54",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 596137,
+        "userName": "上课的猫咪",
+        "content": "米米，开课啦",
+        "images": [],
+        "createdAt": "2025-12-06T11:07:39",
+        "ipLocation": "中国",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

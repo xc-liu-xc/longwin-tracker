@@ -1,0 +1,22 @@
+{
+  "postId": "60061",
+  "fetchedAt": "2026-05-09T15:50:19+08:00",
+  "totalCommentNum": 10,
+  "totalScanned": 10,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 831769,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "也重重地提醒了我要「谨言慎行」。\n不能给添麻烦。",
+      "images": [],
+      "createdAt": "2026-01-02T12:10:50",
+      "ipLocation": "上海市",
+      "likeNum": 8
+    }
+  ]
+}

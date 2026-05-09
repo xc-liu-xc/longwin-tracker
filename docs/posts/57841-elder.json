@@ -1,0 +1,96 @@
+{
+  "postId": "57841",
+  "fetchedAt": "2026-05-09T16:08:55+08:00",
+  "totalCommentNum": 234,
+  "totalScanned": 191,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 679663,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "中证500这一波的坑，已经10年了，还没爬出来。但是各位要注意，我们的500收益率都是几十个点。买点太重要了。",
+      "images": [],
+      "createdAt": "2025-12-14T20:42:27",
+      "ipLocation": "北京市",
+      "likeNum": 285
+    },
+    {
+      "type": "top",
+      "id": 679711,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈哈哈哈哈\n对不起，看笑了，然后看到“还没回本”又看笑了…\n一样都叫500哦，一样都有“机会”\n-\n标普500是，每次下跌都是买入的机会，\n中证500是，每次反弹都是逃命的机会。\n-\n一个buy and hold…\n一个buy and holy… shit",
+      "images": [],
+      "createdAt": "2025-12-14T20:47:34",
+      "ipLocation": "上海市",
+      "likeNum": 83
+    },
+    {
+      "type": "reply",
+      "id": 679831,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，中证500因为涉及了4个基金，还有A+C，做过波段，所以也做了合并计算过。\n从指数视角看，收益率是48.65%\n（没用全收益指数，只是价格指数-中证500）\n同时中证500，同期现在是-14.17%\n（指数视角，基金因为有增强效果，还会更好些。）\n-\n目前中证500（7169.79），距最高点（11616.39）跌幅还在-38.2%的位置，\n如果看中证500全收益指数（8894.48），距最高点（12458.59）还在-28.6%位置，\n（稍微好点…嗯…稍微…）\n\n",
+      "images": [],
+      "createdAt": "2025-12-14T20:58:18",
+      "ipLocation": "上海市",
+      "likeNum": 73,
+      "parent": {
+        "id": 679663,
+        "userName": "ETF拯救世界",
+        "content": "中证500这一波的坑，已经10年了，还没爬出来。但是各位要注意，我们的500收益率都是几十个点。买点太重要了。",
+        "images": [],
+        "createdAt": "2025-12-14T20:42:27",
+        "ipLocation": "北京市",
+        "likeNum": 285
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 680053,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "以前巴爷爷的教导：年轻人就定投标普500，然后好好工作。\n以为是定投“指数基金”，哦哦哦，500，好嘞，我们也有，中证500。\n现在才知道，真的是指：标普500。\n原来就是“字面意思”…不要延申扩展解读。",
+      "images": [],
+      "createdAt": "2025-12-14T21:17:54",
+      "ipLocation": "上海市",
+      "likeNum": 48,
+      "parent": {
+        "id": 679711,
+        "userName": "新米练习菌",
+        "content": "哈哈哈哈哈哈\n对不起，看笑了，然后看到“还没回本”又看笑了…\n一样都叫500哦，一样都有“机会”\n-\n标普500是，每次下跌都是买入的机会，\n中证500是，每次反弹都是逃命的机会。\n-\n一个buy and hold…\n一个buy and holy… shit",
+        "images": [],
+        "createdAt": "2025-12-14T20:47:34",
+        "ipLocation": "上海市",
+        "likeNum": 83
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 680101,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈哈，好画面感\n大A 今年也35岁了…\n成年人的身体，心智不行，巨…婴…A",
+      "images": [],
+      "createdAt": "2025-12-14T21:19:45",
+      "ipLocation": "上海市",
+      "likeNum": 29,
+      "parent": {
+        "id": 679651,
+        "userName": "桃子早睡发多多",
+        "content": "感觉大A 像刚走路的小孩，一直在跌到，刚站起来又跌下去了。",
+        "images": [],
+        "createdAt": "2025-12-14T20:41:45",
+        "ipLocation": "湖北省",
+        "likeNum": 26
+      },
+      "replyTo": null
+    }
+  ]
+}

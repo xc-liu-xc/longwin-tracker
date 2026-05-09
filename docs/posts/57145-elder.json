@@ -1,0 +1,64 @@
+{
+  "postId": "57145",
+  "fetchedAt": "2026-05-09T16:16:06+08:00",
+  "totalCommentNum": 44,
+  "totalScanned": 31,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 606007,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看了一眼。今天有出，但也有要进未进。恒消，豆子，医药，能不能用力点，先别起来，别拐点呀…",
+      "images": [],
+      "createdAt": "2025-12-08T16:52:38",
+      "ipLocation": "上海市",
+      "likeNum": 21
+    },
+    {
+      "type": "reply",
+      "id": 606025,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "改好啦，多谢~",
+      "images": [],
+      "createdAt": "2025-12-08T17:04:47",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 606019,
+        "userName": "逐光向前",
+        "content": "认真阅读的啄木鸟来了，波段于长线，应该是“与”吧。",
+        "images": [],
+        "createdAt": "2025-12-08T16:57:45",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 607045,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "“一波一波不停的塞钱” 也戳中我笑点了",
+      "images": [],
+      "createdAt": "2025-12-08T22:21:06",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 607003,
+        "userName": "井宿河中静",
+        "content": "老大真的太幽默了。涨跌，你都赢。赢麻了😂。有些人不爱翻我的微博，我来帮你翻。😂就好多华点。",
+        "images": [],
+        "createdAt": "2025-12-08T22:04:34",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

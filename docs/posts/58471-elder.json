@@ -1,0 +1,32 @@
+{
+  "postId": "58471",
+  "fetchedAt": "2026-05-09T16:02:15+08:00",
+  "totalCommentNum": 49,
+  "totalScanned": 25,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 741199,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "确实有删除和隐藏的，除了今天估值的未开放，只有1帖子删除+2个帖子屏蔽。\n你说的这些都没有删，都在「文章」里。\n自从「仅自己可见」的功能上限后，没有删过任何文章和帖子，屏蔽是显示「仅自己可见」的。",
+      "images": [],
+      "createdAt": "2025-12-19T12:02:30",
+      "ipLocation": "上海市",
+      "likeNum": 19,
+      "parent": {
+        "id": 741091,
+        "userName": "E想天开06",
+        "content": "借课代表的楼问一句，上午在且慢小组中复习E大发的内容，发现不少篇翻不到了？比如德勤那篇长篇报告，比如E大让大家整理个人资产……是我大脑错乱了，还是已经删了？",
+        "images": [],
+        "createdAt": "2025-12-19T11:45:04",
+        "ipLocation": "北京市",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

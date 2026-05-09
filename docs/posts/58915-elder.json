@@ -1,0 +1,85 @@
+{
+  "postId": "58915",
+  "fetchedAt": "2026-05-09T16:00:51+08:00",
+  "totalCommentNum": 31,
+  "totalScanned": 23,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 756457,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "反之亦然~\n最好多在背后夸夸你真正喜欢的人，早晚TA也会知道的~",
+      "images": [],
+      "createdAt": "2025-12-23T14:08:59",
+      "ipLocation": "上海市",
+      "likeNum": 24
+    },
+    {
+      "type": "reply",
+      "id": 756571,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是这样的，只能自己尽量远离嚼舌根的人。",
+      "images": [],
+      "createdAt": "2025-12-23T14:35:53",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 756553,
+        "userName": "长瀛",
+        "content": "有时候运气差的时候躺着都能中枪，别人的事不关心也不参与，都能被人误解像参与了一样。\n那些聚在一起议论别人的，说到底是太闲了，如果每天恨不得一天48小时的人，哪有时间去议论别人啊！",
+        "images": [],
+        "createdAt": "2025-12-23T14:32:22",
+        "ipLocation": "浙江省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 758575,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "对，还有这类“挑事拱火的看热闹”的人，也要远离或者冷处理。\n一副好心告诉你、关心你的样子，其实是想诱导你表态、生气，甚至希望你去争论，吵，怼，撕，TA好坐观其成看热闹，把挑事的风险和负面情绪都抛给你。\n或者就是，想通过分享这种“八卦”，在你面前刷存在感，假装和你站在“同一立场”，实则是借别人的负面内容来搭话，以为会引起你的反应和回复。",
+      "images": [],
+      "createdAt": "2025-12-23T16:54:29",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 758341,
+        "userName": "烤蓝",
+        "content": "最近还有一个感受，传坏话的人心思更坏，存心不让别人好过，影响心情。",
+        "images": [],
+        "createdAt": "2025-12-23T16:29:01",
+        "ipLocation": "安徽省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 758887,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是，是男的，各部经理。",
+      "images": [],
+      "createdAt": "2025-12-23T18:01:45",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 757891,
+        "userName": "一等星",
+        "content": "瞎猜，是不是一群女的聊嗨了",
+        "images": [],
+        "createdAt": "2025-12-23T15:43:02",
+        "ipLocation": "山西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "postId": "57931",
+  "fetchedAt": "2026-05-09T16:07:57+08:00",
+  "totalCommentNum": 75,
+  "totalScanned": 55,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 696439,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "且慢蛮好的，帮忙把上传图的像素都改高了，都是高清的~\n这表真大…初始积累就用了两年，一篇一篇的发车文、博文、历史资料地看，老大比较随性，发的四处都是，看到一个收集一个。还有一些朋友们还帮忙抓虫。\n我一直都是认为，互相支持，互相鼓励，碰到问题就想办法解决，才能把事做成。而不是抱怨、打击、谩骂，这些只会是阻碍。",
+      "images": [],
+      "createdAt": "2025-12-15T16:36:23",
+      "ipLocation": "上海市",
+      "likeNum": 83
+    },
+    {
+      "type": "reply",
+      "id": 696901,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊，谢谢你，\n不但帮忙弄好了，还特意告诉了我一声，不然我都不知道，不知道的话，可能也不会再尝试。\n谢谢你们的辛勤工作，真的。",
+      "images": [],
+      "createdAt": "2025-12-15T17:25:28",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 696439,
+        "userName": "新米练习菌",
+        "content": "且慢蛮好的，帮忙把上传图的像素都改高了，都是高清的~\n这表真大…初始积累就用了两年，一篇一篇的发车文、博文、历史资料地看，老大比较随性，发的四处都是，看到一个收集一个。还有一些朋友们还帮忙抓虫。\n我一直都是认为，互相支持，互相鼓励，碰到问题就想办法解决，才能把事做成。而不是抱怨、打击、谩骂，这些只会是阻碍。",
+        "images": [],
+        "createdAt": "2025-12-15T16:36:23",
+        "ipLocation": "上海市",
+        "likeNum": 83
+      },
+      "replyTo": {
+        "id": 696757,
+        "userName": "且慢社区那个前端研发",
+        "content": "感动🥹",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 697621,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，我换了列序，因为发车是场外，视觉上会先看场外。是我忘说了。",
+      "images": [],
+      "createdAt": "2025-12-15T19:52:19",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 696877,
+        "userName": "FionaLynn",
+        "content": "弱弱的问下 021550 不是场外代码吗？怎么写在了场内？是我理解有误吗\n",
+        "images": [],
+        "createdAt": "2025-12-15T17:23:25",
+        "ipLocation": "海南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

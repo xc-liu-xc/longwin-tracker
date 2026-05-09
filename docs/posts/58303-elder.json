@@ -1,0 +1,111 @@
+{
+  "postId": "58303",
+  "fetchedAt": "2026-05-09T16:02:44+08:00",
+  "totalCommentNum": 666,
+  "totalScanned": 502,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 727015,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "那是必须的。这次从起源到未来，一次讲透。这也是为什么这次拖了很久的原因。",
+      "images": [],
+      "createdAt": "2025-12-18T10:36:58",
+      "ipLocation": "北京市",
+      "likeNum": 654,
+      "parent": {
+        "id": 726505,
+        "userName": "爱笑的精灵",
+        "content": "妄念一下，不知E大能否成全：发布了估值信息后，能不能讲讲根据估值能得到哪些东西？",
+        "images": [],
+        "createdAt": "2025-12-18T10:32:15",
+        "ipLocation": "山东省",
+        "likeNum": 98
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 727087,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "一言难尽。",
+      "images": [],
+      "createdAt": "2025-12-18T10:37:58",
+      "ipLocation": "北京市",
+      "likeNum": 397,
+      "parent": {
+        "id": 726205,
+        "userName": "是我花肉呀",
+        "content": "😄，老大会不会有一种上班的感觉了呢",
+        "images": [],
+        "createdAt": "2025-12-18T10:28:53",
+        "ipLocation": "福建省",
+        "likeNum": 152
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 727129,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好，\n嗯，好的，期待。\n为什么我的视线落在了“（非挖坑）”三个字上？\n未来10天内，就是截至到公元2025/12/28之前，\n本周内，就是截止到公元2025/12/21之前，\n在此日期之前，不算挖坑，只算预告，但是过了这个日子，会记录下来。\n没关系，反正已经很多了，不完全统计已经76个（已填1.5个）（bu shi）",
+      "images": [],
+      "createdAt": "2025-12-18T10:38:18",
+      "ipLocation": "上海市",
+      "likeNum": 121
+    },
+    {
+      "type": "reply",
+      "id": 727531,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "“资产提款进阶说明/智能计算页面发布。”\n这个一旦有了，我就可以知道现在的资产每年每月其实我可以“花多少”（提多少）了，虽然不会真的去提，还在努力积攒，还在期望长坡厚雪，但是这个会给予未来的生活底气。\n最简单的算术，200万，每月“花”8300元，也可以花上个20年，有了工具就可以知道，如何不碰本金的状态下，还在增值的情况下，每年每月可以花多少钱了。\n金钱的威力，财富的魔力，安全感。",
+      "images": [],
+      "createdAt": "2025-12-18T10:44:15",
+      "ipLocation": "上海市",
+      "likeNum": 98,
+      "parent": {
+        "id": 727129,
+        "userName": "新米练习菌",
+        "content": "E大早上好，\n嗯，好的，期待。\n为什么我的视线落在了“（非挖坑）”三个字上？\n未来10天内，就是截至到公元2025/12/28之前，\n本周内，就是截止到公元2025/12/21之前，\n在此日期之前，不算挖坑，只算预告，但是过了这个日子，会记录下来。\n没关系，反正已经很多了，不完全统计已经76个（已填1.5个）（bu shi）",
+        "images": [],
+        "createdAt": "2025-12-18T10:38:18",
+        "ipLocation": "上海市",
+        "likeNum": 121
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 731053,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "Long time no see~",
+      "images": [],
+      "createdAt": "2025-12-18T13:02:00",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 727129,
+        "userName": "新米练习菌",
+        "content": "E大早上好，\n嗯，好的，期待。\n为什么我的视线落在了“（非挖坑）”三个字上？\n未来10天内，就是截至到公元2025/12/28之前，\n本周内，就是截止到公元2025/12/21之前，\n在此日期之前，不算挖坑，只算预告，但是过了这个日子，会记录下来。\n没关系，反正已经很多了，不完全统计已经76个（已填1.5个）（bu shi）",
+        "images": [],
+        "createdAt": "2025-12-18T10:38:18",
+        "ipLocation": "上海市",
+        "likeNum": 121
+      },
+      "replyTo": {
+        "id": 729991,
+        "userName": "EyeSea",
+        "content": "哈哈哈哈哈 76 个 哈哈哈哈哈",
+        "images": []
+      }
+    }
+  ]
+}

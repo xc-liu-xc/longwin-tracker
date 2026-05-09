@@ -1,0 +1,43 @@
+{
+  "postId": "59137",
+  "fetchedAt": "2026-05-09T16:00:30+08:00",
+  "totalCommentNum": 45,
+  "totalScanned": 37,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 768649,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "那天白天要出门，东西发送好，招呼打好，自己也心定。\n—\n愿天下高敏星人都可以做自己。\n有属于自己的天空，有接纳包容自己的地方，用自己的优势做事。而不是也不用为了迎合别人不得不强行改变自己。",
+      "images": [],
+      "createdAt": "2025-12-24T18:49:46",
+      "ipLocation": "上海市",
+      "likeNum": 41
+    },
+    {
+      "type": "reply",
+      "id": 769177,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "容易显得不合群，但无所谓。因为与自己合不来的人一起时，会觉得加倍疲惫，能量被消耗了，情愿不合群。",
+      "images": [],
+      "createdAt": "2025-12-24T21:10:53",
+      "ipLocation": "上海市",
+      "likeNum": 22,
+      "parent": {
+        "id": 768787,
+        "userName": "井宿河中静",
+        "content": "高敏感人有很多好处，比如天然对危险、不好的事情以及不对路的人本能不舒服，不能立即远离也会想办法撇清关系，避祸能力一流。在身边剩下的都是让自己舒服的人和物😌",
+        "images": [],
+        "createdAt": "2025-12-24T19:32:07",
+        "ipLocation": "广东省",
+        "likeNum": 8
+      },
+      "replyTo": null
+    }
+  ]
+}

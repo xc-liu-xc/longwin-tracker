@@ -1,0 +1,32 @@
+{
+  "postId": "58465",
+  "fetchedAt": "2026-05-09T16:02:11+08:00",
+  "totalCommentNum": 26,
+  "totalScanned": 18,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 741151,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是靠自己的。\n解铃还须系铃人。",
+      "images": [],
+      "createdAt": "2025-12-19T11:51:04",
+      "ipLocation": "上海市",
+      "likeNum": 25,
+      "parent": {
+        "id": 741037,
+        "userName": "同路人_0DDmyN",
+        "content": "是的，米米你的恢复力好强",
+        "images": [],
+        "createdAt": "2025-12-19T11:36:21",
+        "ipLocation": "贵州省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

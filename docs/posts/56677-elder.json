@@ -1,0 +1,53 @@
+{
+  "postId": "56677",
+  "fetchedAt": "2026-05-09T16:19:45+08:00",
+  "totalCommentNum": 26,
+  "totalScanned": 18,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 576835,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我用HB的，开得早，那时不用买VIP，条件单还够用。",
+      "images": [],
+      "createdAt": "2025-12-04T13:16:34",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 576673,
+        "userName": "溪南烟树",
+        "content": "米米，我想请教下您网格条件单也是用华宝吗？那您条件单买vip会员了吗？",
+        "images": [],
+        "createdAt": "2025-12-04T13:00:59",
+        "ipLocation": "江苏省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 579781,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊啊，谢谢你给我打预防针~\n怎么又来了，真麻烦呀，还是希望望有拉黑功能，屏蔽了没用，以后还是能评论我…\n但，还好你和我说一声，我觉得晚上理帖子，可以有心理准备。谢谢~",
+      "images": [],
+      "createdAt": "2025-12-04T18:22:48",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 578725,
+        "userName": "Ningx",
+        "content": "看到有人在老大帖子下攻击米米 原本想说希望米米不要看到 但米米整理肯定要看到了 打个预防针 做个心理准备T-T ",
+        "images": [],
+        "createdAt": "2025-12-04T14:50:24",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

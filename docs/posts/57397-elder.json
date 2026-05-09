@@ -1,0 +1,105 @@
+{
+  "postId": "57397",
+  "fetchedAt": "2026-05-09T16:15:09+08:00",
+  "totalCommentNum": 34,
+  "totalScanned": 24,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 618775,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈，抓破头，致敬那套，数据统计计算做做4个小时，但配色调了整整2天…\n天荒地老。\n经常推翻了，重头来过的，过程中的报废品堆得高高。\n-\n有些人说数据才是最重要的，数据当然是最重要的，正确准确也是必须的，但可视化，就是为了让人可以更好地看到数据，\n谁都不愿意透过邋遢的外表看到美丽的灵魂。\n-\n实体书我也没买过，彩页的刊物，都很贵。现在网络发达，网上就可以学到很多的。\n",
+      "images": [],
+      "createdAt": "2025-12-10T15:24:33",
+      "ipLocation": "上海市",
+      "likeNum": 25,
+      "parent": {
+        "id": 618637,
+        "userName": "邱QQ",
+        "content": "关于配色，我曾经想冲动去美术类的书店买本色卡和配色集。但当时刚毕业没多久，没什么钱，这些书的价格都让我劝退。但以后还是很想拥有，帮其他部门做EXCEL公式报表的时候总是抓破头找配色",
+        "images": [],
+        "createdAt": "2025-12-10T14:41:01",
+        "ipLocation": "四川省",
+        "likeNum": 5
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 619009,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你说到坑单…\n我，突然，想更新一下…",
+      "images": [],
+      "createdAt": "2025-12-10T16:31:20",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 618757,
+        "userName": "Ningx",
+        "content": "好期待波段的频次（不过会增加米米的工作量） 真的超级期待！ 不知道能不能算网格四的实践版（毕竟坑单感觉排不上号）",
+        "images": [],
+        "createdAt": "2025-12-10T15:20:27",
+        "ipLocation": "北京市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 619225,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嘿嘿，这个我经常用誒~",
+      "images": [],
+      "createdAt": "2025-12-10T17:54:06",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 618637,
+        "userName": "邱QQ",
+        "content": "关于配色，我曾经想冲动去美术类的书店买本色卡和配色集。但当时刚毕业没多久，没什么钱，这些书的价格都让我劝退。但以后还是很想拥有，帮其他部门做EXCEL公式报表的时候总是抓破头找配色",
+        "images": [],
+        "createdAt": "2025-12-10T14:41:01",
+        "ipLocation": "四川省",
+        "likeNum": 5
+      },
+      "replyTo": {
+        "id": 619117,
+        "userName": "安联角旗杆Lotus",
+        "content": "推荐给米米一个配色网站，mycolor.space，输入一个主颜色，网站自动会生成一些推荐～",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 672373,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是我的，（小声：）老大的。",
+      "images": [],
+      "createdAt": "2025-12-14T08:23:12",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 618757,
+        "userName": "Ningx",
+        "content": "好期待波段的频次（不过会增加米米的工作量） 真的超级期待！ 不知道能不能算网格四的实践版（毕竟坑单感觉排不上号）",
+        "images": [],
+        "createdAt": "2025-12-10T15:20:27",
+        "ipLocation": "北京市",
+        "likeNum": 2
+      },
+      "replyTo": {
+        "id": 672133,
+        "userName": "走起",
+        "content": "哈哈哈，课代表给自己建坑单，想看👀",
+        "images": []
+      }
+    }
+  ]
+}

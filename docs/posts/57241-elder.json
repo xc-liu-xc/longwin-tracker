@@ -1,0 +1,122 @@
+{
+  "postId": "57241",
+  "fetchedAt": "2026-05-09T16:15:43+08:00",
+  "totalCommentNum": 515,
+  "totalScanned": 444,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 609817,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "除了这些还有别的工具。我之前跟且慢说，这些工具等合适的时机，要开放给大家用。应该都是整合在大的财富管理系统下的。",
+      "images": [],
+      "createdAt": "2025-12-09T11:04:46",
+      "ipLocation": "北京市",
+      "likeNum": 420
+    },
+    {
+      "type": "top",
+      "id": 610015,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "期待加强的力度！！！\n有些市场，不做波段「受不了」，做了不波段「不得了」~\n",
+      "images": [],
+      "createdAt": "2025-12-09T11:08:11",
+      "ipLocation": "上海市",
+      "likeNum": 88
+    },
+    {
+      "type": "reply",
+      "id": 610783,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大运筹帷幄，统领千军万马，手边有辅助系统工具箱。\n.\n仔细看了看【图一】，\n（【品种占比】品种历史持仓占比变化趋势，啊，这个数据，好想要啊，眼馋，我只有大类资产占比的历史趋势数据……）\n.\n一边跟着做做波段、赚赚钱，提高收益；一边还可以画画，一个品种如果跨基金的话，就可以画长线波段融合的画，现在搭了300/500/消费/医药/医疗/信息/中概/恒疗的图框架，于是，更期待未来的发车了。\n",
+      "images": [],
+      "createdAt": "2025-12-09T11:25:42",
+      "ipLocation": "上海市",
+      "likeNum": 50,
+      "parent": {
+        "id": 610015,
+        "userName": "新米练习菌",
+        "content": "期待加强的力度！！！\n有些市场，不做波段「受不了」，做了不波段「不得了」~\n",
+        "images": [],
+        "createdAt": "2025-12-09T11:08:11",
+        "ipLocation": "上海市",
+        "likeNum": 88
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 610825,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "医疗波段没做好。是我的错。我要反省。应该有两个波段机会。以后不会了。",
+      "images": [],
+      "createdAt": "2025-12-09T11:26:55",
+      "ipLocation": "北京市",
+      "likeNum": 277,
+      "parent": {
+        "id": 610729,
+        "userName": "北京小小夏",
+        "content": "期待，E大在医疗和医药上做做波段，某市场就是个猴子。",
+        "images": [],
+        "createdAt": "2025-12-09T11:23:16",
+        "ipLocation": "北京市",
+        "likeNum": 50
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 611515,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【图2】里 300设了两个？\n嗯，感觉是：一个进，一个出。像个网格一样，首网触发，启动后，上下就都有。\n其他的，是进，等着进。\n（瞎猜的，日常习惯，仔细看文看图，然后思索，仅个人胡思乱想。）",
+      "images": [],
+      "createdAt": "2025-12-09T12:09:35",
+      "ipLocation": "上海市",
+      "likeNum": 42,
+      "parent": {
+        "id": 610015,
+        "userName": "新米练习菌",
+        "content": "期待加强的力度！！！\n有些市场，不做波段「受不了」，做了不波段「不得了」~\n",
+        "images": [],
+        "createdAt": "2025-12-09T11:08:11",
+        "ipLocation": "上海市",
+        "likeNum": 88
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 611809,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "必须做。",
+      "images": [],
+      "createdAt": "2025-12-09T12:37:08",
+      "ipLocation": "北京市",
+      "likeNum": 45,
+      "parent": {
+        "id": 610729,
+        "userName": "北京小小夏",
+        "content": "期待，E大在医疗和医药上做做波段，某市场就是个猴子。",
+        "images": [],
+        "createdAt": "2025-12-09T11:23:16",
+        "ipLocation": "北京市",
+        "likeNum": 50
+      },
+      "replyTo": {
+        "id": 611155,
+        "userName": "fundivy",
+        "content": "消费还会做波段吗？",
+        "images": []
+      }
+    }
+  ]
+}

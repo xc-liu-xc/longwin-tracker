@@ -1,0 +1,54 @@
+{
+  "postId": "59401",
+  "fetchedAt": "2026-05-09T15:55:09+08:00",
+  "totalCommentNum": 378,
+  "totalScanned": 327,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 782725,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大中午好，\n好的好的。\ntake action.\n五分钟做不完的，就每次做一点点，做个五分钟也好的。\n——入围家训的WB 2024.11.19——\n你觉得以下两条够不够格加入家训：\n\n第一条：一件事你想做又觉得难，一直拖拉不做。那就立即开始，不用一定做完。比如200个俯卧撑，你可以今天做5个就停。明天做6个或者还是5个。最重要是开始。\n\n第二条：一件事你想做而且其实很容易，但你也拖拖拉拉不做。如果是五分钟内可以完成，那就想到立即去做，做完它。",
+      "images": [],
+      "createdAt": "2025-12-27T11:35:36",
+      "ipLocation": "上海市",
+      "likeNum": 38
+    },
+    {
+      "type": "top",
+      "id": 782977,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "为什么我会经常说啊。因为我有时候是拖延症谁懂啊。每次勉励自己后就跟大家共勉……",
+      "images": [],
+      "createdAt": "2025-12-27T11:51:57",
+      "ipLocation": "北京市",
+      "likeNum": 254
+    },
+    {
+      "type": "reply",
+      "id": 783391,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "喜欢干的事情不会拖延。不喜欢的事情就要反复拖。\n",
+      "images": [],
+      "createdAt": "2025-12-27T12:44:44",
+      "ipLocation": "北京市",
+      "likeNum": 183,
+      "parent": {
+        "id": 783163,
+        "userName": "如是.",
+        "content": "上次周末看您的一日碎碎念，可不像拖延症。同症啊，也在努力克服",
+        "images": [],
+        "createdAt": "2025-12-27T12:13:25",
+        "ipLocation": "陕西省",
+        "likeNum": 11
+      },
+      "replyTo": null
+    }
+  ]
+}

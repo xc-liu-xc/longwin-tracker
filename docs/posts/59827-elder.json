@@ -1,0 +1,148 @@
+{
+  "postId": "59827",
+  "fetchedAt": "2026-05-09T15:53:00+08:00",
+  "totalCommentNum": 3265,
+  "totalScanned": 3035,
+  "expandedTopLevel": 10,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 803395,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好~\n谢谢，礼物🎁太重磅了。\n不仅仅是关门弟子了，现在是锁门弟子了！\n其实我已经觉得很超值了。真的。\n依旧觉得不可思议，我每一天每一小时都活在「啊，那个人是E大啊！」的“惊叹”中。\n新年快乐~\n我亲爱的老大\n",
+      "images": [],
+      "createdAt": "2025-12-31T09:46:05",
+      "ipLocation": "上海市",
+      "likeNum": 16
+    },
+    {
+      "type": "reply",
+      "id": 803965,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "个人建议不要在原计划上增减金额，会导致紊乱。如果有新增资金，建议新开。",
+      "images": [],
+      "createdAt": "2025-12-31T09:47:05",
+      "ipLocation": "北京市",
+      "likeNum": 321,
+      "parent": {
+        "id": 801793,
+        "userName": "嘻嘻哈哈嘎嘎",
+        "content": "绝版了。之后还能在现有的计划上增加金额嘛？",
+        "images": [],
+        "createdAt": "2025-12-31T09:42:23",
+        "ipLocation": "四川省",
+        "likeNum": 29
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 806623,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "代我向您的母亲问好。祝她一切顺利，早日康复。",
+      "images": [],
+      "createdAt": "2025-12-31T09:56:16",
+      "ipLocation": "北京市",
+      "likeNum": 350,
+      "parent": {
+        "id": 805327,
+        "userName": "被陈末沉没了的沉默",
+        "content": "E大！！！我的老大！！您简直太好了，无微不至，谢谢您的新年小礼物！我母亲也是您的粉丝，但她刚刚做完肾穿刺，需要查一下肾脏指标不好的具体原因，我也代她向您表达感谢，祝您新年快乐！也希望即将到来的2026年，我们家收到的第一个消息就是肾脏活检指标良好，可控可治愈。希望我母亲可以早日康复，健健康康！也祝大家身体健康，阖家幸福，2026资产不断增值！",
+        "images": [],
+        "createdAt": "2025-12-31T09:50:49",
+        "ipLocation": "黑龙江省",
+        "likeNum": 356
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 807397,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "存档核对的时候，F5了一下，发现行标题加粗了，\n且慢的文章功能越来越好了",
+      "images": [],
+      "createdAt": "2025-12-31T10:01:09",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 803395,
+        "userName": "新米练习菌",
+        "content": "E大早上好~\n谢谢，礼物🎁太重磅了。\n不仅仅是关门弟子了，现在是锁门弟子了！\n其实我已经觉得很超值了。真的。\n依旧觉得不可思议，我每一天每一小时都活在「啊，那个人是E大啊！」的“惊叹”中。\n新年快乐~\n我亲爱的老大\n",
+        "images": [],
+        "createdAt": "2025-12-31T09:46:05",
+        "ipLocation": "上海市",
+        "likeNum": 16
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 808123,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "没问题。只要在车上，哪个车都算老朋友。",
+      "images": [],
+      "createdAt": "2025-12-31T10:08:25",
+      "ipLocation": "北京市",
+      "likeNum": 202,
+      "parent": {
+        "id": 805927,
+        "userName": "TQQ",
+        "content": "E大，我现在只开通了S计划，未来还能参加150计划吗？",
+        "images": [],
+        "createdAt": "2025-12-31T09:53:22",
+        "ipLocation": "山东省",
+        "likeNum": 29
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 809323,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "实际上几乎没人走。",
+      "images": [],
+      "createdAt": "2025-12-31T10:22:11",
+      "ipLocation": "北京市",
+      "likeNum": 309,
+      "parent": {
+        "id": 802093,
+        "userName": "Sisyphus_Solo",
+        "content": "天呐，我的E大呀！这份新年礼物太贵重了，还在车上的朋友说实话对投顾费都是认可并且接受的，那些不愿意的已经淘汰完了。",
+        "images": [],
+        "createdAt": "2025-12-31T09:43:05",
+        "ipLocation": "山西省",
+        "likeNum": 159
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 812341,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "确实不行。因为自己乱补，成本会补的非常高，会带来很多很多问题。我之后会通过波段的方式把之前的红利替换成更合适的。有机会补足的。",
+      "images": [],
+      "createdAt": "2025-12-31T11:16:24",
+      "ipLocation": "北京市",
+      "likeNum": 280,
+      "parent": {
+        "id": 812155,
+        "userName": "baggio",
+        "content": "另外，既然都是老战士了，不知道有没有朋友和我一样还是希望，可以打开自己补仓的功能，有的品种（比如红利）缺了很多，而且不太会跌到益达买的价格了，本人原计划是每个季度补一点，现在这个功能被限制了",
+        "images": [],
+        "createdAt": "2025-12-31T11:12:06",
+        "ipLocation": "江苏省",
+        "likeNum": 18
+      },
+      "replyTo": null
+    }
+  ]
+}

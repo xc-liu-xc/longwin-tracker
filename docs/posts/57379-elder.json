@@ -1,0 +1,43 @@
+{
+  "postId": "57379",
+  "fetchedAt": "2026-05-09T16:15:06+08:00",
+  "totalCommentNum": 32,
+  "totalScanned": 24,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 618613,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我也进了，后来她反弹过",
+      "images": [],
+      "createdAt": "2025-12-10T14:38:15",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 618091,
+        "userName": "IIIE",
+        "content": "午休结束，起来一看，我的红利进了。谢谢米米🌻😘",
+        "images": [],
+        "createdAt": "2025-12-10T13:36:25",
+        "ipLocation": "广东省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 618649,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "后来都进了，下午反弹了。",
+      "images": [],
+      "createdAt": "2025-12-10T14:42:10",
+      "ipLocation": "上海市",
+      "likeNum": 7
+    }
+  ]
+}

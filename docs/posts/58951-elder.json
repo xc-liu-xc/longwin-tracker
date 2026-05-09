@@ -1,0 +1,43 @@
+{
+  "postId": "58951",
+  "fetchedAt": "2026-05-09T16:00:47+08:00",
+  "totalCommentNum": 462,
+  "totalScanned": 398,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 757651,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大下午好，\n嗯，先学原理，再用工具，感觉更好呀~\n然后，我看到了工作时长。\n晚上11点半关照别人明天再说吧，早晨7点又立马自己先开始工作了。",
+      "images": [],
+      "createdAt": "2025-12-23T15:32:45",
+      "ipLocation": "上海市",
+      "likeNum": 91
+    },
+    {
+      "type": "reply",
+      "id": 758725,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大，小细节，发现小组您刚才发的图，右下角有「且慢 | 长赢同路人」的水印了~\n",
+      "images": [],
+      "createdAt": "2025-12-23T17:23:03",
+      "ipLocation": "上海市",
+      "likeNum": 31,
+      "parent": {
+        "id": 757651,
+        "userName": "新米练习菌",
+        "content": "E大下午好，\n嗯，先学原理，再用工具，感觉更好呀~\n然后，我看到了工作时长。\n晚上11点半关照别人明天再说吧，早晨7点又立马自己先开始工作了。",
+        "images": [],
+        "createdAt": "2025-12-23T15:32:45",
+        "ipLocation": "上海市",
+        "likeNum": 91
+      },
+      "replyTo": null
+    }
+  ]
+}

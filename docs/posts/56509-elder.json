@@ -1,0 +1,53 @@
+{
+  "postId": "56509",
+  "fetchedAt": "2026-05-09T16:20:10+08:00",
+  "totalCommentNum": 50,
+  "totalScanned": 40,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 568117,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不刷…抖音之类的装都没装，不喜欢。",
+      "images": [],
+      "createdAt": "2025-12-03T12:32:44",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 567313,
+        "userName": "ETF二十年",
+        "content": "刷不刷短视频呢",
+        "images": [],
+        "createdAt": "2025-12-03T10:48:06",
+        "ipLocation": "河南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 568195,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "30-40分钟吧一共，刚出门会冷，跑起来了，就不冷了",
+      "images": [],
+      "createdAt": "2025-12-03T12:45:23",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 568141,
+        "userName": "HelloHi",
+        "content": "米米早上晨练跑步、拉伸、走走，再洗澡，时间是否很久？我习惯傍晚跑步，但时不时有事导致跑不成，想转到早上跑，无事会扰，但算下跑步到洗澡时间，感觉太久，早上也冷，纠结中",
+        "images": [],
+        "createdAt": "2025-12-03T12:36:23",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

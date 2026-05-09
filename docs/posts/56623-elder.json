@@ -1,0 +1,53 @@
+{
+  "postId": "56623",
+  "fetchedAt": "2026-05-09T16:19:42+08:00",
+  "totalCommentNum": 31,
+  "totalScanned": 28,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 572155,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是的。\n我引用老大的话，会放他发布平台的原图，或者标明日期和出处的。",
+      "images": [],
+      "createdAt": "2025-12-04T10:39:20",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 571921,
+        "userName": "If-OnlyJ",
+        "content": "说的真好！图片是e大说的嘛？我没找到他在哪有说过",
+        "images": [],
+        "createdAt": "2025-12-04T10:18:44",
+        "ipLocation": "福建省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 575497,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这种人怎么会是我的亲人？不好意思，我没有这样的亲人。\n血缘关系的亲戚？你都说是shit了，消耗生命，照样断绝。",
+      "images": [],
+      "createdAt": "2025-12-04T11:46:11",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 573517,
+        "userName": "厉害",
+        "content": "如果这个shit是你的亲人呢  近亲属那种😢",
+        "images": [],
+        "createdAt": "2025-12-04T10:52:40",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

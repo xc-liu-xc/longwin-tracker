@@ -1,0 +1,85 @@
+{
+  "postId": "59395",
+  "fetchedAt": "2026-05-09T15:55:10+08:00",
+  "totalCommentNum": 36,
+  "totalScanned": 24,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 781903,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "AI vs Excel\n在数据分析和图表处理领域，\n总有人想着AI取代Excel，\n为什么要是非此即彼？而不是结合联手？\n发挥1+1>2不是更好吗？",
+      "images": [],
+      "createdAt": "2025-12-27T09:49:54",
+      "ipLocation": "上海市",
+      "likeNum": 18
+    },
+    {
+      "type": "reply",
+      "id": 781981,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "有时候在想，有些可能和一些非黑即白的思想有关。\n比如：不会画画的，想着AI画得厉害又好看，用AI画就行了，但问题是，会画画的人，也会用AI啊，还知道自己可以怎么继续调整和加工。\n同理，不会Excel的人，总想着AI能做所有TA做不了的事，但问题是，会Excel的人，也会用AI呀。\n-\n没有基础，其实连怎么好好提问，正确地提问都不会，连问题都问不对，别说甄别答案是否正确了。\n不是有想法再靠AI就会有一切的，没有知识积累，神经元链接少，连好的想法都很难迸发的。",
+      "images": [],
+      "createdAt": "2025-12-27T10:24:15",
+      "ipLocation": "上海市",
+      "likeNum": 17,
+      "parent": {
+        "id": 781903,
+        "userName": "新米练习菌",
+        "content": "AI vs Excel\n在数据分析和图表处理领域，\n总有人想着AI取代Excel，\n为什么要是非此即彼？而不是结合联手？\n发挥1+1>2不是更好吗？",
+        "images": [],
+        "createdAt": "2025-12-27T09:49:54",
+        "ipLocation": "上海市",
+        "likeNum": 18
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 781993,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "User Control\n图中的\nDirect manipulation and immediate error\n（用户可控，直接操作，即时报错。）\n-\n我的体会是这样的。\n大量的模板，包括一些可视化图表的网站，数据放进去直接出图，是很厉害。\n能满足基础需求，但无法达到特定要求。\n要为某一个专属的，就需要有单独、定制、甚至特殊的可控性。",
+      "images": [],
+      "createdAt": "2025-12-27T10:34:23",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 781903,
+        "userName": "新米练习菌",
+        "content": "AI vs Excel\n在数据分析和图表处理领域，\n总有人想着AI取代Excel，\n为什么要是非此即彼？而不是结合联手？\n发挥1+1>2不是更好吗？",
+        "images": [],
+        "createdAt": "2025-12-27T09:49:54",
+        "ipLocation": "上海市",
+        "likeNum": 18
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 783259,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "都在老大的小组里呀~",
+      "images": [],
+      "createdAt": "2025-12-27T12:26:38",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 783067,
+        "userName": "同路人_欧欧",
+        "content": "米米，请问前两天老大发的有关于黄金的帖子在哪能找到？谢谢",
+        "images": [],
+        "createdAt": "2025-12-27T12:00:16",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

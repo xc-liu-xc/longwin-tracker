@@ -1,0 +1,32 @@
+{
+  "postId": "57961",
+  "fetchedAt": "2026-05-09T16:08:00+08:00",
+  "totalCommentNum": 36,
+  "totalScanned": 18,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 700633,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你让我想起了獐子岛。扇贝又跑了，扇贝又回来了。",
+      "images": [],
+      "createdAt": "2025-12-16T06:23:35",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 699319,
+        "userName": "一等星",
+        "content": "有本书介绍农林牧渔，审计问员工你们的王八在哪，员工指着糊里，说这里有N万吨王八，你做账吧。\n第二年审计又来，问今年王八怎么少了一大半，员工指着湖里说，王八得了病，大部分都死了，王八壳和王八蛋烂湖里，腐烂完了不信你自己查。\n又过一年，员工告审计有大大的好消息，王八出去玩，把亲戚叫来了，增产好几倍",
+        "images": [],
+        "createdAt": "2025-12-15T21:36:30",
+        "ipLocation": "山西省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    }
+  ]
+}

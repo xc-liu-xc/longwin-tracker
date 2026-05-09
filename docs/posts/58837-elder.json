@@ -1,0 +1,32 @@
+{
+  "postId": "58837",
+  "fetchedAt": "2026-05-09T16:00:50+08:00",
+  "totalCommentNum": 57,
+  "totalScanned": 36,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 756061,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "绝大部分是",
+      "images": [],
+      "createdAt": "2025-12-23T12:34:50",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 755887,
+        "userName": "Alliswell",
+        "content": "请问新米分享所有的表图都是用Excel做的吗",
+        "images": [],
+        "createdAt": "2025-12-23T11:28:50",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

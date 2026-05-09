@@ -1,0 +1,64 @@
+{
+  "postId": "59335",
+  "fetchedAt": "2026-05-09T15:55:26+08:00",
+  "totalCommentNum": 461,
+  "totalScanned": 333,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 775603,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大中午好~\n（每周五总有大课）\n上班+副业 + 攒钱 + 理性投资 + 拒绝疯炒+远离 HDD + 不瞎负债 = 幸福人生\n既是人生安稳度日的财富心法，\n又是规避财务风险的避坑指南。\n该做什么，不该做什么，都说了，很完整齐全了，照着做就好。知道了大道理，就要知行合一去了。\n",
+      "images": [],
+      "createdAt": "2025-12-26T13:06:09",
+      "ipLocation": "上海市",
+      "likeNum": 16
+    },
+    {
+      "type": "reply",
+      "id": 775825,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "仔细反复阅读，再写一句关于「当个爱好，收藏欣赏」的留言\n觉得自己兴趣爱好方面的运气挺好的，拿标准化的投资标的当爱好和收藏了。\n基金股票黄金……都喜欢，最喜欢ETF，存了钱，就想囤这个，便宜的时候，就想攒一些，攒了钱，就想买这类。看着份额一点点变多，看着绿的一步步翻红，红了涨了渐渐止盈，又看看一个一个的还会变成∞号，就很高兴。\n做个「指数爱好者」，当个「基金收藏家」。\nE大体系+金融投资=核动力兴趣爱好",
+      "images": [],
+      "createdAt": "2025-12-26T13:27:29",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 775603,
+        "userName": "新米练习菌",
+        "content": "E大中午好~\n（每周五总有大课）\n上班+副业 + 攒钱 + 理性投资 + 拒绝疯炒+远离 HDD + 不瞎负债 = 幸福人生\n既是人生安稳度日的财富心法，\n又是规避财务风险的避坑指南。\n该做什么，不该做什么，都说了，很完整齐全了，照着做就好。知道了大道理，就要知行合一去了。\n",
+        "images": [],
+        "createdAt": "2025-12-26T13:06:09",
+        "ipLocation": "上海市",
+        "likeNum": 16
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 779839,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "谢谢！上次之后就没去了。忙忘了",
+      "images": [],
+      "createdAt": "2025-12-26T18:34:43",
+      "ipLocation": "北京市",
+      "likeNum": 49,
+      "parent": {
+        "id": 775801,
+        "userName": "是个人",
+        "content": "E大，去epic 领极乐迪斯科啦",
+        "images": [],
+        "createdAt": "2025-12-26T13:25:41",
+        "ipLocation": "广东省",
+        "likeNum": 16
+      },
+      "replyTo": null
+    }
+  ]
+}

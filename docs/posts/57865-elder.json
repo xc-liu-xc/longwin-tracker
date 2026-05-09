@@ -1,0 +1,43 @@
+{
+  "postId": "57865",
+  "fetchedAt": "2026-05-09T16:06:38+08:00",
+  "totalCommentNum": 308,
+  "totalScanned": 270,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 685381,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "早晨看了一眼盘子，我也是这个反应：\n“跌得好好的，你继续跌呀，反弹什么反弹，弹什么？发车之后再弹好不啦？”\n（秋刀麻袋）\n今天买？\n嗯？\n所以支撑位用的是5484呀，不是下面那档吗。\n好。",
+      "images": [],
+      "createdAt": "2025-12-15T11:00:38",
+      "ipLocation": "上海市",
+      "likeNum": 36
+    },
+    {
+      "type": "reply",
+      "id": 697069,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "下午还是拿了出来，抖了抖，呼~",
+      "images": [],
+      "createdAt": "2025-12-15T17:44:37",
+      "ipLocation": "上海市",
+      "likeNum": 23,
+      "parent": {
+        "id": 685183,
+        "userName": "头像好看吗_我画的",
+        "content": "掏出来的垃圾袋又默默收回口袋里",
+        "images": [],
+        "createdAt": "2025-12-15T10:51:47",
+        "ipLocation": "江西省",
+        "likeNum": 180
+      },
+      "replyTo": null
+    }
+  ]
+}

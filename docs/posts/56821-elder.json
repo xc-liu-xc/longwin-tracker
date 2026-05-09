@@ -1,0 +1,64 @@
+{
+  "postId": "56821",
+  "fetchedAt": "2026-05-09T16:18:32+08:00",
+  "totalCommentNum": 28,
+  "totalScanned": 15,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 581929,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我右脸已消肿，你呢？\n其实昨天挺开心的，应验了「我有缺点和错误，也没有关系。」\n非常忙，难度高、强度大、量又多。\n段位差老远，但我高兴到不行，离不开的意思。\n一说300是网格，晚上作业一做，脸就不疼了，和我的首网也好近好近，只有0.3%的距离\n继续努力。继续做事。",
+      "images": [],
+      "createdAt": "2025-12-05T08:52:30",
+      "ipLocation": "上海市",
+      "likeNum": 25
+    },
+    {
+      "type": "reply",
+      "id": 581953,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "按且慢显示的同步，目前用的是本来持仓已投入的10份现金中的1份。这10份也是之前持有品种卖出后的现金。\n未投入的现金不算在S的仓位里面，S的设置还是增量资金。",
+      "images": [],
+      "createdAt": "2025-12-05T09:00:26",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 581899,
+        "userName": "DragonL915",
+        "content": "大饼图里的S计划的现金份数应该也是202-88+9=123份，\n如果买之前现金只有10份，应该是不会在这个位置买300波段的\n因为150计划39份现金，都没有买300波段",
+        "images": [],
+        "createdAt": "2025-12-05T08:48:43",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 582427,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "对。市值。",
+      "images": [],
+      "createdAt": "2025-12-05T10:32:36",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 582331,
+        "userName": "养条小鱼吧1",
+        "content": "请问仓位是不是用“现值”去体现的，那e大说的每个种类不能超整体投资金额的15%或20%，那是按成本还是现值去计算呢？",
+        "images": [],
+        "createdAt": "2025-12-05T10:21:59",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

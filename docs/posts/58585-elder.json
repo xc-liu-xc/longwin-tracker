@@ -1,0 +1,43 @@
+{
+  "postId": "58585",
+  "fetchedAt": "2026-05-09T16:01:39+08:00",
+  "totalCommentNum": 47,
+  "totalScanned": 30,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 746029,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "网上不比现实经历得少，除了不是碳基生物壳子实体面对面，做人、处事一样锻炼和修行的。",
+      "images": [],
+      "createdAt": "2025-12-20T11:27:25",
+      "ipLocation": "上海市",
+      "likeNum": 36
+    },
+    {
+      "type": "reply",
+      "id": 748501,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "当然不是。\n（我不知道那是什么，不敢用，我只用老大的。）",
+      "images": [],
+      "createdAt": "2025-12-21T21:01:48",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 747361,
+        "userName": "宇宏",
+        "content": "米米，你好。不好意思，请教一下。我一直下载不了华宝App，今天看到华宝软件后面有个益盟操盘手，不知道是不是E大说的华宝?敢用吗？",
+        "images": [],
+        "createdAt": "2025-12-21T09:02:33",
+        "ipLocation": "甘肃省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

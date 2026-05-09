@@ -1,0 +1,117 @@
+{
+  "postId": "59071",
+  "fetchedAt": "2026-05-09T16:00:24+08:00",
+  "totalCommentNum": 1122,
+  "totalScanned": 970,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 761329,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大，平安夜快乐~\n又到了每年一度重温《真爱至上》的时间。",
+      "images": [],
+      "createdAt": "2025-12-24T10:27:59",
+      "ipLocation": "上海市",
+      "likeNum": 42
+    },
+    {
+      "type": "reply",
+      "id": 762757,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没有什么都没有，只是不用以前的形式了，时光流转，有怀念有回忆，也有新的憧憬。\n想起去年圣诞节，我还写了张电子卡片，今年偷懒了没写，主要是没法贴图，我贴下去年写的文字吧\n-\nDear Mr.E,\nMerry X'mas~🎄(圣诞快乐～🎄)\nI always feel the warmth of strength and the tenderness of love here.\n(平日在您这儿感受到充满力量的温暖与爱的温柔。)\nPale moonlight shine through your gentle eyes, making everything around you seem more beautiful and serene.\n(洁白的月光透过您温柔的眼睛，使您周遭的一切都显得更加美好而又宁静。)\nWishing you and your family a season of joy and a heart full of peace.\n(愿 E 大和家人拥有欢乐的时光和满心的平和。)\nWith sincere thanks & respect,\nMi\n2024.12.25",
+      "images": [],
+      "createdAt": "2025-12-24T10:39:49",
+      "ipLocation": "上海市",
+      "likeNum": 60,
+      "parent": {
+        "id": 761329,
+        "userName": "新米练习菌",
+        "content": "E大，平安夜快乐~\n又到了每年一度重温《真爱至上》的时间。",
+        "images": [],
+        "createdAt": "2025-12-24T10:27:59",
+        "ipLocation": "上海市",
+        "likeNum": 42
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 763063,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "儿子大了，也不需要偷偷摸摸藏礼物了。“我要钢铁雄心4的DLC”。毫无仪式感！造孽啊！",
+      "images": [],
+      "createdAt": "2025-12-24T10:43:52",
+      "ipLocation": "北京市",
+      "likeNum": 398
+    },
+    {
+      "type": "reply",
+      "id": 764857,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈，直接说也有好处，这样灵验，不然“圣诞老人”准备的万一和愿望不一样~\n===2021.12.22的WB===\n在圣诞树里突然发现藏着这个，\n有点慌，\n因为圣诞老人给你准备的是齐天大圣黄金机甲。 ​\n【图 纸条文字】\n圣dàn老人：\n您好！\n今年圣dàn节我想要一个高达，这学期我的进步很大，kǎo shì成jì也提高了。\n2021.12.24\n（图右下角附老大左手大拇指）\n——\nETF拯救世界: 最新消息:儿子：我这张纸怎么跟早上不在一个地方了。圣诞老人：大意了\n===",
+      "images": [],
+      "createdAt": "2025-12-24T11:48:24",
+      "ipLocation": "上海市",
+      "likeNum": 59,
+      "parent": {
+        "id": 763063,
+        "userName": "ETF拯救世界",
+        "content": "儿子大了，也不需要偷偷摸摸藏礼物了。“我要钢铁雄心4的DLC”。毫无仪式感！造孽啊！",
+        "images": [],
+        "createdAt": "2025-12-24T10:43:52",
+        "ipLocation": "北京市",
+        "likeNum": 398
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 768085,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这个世界上，对于自己来说，每个人都是过客。生老病死，怨憎会，爱别离，求不得。尽力做好自己该做的，其它的有它去吧。",
+      "images": [],
+      "createdAt": "2025-12-24T16:45:56",
+      "ipLocation": "北京市",
+      "likeNum": 185,
+      "parent": {
+        "id": 765655,
+        "userName": "一路NewHigh",
+        "content": "今年对我来说好难，事业失败，离婚。还是没法想象离婚了，昨天听微信的聊天记录，理解了当时只道是平常这句话，曾经的日常变成了现在的奢望，十八年的感情，怎么就变成这样了呢。以前平安夜都会买苹果，以后真的要面对各种节日都没有她的日子，冬至，平安夜，圣诞节，元旦，春节，孩子生日，我的生日，她的生日，家人的生日",
+        "images": [],
+        "createdAt": "2025-12-24T12:37:56",
+        "ipLocation": "山东省",
+        "likeNum": 28
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 768109,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你要总是不联系人家，突然问一句亲最近好吗，人家会以为你要借钱……",
+      "images": [],
+      "createdAt": "2025-12-24T16:49:40",
+      "ipLocation": "北京市",
+      "likeNum": 239,
+      "parent": {
+        "id": 763807,
+        "userName": "ETF照亮了来福",
+        "content": "几年前流行短信朋友圈送祝福发红包，现在静悄悄。可能是年纪大了，彼此的精力只够守护着自己的小家，其他的皆是过往。即便偶尔想起曾经，＂亲，最近好吗？＂\"还是老样子，你呢？\"  然后就没有了然后。想说点什么，又不知从何说起。\n现在觉得不上不下的年纪，只要没有听到坏消息，那么一切就是好消息，就酱。\n祝福互联网的同路人们，节日快乐，平安幸福！",
+        "images": [],
+        "createdAt": "2025-12-24T11:01:58",
+        "ipLocation": "江苏省",
+        "likeNum": 66
+      },
+      "replyTo": null
+    }
+  ]
+}

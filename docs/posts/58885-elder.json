@@ -1,0 +1,69 @@
+{
+  "postId": "58885",
+  "fetchedAt": "2026-05-09T16:00:50+08:00",
+  "totalCommentNum": 22,
+  "totalScanned": 18,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 756055,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "有些东西自己不捍卫，就是别人侵犯的理由…",
+      "images": [],
+      "createdAt": "2025-12-23T12:34:21",
+      "ipLocation": "上海市",
+      "likeNum": 27
+    },
+    {
+      "type": "reply",
+      "id": 758443,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是工作上，是网上，确实有感而发。",
+      "images": [],
+      "createdAt": "2025-12-23T16:38:56",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 756055,
+        "userName": "新米练习菌",
+        "content": "有些东西自己不捍卫，就是别人侵犯的理由…",
+        "images": [],
+        "createdAt": "2025-12-23T12:34:21",
+        "ipLocation": "上海市",
+        "likeNum": 27
+      },
+      "replyTo": {
+        "id": 756913,
+        "userName": "向飞",
+        "content": "米米，是工作的事，有感而发吗？",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 758929,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "“得寸进尺”这件事，人类总是能超常发挥。",
+      "images": [],
+      "createdAt": "2025-12-23T18:23:32",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 758473,
+        "userName": "胖菜",
+        "content": "明拒其实不会得罪通情达理的人。\n就像婉拒或是勉强自己也不会换来只想占便宜的人的感谢或止步。\n前者本来就很少会随意对别人提要求，更不会为满足自己而去为难别人。\n说到这个，想起老友记里菲比那句\n“Oh I wish I could, but I don’t want to.”\n\n",
+        "images": [],
+        "createdAt": "2025-12-23T16:43:43",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

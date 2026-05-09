@@ -1,0 +1,32 @@
+{
+  "postId": "57283",
+  "fetchedAt": "2026-05-09T16:15:59+08:00",
+  "totalCommentNum": 23,
+  "totalScanned": 21,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 614179,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "dei~",
+      "images": [],
+      "createdAt": "2025-12-09T16:28:35",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 614137,
+        "userName": "躺赚小能手",
+        "content": "米米，是之前帖子评论区的“气色很好”吗",
+        "images": [],
+        "createdAt": "2025-12-09T16:12:20",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

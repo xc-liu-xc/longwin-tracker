@@ -1,0 +1,69 @@
+{
+  "postId": "59467",
+  "fetchedAt": "2026-05-09T15:54:27+08:00",
+  "totalCommentNum": 16,
+  "totalScanned": 12,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 788581,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "日企的“菠菜法则”：\n報告（ほうこく），汇报\n連絡（れんらく），联系\n相談（そうだん），讨论\n简称“报联相”，由于这三个词的日语首字发音与“菠菜（ほうれんそう）”的发音相同，所以被称为“菠菜”。\n-\n就很喜欢和老大“菠菜”。",
+      "images": [],
+      "createdAt": "2025-12-29T09:27:41",
+      "ipLocation": "上海市",
+      "likeNum": 9
+    },
+    {
+      "type": "reply",
+      "id": 788815,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "他们的“检讨”，是研究讨论的意思~",
+      "images": [],
+      "createdAt": "2025-12-29T10:02:57",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 788581,
+        "userName": "新米练习菌",
+        "content": "日企的“菠菜法则”：\n報告（ほうこく），汇报\n連絡（れんらく），联系\n相談（そうだん），讨论\n简称“报联相”，由于这三个词的日语首字发音与“菠菜（ほうれんそう）”的发音相同，所以被称为“菠菜”。\n-\n就很喜欢和老大“菠菜”。",
+        "images": [],
+        "createdAt": "2025-12-29T09:27:41",
+        "ipLocation": "上海市",
+        "likeNum": 9
+      },
+      "replyTo": {
+        "id": 788731,
+        "userName": "捡菇东篱人",
+        "content": "之前和日企合作，第一次听日企职员对我们说“你们检讨一下”，顿时一脸懵，后来才知道他们说的检讨，不是我们中文检讨的本意。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 788833,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "想做的事，总有办法；\n\n不想做，也总有借口。",
+      "images": [],
+      "createdAt": "2025-12-29T10:04:23",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 788671,
+        "userName": "胖菜",
+        "content": "喜欢的事情不会拖，也会想尽办法找到时间和方法去做成。\n不喜欢的总会拖，也常常能找到做不了的理由。\n",
+        "images": [],
+        "createdAt": "2025-12-29T09:44:48",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

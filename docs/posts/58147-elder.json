@@ -1,0 +1,43 @@
+{
+  "postId": "58147",
+  "fetchedAt": "2026-05-09T16:06:08+08:00",
+  "totalCommentNum": 135,
+  "totalScanned": 108,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 717319,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "发车记录这篇：https://qieman.com/content/content-detail?postId=58153",
+      "images": [],
+      "createdAt": "2025-12-16T21:00:12",
+      "ipLocation": "上海市",
+      "likeNum": 16
+    },
+    {
+      "type": "reply",
+      "id": 717457,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是不是这篇没显示？看得到吗？大概20:40发的",
+      "images": [],
+      "createdAt": "2025-12-16T21:09:08",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 717319,
+        "userName": "新米练习菌",
+        "content": "发车记录这篇：https://qieman.com/content/content-detail?postId=58153",
+        "images": [],
+        "createdAt": "2025-12-16T21:00:12",
+        "ipLocation": "上海市",
+        "likeNum": 16
+      },
+      "replyTo": null
+    }
+  ]
+}

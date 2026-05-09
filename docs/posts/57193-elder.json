@@ -1,0 +1,85 @@
+{
+  "postId": "57193",
+  "fetchedAt": "2026-05-09T16:16:10+08:00",
+  "totalCommentNum": 34,
+  "totalScanned": 26,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 606853,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "（《E大书单》上这两套都有提到。\n老大提的其实是曼昆的《经济学原理》（宏观 & 微观），我还是从曼昆的《经济学基础》先开始吧）\n.\n其实感觉像是回到了大学，晚上自习，还有学习搭子（现在是个硅基生物），陪我一起在啃“A4板砖”。觉得自己变年轻了。\n.\n今天先到这里。碳基生物还要做会儿家务，去晾衣服了。",
+      "images": [],
+      "createdAt": "2025-12-08T21:13:17",
+      "ipLocation": "上海市",
+      "likeNum": 13
+    },
+    {
+      "type": "reply",
+      "id": 606877,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，现在看这些，还得连带着看看专业术语的英文是怎么写，虽然翻译很发达，但自己也要混个眼熟，因为要配置海外品种，也要看一些英文资料、海外网站，不能太陌生。\n学无止境啊。",
+      "images": [],
+      "createdAt": "2025-12-08T21:21:29",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 606853,
+        "userName": "新米练习菌",
+        "content": "（《E大书单》上这两套都有提到。\n老大提的其实是曼昆的《经济学原理》（宏观 & 微观），我还是从曼昆的《经济学基础》先开始吧）\n.\n其实感觉像是回到了大学，晚上自习，还有学习搭子（现在是个硅基生物），陪我一起在啃“A4板砖”。觉得自己变年轻了。\n.\n今天先到这里。碳基生物还要做会儿家务，去晾衣服了。",
+        "images": [],
+        "createdAt": "2025-12-08T21:13:17",
+        "ipLocation": "上海市",
+        "likeNum": 13
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 607309,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "万物皆可“量化”~",
+      "images": [],
+      "createdAt": "2025-12-09T06:14:32",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 607117,
+        "userName": "my玉米玉米",
+        "content": "83.6-93.7，哈哈果然老大一如既往的风格",
+        "images": [],
+        "createdAt": "2025-12-08T22:36:31",
+        "ipLocation": "山东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 614263,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "他们的教科书友好是真的！！！\n就是写得一副「真的希望你能看懂，你能学会，你能用上。」的样子",
+      "images": [],
+      "createdAt": "2025-12-09T16:45:14",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 611461,
+        "userName": "张仲蔚",
+        "content": "投资学到最后面的数值模拟这些我跳着看了。昆曼的书写得通俗易懂，大师写东西都是深入浅出啊。（题外话，他们很多教科书真的对自学友好。当年热统没学通，借他们的经典教科书一看全明白了，津津有味。）对投资而言，微观经济学据说更重要些，我还在找别的书来加深学习。",
+        "images": [],
+        "createdAt": "2025-12-09T12:04:26",
+        "ipLocation": "陕西省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

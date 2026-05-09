@@ -1,0 +1,58 @@
+{
+  "postId": "59113",
+  "fetchedAt": "2026-05-09T16:00:28+08:00",
+  "totalCommentNum": 106,
+  "totalScanned": 101,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 767821,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "微博呀，评论区就行了~\n",
+      "images": [],
+      "createdAt": "2025-12-24T15:51:30",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 766825,
+        "userName": "向飞",
+        "content": "小孩子的节日充满了快乐、幸福的回忆，而成年人的节日慢慢没有了仪式感，无论怎样，开心快乐很重要，祝米米天天开心，平安顺遂🥳",
+        "images": [],
+        "createdAt": "2025-12-24T14:14:25",
+        "ipLocation": "土耳其",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 766849,
+        "userName": "向飞",
+        "content": "米米，话说，你这贺卡是邮件发的？😄太用心了❤️",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 769147,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我觉得你可能懂我 换一个语种 其实一直用「E樣」的。",
+      "images": [],
+      "createdAt": "2025-12-24T21:02:45",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 768943,
+        "userName": "葱田倒伏中",
+        "content": "一头一尾，Mr.E，Mi，可爱的！",
+        "images": [],
+        "createdAt": "2025-12-24T20:05:35",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "postId": "56533",
+  "fetchedAt": "2026-05-09T16:20:11+08:00",
+  "totalCommentNum": 29,
+  "totalScanned": 24,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 567925,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "《E大的全天候资产配置基金＆指数对照表》上也有备注。",
+      "images": [],
+      "createdAt": "2025-12-03T11:49:44",
+      "ipLocation": "上海市",
+      "likeNum": 9
+    },
+    {
+      "type": "top",
+      "id": 568003,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "主要是老大的东西，我都是十二万分当心的，肯定是核对清楚，有依有据，确认好，才这样做的。",
+      "images": [],
+      "createdAt": "2025-12-03T12:08:05",
+      "ipLocation": "上海市",
+      "likeNum": 13
+    },
+    {
+      "type": "reply",
+      "id": 568201,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "“归类方式”目前先保存前后一致，连贯性。20%么，那也“不纯”呀~哈哈",
+      "images": [],
+      "createdAt": "2025-12-03T12:48:37",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 568183,
+        "userName": "零向E行",
+        "content": "米米，我看了产品持仓，按照最新季报，应该只有20%多的可转债了，相比买入时转债比例降低了很多。",
+        "images": [],
+        "createdAt": "2025-12-03T12:42:40",
+        "ipLocation": "山西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "60055",
+  "fetchedAt": "2026-05-09T15:50:18+08:00",
+  "totalCommentNum": 21,
+  "totalScanned": 18,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 832609,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "一个叫 小来早晚安 的小程序。\n不是广告啊。\n我也没付费用，就记得的时候打个卡，觉得图和文字挺好看的，不打卡，我也习惯早睡早起了。",
+      "images": [],
+      "createdAt": "2026-01-02T12:50:55",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 831559,
+        "userName": "换个地方继续捡辣鸡",
+        "content": "方便问下这个记录是什么软件么？",
+        "images": [],
+        "createdAt": "2026-01-02T12:04:03",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

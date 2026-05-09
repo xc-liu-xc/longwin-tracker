@@ -1,0 +1,54 @@
+{
+  "postId": "56941",
+  "fetchedAt": "2026-05-09T16:18:29+08:00",
+  "totalCommentNum": 1391,
+  "totalScanned": 1313,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 591079,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大，必须掌声雷动啊！\n谢谢您。理念+实践，一样不缺，连工具都，一应俱全了。\n老大总是把复杂留给自己，把简单留给我们。\n会很用，一定会好好用的，这是会长期陪伴一生的工具！\n.\n随君之智，行君之远。祝老大周末快乐～\n.\nPS：我的闺蜜回国了，我们几个好朋友正在面姬/基，在外面，晚上回家再仔仔细细看。先谢谢您，一直都。",
+      "images": [],
+      "createdAt": "2025-12-05T18:53:07",
+      "ipLocation": "上海市",
+      "likeNum": 122
+    },
+    {
+      "type": "top",
+      "id": 591871,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "目前还做得比较粗糙，跟我想要的还不太一样。希望年底前能完善。最重要的，各位一定要在年底前算清楚并记住今年年底的资产数字，这是一切的基础。",
+      "images": [],
+      "createdAt": "2025-12-05T19:30:52",
+      "ipLocation": "北京市",
+      "likeNum": 375
+    },
+    {
+      "type": "reply",
+      "id": 594667,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你还是没有理解这个概念。它可以让你理解目前财富的力量，不是非要让你提款",
+      "images": [],
+      "createdAt": "2025-12-06T01:12:07",
+      "ipLocation": "北京市",
+      "likeNum": 220,
+      "parent": {
+        "id": 594529,
+        "userName": "红魔披头士",
+        "content": "感谢E大的辛苦付出，就现阶段来说，我可能还不会考虑提款的问题，因为我的雪球滚的还不够大，我希望我的权益类资金是不断增加的",
+        "images": [],
+        "createdAt": "2025-12-05T23:48:40",
+        "ipLocation": "山西省",
+        "likeNum": 32
+      },
+      "replyTo": null
+    }
+  ]
+}

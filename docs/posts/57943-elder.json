@@ -1,0 +1,74 @@
+{
+  "postId": "57943",
+  "fetchedAt": "2026-05-09T16:07:58+08:00",
+  "totalCommentNum": 42,
+  "totalScanned": 31,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 696985,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "搞！回家做功课",
+      "images": [],
+      "createdAt": "2025-12-15T17:35:09",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 696961,
+        "userName": "玫瑰色的米",
+        "content": "看米米这个  想搞个大农业的网格来做做了 好便宜",
+        "images": [],
+        "createdAt": "2025-12-15T17:31:18",
+        "ipLocation": "北京市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 699181,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯~就是五位数",
+      "images": [],
+      "createdAt": "2025-12-15T21:26:37",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 697909,
+        "userName": "伤停补时",
+        "content": "米米，感谢分享。有一个小问题，红利全收益的今日点位变成5位数了。",
+        "images": [],
+        "createdAt": "2025-12-15T20:28:55",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 700651,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，大概这时候开始做的，当时老大说了哪个就做了哪个，结果攒着攒着就那么多了……\nWB 2024-7-4\n中证医疗指数，三年时间跌了71%。这个跌幅，放在全球金融市场指数跌幅历史上，都能排得上号，也是相当炸裂的存在。\n\n当然70%并不是最极限，历史上跌幅比这个高的也有几次。\n\n比如现在天天历史新高的日经225，曾经最大跌幅甚至到了82%。天天新高的纳斯达克，最多也跌过72%。天天新高的中国台湾加权，最多跌过75%。\n\n但这样极端的例子，上百年的历史中其实并不多见。\n\n70-80的跌幅，我个人依然认为，是一个正常市场，指数跌幅的极限区域。\n\n不过问题在于，日经、中国台湾加权和纳斯达克当年的暴跌，原因都是比较清楚的。目前的市场状态，说实话，谁能说清楚是怎么回事？直接原因，间接原因，根本原因？\n\n还是那句话，买不买看自己的实力（当然还是建议无论谁都不要频繁买，时间空间拉开）。卖就别卖了。",
+      "images": [],
+      "createdAt": "2025-12-16T06:27:49",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 700123,
+        "userName": "头像好看吗_我画的",
+        "content": "好漂亮！谢谢米米分享，好看好看，这套图好像也迭代更新了？（不确定",
+        "images": [],
+        "createdAt": "2025-12-15T23:03:07",
+        "ipLocation": "江西省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

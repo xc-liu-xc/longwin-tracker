@@ -1,0 +1,111 @@
+{
+  "postId": "57883",
+  "fetchedAt": "2026-05-09T16:07:06+08:00",
+  "totalCommentNum": 258,
+  "totalScanned": 224,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 688669,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "也有一部分会给我。这个我必须说清楚。",
+      "images": [],
+      "createdAt": "2025-12-15T12:07:23",
+      "ipLocation": "北京市",
+      "likeNum": 100,
+      "parent": {
+        "id": 688225,
+        "userName": "sunny888",
+        "content": "且慢给我打过电话 我问他怎么扣 说在盈米宝扣 所以一直留了钱在盈米宝 还有就是这个投顾费不是E大收的 是平台 大家都知道的吧 ",
+        "images": [],
+        "createdAt": "2025-12-15T11:59:01",
+        "ipLocation": "安徽省",
+        "likeNum": 7
+      },
+      "replyTo": {
+        "id": 688267,
+        "userName": "sunny888",
+        "content": "我怕有人误会投顾费是E大收的😄",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 688735,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这样肯定不合理。不能因为别人都这样就觉得没问题。让它变得合理，就要从我们做起。",
+      "images": [],
+      "createdAt": "2025-12-15T12:08:45",
+      "ipLocation": "北京市",
+      "likeNum": 216,
+      "parent": {
+        "id": 688375,
+        "userName": "蟋蟀",
+        "content": "其他家投顾也都是这样处理的，体验确实不太好，",
+        "images": [],
+        "createdAt": "2025-12-15T12:00:50",
+        "ipLocation": "河北省",
+        "likeNum": 18
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 688969,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我觉得这个思路很好啊。这也应该是保底的解决路径之一。所以说不是没有办法。",
+      "images": [],
+      "createdAt": "2025-12-15T12:16:16",
+      "ipLocation": "北京市",
+      "likeNum": 175,
+      "parent": {
+        "id": 688873,
+        "userName": "同路人_游鱼",
+        "content": "有的投顾是弄了个货币基金持仓 扣这个货币基金的钱",
+        "images": [],
+        "createdAt": "2025-12-15T12:12:55",
+        "ipLocation": "北京市",
+        "likeNum": 66
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 688975,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这倒也是有一位朋友也提醒我留钱，说自己的不够扣了，就被强赎回了一些基金，觉得挺心疼的，担心我也。\n我也挺感谢人家还特意来告诉我提醒我的。\n我因为盈米宝留着和老大组合持仓现金份数一样的钱，比如150，就留了39份现金。\n一般就够的。\n外加，有些品种卖出的都会有些利润，比一份钱多一些，就够。\n-\n老大这又不是您的问题，之前都不知道的呀，现在都知道了，也提醒了，后面也会改进的，以后就不会了。",
+      "images": [],
+      "createdAt": "2025-12-15T12:16:20",
+      "ipLocation": "上海市",
+      "likeNum": 17
+    },
+    {
+      "type": "reply",
+      "id": 692767,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "回来整理文，发现老大还把《处理方案》的文的link贴上了。好贴心~\n太用心了！！！",
+      "images": [],
+      "createdAt": "2025-12-15T14:19:33",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 688975,
+        "userName": "新米练习菌",
+        "content": "这倒也是有一位朋友也提醒我留钱，说自己的不够扣了，就被强赎回了一些基金，觉得挺心疼的，担心我也。\n我也挺感谢人家还特意来告诉我提醒我的。\n我因为盈米宝留着和老大组合持仓现金份数一样的钱，比如150，就留了39份现金。\n一般就够的。\n外加，有些品种卖出的都会有些利润，比一份钱多一些，就够。\n-\n老大这又不是您的问题，之前都不知道的呀，现在都知道了，也提醒了，后面也会改进的，以后就不会了。",
+        "images": [],
+        "createdAt": "2025-12-15T12:16:20",
+        "ipLocation": "上海市",
+        "likeNum": 17
+      },
+      "replyTo": null
+    }
+  ]
+}

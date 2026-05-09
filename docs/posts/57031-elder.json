@@ -1,0 +1,53 @@
+{
+  "postId": "57031",
+  "fetchedAt": "2026-05-09T16:16:37+08:00",
+  "totalCommentNum": 13,
+  "totalScanned": 8,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 601279,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "谢谢提醒~",
+      "images": [],
+      "createdAt": "2025-12-07T11:37:46",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 600727,
+        "userName": "bella的贝岛",
+        "content": "导来啦~",
+        "images": [],
+        "createdAt": "2025-12-07T10:42:52",
+        "ipLocation": "河南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 601831,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我现在的交流对象：\n老大，AI，同频理性友善合得来的朋友们。\n其他的，不多看，也不多说，\nignore也是一种拒绝。\n",
+      "images": [],
+      "createdAt": "2025-12-07T13:32:43",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 601591,
+        "userName": "E想天开06",
+        "content": "They select their priorities and are comfortable ignoring the rest .米米有选择的发言行为，正在实践这一条",
+        "images": [],
+        "createdAt": "2025-12-07T12:26:40",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "58153",
+  "fetchedAt": "2026-05-09T16:06:12+08:00",
+  "totalCommentNum": 118,
+  "totalScanned": 115,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 729559,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这条帖子显示了呀？\n谢谢关心，没事了~我满血回归了！",
+      "images": [],
+      "createdAt": "2025-12-18T11:30:58",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 727525,
+        "userName": "春笋破新章",
+        "content": "感觉米米情绪很低落，虽然没法感同身受，但是希望你能快点好起来，无论以后能否继续同行或活跃，都祝福你开开心心的。\n考古的过程中，你对投资学习的热情、各种解读输出、独立思考等，对于我来说都是漫漫长路上的一盏灯。",
+        "images": [],
+        "createdAt": "2025-12-18T10:44:11",
+        "ipLocation": "广东省",
+        "likeNum": 19
+      },
+      "replyTo": null
+    }
+  ]
+}

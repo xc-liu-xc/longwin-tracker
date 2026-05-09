@@ -1,0 +1,116 @@
+{
+  "postId": "57973",
+  "fetchedAt": "2026-05-09T16:07:53+08:00",
+  "totalCommentNum": 430,
+  "totalScanned": 344,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 698611,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "在设备上登录一次就传到本地了。",
+      "images": [],
+      "createdAt": "2025-12-15T20:55:55",
+      "ipLocation": "北京市",
+      "likeNum": 63,
+      "parent": {
+        "id": 698491,
+        "userName": "爱沐辰",
+        "content": "那如果密码App 跑路了密码怎么办",
+        "images": [],
+        "createdAt": "2025-12-15T20:52:28",
+        "ipLocation": "安徽省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 698653,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "反正我不销户。现在一类卡一个银行只能办一个，销了就没了。",
+      "images": [],
+      "createdAt": "2025-12-15T20:57:01",
+      "ipLocation": "北京市",
+      "likeNum": 135,
+      "parent": {
+        "id": 698413,
+        "userName": "兔宝兔贝",
+        "content": "我现在就是第一阶段，确实很不安全，但是又没找到更好的解决办法，不想记太多，确实也记不住。未来就是缩减，如非必要，勿增实体，比如把不经常用的银行卡都销户。",
+        "images": [],
+        "createdAt": "2025-12-15T20:51:32",
+        "ipLocation": "天津市",
+        "likeNum": 41
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 698659,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "苹果的问题是无法同步到安卓设备。",
+      "images": [],
+      "createdAt": "2025-12-15T20:57:18",
+      "ipLocation": "北京市",
+      "likeNum": 59,
+      "parent": {
+        "id": 698401,
+        "userName": "常春",
+        "content": "用了好多年的🍎密码管理，表示很满意",
+        "images": [],
+        "createdAt": "2025-12-15T20:51:22",
+        "ipLocation": "江苏省",
+        "likeNum": 8
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 698737,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我连验证码软件都用3个备份……",
+      "images": [],
+      "createdAt": "2025-12-15T20:58:58",
+      "ipLocation": "北京市",
+      "likeNum": 74,
+      "parent": {
+        "id": 698197,
+        "userName": "Gia_Alan",
+        "content": "目前用的办法，密码方面，主要是自己设置的常用密码+谷歌苹果的钥匙串；验证码方面主要就用微软的验证器",
+        "images": [],
+        "createdAt": "2025-12-15T20:48:42",
+        "ipLocation": "江苏省",
+        "likeNum": 6
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 698821,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "首先软件好像是开源的。其次密码本身软件公司看不到，因为除了在自己机器上，其他地方都是乱码，只有到自己机器上才解码显示。据说是这样的。",
+      "images": [],
+      "createdAt": "2025-12-15T21:02:30",
+      "ipLocation": "北京市",
+      "likeNum": 100,
+      "parent": {
+        "id": 698323,
+        "userName": "和E大拯救世界",
+        "content": "超有用。但是密码软件安全不啦？",
+        "images": [],
+        "createdAt": "2025-12-15T20:50:19",
+        "ipLocation": "广东省",
+        "likeNum": 10
+      },
+      "replyTo": null
+    }
+  ]
+}

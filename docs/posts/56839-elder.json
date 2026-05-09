@@ -1,0 +1,74 @@
+{
+  "postId": "56839",
+  "fetchedAt": "2026-05-09T16:18:35+08:00",
+  "totalCommentNum": 66,
+  "totalScanned": 42,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 582457,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "👍\n今天出更香。\n所以不用一样，错位也挺好的，不是你提，就是我提。多好~",
+      "images": [],
+      "createdAt": "2025-12-05T10:35:16",
+      "ipLocation": "上海市",
+      "likeNum": 23,
+      "parent": {
+        "id": 582397,
+        "userName": "平安喜乐小牛马",
+        "content": "我的标生科今天出了。同喜。",
+        "images": [],
+        "createdAt": "2025-12-05T10:26:29",
+        "ipLocation": "山西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 584503,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我也记得同事几乎每天一早拍我椅背嘲笑我——打招呼用语是：今天亏了多少啦？（嬉皮笑脸样）\n那时我买的是纸石油，都等着看我笑话呢。\n",
+      "images": [],
+      "createdAt": "2025-12-05T11:18:48",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 582349,
+        "userName": "玫瑰色的米",
+        "content": "至今仍然记得 在办公室告诉前后左右跟我买0.2的油气的日子 到底是年轻 如今已经是缄口不言了 。",
+        "images": [],
+        "createdAt": "2025-12-05T10:23:26",
+        "ipLocation": "北京市",
+        "likeNum": 8
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 584533,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是吧，别人动静大，它又没声了",
+      "images": [],
+      "createdAt": "2025-12-05T11:20:36",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 582511,
+        "userName": "LG攒钱记",
+        "content": "不相干的重要性！\n油气总能在一片死气沉沉中，闹出点声浪！",
+        "images": [],
+        "createdAt": "2025-12-05T10:38:59",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

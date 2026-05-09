@@ -1,0 +1,43 @@
+{
+  "postId": "58345",
+  "fetchedAt": "2026-05-09T16:03:37+08:00",
+  "totalCommentNum": 604,
+  "totalScanned": 461,
+  "expandedTopLevel": 8,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 734365,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "Long time no see 《E大的点位笔记》\n红利100低波（930955），上次发车时，就已经加在自选《E指数》里了，排在红利本红（中证红利）下面，一起看看。\n-\n嗯嗯，我去做个进度条，关注&跟踪着看看:\n“在下面第一个比较大的支撑是11200-11300左右。”\n“再下面一个比较大的支撑大概是10500-10800左右。”\n“极限就不好说了。25%？35%？”\n-25% 按今日点位，就要8940点了；\n-35%按今日点位，就要 7748点了\n-\n然后，“每年上移4.5%左右。” 这个数据也非常非常非常有用，真的，谢谢。\nPS：“这么清晰的明牌”，外面，我没见过了，老大这里，其实经常见。都安排地明明白白、清清楚楚的。\n",
+      "images": [],
+      "createdAt": "2025-12-18T16:20:04",
+      "ipLocation": "上海市",
+      "likeNum": 194
+    },
+    {
+      "type": "reply",
+      "id": 734911,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你这个是 红利低波50，不是100。",
+      "images": [],
+      "createdAt": "2025-12-18T16:54:10",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 734695,
+        "userName": "刀疤博文",
+        "content": "我自己观察的代码是h30269，不明白有啥区别",
+        "images": [],
+        "createdAt": "2025-12-18T16:41:48",
+        "ipLocation": "四川省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

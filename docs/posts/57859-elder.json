@@ -1,0 +1,59 @@
+{
+  "postId": "57859",
+  "fetchedAt": "2026-05-09T16:06:26+08:00",
+  "totalCommentNum": 368,
+  "totalScanned": 336,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 682351,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好~\n我就做个备注：\n-EPIC 是 Epic Games 旗下的游戏商城（Epic Games Store），（和 Steam 类似，常送免费游戏，俗称 “喜加一”。）\n-霍格沃茨之遗是哈利・波特 IP 的开放世界魔法 RPG 大作（现在免费领，错过难再得）",
+      "images": [],
+      "createdAt": "2025-12-15T09:33:02",
+      "ipLocation": "上海市",
+      "likeNum": 103
+    },
+    {
+      "type": "top",
+      "id": 683353,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不懂的人说明不需要，自动忽略就可以了……",
+      "images": [],
+      "createdAt": "2025-12-15T10:01:10",
+      "ipLocation": "北京市",
+      "likeNum": 88
+    },
+    {
+      "type": "reply",
+      "id": 684511,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "以前喜欢打游戏《使命召唤》《生化》《三国无双》《暗黑》系列之类的，\n现在很少很少玩了，最近玩的已经是《老头环》了，“众生啊，在这冰冷长夜中，漫长地思考吧——”\n可以看出这是多久没打游戏了，已经脱节地说不上话了。\n一方面时间和精力不够，一方面沉迷于E学和金融投资，毕竟…股市是「最大型（同时可能最高2亿人在线的）“氪金”网游」。",
+      "images": [],
+      "createdAt": "2025-12-15T10:41:08",
+      "ipLocation": "上海市",
+      "likeNum": 32,
+      "parent": {
+        "id": 682351,
+        "userName": "新米练习菌",
+        "content": "E大早上好~\n我就做个备注：\n-EPIC 是 Epic Games 旗下的游戏商城（Epic Games Store），（和 Steam 类似，常送免费游戏，俗称 “喜加一”。）\n-霍格沃茨之遗是哈利・波特 IP 的开放世界魔法 RPG 大作（现在免费领，错过难再得）",
+        "images": [],
+        "createdAt": "2025-12-15T09:33:02",
+        "ipLocation": "上海市",
+        "likeNum": 103
+      },
+      "replyTo": {
+        "id": 683617,
+        "userName": "洗心革面来攒钱",
+        "content": "新米玩游戏吗？",
+        "images": []
+      }
+    }
+  ]
+}

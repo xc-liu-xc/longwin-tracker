@@ -1,0 +1,212 @@
+{
+  "postId": "59365",
+  "fetchedAt": "2026-05-09T15:56:38+08:00",
+  "totalCommentNum": 956,
+  "totalScanned": 825,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 777235,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这个东西跟你想的不一样。它会实时监控实时改变，我相信这个表格会改变很多人的人生。至少会改变一部分。",
+      "images": [],
+      "createdAt": "2025-12-26T15:32:55",
+      "ipLocation": "北京市",
+      "likeNum": 485
+    },
+    {
+      "type": "reply",
+      "id": 777379,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "因为它具象了你赚到的，你花掉的每一分钱会如何影响未来。",
+      "images": [],
+      "createdAt": "2025-12-26T15:36:28",
+      "ipLocation": "北京市",
+      "likeNum": 279,
+      "parent": {
+        "id": 777235,
+        "userName": "ETF拯救世界",
+        "content": "这个东西跟你想的不一样。它会实时监控实时改变，我相信这个表格会改变很多人的人生。至少会改变一部分。",
+        "images": [],
+        "createdAt": "2025-12-26T15:32:55",
+        "ipLocation": "北京市",
+        "likeNum": 485
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 777421,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "用起来你就懂了。",
+      "images": [],
+      "createdAt": "2025-12-26T15:37:05",
+      "ipLocation": "北京市",
+      "likeNum": 220,
+      "parent": {
+        "id": 777235,
+        "userName": "ETF拯救世界",
+        "content": "这个东西跟你想的不一样。它会实时监控实时改变，我相信这个表格会改变很多人的人生。至少会改变一部分。",
+        "images": [],
+        "createdAt": "2025-12-26T15:32:55",
+        "ipLocation": "北京市",
+        "likeNum": 485
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 777541,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大辛苦了，感觉每日工作时长毛姑姑16-17小时，呕心沥血的程序。\n小板凳，拿根笔，厚厚的小本本，搓手，伸长脖子，\n学习好了，就可以高高兴兴地用上先进的工具了。\n期待，感觉输入金额的那刻，就会拥有改变人生的底气。",
+      "images": [],
+      "createdAt": "2025-12-26T15:40:37",
+      "ipLocation": "上海市",
+      "likeNum": 60
+    },
+    {
+      "type": "reply",
+      "id": 777703,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你说的太好了。未达标就继续沉下心努力经营，已达标就减少些焦虑。你是真懂了。",
+      "images": [],
+      "createdAt": "2025-12-26T15:45:41",
+      "ipLocation": "北京市",
+      "likeNum": 341,
+      "parent": {
+        "id": 777319,
+        "userName": "思思呀",
+        "content": "PS  感谢E大让财务自由变的可视化，看到需求和现状之间的差距，未达标就继续沉下心努力经营，已达标就减少些焦虑，适当犒劳下自己，不要没苦硬吃啦，给自己多一些底气。要有多少钱才能财务自由这个小马过河的问题也有了粗略的答案👍",
+        "images": [],
+        "createdAt": "2025-12-26T15:34:59",
+        "ipLocation": "广东省",
+        "likeNum": 304
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 777907,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "再等几天，给你答案。",
+      "images": [],
+      "createdAt": "2025-12-26T15:53:28",
+      "ipLocation": "北京市",
+      "likeNum": 103,
+      "parent": {
+        "id": 777625,
+        "userName": "Rich豆",
+        "content": "第二行资产增长率怎么就飚到29了啊？",
+        "images": [],
+        "createdAt": "2025-12-26T15:43:07",
+        "ipLocation": "四川省",
+        "likeNum": 6
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 777925,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "教有钱人花钱，教待富人群攒钱。",
+      "images": [],
+      "createdAt": "2025-12-26T15:53:53",
+      "ipLocation": "北京市",
+      "likeNum": 189,
+      "parent": {
+        "id": 777619,
+        "userName": "横店查理",
+        "content": "这算教有钱人怎么花钱吗？挺好的，国家也在鼓励大家怎么花钱",
+        "images": [],
+        "createdAt": "2025-12-26T15:42:58",
+        "ipLocation": "中国",
+        "likeNum": 3
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 778123,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "剧本是你自己写的。到时候你就知道了。",
+      "images": [],
+      "createdAt": "2025-12-26T16:00:06",
+      "ipLocation": "北京市",
+      "likeNum": 110,
+      "parent": {
+        "id": 777805,
+        "userName": "花傲天yu",
+        "content": "怎么保证一定能赚钱，能按照这个剧本走啊",
+        "images": [],
+        "createdAt": "2025-12-26T15:49:59",
+        "ipLocation": "江西省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 778195,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "再说一次，你们的所有疑惑我都会说清楚。你们能想到的问题我早就想过了，也解决了，因为这个东西我都用了好多年了。放心，都会说清楚。",
+      "images": [],
+      "createdAt": "2025-12-26T16:02:56",
+      "ipLocation": "北京市",
+      "likeNum": 285
+    },
+    {
+      "type": "reply",
+      "id": 778225,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不用急，你的忧虑是多余的。",
+      "images": [],
+      "createdAt": "2025-12-26T16:04:32",
+      "ipLocation": "北京市",
+      "likeNum": 143,
+      "parent": {
+        "id": 778039,
+        "userName": "Grace051029",
+        "content": "E大，如果我需要再新开一个账户，您是建议150份和s定投都开，还是只开哪个？一直担心以后有更多的钱没法跟投？嘿嘿，谢谢您。",
+        "images": [],
+        "createdAt": "2025-12-26T15:57:13",
+        "ipLocation": "北京市",
+        "likeNum": 16
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 779389,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这不是股市增长测算，而是家庭资产",
+      "images": [],
+      "createdAt": "2025-12-26T17:30:01",
+      "ipLocation": "北京市",
+      "likeNum": 107,
+      "parent": {
+        "id": 779263,
+        "userName": "楠楠快乐投资",
+        "content": "关键是资产增长率呀，要是股市再像21到24这几年，没收益咋整？",
+        "images": [],
+        "createdAt": "2025-12-26T17:21:20",
+        "ipLocation": "湖北省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    }
+  ]
+}

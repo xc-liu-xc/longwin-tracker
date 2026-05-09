@@ -1,0 +1,153 @@
+{
+  "postId": "58105",
+  "fetchedAt": "2026-05-09T16:05:52+08:00",
+  "totalCommentNum": 823,
+  "totalScanned": 556,
+  "expandedTopLevel": 10,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 711253,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "那肯定不行。得有些事线下帮我办。",
+      "images": [],
+      "createdAt": "2025-12-16T14:55:27",
+      "ipLocation": "北京市",
+      "likeNum": 122,
+      "parent": {
+        "id": 710989,
+        "userName": "骨头卿",
+        "content": "啊，老大，是不是要招助理啊，不在北京的，远程可以吗",
+        "images": [],
+        "createdAt": "2025-12-16T14:52:58",
+        "ipLocation": "上海市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 711463,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "以前小助理已经是北京市专家了，没时间干太多事了。奇葩的是，该专家库组长是我以前在原单位离职后接任我的人。这个世界太小了！",
+      "images": [],
+      "createdAt": "2025-12-16T14:57:03",
+      "ipLocation": "北京市",
+      "likeNum": 251,
+      "parent": {
+        "id": 710971,
+        "userName": "我是一个响亮的昵称",
+        "content": "之前的小助理呢",
+        "images": [],
+        "createdAt": "2025-12-16T14:52:30",
+        "ipLocation": "贵州省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 711511,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我不知道这个世界上会不会有我完全信任的人……",
+      "images": [],
+      "createdAt": "2025-12-16T14:57:41",
+      "ipLocation": "北京市",
+      "likeNum": 166,
+      "parent": {
+        "id": 711007,
+        "userName": "自律给我自由",
+        "content": "主要一项值得信赖就很稀有吧！",
+        "images": [],
+        "createdAt": "2025-12-16T14:53:08",
+        "ipLocation": "河南省",
+        "likeNum": 49
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 712573,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "那是另一个",
+      "images": [],
+      "createdAt": "2025-12-16T15:14:55",
+      "ipLocation": "北京市",
+      "likeNum": 33,
+      "parent": {
+        "id": 710971,
+        "userName": "我是一个响亮的昵称",
+        "content": "之前的小助理呢",
+        "images": [],
+        "createdAt": "2025-12-16T14:52:30",
+        "ipLocation": "贵州省",
+        "likeNum": 4
+      },
+      "replyTo": {
+        "id": 711505,
+        "userName": "长赢的熊",
+        "content": "之前的小助理犯了错，不知道还有没有继续干。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 712753,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这都能瞎按出来？！",
+      "images": [],
+      "createdAt": "2025-12-16T15:20:17",
+      "ipLocation": "北京市",
+      "likeNum": 114,
+      "parent": {
+        "id": 711637,
+        "userName": "头像好看吗_我画的",
+        "content": "话又说回来， 您真的放心让别人打理你的财务事宜么🤣\n\nps：分享网页版发表情小妙招：window键+；键，中午瞎按按出来了",
+        "images": [],
+        "createdAt": "2025-12-16T14:58:44",
+        "ipLocation": "江西省",
+        "likeNum": 94
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 713401,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看着这篇忽然发呆愣住了，一下子不知道说什么…\n我本以为前四行我符合的…\n以为还行，一直在做着一些，\n但看了这篇和评论，有点被打击到，觉得好像远远不够，或者其实不符合…\n",
+      "images": [],
+      "createdAt": "2025-12-16T15:48:56",
+      "ipLocation": "上海市",
+      "likeNum": 83
+    },
+    {
+      "type": "reply",
+      "id": 714043,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "做事的手一下子停下来了…\n嗯，好，找到了，我这些事，就不用做了，\n我可以把现在手里的事都交接给TA，成为TA的“一部分”，虽然我觉得要接下来，估计得费些功夫，当然，也许有些可能不做也没关系的，也就不需要了。\n那么多搭建了的东西，让我打包一下子就给了别人，说实话，我是不舍得的，无数个日夜，一点点构建起来的，推翻了无数次，过程中的报废品堆积如山，没事就在优化，就在改进，也都是心血…\n但如果是老大信任的人，那就给TA吧，\n虽然我觉得，没人能像我这样熟悉这些框架，再重头来过了。\n忽然觉得有些累了，我要休息一下。\n",
+      "images": [],
+      "createdAt": "2025-12-16T16:29:37",
+      "ipLocation": "上海市",
+      "likeNum": 102,
+      "parent": {
+        "id": 713401,
+        "userName": "新米练习菌",
+        "content": "看着这篇忽然发呆愣住了，一下子不知道说什么…\n我本以为前四行我符合的…\n以为还行，一直在做着一些，\n但看了这篇和评论，有点被打击到，觉得好像远远不够，或者其实不符合…\n",
+        "images": [],
+        "createdAt": "2025-12-16T15:48:56",
+        "ipLocation": "上海市",
+        "likeNum": 83
+      },
+      "replyTo": null
+    }
+  ]
+}

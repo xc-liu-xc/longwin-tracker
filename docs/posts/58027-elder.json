@@ -1,0 +1,43 @@
+{
+  "postId": "58027",
+  "fetchedAt": "2026-05-09T16:04:22+08:00",
+  "totalCommentNum": 320,
+  "totalScanned": 215,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 701953,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "从我观察的技术形态来看，本周走不好，中期调整的概率会大一些。我只能这么说，没法肯定。是概率会大一些。",
+      "images": [],
+      "createdAt": "2025-12-16T10:25:50",
+      "ipLocation": "北京市",
+      "likeNum": 358,
+      "parent": {
+        "id": 701713,
+        "userName": "是为",
+        "content": "意思是这周走不好的话，要开始下跌趋势了吗？",
+        "images": [],
+        "createdAt": "2025-12-16T10:23:23",
+        "ipLocation": "四川省",
+        "likeNum": 34
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 704053,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，好，期待周五。\n老大您尽管操作吧，不用顾虑，该放手就放手、该出手就出手。\n来吧，让暴风雨更猛烈一些，不要因为我是娇花而怜惜我。\n我只负责跟车+做好跟踪统计+相应画画图。\n-\n私心是希望一波调整的，最好中期趋势坏掉，砸出低吸机会的那种，再让我们下去捞点筹码上来，下蹲是为了更好的起跳。\n-\n还可以多做点波段。（早晨听到，药生、恒疗的小黑车网格响了，一看盘子，那么绿，居然有点高兴。）\n-\n继续做事去了先。\n\n",
+      "images": [],
+      "createdAt": "2025-12-16T10:56:43",
+      "ipLocation": "上海市",
+      "likeNum": 74
+    }
+  ]
+}

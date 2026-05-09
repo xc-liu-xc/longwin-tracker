@@ -1,0 +1,252 @@
+{
+  "postId": "58477",
+  "fetchedAt": "2026-05-09T16:02:09+08:00",
+  "totalCommentNum": 729,
+  "totalScanned": 463,
+  "expandedTopLevel": 12,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 740143,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好~~\n放大招了！！！",
+      "images": [],
+      "createdAt": "2025-12-19T10:34:54",
+      "ipLocation": "上海市",
+      "likeNum": 57
+    },
+    {
+      "type": "reply",
+      "id": 742645,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【留言2】嗯，记得。我贴老大的GZH & WB 对应的Link来回顾吧？应该可以时空跳转过去：\n【GZH】2018年10月《钻石底》\nhttps://mp.weixin.qq.com/s/c2Y29WLs6CLiL0PvSBjrAw\n（过去二十年的A股，曾经出现过四次我的价值体系定义的“钻石底”。\n终于到了。\n左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。会挽雕弓如满月，西北望，射天狼!）\n【GZH】2018年11月《钻石坑里的心理状态》\nhttps://mp.weixin.qq.com/s/dMmvIfv7MTIK93PhP81prQ\n【GZH】2019年2月《钻石边缘》\nhttps://mp.weixin.qq.com/s/V1fQenkCMEgSnHrAj-noyA\n【GZH】2022年4月《就是这里。三年半后的钻石坑》\nhttps://mp.weixin.qq.com/s/4jKefRtPsvc-hcdYSnncGQ\n",
+      "images": [],
+      "createdAt": "2025-12-19T16:06:33",
+      "ipLocation": "上海市",
+      "likeNum": 82,
+      "parent": {
+        "id": 740143,
+        "userName": "新米练习菌",
+        "content": "E大早上好~~\n放大招了！！！",
+        "images": [],
+        "createdAt": "2025-12-19T10:34:54",
+        "ipLocation": "上海市",
+        "likeNum": 57
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 742651,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【留言3】WB的2024年部分\n【WB】2024年1月-全市场数据\nhttps://weibo.com/7519797263/NEquEl6r7\n【WB】2024年2月-全市场加权估值\nhttps://weibo.com/7519797263/NF9QMa8QO\n【WB】2024年2月-今日估值第二弹-宽基指数估值图\nhttps://weibo.com/7519797263/NFb9ccyiY\n【WB】2024年2月-股/债收益率\nhttps://weibo.com/7519797263/NFbGY1OG9\n【WB】2024年2月《钻石底》回顾\nhttps://weibo.com/7519797263/NFccJdtVi\n",
+      "images": [],
+      "createdAt": "2025-12-19T16:07:23",
+      "ipLocation": "上海市",
+      "likeNum": 83,
+      "parent": {
+        "id": 740143,
+        "userName": "新米练习菌",
+        "content": "E大早上好~~\n放大招了！！！",
+        "images": [],
+        "createdAt": "2025-12-19T10:34:54",
+        "ipLocation": "上海市",
+        "likeNum": 57
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 742657,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "今天收盘最新的。",
+      "images": [],
+      "createdAt": "2025-12-19T16:08:18",
+      "ipLocation": "北京市",
+      "likeNum": 279,
+      "parent": {
+        "id": 742561,
+        "userName": "骨头卿",
+        "content": "老大刚跑完数据吧，最新的热乎乎的估值图",
+        "images": [],
+        "createdAt": "2025-12-19T16:02:17",
+        "ipLocation": "上海市",
+        "likeNum": 76
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 742741,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【留言4】老大，看完这篇，有点感动，我再写点留言可以吗？\n老大还有“初代被动投资天王”的称号，还是官媒-中国证券报-刊登的呢。\n-\n现在各平台满大街都是的估值百分位（是老大2015年首次提出的），\n其实，还有估值频率分布图（也是2017年07月20日老大首次画的）\n原话是：\n“新核武\n……\n“今天，为大家带来一个新东西。因为前几天有朋友对股指进入历史10%这个数据非常感兴趣，由于这个数据平常变化不大，如果加入表格又太占地方，所以我特意制作了这个更直观的新核武给大家。\n……\n一定程度上来说，我们的“百分位”数据能够解决这个问题。\n……\n今天的新玩意，就来解决这个问题。它就是：频率分布图。下面，我用第一张频率分布图，全指医药PB来为大家解释。”\n-\n老大，我一直想说，其实您才是境内指数投资第一人，而且开创和带动了国内整个行业的指数估值体系，引领人，后面那么多人和机构，都但是您的东西上发展起来的，但是老大从来不在外面强调自己才是这块“鼻祖”的身份。\n淡泊名利。事了拂衣去，深藏功与名。每回考古，追溯到，看到，就挺感动的。\n",
+      "images": [],
+      "createdAt": "2025-12-19T16:14:22",
+      "ipLocation": "上海市",
+      "likeNum": 171,
+      "parent": {
+        "id": 740143,
+        "userName": "新米练习菌",
+        "content": "E大早上好~~\n放大招了！！！",
+        "images": [],
+        "createdAt": "2025-12-19T10:34:54",
+        "ipLocation": "上海市",
+        "likeNum": 57
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 742867,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【留言5】神图再显了，终于看到久违的原版-真迹了~\n-\n老大，还有些碎碎念，您今天这大招，真的。\n今天这个真的才是：『大、预、告』。\n够重磅、够漫长、胃口吊足。就看到了几眼“大片”，那么好看啊，文字读完，图片看完，鼠标轮滚到最后，发现有图还没显示，以为是我电脑的问题，F5一下，然后，变成名为《仅作者自己可见》的限定“惊悚片”了……\n就问我F5干什么？？？？？？\n一直都是新保存再刷新的，就今天，太精彩了，看入迷了，发现好像没完，就…\n我F5个啥呀我。\n然后，等。\n为了蹲后续，我 F5 又快按出残影了…\n-\n好了，我继续仔细看图看文章。\n这是历史篇章的起始，期待后续的大长篇。今天只放了宽基，继续蹲还有行业。\n嗯，周末自己想动动脑子，好好想想。\n",
+      "images": [],
+      "createdAt": "2025-12-19T16:22:13",
+      "ipLocation": "上海市",
+      "likeNum": 40,
+      "parent": {
+        "id": 740143,
+        "userName": "新米练习菌",
+        "content": "E大早上好~~\n放大招了！！！",
+        "images": [],
+        "createdAt": "2025-12-19T10:34:54",
+        "ipLocation": "上海市",
+        "likeNum": 57
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 743317,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【留言6】A股估值中枢下降\n看图说话：\n以前的近70，60以上，甚至50以上都很难再现了。\n以前股票少，资金多，一炒，鸡犬升天。\n现在股票5400多只，全面大牛市大概率不会再有了。\n估值40，就很“了不起”了，很“了不起”了。\n不是预测，只是看图，看下来，A股市场估值中枢“永久”下降的画面。",
+      "images": [],
+      "createdAt": "2025-12-19T17:01:42",
+      "ipLocation": "上海市",
+      "likeNum": 59,
+      "parent": {
+        "id": 740143,
+        "userName": "新米练习菌",
+        "content": "E大早上好~~\n放大招了！！！",
+        "images": [],
+        "createdAt": "2025-12-19T10:34:54",
+        "ipLocation": "上海市",
+        "likeNum": 57
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 748429,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "科创50指数诞生于2019-12-31，老大的图上也是从2019年末开始的呀，图右半边，最上面那个湖蓝色线~",
+      "images": [],
+      "createdAt": "2025-12-21T20:38:44",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 740143,
+        "userName": "新米练习菌",
+        "content": "E大早上好~~\n放大招了！！！",
+        "images": [],
+        "createdAt": "2025-12-19T10:34:54",
+        "ipLocation": "上海市",
+        "likeNum": 57
+      },
+      "replyTo": {
+        "id": 745123,
+        "userName": "学习ETF投资",
+        "content": "请教一下米米，看很多软件上的科创50指数从2020年开始的，而E大的数据都有10年数据了，这个是什么情况？",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 748435,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "现/五年比值，就是：当下估值/五年平均。",
+      "images": [],
+      "createdAt": "2025-12-21T20:42:53",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 740143,
+        "userName": "新米练习菌",
+        "content": "E大早上好~~\n放大招了！！！",
+        "images": [],
+        "createdAt": "2025-12-19T10:34:54",
+        "ipLocation": "上海市",
+        "likeNum": 57
+      },
+      "replyTo": {
+        "id": 744907,
+        "userName": "Yukio",
+        "content": "求问，现/五年比值是什么意思，怎么算出来目前的估值？",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 748453,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "上图中的“加权”，不是市值加权，是E大自己创造的，“外部经济数据”加权。",
+      "images": [],
+      "createdAt": "2025-12-21T20:47:15",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 740143,
+        "userName": "新米练习菌",
+        "content": "E大早上好~~\n放大招了！！！",
+        "images": [],
+        "createdAt": "2025-12-19T10:34:54",
+        "ipLocation": "上海市",
+        "likeNum": 57
+      },
+      "replyTo": {
+        "id": 744835,
+        "userName": "学习ETF投资",
+        "content": "按照中证全A的所有股票等权进行计算市盈率是200多，跟益达的差距很远，感觉益达全A的估值数据不是等权计算的，但不知道是如何计算的，加权也不知道是用哪个参数加权计算的。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 748465,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "因为上证指数当年编制不合理，深综指相对能反应大盘走势的实际情况。",
+      "images": [],
+      "createdAt": "2025-12-21T20:49:44",
+      "ipLocation": "上海市",
+      "likeNum": 13,
+      "parent": {
+        "id": 740143,
+        "userName": "新米练习菌",
+        "content": "E大早上好~~\n放大招了！！！",
+        "images": [],
+        "createdAt": "2025-12-19T10:34:54",
+        "ipLocation": "上海市",
+        "likeNum": 57
+      },
+      "replyTo": {
+        "id": 745753,
+        "userName": "同路人_ZT3hCG",
+        "content": "萌新想问一下 为啥是和深综指做对比呢",
+        "images": []
+      }
+    }
+  ]
+}

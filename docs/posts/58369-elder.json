@@ -1,0 +1,48 @@
+{
+  "postId": "58369",
+  "fetchedAt": "2026-05-09T16:03:48+08:00",
+  "totalCommentNum": 143,
+  "totalScanned": 133,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 735487,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我不但同款星座，还六月。\n相关性肯定高达96.164%",
+      "images": [],
+      "createdAt": "2025-12-18T17:25:14",
+      "ipLocation": "上海市",
+      "likeNum": 40
+    },
+    {
+      "type": "reply",
+      "id": 741799,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "因为是计算得出的，不是随意写的…",
+      "images": [],
+      "createdAt": "2025-12-19T14:14:50",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 735487,
+        "userName": "新米练习菌",
+        "content": "我不但同款星座，还六月。\n相关性肯定高达96.164%",
+        "images": [],
+        "createdAt": "2025-12-18T17:25:14",
+        "ipLocation": "上海市",
+        "likeNum": 40
+      },
+      "replyTo": {
+        "id": 738787,
+        "userName": "Nul",
+        "content": "厉害了，小数点后还能有3位👍👍",
+        "images": []
+      }
+    }
+  ]
+}

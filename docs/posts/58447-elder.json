@@ -1,0 +1,32 @@
+{
+  "postId": "58447",
+  "fetchedAt": "2026-05-09T16:02:11+08:00",
+  "totalCommentNum": 30,
+  "totalScanned": 28,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 739957,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，改了，多谢",
+      "images": [],
+      "createdAt": "2025-12-19T10:18:35",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 739891,
+        "userName": "学习ETF投资",
+        "content": "被TA误会也无所谓的，是不是少了一个“无”字",
+        "images": [],
+        "createdAt": "2025-12-19T10:09:42",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

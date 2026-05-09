@@ -1,0 +1,95 @@
+{
+  "postId": "56977",
+  "fetchedAt": "2026-05-09T16:16:56+08:00",
+  "totalCommentNum": 48,
+  "totalScanned": 35,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 598621,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，这个是曼昆的《经济学基础》\n《经济学原理》也买了，两本的，宏观 & 微观。",
+      "images": [],
+      "createdAt": "2025-12-06T18:10:58",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 598525,
+        "userName": "If-OnlyJ",
+        "content": "图片是曼昆的经济学原理嘛？",
+        "images": [],
+        "createdAt": "2025-12-06T17:41:36",
+        "ipLocation": "福建省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 598639,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大的书单吗？我11/6发在这个帖子里了：\nhttps://qieman.com/content/content-detail?postId=53209",
+      "images": [],
+      "createdAt": "2025-12-06T18:14:23",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 598489,
+        "userName": "我是小蚂蚁",
+        "content": "喜欢看新米的东西，有机会能再推一次书单吗？上次保存的找不到了，微博也没内容了。",
+        "images": [],
+        "createdAt": "2025-12-06T17:36:22",
+        "ipLocation": "上海市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 601861,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，不和别人比较，也是真的有用，而且会觉得开心自在很多~",
+      "images": [],
+      "createdAt": "2025-12-07T13:37:05",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 601417,
+        "userName": "西柚心情",
+        "content": "耳濡目染间，我改变了急躁的性格，慢慢的变得平和了，可能就是米米说的内核更加稳定。\n\n对于不关我的事或者关联不大的，不再关心理会。目前只关注学习投资，每天进步一点点，不与别人比，今天的我比昨天的更强大。",
+        "images": [],
+        "createdAt": "2025-12-07T11:59:58",
+        "ipLocation": "香港特别行政区",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 603103,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "倒没啥特别的APP，大学旁的二手书店就有~",
+      "images": [],
+      "createdAt": "2025-12-07T21:19:27",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 602629,
+        "userName": "悦屿清风",
+        "content": "还有二手大学书籍买?这是什么APP?（大学的书，虽说的二手，但是非常正规）就像以前我卖掉不用的一个学起的课本，这些课本是学校发的文字和颜色都是非常正版",
+        "images": [],
+        "createdAt": "2025-12-07T17:47:41",
+        "ipLocation": "海南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

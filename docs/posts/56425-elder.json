@@ -1,0 +1,32 @@
+{
+  "postId": "56425",
+  "fetchedAt": "2026-05-09T16:20:36+08:00",
+  "totalCommentNum": 41,
+  "totalScanned": 32,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 563623,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个贴子是。",
+      "images": [],
+      "createdAt": "2025-12-02T11:25:12",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 563467,
+        "userName": "E学研究员",
+        "content": "弱弱的想问问，US💊  是标生科吗，但感觉又不是",
+        "images": [],
+        "createdAt": "2025-12-02T11:07:12",
+        "ipLocation": "福建省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    }
+  ]
+}

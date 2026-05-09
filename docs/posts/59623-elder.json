@@ -1,0 +1,85 @@
+{
+  "postId": "59623",
+  "fetchedAt": "2026-05-09T15:54:16+08:00",
+  "totalCommentNum": 45,
+  "totalScanned": 25,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 792763,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "“x老师”，我还是不习惯，觉得很怪的，尤其网上，像个“骗子”…\n也不喜欢被人喊“x姐”，感觉又凶又老…\n没事，可能还是和个人经历有关，因为都碰到这样的人。\n确实是骗子。\n确实又凶又老的女的。",
+      "images": [],
+      "createdAt": "2025-12-30T08:53:19",
+      "ipLocation": "上海市",
+      "likeNum": 13,
+      "parent": {
+        "id": 792751,
+        "userName": "被陈末沉没了的沉默",
+        "content": "在北京呆过几年，说“您”就很顺嘴，还有经常称呼别人“x老师”，最开始觉得总叫别人“老师”也很奇怪，后来想想比天津无论见多大年龄女孩子都叫“姐姐”还是要好一些～",
+        "images": [],
+        "createdAt": "2025-12-30T08:41:22",
+        "ipLocation": "黑龙江省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 792829,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "话说，我连尊敬老大都要被人骂，\n说我nc，E大不是老登，不用你尊重他。\n他可是我的老大啊。\nwb上“有的人”真的是有bing。\n一辈子都碰不到人，都碰到了…\n-\n不懂得尊重他人的人，\n一方面说明TA没啥本事，从没被人尊重过，体会不到；\n一方面TA未从通过尊重而获得过什么，什么都没有，即便别人给TA了，也不知道，拿不住。",
+      "images": [],
+      "createdAt": "2025-12-30T09:26:27",
+      "ipLocation": "上海市",
+      "likeNum": 18
+    },
+    {
+      "type": "reply",
+      "id": 814261,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "会感受到尊敬的~",
+      "images": [],
+      "createdAt": "2025-12-31T11:56:35",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 813049,
+        "userName": "英子姐姐",
+        "content": "平时工作中消息中，也爱用您这个敬语，自己确实也会觉得有点太客气，不知道看的人啥感觉。",
+        "images": [],
+        "createdAt": "2025-12-31T11:35:56",
+        "ipLocation": "陕西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 841819,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "原来是这样的，学习了，是教养，谢谢告诉我这些~",
+      "images": [],
+      "createdAt": "2026-01-04T15:33:06",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 841555,
+        "userName": "厉害",
+        "content": "这题我有发言权，作为至少三代北京人来说，要是称呼年长的人不用您小时候是要挨揍的，几乎长大以后说您是一件条件反射的事情，我身边的北京人几乎都是如此。但也有不说您的，是极少数，一般我遇见这种人，知道他是北京的，就觉得这人特别没有礼貌和家教，从而对他的印象很不好，但我也不会直说出来，只是心里默默的这样打分了，但是如果我知道你是南方人，我就默认大家的语言环境和文化不一样，就不会因为对方不说您而感到冒犯，也不会苛责对方说您。",
+        "images": [],
+        "createdAt": "2026-01-04T13:48:47",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

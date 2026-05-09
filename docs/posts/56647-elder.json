@@ -1,0 +1,32 @@
+{
+  "postId": "56647",
+  "fetchedAt": "2026-05-09T16:19:44+08:00",
+  "totalCommentNum": 39,
+  "totalScanned": 28,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 572125,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我的理解右侧就叫：利润折让。\n手法，策略，第一笔，是：利润跟随。",
+      "images": [],
+      "createdAt": "2025-12-04T10:36:03",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 571039,
+        "userName": "头像好看吗_我画的",
+        "content": "记录一下：\n米米第一卖点用折让利润，从最高价位2.399，卖出为2.135左右，利润回撤11左右。\n\n自己的思考：关于利润折让多少，这个是很个人的事情，不用去问是不是就一定是10个点？有的人折5个点、有的折8个点，看自己的~\n\n第二点中期趋势：自己刚去看的了一下，觉得是2.07-2.08，但是米米说没触发，就是说我看错了， 等米米的分享~",
+        "images": [],
+        "createdAt": "2025-12-04T09:53:04",
+        "ipLocation": "江西省",
+        "likeNum": 9
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "postId": "56755",
+  "fetchedAt": "2026-05-09T16:19:48+08:00",
+  "totalCommentNum": 37,
+  "totalScanned": 18,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 579985,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大11/1的gzh文里写了：\n——\n以后的发车文章会关闭打赏。\n虽然投资计划每次公布都会有近20万浏览，各个渠道也有20多万人参考跟车，但实际上每次打赏的人并不多，基本就是几百人。这几百位朋友里，如果有现在很生气，后悔自己之前的打赏，可以联系我，我会把打赏的钱退给您，并附上利息（三年期银行定存利率）。\n今天我把留言打开。想抱怨的，想骂我的，都可以。\n——",
+      "images": [],
+      "createdAt": "2025-12-04T19:32:57",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 579895,
+        "userName": "E学研究员",
+        "content": "米米，e大公众号是不是没有打赏按钮了啊",
+        "images": [],
+        "createdAt": "2025-12-04T18:56:32",
+        "ipLocation": "福建省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 664483,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "自动的",
+      "images": [],
+      "createdAt": "2025-12-13T14:16:43",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 663283,
+        "userName": "E大门徒2015",
+        "content": "米米好:\n向你请教一下,你这么多的网格,是自动交易还是手动交易?",
+        "images": [],
+        "createdAt": "2025-12-13T12:19:32",
+        "ipLocation": "湖北省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

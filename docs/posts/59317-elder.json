@@ -1,0 +1,148 @@
+{
+  "postId": "59317",
+  "fetchedAt": "2026-05-09T15:56:40+08:00",
+  "totalCommentNum": 48,
+  "totalScanned": 31,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 774301,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "最近体会到，有人嘲讽你，自己先“嘿嘿”一下，效果挺好的。\n瞬间“鄙而视之”的“角色”就换位了。\n主动的立场切换—— 把自己从 “被嘲讽的受害者”，变成了 “看对方表演的观察者”。\n对方本是想让你觉得 “我不够好”；但你 “嘿嘿” 的时候，其实就变成 “你这点伎俩也就这样了”。",
+      "images": [],
+      "createdAt": "2025-12-26T10:33:17",
+      "ipLocation": "上海市",
+      "likeNum": 33
+    },
+    {
+      "type": "reply",
+      "id": 774415,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个也不会，我不会说：“对对对，你对。”之类的话，\n我没有理由认同对方，连假惺惺的认可都没有。\n万一TA说的是我重要的人，我更不能在言语、文字上被人落了话柄，截个屏扣我个帽子说“我也这么认为”\n绝对不能。\n嘿嘿一笑就完了，不用后续。\n",
+      "images": [],
+      "createdAt": "2025-12-26T11:05:01",
+      "ipLocation": "上海市",
+      "likeNum": 16,
+      "parent": {
+        "id": 774313,
+        "userName": "头像好看吗_我画的",
+        "content": "用了AI也进不了自己的脑子里去诶~\nAI检索，OK，知道了，下次继续忘，或者就是单点的影响\n\n自己手动搓，才有整体的印象，才可能能串起来（米米的这个敏感度就是优势！）\n\n别人嘲笑，嘿嘿一笑了之。\n“啊对对对~你都对~”\n\n",
+        "images": [],
+        "createdAt": "2025-12-26T10:37:05",
+        "ipLocation": "江西省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 775867,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，开了纯个人账号~",
+      "images": [],
+      "createdAt": "2025-12-26T13:29:25",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 775741,
+        "userName": "向飞",
+        "content": "米米，我有个疑惑，平时飞书我用的挺多的，因为是公司买的平台，都是工作的事，感觉整个人的东西好像不方便。问下米米，你的飞书是自己又开的个人账号吗？多谢😊 💐",
+        "images": [],
+        "createdAt": "2025-12-26T13:18:56",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 775879,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我看你在老大的小组里呀~就大隔壁",
+      "images": [],
+      "createdAt": "2025-12-26T13:30:01",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 775543,
+        "userName": "susanze",
+        "content": "请教一下怎么加入学习小组？",
+        "images": [],
+        "createdAt": "2025-12-26T13:00:30",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 775909,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈，我要截屏保存一下",
+      "images": [],
+      "createdAt": "2025-12-26T13:31:10",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 774481,
+        "userName": "NPC266",
+        "content": "看了眼名字，新米练习菌（1314天）哈哈哈哈哈",
+        "images": [],
+        "createdAt": "2025-12-26T11:33:47",
+        "ipLocation": "上海市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 776107,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "原档，按平台的，一个平台一个文件夹，所有相关的原文件+附件，就是最原始、一字不动、最原汁原味的历史资料。\n文档，按主题的，比如：「投资理念」一个文档；比如：「估值」一个文档；比如「资产配置」一个文档，下面再分「股债房商现汇」；「股」下面再分……\n",
+      "images": [],
+      "createdAt": "2025-12-26T13:47:55",
+      "ipLocation": "上海市",
+      "likeNum": 13,
+      "parent": {
+        "id": 775525,
+        "userName": "抚月观天",
+        "content": "新米，可以问问你整理这些文档你是先文件分类放同类型文档，还是直接文档分类，相关资料放一个文档呀。",
+        "images": [],
+        "createdAt": "2025-12-26T12:58:47",
+        "ipLocation": "贵州省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1220131,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "加油~脑子是越用越好的~",
+      "images": [],
+      "createdAt": "2026-01-23T12:31:54",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1220083,
+        "userName": "芽芽芽呀",
+        "content": "刚把老大12月份的且慢word版整理完，脑仁好疼，感觉自己一下子吸收不了这么多，要长出新脑子了哈哈哈，来这里接着整理。",
+        "images": [],
+        "createdAt": "2026-01-23T12:20:23",
+        "ipLocation": "安徽省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

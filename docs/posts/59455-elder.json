@@ -1,0 +1,64 @@
+{
+  "postId": "59455",
+  "fetchedAt": "2026-05-09T15:54:55+08:00",
+  "totalCommentNum": 22,
+  "totalScanned": 17,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 787861,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我完全没有这个意思啊，我只是表达贴子的图，是几种统计学维度。",
+      "images": [],
+      "createdAt": "2025-12-28T22:18:58",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 787813,
+        "userName": "投资-小白",
+        "content": "白酒，应该可以慢慢建仓了。",
+        "images": [],
+        "createdAt": "2025-12-28T22:06:29",
+        "ipLocation": "贵州省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 787885,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "刚才看到一句话：\n“永远十八岁意味着要上一辈子高三。”\n觉得不是很介意，现在比高三还拼，需要用的时候学东西，特别学得进去，因为知道学的东西用来干嘛。\n其实高三这种相对只有一个目标而且目标感很强的生活，后来也很少有的。",
+      "images": [],
+      "createdAt": "2025-12-28T22:23:22",
+      "ipLocation": "上海市",
+      "likeNum": 9
+    },
+    {
+      "type": "reply",
+      "id": 788305,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "第一反应：有人也这么想啊！同款了！是吧是吧，对吧对吧\n第二反应：这“人”竟然是我自己…",
+      "images": [],
+      "createdAt": "2025-12-29T08:04:55",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 787657,
+        "userName": "KYOKO玲珑酱",
+        "content": "哈哈(忽然回忆起大学里上的高等数学课…\n\n有哪些啊？也不太记得了其实，\n\n微积分？忘光了，\n\n线性代数？噩梦了，\n\n有印象的就是概率论和统计学，\n\n感觉这个有用，对日常就有帮助，\n\n哦，还有一门课，那时挺喜欢的，运筹学，这个在之后做饭时，作用很大。 ​​​)米之前发的 看到做饭有用那😹",
+        "images": [],
+        "createdAt": "2025-12-28T21:45:46",
+        "ipLocation": "重庆市",
+        "likeNum": 4
+      },
+      "replyTo": null
+    }
+  ]
+}
