@@ -1,0 +1,32 @@
+{
+  "postId": "69067",
+  "fetchedAt": "2026-05-09T13:58:12+08:00",
+  "totalCommentNum": 11,
+  "totalScanned": 7,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1665529,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我长大了~",
+      "images": [],
+      "createdAt": "2026-03-04T10:43:17",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 1665319,
+        "userName": "等米米自己长大",
+        "content": "米米，我把名字改回来啦。一直默默看着你呢。现在我理顺思路和方向，每天事情好多，所以也少留言了，但我有好好学习，也有好好看你和e大，我们一起加油棒棒的！",
+        "images": [],
+        "createdAt": "2026-03-04T10:31:23",
+        "ipLocation": "广东省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    }
+  ]
+}

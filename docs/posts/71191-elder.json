@@ -1,0 +1,58 @@
+{
+  "postId": "71191",
+  "fetchedAt": "2026-05-09T13:46:15+08:00",
+  "totalCommentNum": 434,
+  "totalScanned": 394,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1756141,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "就我今天做的事情而言，claude>chatgpt>gemini",
+      "images": [],
+      "createdAt": "2026-03-21T15:26:37",
+      "ipLocation": "北京市",
+      "likeNum": 226,
+      "parent": {
+        "id": 1755445,
+        "userName": "长跑者",
+        "content": "老大用哪个AI平台啊，平时就用豆包和Deepseek，感觉越用它越傻呢",
+        "images": [],
+        "createdAt": "2026-03-21T15:01:52",
+        "ipLocation": "黑龙江省",
+        "likeNum": 21
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1756705,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这种工作claude对其它模型来说是碾压级别的好用。",
+      "images": [],
+      "createdAt": "2026-03-21T16:45:26",
+      "ipLocation": "北京市",
+      "likeNum": 124,
+      "parent": {
+        "id": 1755445,
+        "userName": "长跑者",
+        "content": "老大用哪个AI平台啊，平时就用豆包和Deepseek，感觉越用它越傻呢",
+        "images": [],
+        "createdAt": "2026-03-21T15:01:52",
+        "ipLocation": "黑龙江省",
+        "likeNum": 21
+      },
+      "replyTo": {
+        "id": 1756141,
+        "userName": "ETF拯救世界",
+        "content": "就我今天做的事情而言，claude>chatgpt>gemini",
+        "images": []
+      }
+    }
+  ]
+}

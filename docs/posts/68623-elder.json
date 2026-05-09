@@ -1,0 +1,53 @@
+{
+  "postId": "68623",
+  "fetchedAt": "2026-05-09T14:04:29+08:00",
+  "totalCommentNum": 35,
+  "totalScanned": 31,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1659457,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "旭日图",
+      "images": [],
+      "createdAt": "2026-03-03T20:18:23",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 1658773,
+        "userName": "以何之名",
+        "content": "请教新米，这个配置图是用旭日图还是多层饼图做的？",
+        "images": [],
+        "createdAt": "2026-03-03T19:17:42",
+        "ipLocation": "辽宁省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1660117,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是",
+      "images": [],
+      "createdAt": "2026-03-03T21:56:43",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1659991,
+        "userName": "麦场与夜空",
+        "content": "请教各位，计算目前各部分仓位占比时候，原来卖出基金后的收益也一并计入总货币里面了对吧？总的资产是计入卖出收益后的总资产对吧？",
+        "images": [],
+        "createdAt": "2026-03-03T21:37:17",
+        "ipLocation": "河南省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

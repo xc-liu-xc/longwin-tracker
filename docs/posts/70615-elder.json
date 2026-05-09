@@ -1,0 +1,58 @@
+{
+  "postId": "70615",
+  "fetchedAt": "2026-05-09T13:49:43+08:00",
+  "totalCommentNum": 483,
+  "totalScanned": 405,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1706581,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "永远不要让情绪指导操作。500也好，恒生也好，还是别的品种也好，买也行，卖也行，但是都要让投资策略指导自己的买卖，而不是“想”。这个特别重要。",
+      "images": [],
+      "createdAt": "2026-03-16T10:14:50",
+      "ipLocation": "北京市",
+      "likeNum": 440,
+      "parent": {
+        "id": 1706455,
+        "userName": "ETF拯救地球",
+        "content": "最近有点想清仓了，尤其是500恒生这些品种",
+        "images": [],
+        "createdAt": "2026-03-16T10:12:26",
+        "ipLocation": "北京市",
+        "likeNum": 22
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1715173,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "还没有减？你去看一下交易记录。几个500品种一直在卖。",
+      "images": [],
+      "createdAt": "2026-03-16T13:22:36",
+      "ipLocation": "北京市",
+      "likeNum": 91,
+      "parent": {
+        "id": 1706455,
+        "userName": "ETF拯救地球",
+        "content": "最近有点想清仓了，尤其是500恒生这些品种",
+        "images": [],
+        "createdAt": "2026-03-16T10:12:26",
+        "ipLocation": "北京市",
+        "likeNum": 22
+      },
+      "replyTo": {
+        "id": 1710091,
+        "userName": "米老鼠",
+        "content": "想问问E大之前说，中证500指数在8500—8600点左右要大幅减仓的，前一段时间到了，怎么没有减呢",
+        "images": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "71905",
+  "fetchedAt": "2026-05-09T13:35:48+08:00",
+  "totalCommentNum": 347,
+  "totalScanned": 291,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1836733,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "当然对。正常人都关心国家大事。不过小卡拉米不应该“最”关心。最关心的应该是自己、自己的家人生活好了。每个人把自己过好了，国家怎么可能不好。",
+      "images": [],
+      "createdAt": "2026-03-27T11:08:24",
+      "ipLocation": "北京市",
+      "likeNum": 462,
+      "parent": {
+        "id": 1835977,
+        "userName": "陈悠悠",
+        "content": "我作为一个小卡拉米，老是关心国家大事，是不是不太对？",
+        "images": [],
+        "createdAt": "2026-03-27T10:51:38",
+        "ipLocation": "浙江省",
+        "likeNum": 47
+      },
+      "replyTo": null
+    }
+  ]
+}

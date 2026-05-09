@@ -1,0 +1,55 @@
+{
+  "postId": "72007",
+  "fetchedAt": "2026-05-09T13:35:33+08:00",
+  "totalCommentNum": 261,
+  "totalScanned": 177,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1850263,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "其实这个图一定程度就是片面信息。拉到100年当然是这样，但是在某些特定的10年、20年、30年，会完全不同。而在那10-20年正好投资正好退休要用钱的人，则会是另一种感受。可以这么说，超长期来看，一定是向上。但有可能甚至在10-20年都在原地踏步。这些信息都知道理解了，才能更加理性的制定计划。也才会在黑天鹅发生的时候不至于慌乱做错事。",
+      "images": [],
+      "createdAt": "2026-03-28T11:27:34",
+      "ipLocation": "北京市",
+      "likeNum": 286,
+      "parent": {
+        "id": 1850041,
+        "userName": "Finalfantasy",
+        "content": "共勉👍🏻\n在有效的市场下跌即是机会，控制仓位和计划，时间是最好的波动修复器，拉长时间来看有效市场都会给出回报",
+        "images": [
+          "https://cdn-community.qieman.com/2FE572E1-D7F9-47B7-8CCD-ED62861F751F.jpeg?x-oss-process=image/watermark,text_5LiU5oWiLUZpbmFsZmFudGFzeQ,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_22,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-03-28T11:23:08",
+        "ipLocation": "上海市",
+        "likeNum": 51
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1850683,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "外管局批了几十亿，马上要放开限购了",
+      "images": [],
+      "createdAt": "2026-03-28T11:54:56",
+      "ipLocation": "北京市",
+      "likeNum": 248,
+      "parent": {
+        "id": 1850629,
+        "userName": "慢跑袁林",
+        "content": "现在标普500和纳斯达克100基金都限购严重，计划用长期资金定投加个1-2%",
+        "images": [],
+        "createdAt": "2026-03-28T11:49:56",
+        "ipLocation": "广东省",
+        "likeNum": 11
+      },
+      "replyTo": null
+    }
+  ]
+}

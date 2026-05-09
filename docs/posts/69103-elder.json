@@ -1,0 +1,22 @@
+{
+  "postId": "69103",
+  "fetchedAt": "2026-05-09T13:58:13+08:00",
+  "totalCommentNum": 25,
+  "totalScanned": 20,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1667923,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "反正新闻四处都能看到，我只是好奇是个什么样地方，做个记录，2026年2月有这么个事。",
+      "images": [],
+      "createdAt": "2026-03-04T14:44:45",
+      "ipLocation": "上海市",
+      "likeNum": 29
+    }
+  ]
+}

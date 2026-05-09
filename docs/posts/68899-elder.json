@@ -1,0 +1,69 @@
+{
+  "postId": "68899",
+  "fetchedAt": "2026-05-09T13:59:16+08:00",
+  "totalCommentNum": 509,
+  "totalScanned": 396,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1656319,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "今天发车前的【150】仓位：\nA：\t45.89%\nH：9.67%\nA+H：55.56%\n股：58.25%\n现金：32.20%\n同时，2026/3/2是150“大建仓”以来，“现金仓位最高，A股仓、AH仓位最低，权益类也最低”的日子了~\n",
+      "images": [],
+      "createdAt": "2026-03-03T14:51:04",
+      "ipLocation": "上海市",
+      "likeNum": 18
+    },
+    {
+      "type": "reply",
+      "id": 1657543,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你说得对。咱们大家都应该牢记。",
+      "images": [],
+      "createdAt": "2026-03-03T15:19:27",
+      "ipLocation": "北京市",
+      "likeNum": 206,
+      "parent": {
+        "id": 1656421,
+        "userName": "聚财金考拉",
+        "content": "医药医疗涨没份，跌不少跌。行业ETF应该少配置。",
+        "images": [],
+        "createdAt": "2026-03-03T14:52:07",
+        "ipLocation": "辽宁省",
+        "likeNum": 58
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1668313,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大说的其实是A+H，精确一些的话今天55.02%，但今天后盘大概就是55%也不到了",
+      "images": [],
+      "createdAt": "2026-03-04T16:13:23",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 1656319,
+        "userName": "新米练习菌",
+        "content": "今天发车前的【150】仓位：\nA：\t45.89%\nH：9.67%\nA+H：55.56%\n股：58.25%\n现金：32.20%\n同时，2026/3/2是150“大建仓”以来，“现金仓位最高，A股仓、AH仓位最低，权益类也最低”的日子了~\n",
+        "images": [],
+        "createdAt": "2026-03-03T14:51:04",
+        "ipLocation": "上海市",
+        "likeNum": 18
+      },
+      "replyTo": {
+        "id": 1668259,
+        "userName": "查理盲象",
+        "content": "请问新米，老大说的整体仓位50%是不是有误",
+        "images": []
+      }
+    }
+  ]
+}

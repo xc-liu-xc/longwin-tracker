@@ -1,0 +1,53 @@
+{
+  "postId": "72151",
+  "fetchedAt": "2026-05-09T13:27:46+08:00",
+  "totalCommentNum": 633,
+  "totalScanned": 576,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1859257,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不是法外之地。",
+      "images": [],
+      "createdAt": "2026-03-30T13:55:15",
+      "ipLocation": "北京市",
+      "likeNum": 237,
+      "parent": {
+        "id": 1858957,
+        "userName": "onetate",
+        "content": "无中生友吗？为什么在这里还要用拼音缩写啊？",
+        "images": [],
+        "createdAt": "2026-03-30T13:52:13",
+        "ipLocation": "安徽省",
+        "likeNum": 57
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1860061,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不是正常水平。而是正常生活的情况下，拼命玩命花的上限。阅读能力需要加强。",
+      "images": [],
+      "createdAt": "2026-03-30T14:11:16",
+      "ipLocation": "北京市",
+      "likeNum": 292,
+      "parent": {
+        "id": 1859287,
+        "userName": "雪水烹茶",
+        "content": "看到年消费200万算是一个正常水平的时候，我才真正意识到了贫富差距到底有多大，是我不敢想的数字。",
+        "images": [],
+        "createdAt": "2026-03-30T13:55:37",
+        "ipLocation": "新疆维吾尔自治区",
+        "likeNum": 34
+      },
+      "replyTo": null
+    }
+  ]
+}

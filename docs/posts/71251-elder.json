@@ -1,0 +1,32 @@
+{
+  "postId": "71251",
+  "fetchedAt": "2026-05-09T13:41:51+08:00",
+  "totalCommentNum": 290,
+  "totalScanned": 242,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1772107,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "压力测试不是说一定要跌到。你还是没理解啊。",
+      "images": [],
+      "createdAt": "2026-03-23T10:53:33",
+      "ipLocation": "北京市",
+      "likeNum": 109,
+      "parent": {
+        "id": 1767673,
+        "userName": "同路人_天地一沙鸥",
+        "content": "现在是4400多，就算是跌到2800，还要跌将近40%，我要不要提前先跑了😭",
+        "images": [],
+        "createdAt": "2026-03-23T09:50:12",
+        "ipLocation": "北京市",
+        "likeNum": 10
+      },
+      "replyTo": null
+    }
+  ]
+}

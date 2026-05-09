@@ -1,0 +1,53 @@
+{
+  "postId": "70957",
+  "fetchedAt": "2026-05-09T13:48:59+08:00",
+  "totalCommentNum": 378,
+  "totalScanned": 283,
+  "expandedTopLevel": 8,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1735933,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "“当然，这里要注意，要留够足够的黄金基金，这样就不会影响你进行再平衡操作。”阅读稍微认真点。",
+      "images": [],
+      "createdAt": "2026-03-19T14:20:28",
+      "ipLocation": "北京市",
+      "likeNum": 182,
+      "parent": {
+        "id": 1735285,
+        "userName": "蛋白白",
+        "content": "低了补实物，高了卖基金补实物，那不是最后都变成了实物？",
+        "images": [],
+        "createdAt": "2026-03-19T14:02:53",
+        "ipLocation": "湖北省",
+        "likeNum": 23
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1737019,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "黄金是一个非常奇特的资产。它是长周期。一轮周期十年以上，也就是涨十年以上，跌十年以上。上涨周期持有，会觉得保值。下跌周期持有，会觉得骗局。我暂时还没看到有其它资产有这种特性。",
+      "images": [],
+      "createdAt": "2026-03-19T15:25:12",
+      "ipLocation": "北京市",
+      "likeNum": 190,
+      "parent": {
+        "id": 1736953,
+        "userName": "清凉一夏1985",
+        "content": "我第一次买黄金，330买的，买了就跌，一直跌到260，当时还后悔，觉得买黄金也不能保值，没想到现在1000多😂",
+        "images": [],
+        "createdAt": "2026-03-19T15:17:08",
+        "ipLocation": "四川省",
+        "likeNum": 14
+      },
+      "replyTo": null
+    }
+  ]
+}

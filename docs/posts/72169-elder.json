@@ -1,0 +1,32 @@
+{
+  "postId": "72169",
+  "fetchedAt": "2026-05-09T13:28:43+08:00",
+  "totalCommentNum": 345,
+  "totalScanned": 253,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1862983,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这点大概永远也不会出。",
+      "images": [],
+      "createdAt": "2026-03-30T15:16:20",
+      "ipLocation": "北京市",
+      "likeNum": 302,
+      "parent": {
+        "id": 1862581,
+        "userName": "微光新号",
+        "content": "我们的一车纳斯达克，暂时不出吗？",
+        "images": [],
+        "createdAt": "2026-03-30T15:04:03",
+        "ipLocation": "浙江省",
+        "likeNum": 13
+      },
+      "replyTo": null
+    }
+  ]
+}

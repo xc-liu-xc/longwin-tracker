@@ -1,0 +1,43 @@
+{
+  "postId": "68779",
+  "fetchedAt": "2026-05-09T14:03:52+08:00",
+  "totalCommentNum": 165,
+  "totalScanned": 119,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1646107,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这真的不知道的…\n迪拜，特别富有的地方的象征，感觉那边都是富豪（金煌煌的那种），既想着资产保值，又盼着环境安稳，却难逃突发风险，足见财富再多也难抵未知变故，有钱人的焦虑实则更甚。\n还是生活这里好，守着我那点点三瓜两枣，过过小日子。\n正如老大一直说的，平淡日子里的安稳，已是难得的幸福。\n",
+      "images": [],
+      "createdAt": "2026-03-02T20:38:55",
+      "ipLocation": "上海市",
+      "likeNum": 87
+    },
+    {
+      "type": "reply",
+      "id": 1651495,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "能理解。一定要幸福。",
+      "images": [],
+      "createdAt": "2026-03-03T13:08:20",
+      "ipLocation": "北京市",
+      "likeNum": 97,
+      "parent": {
+        "id": 1647487,
+        "userName": "同路人_yTBzjs",
+        "content": "E大，这个账户刚刚全部清仓了。说声抱歉。我是老人从2018年开始跟计划，有两个账户。不是经不起波动，是准备离婚了。这是绑在老公名下的。专门说下是怕你认为老人里也有不坚定的人。",
+        "images": [],
+        "createdAt": "2026-03-03T04:48:18",
+        "ipLocation": "陕西省",
+        "likeNum": 188
+      },
+      "replyTo": null
+    }
+  ]
+}

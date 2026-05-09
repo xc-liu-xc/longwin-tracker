@@ -1,0 +1,53 @@
+{
+  "postId": "69229",
+  "fetchedAt": "2026-05-09T13:58:14+08:00",
+  "totalCommentNum": 27,
+  "totalScanned": 16,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1671853,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是，会变的，昨天是QDII的关系，150正常的，S更新会晚一天",
+      "images": [],
+      "createdAt": "2026-03-04T22:03:58",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 1671199,
+        "userName": "同路人_F2Dx9E",
+        "content": "米米想请教一下，s计划如果买入了一笔，是现金份数少1未投入资金不变么？",
+        "images": [],
+        "createdAt": "2026-03-04T21:49:40",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1674961,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，好像记性还可以，也可能是因为手工一篇一篇整理的吧~\n老大回复过的人，我都有印象，好朋友们更不说了，看到了会很高兴的，老大回复是极小概率事件，和看到好朋友中奖一样，不仅仅有印象，回复内容我都记得。",
+      "images": [],
+      "createdAt": "2026-03-05T09:40:09",
+      "ipLocation": "上海市",
+      "likeNum": 17,
+      "parent": {
+        "id": 1672435,
+        "userName": "KYOKO玲珑酱",
+        "content": "哈哈也不晓得米米是怎么做到迅速找到老大回复我那的 太牛了 毕竟老大回复的人还是蛮多 ",
+        "images": [],
+        "createdAt": "2026-03-04T22:25:09",
+        "ipLocation": "重庆市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

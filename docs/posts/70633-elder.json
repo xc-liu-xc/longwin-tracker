@@ -1,0 +1,37 @@
+{
+  "postId": "70633",
+  "fetchedAt": "2026-05-09T13:50:49+08:00",
+  "totalCommentNum": 1517,
+  "totalScanned": 1307,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1712209,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "因为有了更怕失去。他焦虑的是这100万不够用，甚至可能大幅贬值，钱白存了。当然，这不是他的问题。80%有钱人都会这样。",
+      "images": [],
+      "createdAt": "2026-03-16T11:30:58",
+      "ipLocation": "北京市",
+      "likeNum": 219,
+      "parent": {
+        "id": 1708345,
+        "userName": "小邱",
+        "content": "E大请教您，我在五线城市汉中，37岁，现在存款快100w，有稳定工作（虽然没有上升空间了）周末还有点外快，两个孩子，有房贷有车，在网上看到存款有100w的人才140万左右，但是我心里还是很焦虑，特别惆怅…",
+        "images": [],
+        "createdAt": "2026-03-16T10:42:11",
+        "ipLocation": "陕西省",
+        "likeNum": 49
+      },
+      "replyTo": {
+        "id": 1710151,
+        "userName": "血橙大姐",
+        "content": "你没有这100万的时候不是也过得很好，现在都有100万了还有什么好焦虑的呢？",
+        "images": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "68377",
+  "fetchedAt": "2026-05-09T14:04:35+08:00",
+  "totalCommentNum": 42,
+  "totalScanned": 41,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1619467,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，这是（上）\n还有（下），叫：\n【湿货】💎《E万个怎么讲》\n--对应--\n投资 与 日常\n财富 与 人生\n",
+      "images": [],
+      "createdAt": "2026-02-27T10:30:14",
+      "ipLocation": "上海市",
+      "likeNum": 25,
+      "parent": {
+        "id": 1619365,
+        "userName": "同路人_cLYyx4",
+        "content": "“舒服的投资者”不经意笑出声……一字不落看完了，惊叹。佩服。读优秀的人的文字，总是给人无穷能量。",
+        "images": [],
+        "createdAt": "2026-02-27T10:19:28",
+        "ipLocation": "北京市",
+        "likeNum": 5
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "postId": "69073",
+  "fetchedAt": "2026-05-09T13:55:15+08:00",
+  "totalCommentNum": 479,
+  "totalScanned": 301,
+  "expandedTopLevel": 12,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1664233,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "仓位控制第一要务。\n现在板块分化得很厉害，结构化行情，有的品种在天上，有的品种在地下，冰火两重天。\n都说要搞“慢牛”，弄得…有的负责“牛”，有的负责“慢”\n",
+      "images": [],
+      "createdAt": "2026-03-04T10:08:40",
+      "ipLocation": "上海市",
+      "likeNum": 219
+    },
+    {
+      "type": "reply",
+      "id": 1664959,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "当时2024年是泥沙俱下式的。\n两次低点，尤其是一月二月低点，老大在WB上一直不停的劝说即使不敢买，也请一定不要卖。（甚至鼓励买入，即便顶着风波质疑），那是中国股市二十年最便宜的时候。\n一些2024年相关文：\n【WB】2024年1月-全市场数据\nhttps://weibo.com/7519797263/NEquEl6r7\n【WB】2024年2月-全市场加权估值\nhttps://weibo.com/7519797263/NF9QMa8QO\n【WB】2024年2月-今日估值第二弹-宽基指数估值图\nhttps://weibo.com/7519797263/NFb9ccyiY\n【WB】2024年2月-股/债收益率\nhttps://weibo.com/7519797263/NFbGY1OG9\n【WB】2024年2月《钻石底》回顾\nhttps://weibo.com/7519797263/NFccJdtVi \n【WB】2024年7月全市场估值\nhttps://weibo.com/7519797263/OmCbkaHxR\n",
+      "images": [],
+      "createdAt": "2026-03-04T10:19:08",
+      "ipLocation": "上海市",
+      "likeNum": 151,
+      "parent": {
+        "id": 1664233,
+        "userName": "新米练习菌",
+        "content": "仓位控制第一要务。\n现在板块分化得很厉害，结构化行情，有的品种在天上，有的品种在地下，冰火两重天。\n都说要搞“慢牛”，弄得…有的负责“牛”，有的负责“慢”\n",
+        "images": [],
+        "createdAt": "2026-03-04T10:08:40",
+        "ipLocation": "上海市",
+        "likeNum": 219
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1668319,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "网址复制到浏览器地址栏里~",
+      "images": [],
+      "createdAt": "2026-03-04T16:14:56",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 1664233,
+        "userName": "新米练习菌",
+        "content": "仓位控制第一要务。\n现在板块分化得很厉害，结构化行情，有的品种在天上，有的品种在地下，冰火两重天。\n都说要搞“慢牛”，弄得…有的负责“牛”，有的负责“慢”\n",
+        "images": [],
+        "createdAt": "2026-03-04T10:08:40",
+        "ipLocation": "上海市",
+        "likeNum": 219
+      },
+      "replyTo": {
+        "id": 1668235,
+        "userName": "同路人_ej45HX",
+        "content": "请问下，米米发的网页，怎样才能打开？且慢APP打不开",
+        "images": []
+      }
+    }
+  ]
+}

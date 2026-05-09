@@ -1,0 +1,32 @@
+{
+  "postId": "72001",
+  "fetchedAt": "2026-05-09T13:35:22+08:00",
+  "totalCommentNum": 413,
+  "totalScanned": 293,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1849033,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我本人最喜欢的是VT",
+      "images": [],
+      "createdAt": "2026-03-28T10:57:15",
+      "ipLocation": "北京市",
+      "likeNum": 148,
+      "parent": {
+        "id": 1848259,
+        "userName": "nene",
+        "content": "前阵子一上头买了点400微软，真后悔。以后只买voo，brk，qqq了😭，还是等你发车再买",
+        "images": [],
+        "createdAt": "2026-03-28T10:48:28",
+        "ipLocation": "江苏省",
+        "likeNum": 22
+      },
+      "replyTo": null
+    }
+  ]
+}
