@@ -1,0 +1,85 @@
+{
+  "postId": "55669",
+  "fetchedAt": "2026-05-09T16:23:51+08:00",
+  "totalCommentNum": 105,
+  "totalScanned": 75,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 524545,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "自豪一下，我是把二十年的文字＆十年的发车，都整理了~",
+      "images": [],
+      "createdAt": "2025-11-25T12:09:32",
+      "ipLocation": "上海市",
+      "likeNum": 116
+    },
+    {
+      "type": "reply",
+      "id": 524767,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我上班的，而且和这个毫无关系。",
+      "images": [],
+      "createdAt": "2025-11-25T12:44:32",
+      "ipLocation": "上海市",
+      "likeNum": 16,
+      "parent": {
+        "id": 524485,
+        "userName": "静行致远",
+        "content": "真羡慕你工作和热爱都是一个东西",
+        "images": [],
+        "createdAt": "2025-11-25T11:54:09",
+        "ipLocation": "湖南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 525637,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "可以",
+      "images": [],
+      "createdAt": "2025-11-25T14:41:56",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 525493,
+        "userName": "黑暗骑士robot",
+        "content": "是不是可以记录下发车当时市场发生的大事件（如果有的话），典型比如疫情、贸易战（比如今年的4月7日）等",
+        "images": [],
+        "createdAt": "2025-11-25T14:22:57",
+        "ipLocation": "北京市",
+        "likeNum": 6
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 525649,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个有，现在基本就是这样的形式。\n数据透视图还可以切换维度看，按时间，按品种，按大类",
+      "images": [],
+      "createdAt": "2025-11-25T14:45:55",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 525361,
+        "userName": "爱吃肉肉的大发",
+        "content": "补充一点，就是按时间排列发车各个品种数量以及简易数据（超宽的表）同时配上明细附表，按照品种ＸＸＸ，每次发车时的具体数据表。这个对我挺有用的，看各品种简易数据表有个整体大概的感觉，细看明细附表有种原来如此的感受，由大到小，新米你看看有没有用。",
+        "images": [],
+        "createdAt": "2025-11-25T14:13:59",
+        "ipLocation": "浙江省",
+        "likeNum": 6
+      },
+      "replyTo": null
+    }
+  ]
+}

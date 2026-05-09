@@ -1,0 +1,373 @@
+{
+  "postId": "54811",
+  "fetchedAt": "2026-05-09T16:29:13+08:00",
+  "totalCommentNum": 145,
+  "totalScanned": 98,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 472381,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "誒~真的，连错了，改了~~谢谢提醒~~",
+      "images": [],
+      "createdAt": "2025-11-18T21:52:15",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 472261,
+        "userName": "If-OnlyJ",
+        "content": "台湾今日点位3954是不是写错了？",
+        "images": [],
+        "createdAt": "2025-11-18T21:39:23",
+        "ipLocation": "福建省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 472483,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我都不敢写汉字，怕不让发…",
+      "images": [],
+      "createdAt": "2025-11-18T22:01:25",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 472375,
+        "userName": "ZZ-369",
+        "content": "哈哈，刚注意到（）内的拼音。我们的大有上升空间！",
+        "images": [],
+        "createdAt": "2025-11-18T21:52:06",
+        "ipLocation": "天津市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 472489,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "最高点一般就“一瞬间”，7080不一定到，最大跌幅的“持续天数”上面有标。时间范围一般没有规律，不然知道时间、期限，那也不用那么多策略应对了，可以卡着日子出击啦~",
+      "images": [],
+      "createdAt": "2025-11-18T22:06:33",
+      "ipLocation": "上海市",
+      "likeNum": 22,
+      "parent": {
+        "id": 472213,
+        "userName": "倾倾倾",
+        "content": "新米，想请教下7080原则的最高点有时间范围吗？\n\n",
+        "images": [],
+        "createdAt": "2025-11-18T21:30:11",
+        "ipLocation": "浙江省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 472657,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "有史以来",
+      "images": [],
+      "createdAt": "2025-11-18T22:27:14",
+      "ipLocation": "上海市",
+      "likeNum": 17,
+      "parent": {
+        "id": 472213,
+        "userName": "倾倾倾",
+        "content": "新米，想请教下7080原则的最高点有时间范围吗？\n\n",
+        "images": [],
+        "createdAt": "2025-11-18T21:30:11",
+        "ipLocation": "浙江省",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 472573,
+        "userName": "倾倾倾",
+        "content": "我是想7080原则的最高点，是有史以来最高点吗？还是几年内最高点？",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 473251,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没错啊，就是两个，两轮，2015，2021",
+      "images": [],
+      "createdAt": "2025-11-19T07:35:08",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 473161,
+        "userName": "资产加玲",
+        "content": "图三最上面有错别字，两个全指医药",
+        "images": [],
+        "createdAt": "2025-11-19T04:21:49",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 473263,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "得充电了",
+      "images": [],
+      "createdAt": "2025-11-19T07:35:47",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 472807,
+        "userName": "好好的一天",
+        "content": "谢谢了",
+        "images": [],
+        "createdAt": "2025-11-18T22:58:05",
+        "ipLocation": "江西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 473269,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "望：5000点收割站",
+      "images": [],
+      "createdAt": "2025-11-19T07:36:29",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 472693,
+        "userName": "三个小红旗",
+        "content": "哈哈哈，米米，我们也很努力了呢，那时候3000保卫战，现在4000收费站了~~O(∩_∩)O哈哈~",
+        "images": [],
+        "createdAt": "2025-11-18T22:33:42",
+        "ipLocation": "浙江省",
+        "likeNum": 5
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 474577,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我主要是看指数的。ETF只是跟踪指数的产品。有些细节部分才会去看下ETF本身。",
+      "images": [],
+      "createdAt": "2025-11-19T13:01:23",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 473743,
+        "userName": "同路人_fMVIfw",
+        "content": "请教米米，在做网格时我遇到一个问题，新成立的ETF，比如自由现金流和港股红利，因为它们成立的时间短，而且成立以来价格基本是稳步向上的。在做网格时，它们的历史最高价和历史最低价有参考价值吗？7080规则也不适合吧？不知道米米有没有买过这种ETF，这种策略怎么制定？打扰米米了，不知是否能够解答疑惑。",
+        "images": [],
+        "createdAt": "2025-11-19T09:28:22",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 474595,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我基本是用指数看的。基金有很多因素会影响其净值，诞生时间（有的ETF诞生晚很多了，没有那么多历史数据）、分红、折价、溢价、汇率、乌龙，各种都有。只有看一下细节部分会看下自己使用的ETF。",
+      "images": [],
+      "createdAt": "2025-11-19T13:04:25",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 474379,
+        "userName": "帽子MAO",
+        "content": "请教米米，所以7080是按点位看吗？我一直以为是按我们买入基金的净值算。或者买入价位，计算后面根据涨跌幅的价格是不是按买入某个品种基金的净值算呀",
+        "images": [],
+        "createdAt": "2025-11-19T12:00:08",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 474673,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我网格不是这样做的。\n这个是用来考虑可能的最大跌幅（最坏可能性）的。不是用来倒推我什么时候开网格。",
+      "images": [],
+      "createdAt": "2025-11-19T13:19:26",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 474475,
+        "userName": "寒冰",
+        "content": "米米，请教一下，网格你一般从7080规律的50还是60开始做？",
+        "images": [],
+        "createdAt": "2025-11-19T12:30:35",
+        "ipLocation": "山西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 475723,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "因为…没怎么跌…不惊悚，上面都是“腰斩起”系列…",
+      "images": [],
+      "createdAt": "2025-11-19T16:33:32",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 475111,
+        "userName": "Maigo",
+        "content": "没看到中证红利，是因为什么原因没纳入到这张表吗",
+        "images": [],
+        "createdAt": "2025-11-19T14:29:18",
+        "ipLocation": "辽宁省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 476353,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "券商啊，历史久一些的都有",
+      "images": [],
+      "createdAt": "2025-11-19T19:49:19",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 476329,
+        "userName": "厉害",
+        "content": "想问一下最高最低的数据在哪能查到啊",
+        "images": [],
+        "createdAt": "2025-11-19T19:36:00",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 476359,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "时间随着着A股的发展，历史的积累，已经有所改变了，比如：传媒。有一个打破了，其他的就无法继续沿用",
+      "images": [],
+      "createdAt": "2025-11-19T19:50:52",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 475879,
+        "userName": "凡尘练心我练金",
+        "content": "似乎我记得e大，在一篇公众号的对朋友的评论提到过一句很关键的话，针对指数底部时间的。\n\n“指数在底部区域大概率大概1年左右”。（如果我没记错的话）似乎18年还是19年的一篇下面的评论。\n\n空间7080+时间规律，构成了投资体系两个维度。当然，有些指数更久，时间这个确实规律不明显。",
+        "images": [],
+        "createdAt": "2025-11-19T16:58:53",
+        "ipLocation": "辽宁省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 514525,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "就是那个。信息，我都用了2015年那次来看的。两次都到了70位。",
+      "images": [],
+      "createdAt": "2025-11-23T14:03:39",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 514123,
+        "userName": "同路人_SQOHtP",
+        "content": "新米，全指信息第二轮最高点写成2015年那轮了",
+        "images": [],
+        "createdAt": "2025-11-23T13:34:37",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 522559,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "两个都用，都在上面：\n中国互联网50\nH30533\n中国互联网\nH11136\n",
+      "images": [],
+      "createdAt": "2025-11-24T20:29:00",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 522529,
+        "userName": "清泥",
+        "content": "米米，请教一下：依葫芦画瓢算了一算，发现中概互联的位置和您的标的不太一样，您是参考的中国互联网50吗？",
+        "images": [],
+        "createdAt": "2025-11-24T20:22:18",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 526303,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "「有史以来」。\n我只是好奇，回到过去的视角，看看以前，选几个大，看看当时的话，会是什么样。",
+      "images": [],
+      "createdAt": "2025-11-25T17:59:05",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 526171,
+        "userName": "谢婷",
+        "content": "请教下米米，以上证指数为例，第二个最高点为什么是2007年的6124呢，从1993年2月16日的最高点到2007年，中途也有2001年6月14日2245.44阶段高点，不太理解，最低最高是怎么来看选取哪个呢。我理解有史以来的最低最高点截至到最新日期是只有一个，但不知道是以什么逻辑会选取中途几次的最高最低呢，不知道我表达的是否清楚了，非常希望米米或者其他小伙伴可以解答下呢",
+        "images": [],
+        "createdAt": "2025-11-25T17:13:35",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 526309,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "指数。",
+      "images": [],
+      "createdAt": "2025-11-25T17:59:26",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 523609,
+        "userName": "长乐圆通",
+        "content": "各处查7080数据，没想到你这里这么全还整的特别漂亮，也解答了看指数还是基金净值等困惑，特别感谢新米。",
+        "images": [],
+        "createdAt": "2025-11-25T06:35:28",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

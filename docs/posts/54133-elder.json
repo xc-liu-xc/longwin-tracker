@@ -1,0 +1,32 @@
+{
+  "postId": "54133",
+  "fetchedAt": "2026-05-09T16:34:51+08:00",
+  "totalCommentNum": 9,
+  "totalScanned": 6,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 457813,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "但要说印度是发达…我估计满头都是问号了…",
+      "images": [],
+      "createdAt": "2025-11-15T13:38:40",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 457651,
+        "userName": "DragonL915",
+        "content": "印度新兴了200年竟然还是新兴市场",
+        "images": [],
+        "createdAt": "2025-11-15T12:58:29",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

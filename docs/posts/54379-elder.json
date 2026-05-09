@@ -1,0 +1,58 @@
+{
+  "postId": "54379",
+  "fetchedAt": "2026-05-09T16:31:16+08:00",
+  "totalCommentNum": 68,
+  "totalScanned": 43,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 451489,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "想起我第一次去日本的时候，8.3…（那时觉得在那里，我水都喝不起…）",
+      "images": [],
+      "createdAt": "2025-11-14T15:44:01",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 440605,
+        "userName": "番客儿",
+        "content": "虽然日元贬值了，但今早看到一个消息，日本明年可能要征收住宿税了，裂开…",
+        "images": [],
+        "createdAt": "2025-11-14T09:22:41",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 460711,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "期间没用完呀？",
+      "images": [],
+      "createdAt": "2025-11-16T21:52:31",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 440605,
+        "userName": "番客儿",
+        "content": "虽然日元贬值了，但今早看到一个消息，日本明年可能要征收住宿税了，裂开…",
+        "images": [],
+        "createdAt": "2025-11-14T09:22:41",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 460675,
+        "userName": "bella的贝岛",
+        "content": "哈哈，十几年前8.多换的日元还在家里放着。。。眼睁睁贬值。。。趁现在5以下买点拉低差价",
+        "images": []
+      }
+    }
+  ]
+}

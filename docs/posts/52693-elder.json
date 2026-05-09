@@ -1,0 +1,32 @@
+{
+  "postId": "52693",
+  "fetchedAt": "2026-05-09T16:45:05+08:00",
+  "totalCommentNum": 102,
+  "totalScanned": 93,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 344659,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "过来了，确认用这个号，特地改的。怕老大认不出我…",
+      "images": [],
+      "createdAt": "2025-11-03T22:34:52",
+      "ipLocation": "上海市",
+      "likeNum": 21,
+      "parent": {
+        "id": 344599,
+        "userName": "同路人_vPynhX",
+        "content": "课代表好 天知道 我翻了文章手都磨出火花了 才找到你的留言来关注 幸好你头像名字都没变 也是一个长情的人啊 很荣幸跟着e大和课代表一起学习 祝好🌺🌺",
+        "images": [],
+        "createdAt": "2025-11-03T22:33:01",
+        "ipLocation": "湖北省",
+        "likeNum": 12
+      },
+      "replyTo": null
+    }
+  ]
+}

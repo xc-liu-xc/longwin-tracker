@@ -1,0 +1,163 @@
+{
+  "postId": "56065",
+  "fetchedAt": "2026-05-09T16:22:01+08:00",
+  "totalCommentNum": 70,
+  "totalScanned": 36,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 550891,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "只有利润的话，这个就别卖了。\n我是还有网的…",
+      "images": [],
+      "createdAt": "2025-11-28T14:06:48",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 550831,
+        "userName": "二级市场捡垃圾冠军学生",
+        "content": "米米，我都只有利润仓了，还卖吗？我想还是留着吧，反正无压力零成本",
+        "images": [],
+        "createdAt": "2025-11-28T13:56:57",
+        "ipLocation": "江苏省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 550903,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看了会儿评论，感觉应该体会到，非首网开网，是当中网开网的话，把上面网补齐的重要性",
+      "images": [],
+      "createdAt": "2025-11-28T14:08:01",
+      "ipLocation": "上海市",
+      "likeNum": 26
+    },
+    {
+      "type": "reply",
+      "id": 551227,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不对，完全不对。\n这些问题，我觉得可能先把老大的三篇网格文再仔细研读一下会比较好。真的。\n首网不确定，最后一网不确定，当中几网也不确定，用多少金额也不确定…\n等于压力测试完全没做。\n完全没有计划，先网了再说，这样的方式是非常危险的。",
+      "images": [],
+      "createdAt": "2025-11-28T15:20:19",
+      "ipLocation": "上海市",
+      "likeNum": 16,
+      "parent": {
+        "id": 550903,
+        "userName": "新米练习菌",
+        "content": "看了会儿评论，感觉应该体会到，非首网开网，是当中网开网的话，把上面网补齐的重要性",
+        "images": [],
+        "createdAt": "2025-11-28T14:08:01",
+        "ipLocation": "上海市",
+        "likeNum": 26
+      },
+      "replyTo": {
+        "id": 551131,
+        "userName": "余有米有矿",
+        "content": "但是新开一个品种网格，如何判断是不是中间开网呢？如何知道TA离首网的位置多远呢？只能先下一网，观察TA的走势然后才能判断吧？或者根据历史最大跌幅，大体上定一个位置姑且作为首网位置标记一下，然后继续观察目前的位置离那里还有多远？",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 551305,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "确认首网，确认最后一网，就是区间。\n首网别开贵了，适中，首网以上的位置，就不做网格了。\n最后一网，万一跌破也没关系，就最最下面一段不吃而已。\n关键是压力测试最重要。\n做好计划，按计划执行，非常要紧。",
+      "images": [],
+      "createdAt": "2025-11-28T15:29:42",
+      "ipLocation": "上海市",
+      "likeNum": 13,
+      "parent": {
+        "id": 550903,
+        "userName": "新米练习菌",
+        "content": "看了会儿评论，感觉应该体会到，非首网开网，是当中网开网的话，把上面网补齐的重要性",
+        "images": [],
+        "createdAt": "2025-11-28T14:08:01",
+        "ipLocation": "上海市",
+        "likeNum": 26
+      },
+      "replyTo": {
+        "id": 551191,
+        "userName": "伊米粒",
+        "content": "米米不好意思啊，请教一下：网格的价格区间是如何确定的呢，是不是只有确定了区间，才知道开网的时候处于什么位置呢？抱歉打扰了~ ",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 552055,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是啊…是：长赢指数投资",
+      "images": [],
+      "createdAt": "2025-11-28T21:34:42",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 552031,
+        "userName": "HLF",
+        "content": "米米，老大的公众号是ETF 拯救世界吗，搜不到，想上去学习网格",
+        "images": [],
+        "createdAt": "2025-11-28T21:23:20",
+        "ipLocation": "河南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 552061,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "长赢指数投资",
+      "images": [],
+      "createdAt": "2025-11-28T21:34:53",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 551977,
+        "userName": "开花的馒头",
+        "content": "请问  E大网格公众号从哪儿看？",
+        "images": [],
+        "createdAt": "2025-11-28T20:55:10",
+        "ipLocation": "天津市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 552085,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "保守没关系，舒服最重要，以后有的是机会",
+      "images": [],
+      "createdAt": "2025-11-28T21:41:00",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 550903,
+        "userName": "新米练习菌",
+        "content": "看了会儿评论，感觉应该体会到，非首网开网，是当中网开网的话，把上面网补齐的重要性",
+        "images": [],
+        "createdAt": "2025-11-28T14:08:01",
+        "ipLocation": "上海市",
+        "likeNum": 26
+      },
+      "replyTo": {
+        "id": 552013,
+        "userName": "ZZ-369",
+        "content": "是的，新米你8月28日那天说起化工的时候，你说这附近上面还有6网，下面有4网，我当时一下就有点开窍了，我设定条件单，很快9月初一下买了4网（我还是保守了点）。谢谢你哈",
+        "images": []
+      }
+    }
+  ]
+}

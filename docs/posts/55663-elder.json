@@ -1,0 +1,53 @@
+{
+  "postId": "55663",
+  "fetchedAt": "2026-05-09T16:23:47+08:00",
+  "totalCommentNum": 57,
+  "totalScanned": 49,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 542485,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "来了来了，我到家了，等一下改改，谢谢你~~~",
+      "images": [],
+      "createdAt": "2025-11-26T19:15:24",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 541981,
+        "userName": "头像好看吗_我画的",
+        "content": "我找不到刚刚评论的了， 国内RETS，分类三是不是属于中国，表里面写的RETS，不过这些都没啥影响~",
+        "images": [],
+        "createdAt": "2025-11-26T16:56:13",
+        "ipLocation": "江西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 542509,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，地区我改改，然后，人家叫：REITs哦\n字母大小写都有有原因的。\nReal Estate Investment Trusts\n中文全称：房地产投资信托基金。\n但不是只是投资房地产的，收租，公园，公路，基建都有，简单理解就是：包租婆。",
+      "images": [],
+      "createdAt": "2025-11-26T19:24:50",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 541981,
+        "userName": "头像好看吗_我画的",
+        "content": "我找不到刚刚评论的了， 国内RETS，分类三是不是属于中国，表里面写的RETS，不过这些都没啥影响~",
+        "images": [],
+        "createdAt": "2025-11-26T16:56:13",
+        "ipLocation": "江西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "postId": "55849",
+  "fetchedAt": "2026-05-09T16:23:25+08:00",
+  "totalCommentNum": 80,
+  "totalScanned": 67,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 541297,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没有没有，我早睡早起的，不能不眠，无数个清晨慢慢弄的。",
+      "images": [],
+      "createdAt": "2025-11-26T15:05:48",
+      "ipLocation": "上海市",
+      "likeNum": 34,
+      "parent": {
+        "id": 541267,
+        "userName": "简单",
+        "content": "这张图后面是新米菌多少个不眠之夜变成的",
+        "images": [],
+        "createdAt": "2025-11-26T15:02:16",
+        "ipLocation": "河南省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 541741,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看不到了，就说明不合适，那我这里也不合适说。\n尊重老大~~",
+      "images": [],
+      "createdAt": "2025-11-26T16:09:34",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 541675,
+        "userName": "一朵大红花",
+        "content": "米，E大今天9：12那条发的是啥内容，看不到了",
+        "images": [],
+        "createdAt": "2025-11-26T15:59:51",
+        "ipLocation": "山东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 542839,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不便宜，右侧，中期趋势大概率会改变，暴跌之后的反抽。\n我想老大以后也许会讲，怕僭越了，我就先这些吧。",
+      "images": [],
+      "createdAt": "2025-11-26T20:40:13",
+      "ipLocation": "上海市",
+      "likeNum": 16,
+      "parent": {
+        "id": 542755,
+        "userName": "狭窄的宇宙",
+        "content": "能说说这次500的卖出思路吗？利润跟随？",
+        "images": [],
+        "createdAt": "2025-11-26T20:27:52",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 543559,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个没有借鉴其他的，本来就这样，这个系列的图，2024年就画了，最早画的是恒疗，一开始就是这样风格，不是新出的图。",
+      "images": [],
+      "createdAt": "2025-11-27T05:11:07",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 543445,
+        "userName": "早睡玲",
+        "content": "看了不下十遍以后，再来赞美米米的图！发现配色有借鉴德银报告的图表颜色。",
+        "images": [],
+        "createdAt": "2025-11-26T23:33:07",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 545575,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "电脑上放大高清的",
+      "images": [],
+      "createdAt": "2025-11-27T18:20:45",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 545497,
+        "userName": "富足莅临",
+        "content": "我太笨了，求助如何能看清这张漂亮的图，读图大家又读出那么多的内涵，谢谢！得去电脑上看图吗？",
+        "images": [],
+        "createdAt": "2025-11-27T17:54:59",
+        "ipLocation": "辽宁省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

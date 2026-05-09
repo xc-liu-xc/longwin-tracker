@@ -1,0 +1,32 @@
+{
+  "postId": "54469",
+  "fetchedAt": "2026-05-09T16:31:33+08:00",
+  "totalCommentNum": 55,
+  "totalScanned": 45,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 454171,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "繁体字更像~",
+      "images": [],
+      "createdAt": "2025-11-14T20:17:53",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 453247,
+        "userName": "非法入境",
+        "content": "导，汉语一级字，拼音为dǎo，部首为“寸”，总六画，繁体写作“導” [5]。其本义为以手牵引、引导，现代汉语中作动词时包含指引带领（领导、导游）、传导引发（导热、导致）、启发教导（开导、因势利导）三类含义。",
+        "images": [],
+        "createdAt": "2025-11-14T18:32:09",
+        "ipLocation": "四川省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

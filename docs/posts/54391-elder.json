@@ -1,0 +1,106 @@
+{
+  "postId": "54391",
+  "fetchedAt": "2026-05-09T16:29:50+08:00",
+  "totalCommentNum": 516,
+  "totalScanned": 365,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 439747,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "苹果手机有个功能，会自动翻出你拍过的一些照片给你看。我把这个放在负一屏，经常会勾起一些回忆。自己确实很少去翻以前的照片。",
+      "images": [],
+      "createdAt": "2025-11-14T09:05:41",
+      "ipLocation": "北京市",
+      "likeNum": 133,
+      "parent": {
+        "id": 439489,
+        "userName": "永远嘅史奴宝",
+        "content": "很少翻阅照片，遗忘也是挺好的",
+        "images": [],
+        "createdAt": "2025-11-14T09:01:21",
+        "ipLocation": "广东省",
+        "likeNum": 38
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 440239,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "……",
+      "images": [],
+      "createdAt": "2025-11-14T09:15:14",
+      "ipLocation": "北京市",
+      "likeNum": 153,
+      "parent": {
+        "id": 440035,
+        "userName": "烧麦麦秋",
+        "content": "不怕E大笑话，我老公出轨的照片就是我在他的NAS盘里找到的，他忘记自己手机会时时备份了",
+        "images": [],
+        "createdAt": "2025-11-14T09:11:35",
+        "ipLocation": "江苏省",
+        "likeNum": 473
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 440779,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "其实不繁琐。除了最后一步几个月插一次移动硬盘外，都是自动的。",
+      "images": [],
+      "createdAt": "2025-11-14T09:27:59",
+      "ipLocation": "北京市",
+      "likeNum": 61,
+      "parent": {
+        "id": 440215,
+        "userName": "心大",
+        "content": "真的是很谨慎的人了！ 我以前也会多重备份，后来因为流程太多有点繁琐就放弃了… 结果前段时间就经历了手机突然坏掉 😂",
+        "images": [],
+        "createdAt": "2025-11-14T09:14:28",
+        "ipLocation": "四川省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 440797,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好，\n.\n我对照片，其实也没什么感觉，在就在，不在就不在，就备份一次，也不太看，偶尔翻翻。但备份这是个事，我懂。离线安全需求+backup solution，都是忧患意识，和是打造安全感。\n.\n我最当宝贝的是——老大的历史资料，1000多万字的相关文档+16个跟踪制图小工具（对应80多张图表）+1份归拢整理中的合集。（20个文件夹+21.5GB），我是当家珍的。\n.\n目前是：2个网盘+2台电脑+2个移动盘，定期同步备份，6个地方，同时消失或者损坏的概率应该还很小了吧？\n(除非“球状闪电”了…）\n.\n我是不觉得累的，也不怕麻烦，因为这真的不能弄丢，不然要我老（小）命了。 \n.\n",
+      "images": [],
+      "createdAt": "2025-11-14T09:28:20",
+      "ipLocation": "上海市",
+      "likeNum": 46
+    },
+    {
+      "type": "reply",
+      "id": 442363,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "A股历史上没有出现过。这些数据都是会备份的。",
+      "images": [],
+      "createdAt": "2025-11-14T09:50:49",
+      "ipLocation": "北京市",
+      "likeNum": 56,
+      "parent": {
+        "id": 441103,
+        "userName": "花香丁",
+        "content": "我有时会担心证券账户里的钱和股票会因为突然事故消失吗？毕竟手上什么证据都没有",
+        "images": [],
+        "createdAt": "2025-11-14T09:35:53",
+        "ipLocation": "江苏省",
+        "likeNum": 12
+      },
+      "replyTo": null
+    }
+  ]
+}

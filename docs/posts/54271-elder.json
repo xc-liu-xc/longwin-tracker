@@ -1,0 +1,163 @@
+{
+  "postId": "54271",
+  "fetchedAt": "2026-05-09T16:33:56+08:00",
+  "totalCommentNum": 179,
+  "totalScanned": 128,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 426145,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我今天是：恒疗、化工、标生",
+      "images": [],
+      "createdAt": "2025-11-13T13:17:34",
+      "ipLocation": "上海市",
+      "likeNum": 28,
+      "parent": {
+        "id": 425257,
+        "userName": "我-大-小",
+        "content": "喜欢听新米碎碎念小黑车网格，开的晚自己又不太会研究品种，希望能跟着新米多开点，每天东边不亮西边亮到处捡钢镚的感觉炒鸡好，谢谢优秀的课代表带领学渣体验小黑车的快乐🎉 \n今日份快乐是恒医和化工给的",
+        "images": [],
+        "createdAt": "2025-11-13T12:46:30",
+        "ipLocation": "江苏省",
+        "likeNum": 9
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 427141,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我和大家的化工好像做得错位了，我这个是建仓的时候，补齐了上面所有的网的网。",
+      "images": [],
+      "createdAt": "2025-11-13T14:04:26",
+      "ipLocation": "上海市",
+      "likeNum": 20,
+      "parent": {
+        "id": 426553,
+        "userName": "Caicai",
+        "content": "想和大家对齐下作业，大家今天化工出的是啥时候入的呀。我11月5日B，11月7日S，11月10日S（以前刚开始入的），今天没达到S的条件",
+        "images": [],
+        "createdAt": "2025-11-13T13:33:36",
+        "ipLocation": "贵州省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 427189,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "步长，我个人主要靠技术分析和计算确认的。",
+      "images": [],
+      "createdAt": "2025-11-13T14:05:41",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 426547,
+        "userName": "可以左右",
+        "content": "化工盈利20个点啦，米米的步长是怎么确定的",
+        "images": [],
+        "createdAt": "2025-11-13T13:33:35",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 427261,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我就选老大用的品种，他都研究好了，掌过眼的，精挑细选过的，我就“拿来主义”了。",
+      "images": [],
+      "createdAt": "2025-11-13T14:07:54",
+      "ipLocation": "上海市",
+      "likeNum": 19,
+      "parent": {
+        "id": 425497,
+        "userName": "同路人_sqCx3A",
+        "content": "米米，你好，我想问一下，如果个人想要独立投资，怎么样选etf能减少花费在选品上的精力？",
+        "images": [],
+        "createdAt": "2025-11-13T12:53:22",
+        "ipLocation": "浙江省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 427399,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈~贝壳以前就当货币用的誒，所以和“钱”有关的一些字，都有「贝」字\n——财，货，贷、贸、贿、赂、赃、赊、赎、贡、赠、赏~",
+      "images": [],
+      "createdAt": "2025-11-13T14:15:41",
+      "ipLocation": "上海市",
+      "likeNum": 18,
+      "parent": {
+        "id": 427201,
+        "userName": "长瀛",
+        "content": "“在资本市场上捡钢板，然后回来，聚一起开开心心数铜板的感觉。”太有画面感了，开心的源泉。思路拓展一下：一群小孩子在沙滩上捡美丽的贝壳，捡的贝壳的颜色和数量不一样，也有一样的，但都是自己喜欢的，傍晚一起回来各自分享一天的成果，拿出自己捡来的美丽贝壳，满满的成就感，哈哈~~~。",
+        "images": [],
+        "createdAt": "2025-11-13T14:05:55",
+        "ipLocation": "浙江省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 431059,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你计划做好，本来1.0开网，现在0.7，把0.8，0.9，1.0的网用更便宜的价格买齐，为什么不买？我就按计划来，不猜它是涨是跌，上补齐，下压力测试做好。跌了继续买，涨了我有仓位。",
+      "images": [],
+      "createdAt": "2025-11-13T18:13:22",
+      "ipLocation": "上海市",
+      "likeNum": 23,
+      "parent": {
+        "id": 426553,
+        "userName": "Caicai",
+        "content": "想和大家对齐下作业，大家今天化工出的是啥时候入的呀。我11月5日B，11月7日S，11月10日S（以前刚开始入的），今天没达到S的条件",
+        "images": [],
+        "createdAt": "2025-11-13T13:33:36",
+        "ipLocation": "贵州省",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 430273,
+        "userName": "小呆猪-",
+        "content": "米米想问一下，是不是因为化工开网的时候还处于低位所以选择补齐上面所有的网呀？还是上升趋势形成了所以一次性补齐？ 因为我每次开一个品种第一网都会设置在低于一个步长的位置，所以基本上都是一直在等跌，结果很多时候都跌不到（反思了一下自己等着跌也是一种预测）就很困惑。就想问一下米米会在什么情况下一次性补齐上面的网啊？  ",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 446905,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "暂时不考虑。先观察下环境吧，暂时没有兴致。",
+      "images": [],
+      "createdAt": "2025-11-14T12:12:44",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 445345,
+        "userName": "考拉的桉树",
+        "content": "米米能把黑车再共享一下么，微博上都看不到了",
+        "images": [],
+        "createdAt": "2025-11-14T10:42:44",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

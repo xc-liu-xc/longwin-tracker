@@ -1,0 +1,85 @@
+{
+  "postId": "54577",
+  "fetchedAt": "2026-05-09T16:29:30+08:00",
+  "totalCommentNum": 104,
+  "totalScanned": 78,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 458485,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看了gzh的4000多条留言，发现喊「E大」的多，喊「老大」的少…和wb还是很不一样。\n.\n然后，看到一个留言，大体:「十几年前你教网民什么是投资，十几年后网民教你什么是人性。」\n嗯，思索了一会儿，投资跟着老大，少走了至少十年弯路，认识人性，也因此少走了至少十年弯路，这三年多，我也见识、领教和历练了。\n",
+      "images": [],
+      "createdAt": "2025-11-15T19:04:07",
+      "ipLocation": "上海市",
+      "likeNum": 40
+    },
+    {
+      "type": "reply",
+      "id": 458725,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看到一些熟悉的朋友们的留言，还是挺感动的~\n",
+      "images": [],
+      "createdAt": "2025-11-15T20:33:57",
+      "ipLocation": "上海市",
+      "likeNum": 21,
+      "parent": {
+        "id": 458485,
+        "userName": "新米练习菌",
+        "content": "看了gzh的4000多条留言，发现喊「E大」的多，喊「老大」的少…和wb还是很不一样。\n.\n然后，看到一个留言，大体:「十几年前你教网民什么是投资，十几年后网民教你什么是人性。」\n嗯，思索了一会儿，投资跟着老大，少走了至少十年弯路，认识人性，也因此少走了至少十年弯路，这三年多，我也见识、领教和历练了。\n",
+        "images": [],
+        "createdAt": "2025-11-15T19:04:07",
+        "ipLocation": "上海市",
+        "likeNum": 40
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 463345,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我个人，正式一点的时候喊「E大」，亲切一点的时候喊「老大」。寒暄一般正式一些。然后，喊老大的时候多~",
+      "images": [],
+      "createdAt": "2025-11-17T15:08:30",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 463297,
+        "userName": "Ningx",
+        "content": "我就是那个摇摆不定，不知道是要喊老大还是E大的人 有时候觉得老大有点江湖气 但好像比较亲切，有时候又觉得E大听起来书生气，比较尊敬哈哈，反正就是自己胡乱想胡乱喊。今天才发现关注米米，且慢不会推送米米的更新，点进来看看很惊喜哈哈",
+        "images": [],
+        "createdAt": "2025-11-17T14:50:57",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 463969,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "有的，他wb的置顶第二条下面，我贴过。\n本来是用来做wb号备用，怕号有问题失联，后来不用了。\n没有额外内容，之前是发一条wb，小助理帮他搬运的一条一样的内容去那里。",
+      "images": [],
+      "createdAt": "2025-11-17T18:39:57",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 463861,
+        "userName": "LG攒钱记",
+        "content": "今天考古GZH（20180118），突然发现老大还有一个头条号。\n在这里：https://www.toutiao.com/c/user/80927144491/\n不过2023年后就没有发言了。\n不知道发布内容上，有没有额外的内容。。。",
+        "images": [],
+        "createdAt": "2025-11-17T17:43:46",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

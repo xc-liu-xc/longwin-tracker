@@ -1,0 +1,43 @@
+{
+  "postId": "54601",
+  "fetchedAt": "2026-05-09T16:29:15+08:00",
+  "totalCommentNum": 59,
+  "totalScanned": 47,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 461419,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "随便写写，周末把小组的帖子+评论都整理好了，看到一些评论的一些感悟，哈哈。\n想起个段子，大概是：\n不要和富人吵架，因为富人骂我 “穷 B”，我连反弹都做不到，总不见得骂对方“富 B”吧？是在骂人吗？既没侮辱性，也没杀伤力，还有点可爱…\n互联网人际关系，我现在就是这个感觉，好朋友可太多了，真的太多了，君子之交，志同道合，知己，知音，喜欢，在意，真的真的很富足了，终于，这块，能体会到被人骂“富 B”的感觉~",
+      "images": [],
+      "createdAt": "2025-11-17T09:55:46",
+      "ipLocation": "上海市",
+      "likeNum": 35
+    },
+    {
+      "type": "reply",
+      "id": 461611,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "要分对象。我在意的人和我反馈的话，我的第一个问题也绝对是：是我的问题。是我哪里做得不好。",
+      "images": [],
+      "createdAt": "2025-11-17T10:27:04",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 461497,
+        "userName": "蜗牛也是牛牛呢",
+        "content": "米米，早上好，跟着米米成长好多，以前的我第一个问题总是问自己“我有哪里不对？”谢谢米米~",
+        "images": [],
+        "createdAt": "2025-11-17T10:09:05",
+        "ipLocation": "江苏省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "postId": "53923",
+  "fetchedAt": "2026-05-09T16:37:02+08:00",
+  "totalCommentNum": 32,
+  "totalScanned": 23,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 399193,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "改了，谢谢~",
+      "images": [],
+      "createdAt": "2025-11-10T21:36:03",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 399073,
+        "userName": "同路人_JpoWnV",
+        "content": "（本篇『3. How to think about bonds versus equities 3. 如何看待债券与股票的对比』章节的最有一份笔记）     章节的最有一份笔记",
+        "images": [],
+        "createdAt": "2025-11-10T21:12:38",
+        "ipLocation": "上海市",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 399301,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "环境好的话，可能又会忍不住碎碎念小黑车吧，大家不嫌弃的话。抛砖引玉，我也想学习。",
+      "images": [],
+      "createdAt": "2025-11-10T21:45:46",
+      "ipLocation": "上海市",
+      "likeNum": 52,
+      "parent": {
+        "id": 399229,
+        "userName": "同路人_vPynhX",
+        "content": "感谢(≧∇≦)冒昧问下米米 以后还会分享网格吗？之前收益很多 做作业完了有参考答案可对的感觉 现在很忐忑 如果这个问题对你造成困扰了 请忽略",
+        "images": [],
+        "createdAt": "2025-11-10T21:39:10",
+        "ipLocation": "湖北省",
+        "likeNum": 3
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 400753,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，核心区别在于“是否扣除无风险利率风险”\n.\n简单说：\n回报比率关注 “绝对回报的风险效率”；\n夏普比率关注 “超额回报的风险效率”。\n.",
+      "images": [],
+      "createdAt": "2025-11-11T10:04:49",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 400165,
+        "userName": "零向E行",
+        "content": "米米，这个其实跟夏普是一个用法吧",
+        "images": [],
+        "createdAt": "2025-11-11T03:47:29",
+        "ipLocation": "山西省",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 400171,
+        "userName": "零向E行",
+        "content": "夏普比率在分子端减去了无风险收益率，这个没有，但表达意思一样，承担一单位风险带来的回报情况",
+        "images": []
+      }
+    }
+  ]
+}

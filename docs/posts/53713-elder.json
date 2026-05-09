@@ -1,0 +1,22 @@
+{
+  "postId": "53713",
+  "fetchedAt": "2026-05-09T16:37:03+08:00",
+  "totalCommentNum": 17,
+  "totalScanned": 14,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 388243,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "上面横轴的那些名称，对应的英文全称前面几篇都列过了，不赘述，就放原文缩写了。",
+      "images": [],
+      "createdAt": "2025-11-09T11:48:56",
+      "ipLocation": "上海市",
+      "likeNum": 9
+    }
+  ]
+}

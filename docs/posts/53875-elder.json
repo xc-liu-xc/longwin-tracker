@@ -1,0 +1,95 @@
+{
+  "postId": "53875",
+  "fetchedAt": "2026-05-09T16:36:59+08:00",
+  "totalCommentNum": 75,
+  "totalScanned": 63,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 395035,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "网格，也做了蛮久了，是有些些自己新的想法和体会，但老大说要写第四篇，我想看了老大的之后，再想想，再思考思考，再讨论和交流的。这两日，想把先德银的报告看完~",
+      "images": [],
+      "createdAt": "2025-11-10T14:51:53",
+      "ipLocation": "上海市",
+      "likeNum": 31,
+      "parent": {
+        "id": 394843,
+        "userName": "爱学习的apple和可乐",
+        "content": "我觉得发车日或者月初发一次就行，希望米米如果可以的话也发些网格交流一下，不合适的话就当我没说哈",
+        "images": [],
+        "createdAt": "2025-11-10T14:36:14",
+        "ipLocation": "河北省",
+        "likeNum": 14
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 395131,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "其实还好，上面是「递折子」的频率",
+      "images": [],
+      "createdAt": "2025-11-10T14:58:30",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 395017,
+        "userName": "无-",
+        "content": "不用定时间，也不用非得固定时间，😊任何你想分享的时候都可以，不希望成为你的压力跟负担。我能看到就很感恩了。",
+        "images": [],
+        "createdAt": "2025-11-10T14:51:15",
+        "ipLocation": "北京市",
+        "likeNum": 6
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 395179,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "目前和公开数据命名方式(且慢展示的)先保持一致，自己改掉了，怕对不上容易有歧义",
+      "images": [],
+      "createdAt": "2025-11-10T15:00:19",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 394975,
+        "userName": "路-课",
+        "content": "非常感谢！这里的“海外”是否改为“境外”更合适",
+        "images": [],
+        "createdAt": "2025-11-10T14:47:30",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 397027,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "其实11/4到过一微微，49.98%，哈哈，那天高兴得和老大报告了一声，是2018年大建仓以来第一次，然后就又涨回去了，就感觉“须臾”，然后像没事发生过一样…",
+      "images": [],
+      "createdAt": "2025-11-10T16:14:04",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 395287,
+        "userName": "成小艳",
+        "content": "我觉得每月初发一次就蛮好的，另外还很期待哪天A股仓位是50%的那一天。",
+        "images": [],
+        "createdAt": "2025-11-10T15:08:15",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

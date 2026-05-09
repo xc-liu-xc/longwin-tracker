@@ -1,0 +1,153 @@
+{
+  "postId": "53575",
+  "fetchedAt": "2026-05-09T16:37:12+08:00",
+  "totalCommentNum": 52,
+  "totalScanned": 32,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 386251,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "解读图表对我来说，最有意思的地方，不仅仅是可视化的结论，还有“原来可以从这个视角来观察、从这个维度来看待这些数据”这样的思考。\n.\n这对我自己做分析数据和制图上会多一些认知和想法，有很大的帮助。\n.\n数据有它想要述说的事。\n.\n（这周末和下周不用加班了，终于缓一下，可以周末做做家里事，腾出些精力学习。其实觉得重磅长篇干货课的后面几天”没课”挺好的，给点时间，给点缓冲，把当下的先学完~）\n",
+      "images": [],
+      "createdAt": "2025-11-08T08:41:06",
+      "ipLocation": "上海市",
+      "likeNum": 28
+    },
+    {
+      "type": "reply",
+      "id": 386311,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你这个观察和想法，我想猛点赞啊，啊，有道理，启发我了~",
+      "images": [],
+      "createdAt": "2025-11-08T08:56:09",
+      "ipLocation": "上海市",
+      "likeNum": 20,
+      "parent": {
+        "id": 386281,
+        "userName": "Caicai",
+        "content": "站在巨人的肩膀上，进一步思考，1、2回报率的差异是不是代表全球货币平均相对于美元来说 贬值了呢",
+        "images": [],
+        "createdAt": "2025-11-08T08:45:10",
+        "ipLocation": "贵州省",
+        "likeNum": 41
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 386887,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你也说了可以“逆回购”，还有货币基金，存款…等等，都是现金“同类品”，都需要纯现金进行一个“动作”的。\n.\n所以报告里写着是：“零收益”现金。不是：现金“零收益”。只是现金，不是现金同类品的~\n.",
+      "images": [],
+      "createdAt": "2025-11-08T13:17:54",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 386743,
+        "userName": "往事随风88",
+        "content": "现金可以逆回购，不会有大量现金零收益",
+        "images": [],
+        "createdAt": "2025-11-08T12:14:59",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 386899,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "可能看到原文会更好体会到：\n\n英：Figure 1 aggregates our global dataset and shows median returns across all countries. It serves as a reminder of why investors stay invested for the long term rather than hoarding cash under the mattress. \n\n中：图 1 整合了我们的全球数据集，展示了所有国家的回报中位数。它提醒我们为何投资者选择长期投资而非床垫下的现金。\n\n那句“床垫下的现金”更直观直白一些~\n\n",
+      "images": [],
+      "createdAt": "2025-11-08T13:26:32",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 386743,
+        "userName": "往事随风88",
+        "content": "现金可以逆回购，不会有大量现金零收益",
+        "images": [],
+        "createdAt": "2025-11-08T12:14:59",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 386905,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "“零收益现金（zero cash）” 长期回报率为负，核心原因是通货膨胀。\n.\n直接说“就是“的话，其实还涉及到“名义回报率”的概念，虽然可能结论差不多，但图1图2其实是各类资产“实际回报率”。说“相反数”会好一点。个人觉得哦。",
+      "images": [],
+      "createdAt": "2025-11-08T13:31:38",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 386521,
+        "userName": "无-",
+        "content": "零收益现金的回报率就是通货膨胀率吧，这么看来美元贬值的会慢一些，存放太多的现金是最不划算的，买债券也不能跑赢通胀，除非买美债。看了两遍，就看出来这么多。谢谢分享❤️❤️❤️",
+        "images": [],
+        "createdAt": "2025-11-08T10:22:20",
+        "ipLocation": "北京市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 386917,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我浅薄的认知里，这类开卷overall（概述）的图表 应该是纯统计的，因子简单，这样最具有可比性。\n.\n动态平衡其实是主动做高收益率的一个行为。有按时间的，3个月，半年，1年的；也有有按估值的，这是后面的了，我还没有读到，但不会在brief（简介）中就涉及这些~\n",
+      "images": [],
+      "createdAt": "2025-11-08T13:43:42",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 386323,
+        "userName": "耳东雨辰",
+        "content": "新米上午好，60/40 投资组合，年化实际回报 4.7%，历史回溯中有无进行定期平衡呢？",
+        "images": [],
+        "createdAt": "2025-11-08T09:02:01",
+        "ipLocation": "山东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 387205,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，有道理，我明白你的意思了，谢谢计算和分析。\n.\n要保持固定比例6：4，会动态平衡。不然一直拿着不动，比例也不是这样~",
+      "images": [],
+      "createdAt": "2025-11-08T16:39:15",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 386323,
+        "userName": "耳东雨辰",
+        "content": "新米上午好，60/40 投资组合，年化实际回报 4.7%，历史回溯中有无进行定期平衡呢？",
+        "images": [],
+        "createdAt": "2025-11-08T09:02:01",
+        "ipLocation": "山东省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 387127,
+        "userName": "耳东雨辰",
+        "content": "我下午仔细想了下，感觉是定期平衡后的60/40组合年化回报4.7%，理由是：\n\n不进行定期平衡，初始股票净值0.6、债券净值0.4，合计净值1，200年后的净值为0.6*(1+5.4%)^200+0.4*(1+2.8%)^200=22296，折合年化约5.13%，高于报告中的4.7%。",
+        "images": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "postId": "53173",
+  "fetchedAt": "2026-05-09T16:39:28+08:00",
+  "totalCommentNum": 296,
+  "totalScanned": 213,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 366205,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "有些熟悉的朋友，名和头像与WB一样，或者名字相似，一眼就认出来了，有些可能用了别的名字和头像，我可能反应不过来，不怕麻烦的话，不嫌我“脸盲”(算吗)，就(时不时地)说说是WB的哪位吧~",
+      "images": [],
+      "createdAt": "2025-11-05T20:39:48",
+      "ipLocation": "上海市",
+      "likeNum": 12
+    },
+    {
+      "type": "reply",
+      "id": 366565,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这是两码事…这个我真感慨不出来，这对老大来说是一道枷锁，用老大本不需要的东西，换他更多的付出…本来各种限制下的带组合就是带着镣铐在起舞，现在压力更大，更辛苦了。我觉得本质是需要一个好的环境，而不是被动地因为某些原因不得不换个地方…",
+      "images": [],
+      "createdAt": "2025-11-05T21:04:49",
+      "ipLocation": "上海市",
+      "likeNum": 92,
+      "parent": {
+        "id": 366355,
+        "userName": "E学研究员",
+        "content": "再次感叹，且慢收投顾费真是太太太太太太太好了！",
+        "images": [],
+        "createdAt": "2025-11-05T20:47:44",
+        "ipLocation": "福建省",
+        "likeNum": 25
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 366637,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没有没有，这话肯定不是我说的。我自己不觉得可惜，东西都在我脑袋瓜子里，我无所图啊，发不发、做不做只看有没有风险以及值不值得。",
+      "images": [],
+      "createdAt": "2025-11-05T21:11:01",
+      "ipLocation": "上海市",
+      "likeNum": 17,
+      "parent": {
+        "id": 366415,
+        "userName": "菲菲娅",
+        "content": "哇，太好了，之前米米说屏蔽太可惜了",
+        "images": [],
+        "createdAt": "2025-11-05T20:52:24",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 366979,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "减掉了7-8斤！",
+      "images": [],
+      "createdAt": "2025-11-05T21:39:23",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 366205,
+        "userName": "新米练习菌",
+        "content": "有些熟悉的朋友，名和头像与WB一样，或者名字相似，一眼就认出来了，有些可能用了别的名字和头像，我可能反应不过来，不怕麻烦的话，不嫌我“脸盲”(算吗)，就(时不时地)说说是WB的哪位吧~",
+        "images": [],
+        "createdAt": "2025-11-05T20:39:48",
+        "ipLocation": "上海市",
+        "likeNum": 12
+      },
+      "replyTo": {
+        "id": 366847,
+        "userName": "超毛战士小太阳",
+        "content": "米米，我是跟微博名字一样，但是头像换掉了～今天还聊到跑步减肥的那个～",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 367027,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "认🉐出~ 少一个“芽”，但不影响，有一天我出差，你还帮忙把老大的微博全部都复制给了我，怕我没看到会错过没收录。",
+      "images": [],
+      "createdAt": "2025-11-05T21:43:57",
+      "ipLocation": "上海市",
+      "likeNum": 24,
+      "parent": {
+        "id": 366355,
+        "userName": "E学研究员",
+        "content": "再次感叹，且慢收投顾费真是太太太太太太太好了！",
+        "images": [],
+        "createdAt": "2025-11-05T20:47:44",
+        "ipLocation": "福建省",
+        "likeNum": 25
+      },
+      "replyTo": {
+        "id": 366871,
+        "userName": "芽芽芽呀",
+        "content": "我我我我我，米米认得出我嘛",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 367495,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个问题我回过，但我忘记是不是回你了。\n\n了解趋势可以看《笑傲股市》里面的一部分。\n\n了解基础技术指(标科普类)的可以看《半小时股票漫画实战》\n\n技术分析学一些有辅助的作用，但千万不要走火入魔，只是辅助，了解一些，熟练用一套自己适合的就好。\n",
+      "images": [],
+      "createdAt": "2025-11-05T22:23:16",
+      "ipLocation": "上海市",
+      "likeNum": 84,
+      "parent": {
+        "id": 367267,
+        "userName": "Ningx",
+        "content": "一直有个问题想请教米米，如果想要系统性把看K线图和各个指标学习一遍，例如看压力位支撑位箱体这些基本功，米米有推荐的书/教材/内容之类的吗？想好好理解啃一啃，谢谢米米！没有也没关系，谢谢",
+        "images": [],
+        "createdAt": "2025-11-05T22:05:46",
+        "ipLocation": "北京市",
+        "likeNum": 11
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 367621,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "技术指标(科普类)，括号打错位置了，弄得像指数名缩写似的了",
+      "images": [],
+      "createdAt": "2025-11-05T22:34:45",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 367267,
+        "userName": "Ningx",
+        "content": "一直有个问题想请教米米，如果想要系统性把看K线图和各个指标学习一遍，例如看压力位支撑位箱体这些基本功，米米有推荐的书/教材/内容之类的吗？想好好理解啃一啃，谢谢米米！没有也没关系，谢谢",
+        "images": [],
+        "createdAt": "2025-11-05T22:05:46",
+        "ipLocation": "北京市",
+        "likeNum": 11
+      },
+      "replyTo": {
+        "id": 367543,
+        "userName": "Ningx",
+        "content": "收到，谢谢米米，也谢谢米米的提醒，真抱歉这么晚打扰了！我迅速去mark下单，哈哈不是我，我犹豫两天才问哈哈，米米快休息吧，晚安🌙",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 376723,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈，和老大的gzh上留言一样，秒懂秒认~",
+      "images": [],
+      "createdAt": "2025-11-06T15:43:24",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 375007,
+        "userName": "supermary",
+        "content": "米米，找到你啦！我是爷（每次说这话都觉得好奇怪哈哈哈哈）！太激动先跟你打个招呼，后面再慢慢看内容！",
+        "images": [],
+        "createdAt": "2025-11-06T14:09:50",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 381007,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "能~",
+      "images": [],
+      "createdAt": "2025-11-07T05:40:55",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 375781,
+        "userName": "E想天开06",
+        "content": "这也太那个~~~哈哈，米米还能认出来我吗。头像是米米曾经发的图，很喜欢，用这了。好哒，慢慢来。我搬个小板凳，往前凑凑，耐心等着。",
+        "images": [],
+        "createdAt": "2025-11-06T14:41:39",
+        "ipLocation": "北京市",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 381019,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你家的喜乐蒂可可爱爱的，好漂亮呢~",
+      "images": [],
+      "createdAt": "2025-11-07T05:44:26",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 372757,
+        "userName": "小鹿同学_Anna",
+        "content": "来报道了，在米米这里蹭一个脸熟",
+        "images": [],
+        "createdAt": "2025-11-06T12:36:04",
+        "ipLocation": "中国",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

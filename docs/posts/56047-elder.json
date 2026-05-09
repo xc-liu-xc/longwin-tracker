@@ -1,0 +1,85 @@
+{
+  "postId": "56047",
+  "fetchedAt": "2026-05-09T16:21:59+08:00",
+  "totalCommentNum": 49,
+  "totalScanned": 40,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 550279,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "主要还是因为老大，老大不是喜欢经常问：“还记不记得我之前说过…”吗？\n嗯…想回他：记得。\n所以日常努力练习——学习，理解，思考，记忆，搜索，回顾。\n珍惜每一次练习的机会。",
+      "images": [],
+      "createdAt": "2025-11-28T12:09:11",
+      "ipLocation": "上海市",
+      "likeNum": 22
+    },
+    {
+      "type": "reply",
+      "id": 550915,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "内心戏很丰富了~文字都看出了表情的感觉",
+      "images": [],
+      "createdAt": "2025-11-28T14:09:56",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 550591,
+        "userName": "胖菜",
+        "content": "180遍，加油加油加油！\n我自己看得最多的是网格三篇，也还远远没达到这个量。\n大概就是，看一遍，哇写得真好！\n一做，一堆问题。\n又看，哦原来这样！\n再做，还是乱七八糟。\n哇塞，懂了懂了！\n好像哪里不对。\n哦哦，这次真懂了！\n不，还是没懂。\n……\n真的没懂，时不时就感受到自己的基础薄弱，知识匮乏，见识浅薄，愚顽不灵。",
+        "images": [],
+        "createdAt": "2025-11-28T13:15:52",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 550921,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "顺也好，逆也好，老大设计了一个「兼容人性」的体系~",
+      "images": [],
+      "createdAt": "2025-11-28T14:10:34",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 550525,
+        "userName": "井宿河中静",
+        "content": "长线加波段真是一个天才想法。如果在周期投资和短线投资里摇摆不定的人就会两头挨打，但如果一开始设置的交易策略就是这样，简直是逆人性和顺人性的综合考虑",
+        "images": [],
+        "createdAt": "2025-11-28T13:00:23",
+        "ipLocation": "广东省",
+        "likeNum": 5
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 551245,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你这么说来…好像是哦~\n公开记录E大的第一天吧，哈哈\n谢谢你记得，我都忘了~\n我只记得开始着手考古&整理资料数据的第一天（2022.5.3），和开始给老大写留言的第一天（2022.6.28）。\n自己发自己微博，还真不记得了~",
+      "images": [],
+      "createdAt": "2025-11-28T15:23:58",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 551089,
+        "userName": "小小虾米",
+        "content": "【个人笔记】E大支撑点位笔记（20221128更新）\n这是记录E大的第一篇么？ 如果是，今天正好三周年了🎊",
+        "images": [],
+        "createdAt": "2025-11-28T14:43:49",
+        "ipLocation": "北京市",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "postId": "55195",
+  "fetchedAt": "2026-05-09T16:26:59+08:00",
+  "totalCommentNum": 326,
+  "totalScanned": 274,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 500377,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "交易策略是服务于资产配置。资产配置决定了买卖什么，买卖多少。交易策略决定了什么时候，以什么价格买卖。",
+      "images": [],
+      "createdAt": "2025-11-21T14:17:21",
+      "ipLocation": "北京市",
+      "likeNum": 263
+    },
+    {
+      "type": "reply",
+      "id": 501073,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "4份150本来就不需要卖。",
+      "images": [],
+      "createdAt": "2025-11-21T14:26:43",
+      "ipLocation": "北京市",
+      "likeNum": 89,
+      "parent": {
+        "id": 500215,
+        "userName": "Lesley_T",
+        "content": "E大，我的份数是4份，可以选择不跟车卖出吗",
+        "images": [],
+        "createdAt": "2025-11-21T14:16:20",
+        "ipLocation": "浙江省",
+        "likeNum": 12
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 501271,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "能理解，\n也会有：\n长线卖出，波段正好买入。\n长线买入，波段正常卖出。\n的时候。\n擦肩而过，尽都是自己~\n每个策略有每个策略的使命，知道每个策略是干什么的，为自己带来什么，然后，执行好就好了~\n",
+      "images": [],
+      "createdAt": "2025-11-21T14:32:10",
+      "ipLocation": "上海市",
+      "likeNum": 103
+    },
+    {
+      "type": "reply",
+      "id": 504859,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看了看，个人作业和记录。今天恒生右侧卖出，不是M头什么的。是「第二，不便宜+趋势改变。」（中期趋势“目前”不灵了，大概率改变了）",
+      "images": [],
+      "createdAt": "2025-11-21T19:47:00",
+      "ipLocation": "上海市",
+      "likeNum": 24,
+      "parent": {
+        "id": 501271,
+        "userName": "新米练习菌",
+        "content": "能理解，\n也会有：\n长线卖出，波段正好买入。\n长线买入，波段正常卖出。\n的时候。\n擦肩而过，尽都是自己~\n每个策略有每个策略的使命，知道每个策略是干什么的，为自己带来什么，然后，执行好就好了~\n",
+        "images": [],
+        "createdAt": "2025-11-21T14:32:10",
+        "ipLocation": "上海市",
+        "likeNum": 103
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 505009,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "8-9点了，开始蹲发车数据分享了。\n这是大搬家之后的第一次发车。",
+      "images": [],
+      "createdAt": "2025-11-21T20:04:48",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 501271,
+        "userName": "新米练习菌",
+        "content": "能理解，\n也会有：\n长线卖出，波段正好买入。\n长线买入，波段正常卖出。\n的时候。\n擦肩而过，尽都是自己~\n每个策略有每个策略的使命，知道每个策略是干什么的，为自己带来什么，然后，执行好就好了~\n",
+        "images": [],
+        "createdAt": "2025-11-21T14:32:10",
+        "ipLocation": "上海市",
+        "likeNum": 103
+      },
+      "replyTo": {
+        "id": 504859,
+        "userName": "新米练习菌",
+        "content": "看了看，个人作业和记录。今天恒生右侧卖出，不是M头什么的。是「第二，不便宜+趋势改变。」（中期趋势“目前”不灵了，大概率改变了）",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 506881,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这句话：点-线-面-体。都说透了。\n早晨在复习，特别喜欢这句话。直击我的灵魂，穿透天灵盖。\n老大的体系庞大而又细致，在我眼里，一直都是三维的。随便取出一块，二维展开就是一大片。\n配置+概率，服务于这核心的策略们（观察策略+交易策略），就形成了体系。\n立体地看待、理解、记忆。\n（然后，其实，日常尝试画的数据图表，都是不同维度看过去的“二维投影”。）\n",
+      "images": [],
+      "createdAt": "2025-11-22T09:00:42",
+      "ipLocation": "上海市",
+      "likeNum": 26,
+      "parent": {
+        "id": 500377,
+        "userName": "ETF拯救世界",
+        "content": "交易策略是服务于资产配置。资产配置决定了买卖什么，买卖多少。交易策略决定了什么时候，以什么价格买卖。",
+        "images": [],
+        "createdAt": "2025-11-21T14:17:21",
+        "ipLocation": "北京市",
+        "likeNum": 263
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 524827,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "如果正正好好一个账户一个品种一个金额那自然是可以，自己计算好就行了。",
+      "images": [],
+      "createdAt": "2025-11-25T12:54:30",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 501271,
+        "userName": "新米练习菌",
+        "content": "能理解，\n也会有：\n长线卖出，波段正好买入。\n长线买入，波段正常卖出。\n的时候。\n擦肩而过，尽都是自己~\n每个策略有每个策略的使命，知道每个策略是干什么的，为自己带来什么，然后，执行好就好了~\n",
+        "images": [],
+        "createdAt": "2025-11-21T14:32:10",
+        "ipLocation": "上海市",
+        "likeNum": 103
+      },
+      "replyTo": {
+        "id": 523903,
+        "userName": "Benadal",
+        "content": "新米君，如果长线买入，波段正好卖出，而且两者份额相等，是否就可以不买不卖，节省出来了交易费用？",
+        "images": []
+      }
+    }
+  ]
+}

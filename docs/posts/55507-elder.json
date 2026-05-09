@@ -1,0 +1,58 @@
+{
+  "postId": "55507",
+  "fetchedAt": "2026-05-09T16:24:24+08:00",
+  "totalCommentNum": 73,
+  "totalScanned": 58,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 520735,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "数据都是公开的，没跟车的是看不了小组，不是看不了长赢。长赢策略就摆在那里，只要用APP的，哪怕没注册且慢的都能看到。\n而且，评论区现在不能发图。",
+      "images": [],
+      "createdAt": "2025-11-24T12:49:21",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 520117,
+        "userName": "跟着E大滚雪球",
+        "content": "谢谢分享，米米是不是可以发在老大帖子下面，这样没跟车的也看不到（要是冒犯了请忽略我）",
+        "images": [],
+        "createdAt": "2025-11-24T11:48:17",
+        "ipLocation": "湖北省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 521971,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我说的时效性不是指这个。",
+      "images": [],
+      "createdAt": "2025-11-24T16:17:35",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 521143,
+        "userName": "涵淼",
+        "content": "米米，把很多网格的东西也都删了，哎…",
+        "images": [],
+        "createdAt": "2025-11-24T13:36:59",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 521665,
+        "userName": "同路人_oJCtjJ",
+        "content": "\n时间不等人。米米说过贴子的时效性的。",
+        "images": []
+      }
+    }
+  ]
+}

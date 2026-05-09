@@ -1,0 +1,53 @@
+{
+  "postId": "56287",
+  "fetchedAt": "2026-05-09T16:21:21+08:00",
+  "totalCommentNum": 50,
+  "totalScanned": 46,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 561307,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "仅11月的话，回撤-1.8%。\n（150净值1.7036到1.6737）\n最高点（10/9）的话，回撤-3.5%\n（150净值1.7346到1.6737）",
+      "images": [],
+      "createdAt": "2025-12-01T18:52:00",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 560389,
+        "userName": "三个小红旗",
+        "content": "米米，咱们这一波150的11月份的回撤大概在7个点左右吧",
+        "images": [],
+        "createdAt": "2025-12-01T13:54:20",
+        "ipLocation": "浙江省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 567715,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "2份啊。\n如果是说另3份易方达安心回报债的话，那是可转债。",
+      "images": [],
+      "createdAt": "2025-12-03T11:21:53",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 567373,
+        "userName": "木子小牛",
+        "content": "米米，借助你的图表，我把自己的持仓数据也练好了表格，发现益达的持仓里国内纯债还有5份，不是2份，你再帮忙把把关，是不是",
+        "images": [],
+        "createdAt": "2025-12-03T10:52:20",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

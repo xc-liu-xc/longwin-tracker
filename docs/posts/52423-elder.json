@@ -1,0 +1,53 @@
+{
+  "postId": "52423",
+  "fetchedAt": "2026-05-09T16:46:34+08:00",
+  "totalCommentNum": 53,
+  "totalScanned": 49,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 298039,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "知道的……",
+      "images": [],
+      "createdAt": "2025-11-01T05:37:36",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 297541,
+        "userName": "向飞",
+        "content": "米米，一个个给老大记着坑，老大知道吗？😄",
+        "images": [],
+        "createdAt": "2025-10-31T23:22:45",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 506179,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是精卫填海吗？",
+      "images": [],
+      "createdAt": "2025-11-21T23:31:14",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 506095,
+        "userName": "etf慢慢变好",
+        "content": "这哪里是挖坑啊，这是愚公移山。",
+        "images": [],
+        "createdAt": "2025-11-21T23:06:18",
+        "ipLocation": "山西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "postId": "55369",
+  "fetchedAt": "2026-05-09T16:25:21+08:00",
+  "totalCommentNum": 413,
+  "totalScanned": 302,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 507445,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好~\n跟车买了，然后，觉得好，还想要，仓位不够。\n小黑车，场外，A+C，每日各100定投。\n松鼠🐿️搬橡果的感觉。\n能攒多少是多少吧。有一点也好的，看看自己已经拥有的~",
+      "images": [],
+      "createdAt": "2025-11-22T09:13:28",
+      "ipLocation": "上海市",
+      "likeNum": 100
+    },
+    {
+      "type": "reply",
+      "id": 507571,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "（小声说）if have 美股账户 ，可以上图：IXJ。\n\n",
+      "images": [],
+      "createdAt": "2025-11-22T09:18:15",
+      "ipLocation": "上海市",
+      "likeNum": 48,
+      "parent": {
+        "id": 507445,
+        "userName": "新米练习菌",
+        "content": "E大早上好~\n跟车买了，然后，觉得好，还想要，仓位不够。\n小黑车，场外，A+C，每日各100定投。\n松鼠🐿️搬橡果的感觉。\n能攒多少是多少吧。有一点也好的，看看自己已经拥有的~",
+        "images": [],
+        "createdAt": "2025-11-22T09:13:28",
+        "ipLocation": "上海市",
+        "likeNum": 100
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 507811,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "算了算自己的，官车+小黑车，现在仓位才2%都不到…\n.\n===微博评论对话引用===\n楠-岚:老大，我可以在这边薛薇多配一点全球医疗保健吗？比如目前这个价格买到5%可以吗？\n25-10-11 06:18 来自日本\n二级市场捡辣鸡冠军:慢慢来。我自己没有那么多\n===\n那天，看10/10收盘， IXJ：90.88。\n",
+      "images": [],
+      "createdAt": "2025-11-22T09:29:13",
+      "ipLocation": "上海市",
+      "likeNum": 35,
+      "parent": {
+        "id": 507445,
+        "userName": "新米练习菌",
+        "content": "E大早上好~\n跟车买了，然后，觉得好，还想要，仓位不够。\n小黑车，场外，A+C，每日各100定投。\n松鼠🐿️搬橡果的感觉。\n能攒多少是多少吧。有一点也好的，看看自己已经拥有的~",
+        "images": [],
+        "createdAt": "2025-11-22T09:13:28",
+        "ipLocation": "上海市",
+        "likeNum": 100
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 539923,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你说的这个应该是个行业主动基金。\n现在车里那个是个指数基金，跟踪标普全球1200医疗保健指数的。\n对比走势TA们还是不大一样的。\n另外，其实也大额限购着，10000/日/人。\n我没投资建议啊，我只是说我看到还得有些区别的…",
+      "images": [],
+      "createdAt": "2025-11-26T12:22:16",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 507445,
+        "userName": "新米练习菌",
+        "content": "E大早上好~\n跟车买了，然后，觉得好，还想要，仓位不够。\n小黑车，场外，A+C，每日各100定投。\n松鼠🐿️搬橡果的感觉。\n能攒多少是多少吧。有一点也好的，看看自己已经拥有的~",
+        "images": [],
+        "createdAt": "2025-11-22T09:13:28",
+        "ipLocation": "上海市",
+        "likeNum": 100
+      },
+      "replyTo": {
+        "id": 539299,
+        "userName": "sihaizhida",
+        "content": "请教下这个跟004877有什么区别，后来发现后者不限购，持仓也差不多",
+        "images": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "postId": "53107",
+  "fetchedAt": "2026-05-09T16:39:17+08:00",
+  "totalCommentNum": 329,
+  "totalScanned": 233,
+  "expandedTopLevel": 8,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 364297,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "PS：我每天也好点小铃铛(还是叫小闹钟啊？)好几遍，怕铃铛(还是叫闹钟啊？)坏了，网页版又刷好几下，怕网页也坏了，手机再APP进来看好几遍。",
+      "images": [],
+      "createdAt": "2025-11-05T15:21:16",
+      "ipLocation": "上海市",
+      "likeNum": 16
+    },
+    {
+      "type": "reply",
+      "id": 364309,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "医药生物，怕缩写叫“医生”…更容易有歧义",
+      "images": [],
+      "createdAt": "2025-11-05T15:22:00",
+      "ipLocation": "上海市",
+      "likeNum": 27,
+      "parent": {
+        "id": 363931,
+        "userName": "遇见幸福",
+        "content": "药生是啥？哪位指点一下，谢谢！",
+        "images": [],
+        "createdAt": "2025-11-05T14:51:24",
+        "ipLocation": "湖北省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 364525,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "有的券商ETF是免五的……",
+      "images": [],
+      "createdAt": "2025-11-05T15:44:41",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 364465,
+        "userName": "投资不能投机",
+        "content": "场内基金要扣最低五元的服务费吗？谁懂啊，胡乱操作手续费扣几百了？赚的还没扣的多？求指点",
+        "images": [],
+        "createdAt": "2025-11-05T15:38:40",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 364549,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没有车的。和朋友们各做各的，唠唠嗑用的~",
+      "images": [],
+      "createdAt": "2025-11-05T15:46:11",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 364507,
+        "userName": "WEIW2",
+        "content": "米米的黑车怎么跟啊，宝华的只有e大的",
+        "images": [],
+        "createdAt": "2025-11-05T15:43:08",
+        "ipLocation": "湖北省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 364615,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "今天终于不用加班了。\n\n这几日每天把文档理了、数据更了、作业写了（如果有），就算做过事情了，考古理资料根本没时间弄，快两周没碰了。",
+      "images": [],
+      "createdAt": "2025-11-05T15:48:48",
+      "ipLocation": "上海市",
+      "likeNum": 39
+    },
+    {
+      "type": "reply",
+      "id": 365365,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "等反弹啊，但第二天“弹过头”了啊，高于入网位置太多",
+      "images": [],
+      "createdAt": "2025-11-05T17:53:49",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 365173,
+        "userName": "8慢慢8",
+        "content": "为什么大绿柱当天没入吗？",
+        "images": [],
+        "createdAt": "2025-11-05T17:19:39",
+        "ipLocation": "湖南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 365443,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "就做计划的时候花些时间，弄好，可以自动很长一段时间。平时其实不看的，它自己会忙活~",
+      "images": [],
+      "createdAt": "2025-11-05T18:06:47",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 364819,
+        "userName": "布小可",
+        "content": "至今都没有开启网格，因为感觉工作量庞大，想保留精力歇歇，但现在感觉真的要自己好好学习了，再次佩服米米",
+        "images": [],
+        "createdAt": "2025-11-05T16:11:51",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 365833,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "蛮当中的，第5-6网吧",
+      "images": [],
+      "createdAt": "2025-11-05T19:40:52",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 365305,
+        "userName": "今晚的风是甜的",
+        "content": "我也s了旅游 今晚回去做恒消的作业～方便告知今天是第几网入吗",
+        "images": [],
+        "createdAt": "2025-11-05T17:44:46",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 365989,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我个人体会，有知有行上的可以相对较快地读完，入门。 (也许对大前辈来说，入门不用。)，那些也都是老大的原文，比较像精选提炼，好像截止到2021年的样子，后面好像没再更新？(啊，我22年存下来的，23年之后也没再用过了，现在情况不太清楚…)\n\n我个人考古第一遍是「按时间顺序」的，就从头到尾，2005年，一路往后，到现在。\n\n边理边看，边复制、边黏贴，然后编辑下格式，这样看一遍很多就记住了，自己看着一篇一篇的越攒越多，比较有成就感。\n\n累了就歇歇，有精神了继续看。\n\n挺精彩的，一旦看进去了，很想知道后面怎么回事的那种，之前很多时候，看得眼睛疼得实在读不进字了，才不得已停下来去睡觉。\n\n第二遍，因为是归拢整理了，有大纲、有框架、成体系、分主题，(和老大打了招呼)(时间维度)我先从第三轮(2015)开始弄，体系比较完整完善，之前的，等核心搭好，会再补全。\n\n大概是这样的。",
+      "images": [],
+      "createdAt": "2025-11-05T20:08:56",
+      "ipLocation": "上海市",
+      "likeNum": 59,
+      "parent": {
+        "id": 365347,
+        "userName": "LG攒钱记",
+        "content": "米米，冒昧的问一下，你当时考古的时候，E大雪球，长盈公众号，E大微博，捡垃圾微博，你是先从那个开始收录的？刚开始考古并记录，感觉这个工程的工作量真的好大！",
+        "images": [],
+        "createdAt": "2025-11-05T17:50:27",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 367363,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "gzh一共423篇，有的是文字形式，没用文章形式~",
+      "images": [],
+      "createdAt": "2025-11-05T22:13:27",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 365347,
+        "userName": "LG攒钱记",
+        "content": "米米，冒昧的问一下，你当时考古的时候，E大雪球，长盈公众号，E大微博，捡垃圾微博，你是先从那个开始收录的？刚开始考古并记录，感觉这个工程的工作量真的好大！",
+        "images": [],
+        "createdAt": "2025-11-05T17:50:27",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 367045,
+        "userName": "LG攒钱记",
+        "content": "谢谢你分享考古思路！竞然连网易博客也整理了呀！我都忘记这茬了。那个时期的E大，我还不认得呢。那个时期应该是传说中的第一轮和第二轮吧？\n\n也许就像你说的，从15年，即第三轮伊始，开始整理，对于我来说是个不错的选择。原因如下：\n\n首先，第三轮计划是最适合普通人的投资计划；\n其次，第三轮我完整跟下来了，相对比较熟悉；\n最后，按照时间线整理，可以更为方便和深刻的理解E大在第三轮投资中的进化。\n\n如果是这样的话，我应该先从公众号的发车文章入手。500多份交易，大约有300多篇文章。数量还好！期间再考古下发车当天的微博。\n\n好的，明天开始慢慢考古！！！\n",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 367639,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "所以嘛…四个字取两，没几个词好用。其实应该叫：生科。但可能感觉不出是医药行业了",
+      "images": [],
+      "createdAt": "2025-11-05T22:36:29",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 363931,
+        "userName": "遇见幸福",
+        "content": "药生是啥？哪位指点一下，谢谢！",
+        "images": [],
+        "createdAt": "2025-11-05T14:51:24",
+        "ipLocation": "湖北省",
+        "likeNum": 4
+      },
+      "replyTo": {
+        "id": 365779,
+        "userName": "无为而治",
+        "content": "药物？ 哈哈",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 372781,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "仓位是一起看的。\n\n记录再分两，长线一个，波段一个，也没有固定比例，在可接受范围内，不太会动，比如10％~20%。",
+      "images": [],
+      "createdAt": "2025-11-06T12:37:02",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 372583,
+        "userName": "dandelion",
+        "content": "米米，求教下，你的长期计划、网格计划的资金是分别管理吗？就是会考虑资产配置，如果分开管理，很容易某个板块品种占比超了或者留有资金不够？还有就是长期计划和网格都会留有资金，这块资金您一般是如何提高利用率的。谢谢",
+        "images": [],
+        "createdAt": "2025-11-06T12:18:01",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 381001,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈，是呀，市场从不缺机会，但容易缺钱缺耐心~",
+      "images": [],
+      "createdAt": "2025-11-07T05:40:35",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 375937,
+        "userName": "E想天开06",
+        "content": "记得恒消大绿柱子，以为可以入首网了。空欢喜一场，不过没关系，它又乖乖回来了",
+        "images": [],
+        "createdAt": "2025-11-06T14:49:13",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

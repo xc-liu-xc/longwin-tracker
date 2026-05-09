@@ -1,0 +1,74 @@
+{
+  "postId": "56233",
+  "fetchedAt": "2026-05-09T16:21:57+08:00",
+  "totalCommentNum": 100,
+  "totalScanned": 77,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 556519,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "并不便宜，50多倍了，但也没上天",
+      "images": [],
+      "createdAt": "2025-11-30T07:41:01",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 556117,
+        "userName": "平安喜乐小牛马",
+        "content": "谢谢米米分享。真诚提问：为什么没有提到传媒，感觉传媒很便宜了。前段时间还开了个网格。",
+        "images": [],
+        "createdAt": "2025-11-29T22:19:56",
+        "ipLocation": "山西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 556525,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "加油~ ㊗️考古 充实快乐，越来越好~",
+      "images": [],
+      "createdAt": "2025-11-30T07:42:52",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 556507,
+        "userName": "战火小阿蛮",
+        "content": "谢谢米米的分享 一直以来都是🫶 越考古越能感觉到米米的用心。昨天考古了一天 有时候老大讲的东西脱离当时的环境就有点不太明白 往下翻一翻米米的留言就懂了 就像是里程碑 告诉着后来者“你来了、这里是xxx地界、往下走是xxx ,加油 旅行者。”有一种在考古这条路上课代表也在陪着我、指引着我的感觉 谢谢🥰",
+        "images": [],
+        "createdAt": "2025-11-30T07:25:49",
+        "ipLocation": "北京市",
+        "likeNum": 26
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 556939,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "如果只看市盈率，那连小学生都会炒股，\n那可就太容易了。\n但如果连市盈率都不看，那就连小学生都不如了。\n.\n我只说现在是这么个的情况，你怎么知道我就没有这些在天上的品种呢？你知道我什么时候买1000/2000/创业/科创/军工的吗？924之前，可不是今年。\n我能大大方方地写，并不会吐槽，就是因为根本没有错过行情，毫无怨念和遗憾。\n.\n就看到别人偶尔写写估值，就以为别人只看估值，不好意思，这只是一个纬度的一部分而已。\n莫要自己只看到一片树叶，就开始点评起整个森林了。摸象了。",
+      "images": [],
+      "createdAt": "2025-11-30T10:42:23",
+      "ipLocation": "上海市",
+      "likeNum": 42,
+      "parent": {
+        "id": 556759,
+        "userName": "峰哥粉",
+        "content": "买医疗的三年都还趴在地上，买科创和中证2000的今年都赚得盆满钵满了。股市是看预期的，盯着市盈率炒股缘木求鱼。\n",
+        "images": [],
+        "createdAt": "2025-11-30T09:48:16",
+        "ipLocation": "上海市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

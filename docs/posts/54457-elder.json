@@ -1,0 +1,53 @@
+{
+  "postId": "54457",
+  "fetchedAt": "2026-05-09T16:31:30+08:00",
+  "totalCommentNum": 83,
+  "totalScanned": 67,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 450277,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "彼此这词不妥，是单厌。",
+      "images": [],
+      "createdAt": "2025-11-14T14:34:24",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 449449,
+        "userName": "逐光向前",
+        "content": "这些人好像死缠烂打、嗡嗡叫的苍蝇，何其讨厌，为啥不放过彼此呢",
+        "images": [],
+        "createdAt": "2025-11-14T14:05:38",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 451087,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈哈， 忍不住了。永结孽缘，秃头到老。",
+      "images": [],
+      "createdAt": "2025-11-14T15:15:55",
+      "ipLocation": "上海市",
+      "likeNum": 25,
+      "parent": {
+        "id": 449443,
+        "userName": "此木君",
+        "content": "哈哈哈哈愿他们永结孽缘",
+        "images": [],
+        "createdAt": "2025-11-14T14:05:30",
+        "ipLocation": "浙江省",
+        "likeNum": 11
+      },
+      "replyTo": null
+    }
+  ]
+}

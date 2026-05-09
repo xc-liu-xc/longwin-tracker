@@ -1,0 +1,43 @@
+{
+  "postId": "54151",
+  "fetchedAt": "2026-05-09T16:34:51+08:00",
+  "totalCommentNum": 8,
+  "totalScanned": 4,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 408187,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "『Historical Asset Returns 资产历史回报 』看完了，进入最后一个部分『LT Asset Returns in Charts 长期资产回报图表 』。\n",
+      "images": [],
+      "createdAt": "2025-11-12T08:30:38",
+      "ipLocation": "上海市",
+      "likeNum": 5
+    },
+    {
+      "type": "reply",
+      "id": 517741,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "好的好的，我留言都看到了，果然看到最后表格，就开始走神不仔细了，21，22，23，24，我今天等会儿会去核对的，谢谢给我了写了那么留眼，谢谢你的认真 🌹🌹🌹",
+      "images": [],
+      "createdAt": "2025-11-24T07:01:58",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 517117,
+        "userName": "爱吃肉肉的大发",
+        "content": "新米，总结规律中的“ 新兴市场：具备 “高增长潜力”（如中国自 1999 年起实际 GDP 年化增长 8.4%）”图90上标注的是8.1%，你的数据好像向前错位了一格，空了可以看看笔记21、22、23、24的部分数据哈",
+        "images": [],
+        "createdAt": "2025-11-23T21:41:14",
+        "ipLocation": "浙江省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

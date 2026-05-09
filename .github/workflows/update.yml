@@ -42,6 +42,11 @@ jobs:
           QIEMAN_TOKEN: ${{ secrets.QIEMAN_TOKEN }}
         run: python -u scripts/fetch_posts.py
 
+      - name: Fetch post comments (E大 + 新米)
+        env:
+          QIEMAN_TOKEN: ${{ secrets.QIEMAN_TOKEN }}
+        run: python -u scripts/fetch_post_comments.py
+
       - name: Install markdownify
         run: pip install markdownify -q
 

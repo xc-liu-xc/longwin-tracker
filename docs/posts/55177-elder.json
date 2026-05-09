@@ -1,0 +1,43 @@
+{
+  "postId": "55177",
+  "fetchedAt": "2026-05-09T16:26:21+08:00",
+  "totalCommentNum": 307,
+  "totalScanned": 245,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 496837,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "绝大多数指数看价格就行了，因为股息率不高。红利看价格和全收益都行。",
+      "images": [],
+      "createdAt": "2025-11-21T13:28:17",
+      "ipLocation": "北京市",
+      "likeNum": 151,
+      "parent": {
+        "id": 496447,
+        "userName": "许VAN强",
+        "content": "老大老大,请问,普通指数都是价格指数,软件里似乎找不到前复权设置,是否指数大部分是直接找对应的全收益指数当成前复权K线来看待",
+        "images": [],
+        "createdAt": "2025-11-21T13:21:46",
+        "ipLocation": "江苏省",
+        "likeNum": 18
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 502501,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "“放眼市场，公开具体操作的人，能做到底部区域买，顶部区域卖的，到底有几个人？”\n.\n没有了。\n公开持仓，公开每一笔交易，还十年以上。公开发言二十年以上的。没有了。\n2021年投顾行业改革，那些当时没有投顾执照的平台的组合，要么解散了，要么重新从头算起的。没有那么多详细的历史记录了。\n.\n但这唯一的一个，再过3-5年，也就没有了。\n.\n等知道珍惜的代价是：失去。就懂了。\n晚了。\n",
+      "images": [],
+      "createdAt": "2025-11-21T15:26:24",
+      "ipLocation": "上海市",
+      "likeNum": 55
+    }
+  ]
+}

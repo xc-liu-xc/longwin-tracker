@@ -1,0 +1,32 @@
+{
+  "postId": "56323",
+  "fetchedAt": "2026-05-09T16:21:22+08:00",
+  "totalCommentNum": 55,
+  "totalScanned": 50,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 559825,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，改了，谢谢~",
+      "images": [],
+      "createdAt": "2025-12-01T11:57:56",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 559747,
+        "userName": "Huan欢",
+        "content": "即是pre也是re，米米，这里是不是 既是。打字手速太快，哈哈哈",
+        "images": [],
+        "createdAt": "2025-12-01T11:44:17",
+        "ipLocation": "湖南省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

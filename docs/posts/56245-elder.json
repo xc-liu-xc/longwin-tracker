@@ -1,0 +1,85 @@
+{
+  "postId": "56245",
+  "fetchedAt": "2026-05-09T16:21:24+08:00",
+  "totalCommentNum": 40,
+  "totalScanned": 19,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 557107,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "想起以前我们老师曾说：\n有些同学理科成绩不理想，其实不是数学不好，而是语文不好，不是计算有问题，而是阅读理解有问题，连题目的信息和表达的意思，就读错了。\n其实不知道没那么可怕，一知半解的误解才更可怕。",
+      "images": [],
+      "createdAt": "2025-11-30T11:26:26",
+      "ipLocation": "上海市",
+      "likeNum": 31
+    },
+    {
+      "type": "reply",
+      "id": 557995,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈，早一些的时候，\n后面\n还会有：「有非常感谢。祝2023一切顺利，净资产大增。我说的！」\n还会有：「感谢你的肯定。送你一份小礼物。」\n慢慢等待发现，啊，我是不是剧透彩蛋了？",
+      "images": [],
+      "createdAt": "2025-11-30T21:53:59",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 557947,
+        "userName": "王小二",
+        "content": "米米，老大公众号打赏后之前都是收到“多谢支持，感受到了。😊”今天收到了“太敞亮了老铁，爱你。🌹”",
+        "images": [],
+        "createdAt": "2025-11-30T21:38:12",
+        "ipLocation": "北京市",
+        "likeNum": 5
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 559843,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我想也是一种「要、靠、等。」思维。\n“等”救世主、“靠”着贵人、“要”他们的成果。\n想坐享其成，又急于求成，还不愿意承担责任和后果。",
+      "images": [],
+      "createdAt": "2025-12-01T11:59:27",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 558199,
+        "userName": "海边躺平",
+        "content": "算不清楚，本质上是没有想清楚。大道至简，想清楚了，事物的本质往往是两句话就概括了。\n看到有很多是某某的粉丝，不管是谁的粉丝，粉丝这个词就很奇特。语言决定思想。站队了人，就有了立场，这是反逻辑的，独立思考，批评性思维，怎么能站队人呢？\n我认为是思维的惰性与责任的逃避。由于懒惰，所以不思考照搬，不想为自己负责，于是期待别人为自己负责，殊不知自己才是自己的救世主。于是这个群体有了一个特殊的称谓，粉丝。懒惰，不独立思考，无独立思考能力，同时期待别人为自己负责的人群。",
+        "images": [],
+        "createdAt": "2025-12-01T07:34:59",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 566083,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "对~\n（笑）\nわらう\n哈哈",
+      "images": [],
+      "createdAt": "2025-12-02T21:58:57",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 561613,
+        "userName": "葱田倒伏中",
+        "content": "w\n突然笑了哈哈哈？",
+        "images": [],
+        "createdAt": "2025-12-01T21:18:01",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

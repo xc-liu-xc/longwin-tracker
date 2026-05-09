@@ -1,0 +1,90 @@
+{
+  "postId": "54013",
+  "fetchedAt": "2026-05-09T16:35:46+08:00",
+  "totalCommentNum": 43,
+  "totalScanned": 29,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 401689,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "其实觉得有点荣幸，就是这一回，是从头开始“跟”，是从头开始“理”。\n.\n虽然WB上跟着老大从大号搬家到了二号，但毕竟还是同一个平台。这一回真的是全新的。\n.\n老大曾经在XQ“要”过他的XQ（文），曾经在WB“要”过他的WB（文），这次，应该不用“要”了。我来~",
+      "images": [],
+      "createdAt": "2025-11-11T13:29:32",
+      "ipLocation": "上海市",
+      "likeNum": 21
+    },
+    {
+      "type": "reply",
+      "id": 402919,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "24啊，全球统一的物理时间基础，每天一视同仁的，大家都在蓝星上，地球自转不可能对个体开小灶的",
+      "images": [],
+      "createdAt": "2025-11-11T13:55:42",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 401419,
+        "userName": "就爱乐乐乐",
+        "content": "米米一天是有四十八小时吧😆",
+        "images": [],
+        "createdAt": "2025-11-11T13:11:01",
+        "ipLocation": "香港特别行政区",
+        "likeNum": 3
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 404335,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，飞书文档也可以搜索，可以导出成WORD。\n.\n思维导图，我不是用飞书文档做的，模块不够，用了X-mind~",
+      "images": [],
+      "createdAt": "2025-11-11T15:14:44",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 403525,
+        "userName": "小呆猪-",
+        "content": "米米我是用obsidian，也是离线软件，搜索的时候方便一点。目前材料基本是先搬运了，在一点一点学习中。WB复习到2020.2.17.  等之后学习第二遍的时候再加入双链笔记整理（类似于米米用飞书整理出思维导图）",
+        "images": [],
+        "createdAt": "2025-11-11T14:25:56",
+        "ipLocation": "福建省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 405493,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "X mind可以转高清图或者转PDF，我作为附件的",
+      "images": [],
+      "createdAt": "2025-11-11T17:06:59",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 403525,
+        "userName": "小呆猪-",
+        "content": "米米我是用obsidian，也是离线软件，搜索的时候方便一点。目前材料基本是先搬运了，在一点一点学习中。WB复习到2020.2.17.  等之后学习第二遍的时候再加入双链笔记整理（类似于米米用飞书整理出思维导图）",
+        "images": [],
+        "createdAt": "2025-11-11T14:25:56",
+        "ipLocation": "福建省",
+        "likeNum": 7
+      },
+      "replyTo": {
+        "id": 405331,
+        "userName": "头像好看吗_我画的",
+        "content": "不敢想飞书的模块不够用是到了什么样的界面，嘿嘿\n\nps：请问米米，x-mind可以导入飞书的文件吗？还是复制粘贴过去。",
+        "images": []
+      }
+    }
+  ]
+}

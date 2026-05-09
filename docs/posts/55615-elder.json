@@ -1,0 +1,43 @@
+{
+  "postId": "55615",
+  "fetchedAt": "2026-05-09T16:24:29+08:00",
+  "totalCommentNum": 94,
+  "totalScanned": 73,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 522865,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【高频词汇】\n体系，19次\n策略，18次\n问题，28次\n观察，14 次\n交易，8次\n---然后，因为是音频，也听写了---\n【语气词】\n呢，29次\n啊，6 次\n吧，5次\n然后……，13次\n就是……，25次\n（严谨又可爱）",
+      "images": [],
+      "createdAt": "2025-11-24T21:44:27",
+      "ipLocation": "上海市",
+      "likeNum": 38
+    },
+    {
+      "type": "reply",
+      "id": 524077,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哇~~终于，有人提醒我了！！！\n这个文档三年前就听写了，也分享给过很多人呢，以前是一些群，后来微博，从来没有人说出来。\n谢谢你的认真。仔细看了~~~开心^ ^",
+      "images": [],
+      "createdAt": "2025-11-25T10:37:22",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 523675,
+        "userName": "lucky_ETF",
+        "content": "“是买长线参仓位呢”，是不是多了一个字呀？",
+        "images": [],
+        "createdAt": "2025-11-25T07:43:56",
+        "ipLocation": "北京市",
+        "likeNum": 3
+      },
+      "replyTo": null
+    }
+  ]
+}

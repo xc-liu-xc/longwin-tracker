@@ -1,0 +1,53 @@
+{
+  "postId": "55957",
+  "fetchedAt": "2026-05-09T16:22:41+08:00",
+  "totalCommentNum": 43,
+  "totalScanned": 36,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 550237,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊，看得见啊，我就昨天翻的。\n刚去翻了翻，也还在呀…",
+      "images": [],
+      "createdAt": "2025-11-28T11:59:32",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 549487,
+        "userName": "攒够500万就躺平",
+        "content": "第一篇微博貌似已经看不到了，唉",
+        "images": [],
+        "createdAt": "2025-11-28T09:30:43",
+        "ipLocation": "山东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 555961,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，后面还说过一个收纳用的，但那个不着急，这次说这些应该是因为HK火灾的事。",
+      "images": [],
+      "createdAt": "2025-11-29T21:21:58",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 555559,
+        "userName": "ETF拯救哈基咪",
+        "content": "原帖之后好像还提过，看到后在23年08月入手了一个收纳包～",
+        "images": [],
+        "createdAt": "2025-11-29T19:33:57",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

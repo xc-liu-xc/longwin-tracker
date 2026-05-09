@@ -1,0 +1,32 @@
+{
+  "postId": "55837",
+  "fetchedAt": "2026-05-09T16:23:22+08:00",
+  "totalCommentNum": 21,
+  "totalScanned": 14,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 540991,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "飞书文档可以，我觉得挺方便的",
+      "images": [],
+      "createdAt": "2025-11-26T14:21:52",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 540907,
+        "userName": "Ningx",
+        "content": "我还喜欢那种手机电脑可以同步的 嘿嘿",
+        "images": [],
+        "createdAt": "2025-11-26T14:08:31",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

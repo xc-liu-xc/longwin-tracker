@@ -1,0 +1,32 @@
+{
+  "postId": "53395",
+  "fetchedAt": "2026-05-09T16:39:03+08:00",
+  "totalCommentNum": 76,
+  "totalScanned": 50,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 383563,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "就昨天老大小组里发那篇长文",
+      "images": [],
+      "createdAt": "2025-11-07T13:23:06",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 381337,
+        "userName": "一切随心",
+        "content": "小白求指教，请问这些文章在哪里看的？我在且慢和有知有行都找不到",
+        "images": [],
+        "createdAt": "2025-11-07T08:19:56",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

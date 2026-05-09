@@ -1,0 +1,32 @@
+{
+  "postId": "54031",
+  "fetchedAt": "2026-05-09T16:35:46+08:00",
+  "totalCommentNum": 7,
+  "totalScanned": 5,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 602599,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯嗯，改了，谢谢你的认真~~",
+      "images": [],
+      "createdAt": "2025-12-07T17:26:49",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 602095,
+        "userName": "攒养老金的dc",
+        "content": "米米，又抓了个小虫，图72的核心结论“股票（Stocks）的实际负回报概率随时间延长显著降低（5 年期 25.8%，10 年期 17.6%，25 年期 0.8%）；”25年期是7.5%",
+        "images": [],
+        "createdAt": "2025-12-07T14:39:57",
+        "ipLocation": "新疆维吾尔自治区",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

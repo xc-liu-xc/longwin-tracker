@@ -1,0 +1,43 @@
+{
+  "postId": "53701",
+  "fetchedAt": "2026-05-09T16:37:03+08:00",
+  "totalCommentNum": 21,
+  "totalScanned": 18,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 388033,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "美元在长期具有极强的货币霸权地位\n.\n我给【图31】也加了一张“横轴”（从左到右）的经济体名称表，颜色标注同【图31】\n.\n蓝色 → 发达市场\n灰色 → 新兴市场\n.\n55 个经济体中，仅荷兰、新加坡、瑞士这 3 个国家的货币在过去一个世纪中对美元升值。\n",
+      "images": [],
+      "createdAt": "2025-11-09T10:36:52",
+      "ipLocation": "上海市",
+      "likeNum": 13
+    },
+    {
+      "type": "reply",
+      "id": 464251,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "对哦，我懒，直接复制上面的字了，我去改改，谢谢提醒和你的认真~",
+      "images": [],
+      "createdAt": "2025-11-17T20:35:42",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 464191,
+        "userName": "爱吃肉肉的大发",
+        "content": "新米，图32、33的（Nominal）柱子颜色是不是算“中蓝”，不算深灰色，我换了手机、电脑看都不算是灰色系的。\n此外，郑重感谢新米你分享自己读报告的学习笔记帮助巩固学习，谢谢！",
+        "images": [],
+        "createdAt": "2025-11-17T20:24:57",
+        "ipLocation": "浙江省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

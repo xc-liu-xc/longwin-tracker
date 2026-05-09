@@ -1,0 +1,32 @@
+{
+  "postId": "56059",
+  "fetchedAt": "2026-05-09T16:21:59+08:00",
+  "totalCommentNum": 20,
+  "totalScanned": 18,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 550477,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "噪音太多，分贝高，刺耳，也会有损健康。没有，远离，不碰到，是最好的。",
+      "images": [],
+      "createdAt": "2025-11-28T12:50:23",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 550405,
+        "userName": "我要你稳稳的幸福",
+        "content": "大多数都是噪音。",
+        "images": [],
+        "createdAt": "2025-11-28T12:34:44",
+        "ipLocation": "河南省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

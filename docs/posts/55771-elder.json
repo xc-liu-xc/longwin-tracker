@@ -1,0 +1,32 @@
+{
+  "postId": "55771",
+  "fetchedAt": "2026-05-09T16:23:19+08:00",
+  "totalCommentNum": 53,
+  "totalScanned": 48,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 534259,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "真诚与靠谱是唯一的出路。\n日常不能抱有侥幸心理。\n我自己很反感不靠谱的人，还次次有借口。肯定不会对这类人有任何的信任，自己绝对不愿意成为这种人。\n",
+      "images": [],
+      "createdAt": "2025-11-26T09:37:50",
+      "ipLocation": "上海市",
+      "likeNum": 23,
+      "parent": {
+        "id": 530059,
+        "userName": "lucky_ETF",
+        "content": "靠谱的人会一直靠谱，相反不靠谱的人千万别堵这次会靠谱",
+        "images": [],
+        "createdAt": "2025-11-26T08:53:11",
+        "ipLocation": "北京市",
+        "likeNum": 10
+      },
+      "replyTo": null
+    }
+  ]
+}

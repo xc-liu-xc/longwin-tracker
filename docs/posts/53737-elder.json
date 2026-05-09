@@ -1,0 +1,53 @@
+{
+  "postId": "53737",
+  "fetchedAt": "2026-05-09T16:37:04+08:00",
+  "totalCommentNum": 17,
+  "totalScanned": 10,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 389083,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我觉得没问题誒。看了一眼老大提供的数据源。现在：CAPE 39.6，PE 30.2。近十年平均：CAPE 31.5， PE 25.2。",
+      "images": [],
+      "createdAt": "2025-11-09T19:18:57",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 388939,
+        "userName": "Caicai",
+        "content": "收藏感谢米米！没明白图49里面为啥美国的最新市盈率（P/E）比它过去 10 年期周期调整市盈率（CAPE）还低呢",
+        "images": [],
+        "createdAt": "2025-11-09T18:08:26",
+        "ipLocation": "贵州省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 404725,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没看错~\n.\n一般都会说：\"千禧年泡沫\"，或者\"2000年互联网泡沫形成期间\"的这样描述那段历史。\n.\nCAPE最高是1999年12月，44倍，然后就千禧年了。现在是40倍（发报告的时候）",
+      "images": [],
+      "createdAt": "2025-11-11T15:44:00",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 404263,
+        "userName": "头像好看吗_我画的",
+        "content": "米米，我有个小小的疑问，\n前文“唯一一次当前周期调整市盈率（CAPE）高于当前水平的时期是 2000 年互联网泡沫形成期间”\n\n图51。\n比CAPE NOW高的是1999年吗45左右，2000年那个点点的位置在NOW的线左边，是35~40之间。NOW是40。是我图看错了吗？\n",
+        "images": [],
+        "createdAt": "2025-11-11T15:09:08",
+        "ipLocation": "江西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "54193",
+  "fetchedAt": "2026-05-09T16:34:55+08:00",
+  "totalCommentNum": 33,
+  "totalScanned": 31,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 413887,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊，原来是这样吃啊，我一直以为是：恒生烧、恒生刺身、恒生天妇罗…",
+      "images": [],
+      "createdAt": "2025-11-12T13:27:20",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 413635,
+        "userName": "LG攒钱记",
+        "content": "一鱼三吃，清蒸（150S计划），红烧（致敬），油炸（网格）。\n\n网格和致敬的图，我先保存下来了，后面仿制一下。哈哈哈！",
+        "images": [],
+        "createdAt": "2025-11-12T13:09:59",
+        "ipLocation": "江苏省",
+        "likeNum": 16
+      },
+      "replyTo": null
+    }
+  ]
+}

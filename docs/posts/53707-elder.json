@@ -1,0 +1,22 @@
+{
+  "postId": "53707",
+  "fetchedAt": "2026-05-09T16:37:03+08:00",
+  "totalCommentNum": 10,
+  "totalScanned": 6,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 388087,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看原文，重要的一句话来了：\n——\nWhen it comes to predicting 25-year real returns, starting P/E ratios again stand out as one of the most powerful lead indicators.\n——\n在预测 25 年期实际回报时，期初市盈率（P/E 比率）再次成为最有效的领先指标之一。\n——",
+      "images": [],
+      "createdAt": "2025-11-09T10:52:27",
+      "ipLocation": "上海市",
+      "likeNum": 12
+    }
+  ]
+}

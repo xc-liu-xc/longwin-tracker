@@ -1,0 +1,53 @@
+{
+  "postId": "56179",
+  "fetchedAt": "2026-05-09T16:21:50+08:00",
+  "totalCommentNum": 40,
+  "totalScanned": 33,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 552787,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "Top2其实有点难的，比较古早，有些用语可能会很陌生，万一有不懂的地方可以先跳过，反正之后又会再看好几遍的。\nTop3《漫步华尔街》可以先看。",
+      "images": [],
+      "createdAt": "2025-11-29T10:59:32",
+      "ipLocation": "上海市",
+      "likeNum": 23,
+      "parent": {
+        "id": 552745,
+        "userName": "张小越然",
+        "content": "这周买了基本书，慢慢的，从米米top2喜欢的聪明的投资者看起",
+        "images": [],
+        "createdAt": "2025-11-29T10:37:56",
+        "ipLocation": "重庆市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 554827,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "导担心我们想他",
+      "images": [],
+      "createdAt": "2025-11-29T15:32:47",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 553297,
+        "userName": "Ningx",
+        "content": "导来汇报工作 真的哭晕了我",
+        "images": [],
+        "createdAt": "2025-11-29T13:24:15",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

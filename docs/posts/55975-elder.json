@@ -1,0 +1,74 @@
+{
+  "postId": "55975",
+  "fetchedAt": "2026-05-09T16:22:45+08:00",
+  "totalCommentNum": 46,
+  "totalScanned": 37,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 547657,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我很多数据统计图表都是因为E大的一句话，一篇帖子，一个截屏…\n而我幸运的是——做好了，我可以反馈给他，是因为哪句话、哪篇文，获得的灵感和启发。",
+      "images": [],
+      "createdAt": "2025-11-27T22:20:16",
+      "ipLocation": "上海市",
+      "likeNum": 16,
+      "parent": {
+        "id": 547135,
+        "userName": "上课的猫咪",
+        "content": "看到老大一句评论特别适合米米，老大说“我的很多灵感，都是通过别人一句话得来的。然后和自己的东西融会贯通发展出新的思考方向”",
+        "images": [],
+        "createdAt": "2025-11-27T22:00:15",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 547663,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "去了去了，谢谢提醒~",
+      "images": [],
+      "createdAt": "2025-11-27T22:20:28",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 546721,
+        "userName": "Growing",
+        "content": "米，博导进教室了！",
+        "images": [],
+        "createdAt": "2025-11-27T21:47:04",
+        "ipLocation": "河北省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 547705,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你厉害了，积极，正面，向上，迈进！",
+      "images": [],
+      "createdAt": "2025-11-27T22:23:52",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 546655,
+        "userName": "yuable",
+        "content": "中欧：向前一步，购买工业基金，上工业的财富列车，向钱更近一步😂",
+        "images": [],
+        "createdAt": "2025-11-27T21:46:17",
+        "ipLocation": "黑龙江省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

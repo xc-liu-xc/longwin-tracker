@@ -1,0 +1,85 @@
+{
+  "postId": "54163",
+  "fetchedAt": "2026-05-09T16:34:51+08:00",
+  "totalCommentNum": 22,
+  "totalScanned": 14,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 408427,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "个人理解：\n关键词——平衡——\n【股】在 “增长潜力” 与 “稳定性” 间做平衡。\n【债】在“收益潜力” 与 “安全性” 间做权衡。\n【股债配置】在“股票增长潜力” 与 “债券稳定性” 间做动态平衡。",
+      "images": [],
+      "createdAt": "2025-11-12T09:44:13",
+      "ipLocation": "上海市",
+      "likeNum": 13
+    },
+    {
+      "type": "reply",
+      "id": 409615,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我的方法是：早睡",
+      "images": [],
+      "createdAt": "2025-11-12T10:28:46",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 408451,
+        "userName": "chowlay",
+        "content": "太牛了，好想问米米如何解决冬天早起冷的问题，感觉天一冷我就起不来了。",
+        "images": [],
+        "createdAt": "2025-11-12T09:48:30",
+        "ipLocation": "贵州省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 431023,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你看得好认真啊，嗯嗯，改了，谢谢~",
+      "images": [],
+      "createdAt": "2025-11-13T18:10:12",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 430687,
+        "userName": "头像好看吗_我画的",
+        "content": "是不是小虫子？“年化股债回报差：• 名义（左）、实际（中）、美元计价（右）”\n\n这个应该是没有的吧",
+        "images": [],
+        "createdAt": "2025-11-13T17:22:16",
+        "ipLocation": "江西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 431065,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊，好像是哦，谢谢你。我回家改，谢谢~",
+      "images": [],
+      "createdAt": "2025-11-13T18:18:54",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 427957,
+        "userName": "ffeng",
+        "content": "终于把米米的笔记抄了一遍，非常感谢，如果没有米米带着学，自己是看不了的，再次感谢。我觉得下面各市场列举的经济体是不是有笔误：\n1. 短期（5 年，图 92）\n新兴市场（如意大利、南非、中国台湾）中的意大利\n2. 中期（25 年，图 93）\n发达市场（如丹麦、瑞典、中国台湾）中的台湾\n3. 长期（50 年，图 94）\n新兴市场（如印度、南非、中国香港）中的香港\n2. 中期（25 年，图 97）\n发达市场（如丹麦、瑞典、中国台湾）中的台湾\n4. 超长期（100 年，图 99）\n新兴市场（如南非、葡萄牙）中的葡萄牙\n1. 短期（5 年，图 100）\n新兴市场（如意大利、西班牙、奥地利）\n2. 中期（25 年，图 101）\n新兴市场（如中国台湾、印度、挪威）中的挪威\n发达市场（如丹麦、韩国、泰国）中的韩国、泰国\n3. 长期（50 年，图 102）\n新兴市场（如印度、瑞典）中的瑞典\n发达市场（如美国、南非、荷兰）中的南非\n4. 超长期（100 年，图 103）\n新兴市场（如瑞典、美国、印度）中的瑞典、美国",
+        "images": [],
+        "createdAt": "2025-11-13T14:50:35",
+        "ipLocation": "浙江省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "postId": "53725",
+  "fetchedAt": "2026-05-09T16:37:03+08:00",
+  "totalCommentNum": 18,
+  "totalScanned": 11,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 388333,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "一想起席勒市盈率可以追溯到我们清朝……我真的…\n.\n原文“我们的市盈率（尤其是周期调整市盈率）数据在历史上较为有限，因为许多国家的盈利数据仅从 20 世纪 60 年代开始才可得。 在此之前，这类数据仅存在于少数市场”的“少数市场”。嗯，美国有。\n.\n那天我记得，晚上十点半左右吧，初稿画好了，赶紧发给老大，东西都在，我也没有其他话，只有“居然可以追溯到1871年…（清）同治十年… （日）明治三年…”\n.\n连老大都感慨“太遥远了”~\n.\n哈哈。\n.\n想起牛顿“炒股”没炒好时，我们这边是乾隆皇帝盖章boy，脑子理的画面就是一边经典力学、手稿公式、南海股票凭证；一边甄嬛传、延禧宫略、铁齿铜牙纪晓岚…这样的“交错感”，真的就觉得很奇妙。\n",
+      "images": [],
+      "createdAt": "2025-11-09T12:31:53",
+      "ipLocation": "上海市",
+      "likeNum": 15
+    },
+    {
+      "type": "reply",
+      "id": 418945,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个观察很有意思誒~\n我看得时候也注意到这个数字，然后看了看原文，PE这部分\n- 图42，确实是25年，是Median  return 回报中位数。\n- 图48 ，是从1957年开始算，其实是Average annual return 平均年度回报 （标题上有）。年均，不是年化。（年化是Annualised return）\n",
+      "images": [],
+      "createdAt": "2025-11-13T09:04:25",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 418747,
+        "userName": "DragonL915",
+        "content": "市盈率最低区间≤8％的25年年化回报也才9％，为何低于平均值PE的年化回报能达到20.2％？",
+        "images": [],
+        "createdAt": "2025-11-13T07:14:33",
+        "ipLocation": "上海市",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 457549,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没有啊，简单说：\n估值低，价格➗盈利，说明价格低，回报率高。\n股息高，股洗➗价格，说明价格低，回报率高。\n分子分母位置不一样呀",
+      "images": [],
+      "createdAt": "2025-11-15T12:27:57",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 457075,
+        "userName": "战火小阿蛮",
+        "content": "米米、最后一段的结论里的估值指标原文表述是不是有误啊、“期初估值较低的经济体股票组合年均回报均显著高于估值较高的经济体。”但股息率和PE 及CPAE好像是相反的耶？股息率高的回报高、股息率低的回报低、图表上是这么显示的呀、还是说我理解错了啊",
+        "images": [],
+        "createdAt": "2025-11-15T10:59:08",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 457579,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是呀，能顺畅做全球，就方便很多，发达市场比如美国，日本，都是开发了全球各种指数基金的，普通人就能正常买卖。",
+      "images": [],
+      "createdAt": "2025-11-15T12:36:20",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 418747,
+        "userName": "DragonL915",
+        "content": "市盈率最低区间≤8％的25年年化回报也才9％，为何低于平均值PE的年化回报能达到20.2％？",
+        "images": [],
+        "createdAt": "2025-11-13T07:14:33",
+        "ipLocation": "上海市",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 456853,
+        "userName": "DragonL915",
+        "content": "我觉得是地域分散+每年再平衡的效果，\n每年都能切换到低估的那一半经济体里，\n资本市场能完全开放的话，真好",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 457795,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "股息率是个指标，但measure它，是越高越好~",
+      "images": [],
+      "createdAt": "2025-11-15T13:33:13",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 457075,
+        "userName": "战火小阿蛮",
+        "content": "米米、最后一段的结论里的估值指标原文表述是不是有误啊、“期初估值较低的经济体股票组合年均回报均显著高于估值较高的经济体。”但股息率和PE 及CPAE好像是相反的耶？股息率高的回报高、股息率低的回报低、图表上是这么显示的呀、还是说我理解错了啊",
+        "images": [],
+        "createdAt": "2025-11-15T10:59:08",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 457615,
+        "userName": "战火小阿蛮",
+        "content": "哦哦 谢谢 是这个意思奥 我以为是那段意思是股息率 、PE、CAPE这3个作为估值指标 low的回报要高于high的 那就不对了 应该还是像你说的这样 才是对的 ",
+        "images": []
+      }
+    }
+  ]
+}

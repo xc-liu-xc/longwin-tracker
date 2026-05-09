@@ -1,0 +1,79 @@
+{
+  "postId": "54745",
+  "fetchedAt": "2026-05-09T16:29:07+08:00",
+  "totalCommentNum": 49,
+  "totalScanned": 39,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 468391,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "图片也上传呀？这个时不时一直要更新的，每次还得打开网盘传一遍，我觉得太麻烦了。\n网盘就放长期资料吧~",
+      "images": [],
+      "createdAt": "2025-11-18T11:24:28",
+      "ipLocation": "上海市",
+      "likeNum": 17,
+      "parent": {
+        "id": 467803,
+        "userName": "小卡拉米橙子",
+        "content": "谢谢米米分享，冒昧问一下这些资料会放在小组网盘吗？",
+        "images": [],
+        "createdAt": "2025-11-18T11:01:45",
+        "ipLocation": "湖北省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 469297,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "博导大隔壁授课呢~",
+      "images": [],
+      "createdAt": "2025-11-18T12:53:43",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 469255,
+        "userName": "E想天开06",
+        "content": "托跌跌的福，哈哈哈，博导去哪了？",
+        "images": [],
+        "createdAt": "2025-11-18T12:45:59",
+        "ipLocation": "中国",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 469321,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "在小组评论区，我的主页且慢谁都能看见的，没法设置范围。不方便发在这里的…",
+      "images": [],
+      "createdAt": "2025-11-18T12:55:06",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 467803,
+        "userName": "小卡拉米橙子",
+        "content": "谢谢米米分享，冒昧问一下这些资料会放在小组网盘吗？",
+        "images": [],
+        "createdAt": "2025-11-18T11:01:45",
+        "ipLocation": "湖北省",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 468877,
+        "userName": "Andrew_Li668",
+        "content": "请问小组网盘有链接吗？谢谢啦！",
+        "images": []
+      }
+    }
+  ]
+}

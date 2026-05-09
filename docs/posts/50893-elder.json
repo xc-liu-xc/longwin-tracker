@@ -1,6 +1,6 @@
 {
   "postId": "50893",
-  "fetchedAt": "2026-05-09T11:45:02+08:00",
+  "fetchedAt": "2026-05-09T17:06:38+08:00",
   "totalCommentNum": 6960,
   "totalScanned": 6906,
   "expandedTopLevel": 1,
@@ -13,6 +13,7 @@
       "author": "新米练习菌",
       "authorUserId": "3194882",
       "content": "E大好~",
+      "images": [],
       "createdAt": "2025-10-23T11:07:12",
       "ipLocation": "上海市",
       "likeNum": 1

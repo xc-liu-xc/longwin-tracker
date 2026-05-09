@@ -1,0 +1,154 @@
+{
+  "postId": "54085",
+  "fetchedAt": "2026-05-09T16:35:49+08:00",
+  "totalCommentNum": 76,
+  "totalScanned": 59,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 405283,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "明天做一件勾一件的用的。还好最近行情没什么事，不然，真的，忙也忙si了要，哈哈~",
+      "images": [],
+      "createdAt": "2025-11-11T16:46:27",
+      "ipLocation": "上海市",
+      "likeNum": 19
+    },
+    {
+      "type": "top",
+      "id": 405757,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "下班了，肚子饿了。一想到这里其实是个基金平台，碎碎念这些，就觉得…很怪的…",
+      "images": [],
+      "createdAt": "2025-11-11T18:01:23",
+      "ipLocation": "上海市",
+      "likeNum": 9
+    },
+    {
+      "type": "top",
+      "id": 405805,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "又看到WB有朋友留言说“可惜了”，可惜啥？远离了纷扰与喧嚣，更安静和专心地做事，效率也高了，感觉好极了。\n.\n我其实无法想象在WB的时候，可以定定心心地把德银的报告这么快看完 (快了，看到42/52页)。乱七八糟的破事防不胜防的，有的还屏蔽不了，心理警报⚠️器一直拉着，耗能。\n.\n人，很多时候，只会站自己角度、从自己利益出发地看问题。觉得可惜，是在可惜自己看不到了。\n.\n还是那个观点：\n劣币驱逐良币。\n\n损失的，其实也不是离开的良币，而是留下的良币。",
+      "images": [],
+      "createdAt": "2025-11-11T18:10:28",
+      "ipLocation": "上海市",
+      "likeNum": 29
+    },
+    {
+      "type": "reply",
+      "id": 405865,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大的回复还不在最前面的，而且回得挺勤，挺多的。\n.\nGZH的评论以前的只能放100条出来，都是老大精选过的，我就干脆都存了。转文字之后，再找老大的，反而会快些~",
+      "images": [],
+      "createdAt": "2025-11-11T18:23:52",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 405739,
+        "userName": "LG攒钱记",
+        "content": "感觉GZH的E大评论是真的难整理呀，要不断的下拉查找。。。",
+        "images": [],
+        "createdAt": "2025-11-11T17:56:44",
+        "ipLocation": "江苏省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 405871,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "加油~成就感~达成感~",
+      "images": [],
+      "createdAt": "2025-11-11T18:24:50",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 405775,
+        "userName": "lucky_ETF",
+        "content": "一件一件打勾的感觉超爽，我的计划也快完成啦，每天地铁上都在努力，感觉特别好",
+        "images": [],
+        "createdAt": "2025-11-11T18:04:10",
+        "ipLocation": "北京市",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 405979,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "一点都不怀念过去，因为现在更好；\n一点都不羡慕别人，因为我的更好~",
+      "images": [],
+      "createdAt": "2025-11-11T18:46:16",
+      "ipLocation": "上海市",
+      "likeNum": 24,
+      "parent": {
+        "id": 405805,
+        "userName": "新米练习菌",
+        "content": "又看到WB有朋友留言说“可惜了”，可惜啥？远离了纷扰与喧嚣，更安静和专心地做事，效率也高了，感觉好极了。\n.\n我其实无法想象在WB的时候，可以定定心心地把德银的报告这么快看完 (快了，看到42/52页)。乱七八糟的破事防不胜防的，有的还屏蔽不了，心理警报⚠️器一直拉着，耗能。\n.\n人，很多时候，只会站自己角度、从自己利益出发地看问题。觉得可惜，是在可惜自己看不到了。\n.\n还是那个观点：\n劣币驱逐良币。\n\n损失的，其实也不是离开的良币，而是留下的良币。",
+        "images": [],
+        "createdAt": "2025-11-11T18:10:28",
+        "ipLocation": "上海市",
+        "likeNum": 29
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 406285,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "年度大折子，说好了，理好的原档，一年给“一包”，不用那么频繁，毕竟是当备份~",
+      "images": [],
+      "createdAt": "2025-11-11T19:56:26",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 406207,
+        "userName": "攒够500万就躺平",
+        "content": "元旦给老大是手误吗~（下个递折子日是12.1哎）",
+        "images": [],
+        "createdAt": "2025-11-11T19:39:38",
+        "ipLocation": "山东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 418909,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "本来就是老大的东西，只是一片一片拾起，摆放整理好，归还给原作者~",
+      "images": [],
+      "createdAt": "2025-11-13T08:55:23",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 406207,
+        "userName": "攒够500万就躺平",
+        "content": "元旦给老大是手误吗~（下个递折子日是12.1哎）",
+        "images": [],
+        "createdAt": "2025-11-11T19:39:38",
+        "ipLocation": "山东省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 418519,
+        "userName": "KYOKO玲珑酱",
+        "content": "哈哈好可爱 一包大礼🎁老大满意接住ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧",
+        "images": []
+      }
+    }
+  ]
+}

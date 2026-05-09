@@ -1,0 +1,43 @@
+{
+  "postId": "56431",
+  "fetchedAt": "2026-05-09T16:21:04+08:00",
+  "totalCommentNum": 47,
+  "totalScanned": 40,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 564451,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "抛砖引玉，思路打开~",
+      "images": [],
+      "createdAt": "2025-12-02T12:30:08",
+      "ipLocation": "上海市",
+      "likeNum": 6
+    },
+    {
+      "type": "reply",
+      "id": 564739,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这是A股的…",
+      "images": [],
+      "createdAt": "2025-12-02T13:16:47",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 563851,
+        "userName": "头像好看吗_我画的",
+        "content": "这个想法是个新课题，我个人感觉，只是感觉，感觉需要用到美股账户。",
+        "images": [],
+        "createdAt": "2025-12-02T11:41:23",
+        "ipLocation": "江西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

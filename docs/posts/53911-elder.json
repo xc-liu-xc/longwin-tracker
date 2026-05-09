@@ -1,0 +1,32 @@
+{
+  "postId": "53911",
+  "fetchedAt": "2026-05-09T16:37:00+08:00",
+  "totalCommentNum": 6,
+  "totalScanned": 5,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 406315,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "那肯定啊，股票就是一家家公司，经济好了，公司们也赚钱~",
+      "images": [],
+      "createdAt": "2025-11-11T19:58:46",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 403321,
+        "userName": "自虐的骑行者",
+        "content": "经济越好，投资回报越高",
+        "images": [],
+        "createdAt": "2025-11-11T14:15:07",
+        "ipLocation": "广西壮族自治区",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "postId": "53611",
+  "fetchedAt": "2026-05-09T16:37:14+08:00",
+  "totalCommentNum": 21,
+  "totalScanned": 13,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 386875,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "本来看摘要不知道报告中的“56个经济体”是哪56个，看到【图16】，清楚了~",
+      "images": [],
+      "createdAt": "2025-11-08T13:11:56",
+      "ipLocation": "上海市",
+      "likeNum": 8
+    },
+    {
+      "type": "reply",
+      "id": 387175,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "“当实际 GDP 增长 > 7% 时，股票 25 年实际回报中位数达到最高（122）”，122个样本数~（有个括号的)\n.\n图12中有，最右边那根柱子。\n.\n意思是，当GDP>7%，高、正回报率的样本最多，回报率中位数在9~10%（左纵轴）的样本有122个。\n",
+      "images": [],
+      "createdAt": "2025-11-08T16:27:43",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 387049,
+        "userName": "lucky_ETF",
+        "content": "请问，图12“股票25年实际回报中位数达到最高122”是不是笔误了呀，",
+        "images": [],
+        "createdAt": "2025-11-08T15:24:32",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 387193,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "其他不了解，只知道俄罗斯GDP只有我们广东省的规模…",
+      "images": [],
+      "createdAt": "2025-11-08T16:31:30",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 386935,
+        "userName": "萤火虫之光",
+        "content": "大鹅都是新兴市场刷新了我的认知。谢谢米米带我涨见识。",
+        "images": [],
+        "createdAt": "2025-11-08T14:04:36",
+        "ipLocation": "湖南省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

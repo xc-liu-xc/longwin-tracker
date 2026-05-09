@@ -1,0 +1,58 @@
+{
+  "postId": "54895",
+  "fetchedAt": "2026-05-09T16:28:16+08:00",
+  "totalCommentNum": 55,
+  "totalScanned": 46,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 475633,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "Yes~ 颗粒度到\"天\"了~~(但图，周期太长的，只能用\"月”，\"日\"显示不下)",
+      "images": [],
+      "createdAt": "2025-11-19T16:18:24",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 475537,
+        "userName": "攒够500万就躺平",
+        "content": "E大不开课的日子里，米米开课，太幸福了",
+        "images": [],
+        "createdAt": "2025-11-19T16:02:55",
+        "ipLocation": "山东省",
+        "likeNum": 11
+      },
+      "replyTo": {
+        "id": 475573,
+        "userName": "攒够500万就躺平",
+        "content": "我怎么说看着这么熟悉，原来是10月7日的WB的更新版哈哈",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 475669,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "19年+真的是蛮可怕的，跌那么久…买在了“下跌的起点”的话，真的…",
+      "images": [],
+      "createdAt": "2025-11-19T16:23:48",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 475543,
+        "userName": "无-",
+        "content": "涨起来没有顶，跌的时候看到了70定律，然后最可怕的是阴跌19年多，人生确实没有几个20年，你做的图对照着老大的帖子一起看，能理解的更好，谢谢❤️。",
+        "images": [],
+        "createdAt": "2025-11-19T16:03:35",
+        "ipLocation": "北京市",
+        "likeNum": 9
+      },
+      "replyTo": null
+    }
+  ]
+}

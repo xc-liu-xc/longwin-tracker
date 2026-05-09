@@ -1,0 +1,58 @@
+{
+  "postId": "53779",
+  "fetchedAt": "2026-05-09T16:37:09+08:00",
+  "totalCommentNum": 78,
+  "totalScanned": 66,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 400201,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "请问上次11/1 gzh的时候，老大回复你的留言，我图存了，你给老大的留言内容方便告诉我吗？啊，我在整理gzh，但是没有翻到你的留言，我想把对话补齐。公开场合不好的，wb私信告诉我也醒，啊，不方便也没关系。",
+      "images": [],
+      "createdAt": "2025-11-11T06:50:14",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 399565,
+        "userName": "ZZ-369",
+        "content": "真的\"叹为观止“！新米真的是成大事的人啊！且效率这么高，还钻研得那么深！",
+        "images": [],
+        "createdAt": "2025-11-10T22:16:40",
+        "ipLocation": "天津市",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 404905,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯嗯，我看到了，收到了，存好了，晚上回去录入理好，谢谢~~",
+      "images": [],
+      "createdAt": "2025-11-11T16:05:14",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 399565,
+        "userName": "ZZ-369",
+        "content": "真的\"叹为观止“！新米真的是成大事的人啊！且效率这么高，还钻研得那么深！",
+        "images": [],
+        "createdAt": "2025-11-10T22:16:40",
+        "ipLocation": "天津市",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 404839,
+        "userName": "ZZ-369",
+        "content": "新米，不好意思刚看到，wb给你留言了，你今看下截图哈。",
+        "images": []
+      }
+    }
+  ]
+}
