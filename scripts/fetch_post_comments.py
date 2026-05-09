@@ -21,7 +21,7 @@ import hashlib
 import json
 import os
 import time
-from datetime import datetime, timezone, timedelta
+from datetime import date, datetime, timezone, timedelta
 from typing import Optional
 
 import requests
@@ -41,6 +41,10 @@ TARGET_USERS    = {           # brokerUserId -> display name
 }
 SLEEP_BETWEEN   = 0.4
 MAX_PAGES_GUARD = 1000        # safety net
+RECENT_DAYS     = 7           # always re-fetch posts within this window
+                              # (posts-index.json's commentNum is frozen at first
+                              # crawl, so stale-count incremental check would
+                              # otherwise skip old posts forever)
 
 
 def gen_x_sign() -> str:
@@ -313,16 +317,26 @@ def main():
 
     print(f"[comments] processing {len(targets)} posts (force={args.force})")
 
+    today = date.today()
     skipped = processed = failed = 0
     for i, post in enumerate(targets, 1):
         pid = post["id"]
         cnum = post.get("commentNum") or 0
         existing = elder_index.get(pid)
-        if not args.force and existing and existing.get("totalCommentNum") == cnum:
+        is_recent = False
+        post_date_str = post.get("date") or ""
+        if post_date_str:
+            try:
+                is_recent = (today - date.fromisoformat(post_date_str)).days <= RECENT_DAYS
+            except ValueError:
+                pass
+        if (not args.force and not is_recent
+                and existing and existing.get("totalCommentNum") == cnum):
             skipped += 1
             continue
 
-        print(f"[comments] [{i}/{len(targets)}] {pid} (commentNum={cnum}) ...")
+        tag = "recent" if is_recent else "stale"
+        print(f"[comments] [{i}/{len(targets)}] {pid} (commentNum={cnum}, {tag}) ...")
         data = process_post(pid, cnum, headers)
         if data is None:
             print(f"[comments] {pid}: FAILED")
