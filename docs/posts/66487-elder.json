@@ -1,0 +1,64 @@
+{
+  "postId": "66487",
+  "fetchedAt": "2026-05-09T14:44:40+08:00",
+  "totalCommentNum": 46,
+  "totalScanned": 36,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1294441,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我可以为业务加班，但绝对不为排练年会节目加班。\n绝不！",
+      "images": [],
+      "createdAt": "2026-02-05T18:21:46",
+      "ipLocation": "上海市",
+      "likeNum": 29
+    },
+    {
+      "type": "reply",
+      "id": 1295425,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "真的吗？户外…\n生理期的日子五点多起床和半生不熟的很多人坐大巴去一个陌生的地方爬山？？？\n或者一早6点得赶火车去外地，开业务大会然后户外游戏，那天还是4月1日…",
+      "images": [],
+      "createdAt": "2026-02-06T10:32:10",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 1294069,
+        "userName": "无-",
+        "content": "户外还能忍受，表演实在做不来，又不是很熟的人，那种尴尬，想想都受不了。",
+        "images": [],
+        "createdAt": "2026-02-05T16:04:53",
+        "ipLocation": "甘肃省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1295437,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我没有觉得自己差劲，也不会内疚，只是来上班而已，每个人有每个人的优势，有自己擅长的事。\n",
+      "images": [],
+      "createdAt": "2026-02-06T10:35:27",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 1295155,
+        "userName": "糖醋里脊",
+        "content": "简直就是同款的自己，昨天刚刚逃了年会。\n以前遇到这种情况总是逃，觉得自己太差劲了有点内疚，现在发现并不是只有我一人。\n我是真的很反感这样的事情，能躲就躲。",
+        "images": [],
+        "createdAt": "2026-02-06T07:20:46",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "postId": "65959",
+  "fetchedAt": "2026-05-09T14:45:50+08:00",
+  "totalCommentNum": 749,
+  "totalScanned": 668,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1276483,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大下午好~\n2026/1/30是150“大建仓”完成以来，现金仓位最高，A股仓位、AH仓位最低，权益类也最低的日子~\n珍惜钱就如同卓越的统帅爱惜自己的将士们。\n-\n【150】目前仓位情况：\nA：\t46.02%\nH：10.60%\nA+H：56.62%\n股：59.25%\n现金：31.39%\n【S】目前仓位情况：\nA：\t58.72%\nH：14.13%\nA+H：72.85%\n股：76.25%\n现金：16.74%\n-\n【图】\n仓位更新在：\nhttps://qieman.com/content/content-detail?postId=65755\n发车记录更新在：\nhttps://qieman.com/content/content-detail?postId=65761\n",
+      "images": [],
+      "createdAt": "2026-02-02T15:23:16",
+      "ipLocation": "上海市",
+      "likeNum": 63
+    },
+    {
+      "type": "reply",
+      "id": 1277467,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这两日市场风雨飘摇，但因为手上现金多多，反而十分淡然，还带着些许所期待。\n老大就是专业能力强，敏锐，洞悉着市场，有节奏地减持，调整到可攻可守最舒服状态。\n兵法有云：故用兵之法，無恃其不來，恃吾有以待之；無恃其不攻，恃吾有所不可攻也。\n老大的用心，都感受到了~",
+      "images": [],
+      "createdAt": "2026-02-02T15:47:33",
+      "ipLocation": "上海市",
+      "likeNum": 76,
+      "parent": {
+        "id": 1276483,
+        "userName": "新米练习菌",
+        "content": "E大下午好~\n2026/1/30是150“大建仓”完成以来，现金仓位最高，A股仓位、AH仓位最低，权益类也最低的日子~\n珍惜钱就如同卓越的统帅爱惜自己的将士们。\n-\n【150】目前仓位情况：\nA：\t46.02%\nH：10.60%\nA+H：56.62%\n股：59.25%\n现金：31.39%\n【S】目前仓位情况：\nA：\t58.72%\nH：14.13%\nA+H：72.85%\n股：76.25%\n现金：16.74%\n-\n【图】\n仓位更新在：\nhttps://qieman.com/content/content-detail?postId=65755\n发车记录更新在：\nhttps://qieman.com/content/content-detail?postId=65761\n",
+        "images": [],
+        "createdAt": "2026-02-02T15:23:16",
+        "ipLocation": "上海市",
+        "likeNum": 63
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1278565,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊，现金仓“新高”的日子应该是今天了，\n奇妙的是，净值刚历史新高过(1/29），(权益类）仓位却“新低”，发生在“同一时刻”，\n资产配置，低买高卖，妙啊",
+      "images": [],
+      "createdAt": "2026-02-02T17:22:22",
+      "ipLocation": "上海市",
+      "likeNum": 42,
+      "parent": {
+        "id": 1276483,
+        "userName": "新米练习菌",
+        "content": "E大下午好~\n2026/1/30是150“大建仓”完成以来，现金仓位最高，A股仓位、AH仓位最低，权益类也最低的日子~\n珍惜钱就如同卓越的统帅爱惜自己的将士们。\n-\n【150】目前仓位情况：\nA：\t46.02%\nH：10.60%\nA+H：56.62%\n股：59.25%\n现金：31.39%\n【S】目前仓位情况：\nA：\t58.72%\nH：14.13%\nA+H：72.85%\n股：76.25%\n现金：16.74%\n-\n【图】\n仓位更新在：\nhttps://qieman.com/content/content-detail?postId=65755\n发车记录更新在：\nhttps://qieman.com/content/content-detail?postId=65761\n",
+        "images": [],
+        "createdAt": "2026-02-02T15:23:16",
+        "ipLocation": "上海市",
+        "likeNum": 63
+      },
+      "replyTo": null
+    }
+  ]
+}

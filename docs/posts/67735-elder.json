@@ -1,0 +1,53 @@
+{
+  "postId": "67735",
+  "fetchedAt": "2026-05-09T14:12:57+08:00",
+  "totalCommentNum": 23,
+  "totalScanned": 20,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1541011,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "善良的人，不是老好人，是有智慧的好人。\n善良也不等于要原谅一切，那不叫善良，那叫是非不分、没有底线。\n必须有边界，有锋芒，有智慧，不然自己会很辛苦。\n可以不计较，可以放下，但绝对不会原谅，绝对不。",
+      "images": [],
+      "createdAt": "2026-02-22T16:55:08",
+      "ipLocation": "上海市",
+      "likeNum": 26,
+      "parent": {
+        "id": 1540723,
+        "userName": "悦屿清风",
+        "content": "我很少劝别人善良，和善，心软，真的不知道对方受过什么伤，能去伤害别人的人也绝非好人，有些人你就算不去惹她，她也会故意挑衅别人",
+        "images": [],
+        "createdAt": "2026-02-22T16:24:38",
+        "ipLocation": "海南省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1541047,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我也是，其实周围人如果香水太浓也会头晕的类型，还好有个空气净化器，一般没人注意，我先调开到最强。",
+      "images": [],
+      "createdAt": "2026-02-22T16:56:47",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 1540789,
+        "userName": "万里挑一",
+        "content": "我对气味特别敏感，所以大多数时候闻到的都是不好的味道。很多时候那种难闻的气味真的让我头晕，难受，尤其是在办公室，都没地方躲，有时喷点香水，抹点精油，让自己缓解一下。\n\n",
+        "images": [],
+        "createdAt": "2026-02-22T16:30:44",
+        "ipLocation": "北京市",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

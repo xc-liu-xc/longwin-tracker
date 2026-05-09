@@ -1,0 +1,43 @@
+{
+  "postId": "67525",
+  "fetchedAt": "2026-05-09T14:24:16+08:00",
+  "totalCommentNum": 630,
+  "totalScanned": 592,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1443991,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大中午好~\n【备注】E大语言系统中的“巴仙”：percent （英）百分 的“缩音”。还有时候叫：“趴”。\n",
+      "images": [],
+      "createdAt": "2026-02-20T11:48:38",
+      "ipLocation": "上海市",
+      "likeNum": 27
+    },
+    {
+      "type": "reply",
+      "id": 1445671,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "少了86.88%，那么精准到小数位数两位数的统计呀…\n嗯，我个人体会是：\n拒绝无效社交\n珍惜「真关系」，放弃「假热闹」。\n本来就联系着的，也不用特意说；\n本来就不联系的，也不用刻意说。\n节日才微信联系的，往往是半生不熟的人，\n群发祝福没有诚意，我个人收到也会反感。\n单独一个个值得写的人，其实平时就有着联系，但这样的亲人和挚友就那么几位，占比如果是13.12%，就算很高啦~\n然后，老大这边，因为每一年都会互联网上拜年的，会认真回写在评论区。不是不记得，是不敢，觉得微信再发一遍会打扰到。",
+      "images": [],
+      "createdAt": "2026-02-20T12:08:34",
+      "ipLocation": "上海市",
+      "likeNum": 63,
+      "parent": {
+        "id": 1443991,
+        "userName": "新米练习菌",
+        "content": "E大中午好~\n【备注】E大语言系统中的“巴仙”：percent （英）百分 的“缩音”。还有时候叫：“趴”。\n",
+        "images": [],
+        "createdAt": "2026-02-20T11:48:38",
+        "ipLocation": "上海市",
+        "likeNum": 27
+      },
+      "replyTo": null
+    }
+  ]
+}

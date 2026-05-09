@@ -1,0 +1,122 @@
+{
+  "postId": "67939",
+  "fetchedAt": "2026-05-09T14:10:34+08:00",
+  "totalCommentNum": 1444,
+  "totalScanned": 1395,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1565689,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大下午好~\n好棒呀，\n自定义幸运条件再叠加随机，还用了两个AI ！！！\n公平、公正、公开~\n",
+      "images": [],
+      "createdAt": "2026-02-24T13:19:07",
+      "ipLocation": "上海市",
+      "likeNum": 5
+    },
+    {
+      "type": "reply",
+      "id": 1567075,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "确实辛苦他们了。我也挺不好意思的。",
+      "images": [],
+      "createdAt": "2026-02-24T13:25:23",
+      "ipLocation": "北京市",
+      "likeNum": 187,
+      "parent": {
+        "id": 1566451,
+        "userName": "E起富起来",
+        "content": "感谢E大的红包，费心啦\n同时也辛苦且慢工作人员啦\n🌹🌹",
+        "images": [],
+        "createdAt": "2026-02-24T13:22:10",
+        "ipLocation": "重庆市",
+        "likeNum": 111
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1567255,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "买了彩票的大多数人都感觉这次要中500万……",
+      "images": [],
+      "createdAt": "2026-02-24T13:26:28",
+      "ipLocation": "北京市",
+      "likeNum": 215,
+      "parent": {
+        "id": 1565893,
+        "userName": "无脑跟投",
+        "content": "我感觉两次都有我",
+        "images": [],
+        "createdAt": "2026-02-24T13:19:48",
+        "ipLocation": "河南省",
+        "likeNum": 23
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 1575007,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "刚才概率算错了。应该是有2.24万分之一的机会，连续中两次。如果有人多评论了，那么概率还将上升。看看有没有人能万里挑一。概率还是不小的！",
+      "images": [],
+      "createdAt": "2026-02-24T15:35:20",
+      "ipLocation": "北京市",
+      "likeNum": 66
+    },
+    {
+      "type": "reply",
+      "id": 1575055,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "如果两次都排在前1000名评论，那么概率将大幅上升。是1/625！很可能会有人拿到6666元大奖！",
+      "images": [],
+      "createdAt": "2026-02-24T15:37:20",
+      "ipLocation": "北京市",
+      "likeNum": 67,
+      "parent": {
+        "id": 1575007,
+        "userName": "ETF拯救世界",
+        "content": "刚才概率算错了。应该是有2.24万分之一的机会，连续中两次。如果有人多评论了，那么概率还将上升。看看有没有人能万里挑一。概率还是不小的！",
+        "images": [],
+        "createdAt": "2026-02-24T15:35:20",
+        "ipLocation": "北京市",
+        "likeNum": 66
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1575109,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哇！！！一整个期待住了！！！\n",
+      "images": [],
+      "createdAt": "2026-02-24T15:40:04",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 1575007,
+        "userName": "ETF拯救世界",
+        "content": "刚才概率算错了。应该是有2.24万分之一的机会，连续中两次。如果有人多评论了，那么概率还将上升。看看有没有人能万里挑一。概率还是不小的！",
+        "images": [],
+        "createdAt": "2026-02-24T15:35:20",
+        "ipLocation": "北京市",
+        "likeNum": 66
+      },
+      "replyTo": {
+        "id": 1575055,
+        "userName": "ETF拯救世界",
+        "content": "如果两次都排在前1000名评论，那么概率将大幅上升。是1/625！很可能会有人拿到6666元大奖！",
+        "images": []
+      }
+    }
+  ]
+}

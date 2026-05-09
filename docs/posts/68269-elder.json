@@ -1,0 +1,64 @@
+{
+  "postId": "68269",
+  "fetchedAt": "2026-05-09T14:06:19+08:00",
+  "totalCommentNum": 1276,
+  "totalScanned": 1189,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1612285,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大下午好~\n谢谢截屏，让没收到这个消息的朋友们也能看到这个消息，四舍五入，≈我也收到、看到了，谢谢老大的心意♥️\n",
+      "images": [],
+      "createdAt": "2026-02-26T15:41:16",
+      "ipLocation": "上海市",
+      "likeNum": 92
+    },
+    {
+      "type": "reply",
+      "id": 1613191,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "每位朋友都会幸运的，只是有些朋友的运气还没到。",
+      "images": [],
+      "createdAt": "2026-02-26T15:45:36",
+      "ipLocation": "北京市",
+      "likeNum": 510,
+      "parent": {
+        "id": 1612663,
+        "userName": "酸酸果",
+        "content": "谢谢老大，谢谢各位工作人员！我把中奖消息打印出来，提醒自己是个多么幸运的人，珍惜当下好好生活。",
+        "images": [],
+        "createdAt": "2026-02-26T15:43:06",
+        "ipLocation": "新加坡",
+        "likeNum": 154
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1613533,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "感觉好快、效率好高\n马年🐎\n开工第一天抽；\n第二天出名单；\n第三天钱到账！\nT+2",
+      "images": [],
+      "createdAt": "2026-02-26T15:48:17",
+      "ipLocation": "上海市",
+      "likeNum": 40,
+      "parent": {
+        "id": 1612285,
+        "userName": "新米练习菌",
+        "content": "E大下午好~\n谢谢截屏，让没收到这个消息的朋友们也能看到这个消息，四舍五入，≈我也收到、看到了，谢谢老大的心意♥️\n",
+        "images": [],
+        "createdAt": "2026-02-26T15:41:16",
+        "ipLocation": "上海市",
+        "likeNum": 92
+      },
+      "replyTo": null
+    }
+  ]
+}

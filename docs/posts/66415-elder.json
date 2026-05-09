@@ -1,0 +1,32 @@
+{
+  "postId": "66415",
+  "fetchedAt": "2026-05-09T14:44:37+08:00",
+  "totalCommentNum": 18,
+  "totalScanned": 15,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1294471,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你别说，我也看到了！！！",
+      "images": [],
+      "createdAt": "2026-02-05T18:26:18",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1291903,
+        "userName": "小小虾米",
+        "content": "刚才在评论区看到一张图，是我眼花了？还是即将上线的新功能",
+        "images": [],
+        "createdAt": "2026-02-05T11:48:16",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

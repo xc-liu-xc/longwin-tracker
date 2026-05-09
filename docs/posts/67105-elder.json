@@ -1,0 +1,32 @@
+{
+  "postId": "67105",
+  "fetchedAt": "2026-05-09T14:42:35+08:00",
+  "totalCommentNum": 16,
+  "totalScanned": 15,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1313137,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "说的老大，我有什么好说的，\n一日三秋，三天不见，体感就像过了九个季节，甚是想念。",
+      "images": [],
+      "createdAt": "2026-02-13T05:26:49",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 1312939,
+        "userName": "头像好看吗_我画的",
+        "content": "忙的没看这个，米米说的几天没见。以为是米米自己😭",
+        "images": [],
+        "createdAt": "2026-02-12T23:07:40",
+        "ipLocation": "江西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

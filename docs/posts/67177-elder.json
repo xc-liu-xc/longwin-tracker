@@ -1,0 +1,32 @@
+{
+  "postId": "67177",
+  "fetchedAt": "2026-05-09T14:41:44+08:00",
+  "totalCommentNum": 19,
+  "totalScanned": 17,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1313191,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "生物钟，习惯了，没刻意特意早起，\n和上班、放假，还是冬天、夏天没啥关系",
+      "images": [],
+      "createdAt": "2026-02-13T06:55:18",
+      "ipLocation": "上海市",
+      "likeNum": 16,
+      "parent": {
+        "id": 1313161,
+        "userName": "KingWoodWood",
+        "content": "真的好自律啊，想问下米米大冬天或者放假也这么早起床吗？",
+        "images": [],
+        "createdAt": "2026-02-13T06:48:18",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

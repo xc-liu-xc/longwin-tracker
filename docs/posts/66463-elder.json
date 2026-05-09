@@ -1,0 +1,85 @@
+{
+  "postId": "66463",
+  "fetchedAt": "2026-05-09T14:44:36+08:00",
+  "totalCommentNum": 377,
+  "totalScanned": 285,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1292299,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "ETF拯救世界 作者：\n所以A股就是波段。大波段，小波段。\n01-08  10:18 北京市",
+      "images": [],
+      "createdAt": "2026-02-05T13:19:30",
+      "ipLocation": "上海市",
+      "likeNum": 135
+    },
+    {
+      "type": "reply",
+      "id": 1292611,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "要么离开，要么适应。\n我选择大部分留下适应，小部分等机会换环境。\n老大认定的大内高手GJD都在“做波段”，\n人家能，我们也能。\n上头希望“慢牛”，慢牛慢牛，就要有的负责“慢”，有的负责“牛”，\n慢慢来，板块轮动着牛的意思吧？\n只是难，又不是毫无生机，万径人踪灭。\n难就难呗，即便九死一生，那也有“一生”，足够一部分理性耐心的小卡拉米存活了，跟着老大，活得其实还不错的~",
+      "images": [],
+      "createdAt": "2026-02-05T13:28:25",
+      "ipLocation": "上海市",
+      "likeNum": 159,
+      "parent": {
+        "id": 1292299,
+        "userName": "新米练习菌",
+        "content": "ETF拯救世界 作者：\n所以A股就是波段。大波段，小波段。\n01-08  10:18 北京市",
+        "images": [],
+        "createdAt": "2026-02-05T13:19:30",
+        "ipLocation": "上海市",
+        "likeNum": 135
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1292767,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "美股不同品种差太多了。最近价值股暴涨，医药股也不错。美股真的太好了，想买什么都有，还都是好公司",
+      "images": [],
+      "createdAt": "2026-02-05T13:34:09",
+      "ipLocation": "吉隆坡",
+      "likeNum": 364,
+      "parent": {
+        "id": 1292317,
+        "userName": "Graiyn",
+        "content": "美股这几天也很难🤣",
+        "images": [],
+        "createdAt": "2026-02-05T13:19:48",
+        "ipLocation": "新泽西州",
+        "likeNum": 29
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1293001,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【一些美股情况】\n（2/4）大概看看用\n1）价值股代表-【消费】新高\n可口可乐（KO）：股价创历史新高\n沃尔玛（WMT）：市值破万亿美元\n其他价值蓝筹：宝洁（PG）、强生（JNJ）、埃克森美孚（XOM）等同步走强\n-\n2）【医药】\n礼来（LLY）：+10%，创历史新高，市值突破 1 万亿美元。 \n安进（AMGN）：+8.16%过\n默沙东（MRK）、诺华（NVS）、阿斯利康（AZN）：同步上涨，板块整体走强。\n-\n3）成长股代表-【科技】重灾区\n费城半导体指数（SOX）：-4.36%。\nAMD：-17.31%，创 2017 年以来最大单日跌幅，市值蒸发超 550 亿美元\n美光科技（MU）：-9.48%；闪迪（SNDK）：-16%；西部数据（WDC）：-7.2%；英伟达（NVDA）：-3.41%；博通（AVGO）：-3.83%，Meta、特斯拉：-3%+；谷歌 A（GOOGL）：-1.96%\n-\n不知道是不是要“成长退潮、价值唱戏”了~\n",
+      "images": [],
+      "createdAt": "2026-02-05T13:52:20",
+      "ipLocation": "上海市",
+      "likeNum": 115,
+      "parent": {
+        "id": 1292299,
+        "userName": "新米练习菌",
+        "content": "ETF拯救世界 作者：\n所以A股就是波段。大波段，小波段。\n01-08  10:18 北京市",
+        "images": [],
+        "createdAt": "2026-02-05T13:19:30",
+        "ipLocation": "上海市",
+        "likeNum": 135
+      },
+      "replyTo": null
+    }
+  ]
+}

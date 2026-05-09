@@ -1,0 +1,32 @@
+{
+  "postId": "67579",
+  "fetchedAt": "2026-05-09T14:23:52+08:00",
+  "totalCommentNum": 74,
+  "totalScanned": 73,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1475839,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个图的视觉很有意思~",
+      "images": [],
+      "createdAt": "2026-02-21T09:19:00",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1464919,
+        "userName": "wangpinpin",
+        "content": "米米，这个图片是我跟队友的聊天背景图😃😃😃",
+        "images": [],
+        "createdAt": "2026-02-21T09:08:56",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

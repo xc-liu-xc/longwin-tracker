@@ -1,0 +1,95 @@
+{
+  "postId": "67447",
+  "fetchedAt": "2026-05-09T14:26:40+08:00",
+  "totalCommentNum": 58,
+  "totalScanned": 51,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1419931,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不好意思，11天",
+      "images": [],
+      "createdAt": "2026-02-17T20:57:47",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 1415197,
+        "userName": "邵帅",
+        "content": "9天的碗，要不出去吃吧！",
+        "images": [],
+        "createdAt": "2026-02-17T20:23:10",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1420069,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "其实就一个公园~\n今天人有点多，随便逛逛走走",
+      "images": [],
+      "createdAt": "2026-02-17T20:59:00",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 1412479,
+        "userName": "Hi-甜甜my小宝贝",
+        "content": "米米，双子山怎么样啊？值得去吗？我还没去过",
+        "images": [],
+        "createdAt": "2026-02-17T16:38:50",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1432567,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "厘米…",
+      "images": [],
+      "createdAt": "2026-02-18T11:35:13",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 1432453,
+        "userName": "一等星",
+        "content": "4800米啊，确实高，我所在的黄土高原某地，最高1800左右",
+        "images": [],
+        "createdAt": "2026-02-18T11:22:28",
+        "ipLocation": "山西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1554355,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "那么厉害啊👍🏻",
+      "images": [],
+      "createdAt": "2026-02-23T15:27:40",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1554271,
+        "userName": "Madridista",
+        "content": "今年回家，我已经可以操刀大半桌的年夜饭了，很有成就感！",
+        "images": [],
+        "createdAt": "2026-02-23T15:15:17",
+        "ipLocation": "河南省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

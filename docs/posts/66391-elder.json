@@ -1,0 +1,43 @@
+{
+  "postId": "66391",
+  "fetchedAt": "2026-05-09T14:44:20+08:00",
+  "totalCommentNum": 755,
+  "totalScanned": 700,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1289251,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "低买高卖，拿得住，你应得的。",
+      "images": [],
+      "createdAt": "2026-02-05T08:29:00",
+      "ipLocation": "吉隆坡",
+      "likeNum": 284,
+      "parent": {
+        "id": 1288267,
+        "userName": "自由的风",
+        "content": "老大，我昨天出的那一份创业板收益率88%.跟您一起分享这份数钱的快乐，谢谢您！",
+        "images": [],
+        "createdAt": "2026-02-05T08:21:19",
+        "ipLocation": "陕西省",
+        "likeNum": 176
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 1289407,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早安~\n成功的人都是一眼先看到别人的优秀，因为他们自己有能力、有眼光，善于学习，也有本事纳入他人好的东西，让自己变得更好，更成功。\n而，有的人一开口就是知道是个卢瑟，卢瑟不愿承认别人比TA优秀，才会想法子诋毁别人，试图否定别人比承认自己没本事要容易多了，心胸狭隘到连嫉妒心都装不下了溢出来了，喷得四处都是…\n",
+      "images": [],
+      "createdAt": "2026-02-05T08:31:27",
+      "ipLocation": "上海市",
+      "likeNum": 102
+    }
+  ]
+}

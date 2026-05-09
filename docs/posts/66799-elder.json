@@ -1,0 +1,53 @@
+{
+  "postId": "66799",
+  "fetchedAt": "2026-05-09T14:42:39+08:00",
+  "totalCommentNum": 42,
+  "totalScanned": 35,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1310353,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "红利分红，如果选择现金的话，这部分就会进入现金的部分了，红利持仓是会变小的。每天更新的",
+      "images": [],
+      "createdAt": "2026-02-12T15:15:07",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 1306795,
+        "userName": "禾苗",
+        "content": "我想问下红利分红可以直接算在收益里的么？但是持仓金额变小了呀",
+        "images": [],
+        "createdAt": "2026-02-11T07:21:02",
+        "ipLocation": "浙江省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1310371,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "只说了会抽的，没有门槛。\n没说要用哪个贴子弄，可能不需要我们做什么的。",
+      "images": [],
+      "createdAt": "2026-02-12T15:16:55",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 1306885,
+        "userName": "同路人_LHTsyZ",
+        "content": "米米君，老大那个编号杯子在哪里抽奖，我没看见地方。如果方便，麻烦看到回复我一下，真的很想要，怕错过机会。谢谢🙏♥️",
+        "images": [],
+        "createdAt": "2026-02-11T10:49:02",
+        "ipLocation": "陕西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

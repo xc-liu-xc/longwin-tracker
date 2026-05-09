@@ -1,0 +1,74 @@
+{
+  "postId": "66139",
+  "fetchedAt": "2026-05-09T14:45:14+08:00",
+  "totalCommentNum": 19,
+  "totalScanned": 14,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1283527,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我更个帖子吧：\nhttps://qieman.com/content/content-detail?postId=66175",
+      "images": [],
+      "createdAt": "2026-02-03T17:40:59",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 1283419,
+        "userName": "田老师",
+        "content": "我看e大近期更新的说法（有猜测）是\nA股最大仓位给到50%\n港股最大仓位给到15%\n美股最大仓位给到10%\n始终保留一部分现金做灵活的支持，上面的仓位比例对吗，米米",
+        "images": [],
+        "createdAt": "2026-02-03T16:25:22",
+        "ipLocation": "湖南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1283941,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你往后看，图上有，\n2018年随着时间仓位越来越重的，9月比8月重，10月比11月重，12月比11月重，正在大建仓呀",
+      "images": [],
+      "createdAt": "2026-02-03T19:55:34",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 1283917,
+        "userName": "巷里猫",
+        "content": "谢谢米米。回顾才发现，2018年8月也曾经这么轻仓，不同的是当时正在低位，不知E大是何考虑",
+        "images": [],
+        "createdAt": "2026-02-03T19:47:25",
+        "ipLocation": "福建省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1311385,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "且慢有发车记录的。\n虽然我和每篇gzh也核对过，因为想确保gzh文章，发车逻辑，都看了。\n老大心思缜密，两边都对得上，写得都非常清楚~",
+      "images": [],
+      "createdAt": "2026-02-12T19:36:32",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 1311319,
+        "userName": "jackchengu",
+        "content": "米米，这些如果要自己做，是去公众号里面一条条每次加减仓的内容整合记录是吧",
+        "images": [],
+        "createdAt": "2026-02-12T19:10:11",
+        "ipLocation": "福建省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

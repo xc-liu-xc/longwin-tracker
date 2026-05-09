@@ -1,0 +1,53 @@
+{
+  "postId": "66439",
+  "fetchedAt": "2026-05-09T14:44:37+08:00",
+  "totalCommentNum": 21,
+  "totalScanned": 19,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1294465,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "画了，\n所以没画眉毛特别奇怪…\n不化妆去公司感觉像裸奔上班，觉得不太礼貌…",
+      "images": [],
+      "createdAt": "2026-02-05T18:24:50",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 1294435,
+        "userName": "英子姐姐",
+        "content": "哈哈，好可爱，看来米米日常都化妆，今天没化！我手残党，老感觉自己画的眉毛太奇怪，偶尔心血来潮化个妆！",
+        "images": [],
+        "createdAt": "2026-02-05T18:16:51",
+        "ipLocation": "陕西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1295293,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我口红💄倒是不擦的，只抹润唇膏",
+      "images": [],
+      "createdAt": "2026-02-06T09:34:51",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1294843,
+        "userName": "MaggieQQ",
+        "content": "我每天就擦个隔离和口红💄“化妆”也极简了…（其实是年纪大了😌）",
+        "images": [],
+        "createdAt": "2026-02-05T21:49:04",
+        "ipLocation": "英格兰",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

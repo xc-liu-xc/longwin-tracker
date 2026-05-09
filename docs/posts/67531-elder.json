@@ -1,0 +1,32 @@
+{
+  "postId": "67531",
+  "fetchedAt": "2026-05-09T14:24:55+08:00",
+  "totalCommentNum": 18,
+  "totalScanned": 16,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1451083,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我觉得多言其实没什么，但是不要刻意，要分场合和时候。\n关系好的，“话痨也没有关系，不说话也没有关系”的感觉~",
+      "images": [],
+      "createdAt": "2026-02-20T16:54:00",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 1450957,
+        "userName": "ZZ-369",
+        "content": "是的，最后一句新米说的真好！\n确实是真心不必多言，假意过眼无痕。",
+        "images": [],
+        "createdAt": "2026-02-20T16:38:10",
+        "ipLocation": "天津市",
+        "likeNum": 4
+      },
+      "replyTo": null
+    }
+  ]
+}

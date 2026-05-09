@@ -1,0 +1,53 @@
+{
+  "postId": "67717",
+  "fetchedAt": "2026-05-09T14:12:56+08:00",
+  "totalCommentNum": 19,
+  "totalScanned": 13,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1534981,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "假期综合症好像没有…\n因为我不是只有假期后才不想上班，平时也不想上班…",
+      "images": [],
+      "createdAt": "2026-02-22T09:53:13",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 1529923,
+        "userName": "lucky_ETF",
+        "content": "米米会有假期综合征吗，我开始做上班迟到的梦了，长假过后不想返工，可能是因为现在工作的人际环境并不太友好的原因😭",
+        "images": [],
+        "createdAt": "2026-02-22T08:32:39",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1536619,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我觉得谨慎一些没问题，是一种自我保护~",
+      "images": [],
+      "createdAt": "2026-02-22T10:44:00",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 1535311,
+        "userName": "花花不二",
+        "content": "高敏感人，平时也小心翼翼不与不熟的人接触",
+        "images": [],
+        "createdAt": "2026-02-22T10:02:22",
+        "ipLocation": "河南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

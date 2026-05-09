@@ -1,0 +1,32 @@
+{
+  "postId": "67111",
+  "fetchedAt": "2026-05-09T14:42:36+08:00",
+  "totalCommentNum": 19,
+  "totalScanned": 17,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1312471,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是“交流体验”，就是「心流体验」——\n就比如你玩游戏、做事的时候，完全沉浸进去，忘了时间、忘了累、忘了周围，整个人跟内容合在一起，那种专注又舒服、越做越投入的状态，就叫「心流」~\n——\n【心流（Flow）专业正式说法】\n 由心理学家米哈里·契克森米哈伊提出的心理学概念，指人们在进行某项活动时，全神贯注、投入忘我的一种最佳体验状态。\n这种状态下，个体完全沉浸在当下的行为中，时间感知扭曲、自我意识淡化、行动与意识高度统一，同时伴随高度的愉悦感与掌控感，是人类最理想的心理体验之一。",
+      "images": [],
+      "createdAt": "2026-02-12T21:33:47",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 1312279,
+        "userName": "南岳山大汉",
+        "content": "心流体验？或应为交流体验？！",
+        "images": [],
+        "createdAt": "2026-02-12T21:13:06",
+        "ipLocation": "湖南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

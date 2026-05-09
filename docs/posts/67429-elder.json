@@ -1,0 +1,22 @@
+{
+  "postId": "67429",
+  "fetchedAt": "2026-05-09T14:26:39+08:00",
+  "totalCommentNum": 46,
+  "totalScanned": 43,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1406149,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "很多事是相辅相成，即便看似没直接关系，也会相通。\n比如：因为老大有空行的习惯，阅读起来会很舒服，自己也养成了，即便微信上，只要超过两长句的，就会换行空行。上班的时候，邮件或者teams也会空行，不是大段大段的英文/中文挤在那里。\n🔣\n（评论区，本来也能空行，现在空了也不显示空着行，只能再用些符号🔣）",
+      "images": [],
+      "createdAt": "2026-02-17T09:58:20",
+      "ipLocation": "上海市",
+      "likeNum": 24
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "66475",
+  "fetchedAt": "2026-05-09T14:44:39+08:00",
+  "totalCommentNum": 41,
+  "totalScanned": 23,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1294807,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "现在毫无意向的样子",
+      "images": [],
+      "createdAt": "2026-02-05T21:23:09",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 1294483,
+        "userName": "同路人_VoFdHL",
+        "content": "我严重怀疑可能在未来某个时刻，等你队友忍不住买洗碗机的时候，造出一个洗碗机顶（对应洗洁精底）",
+        "images": [],
+        "createdAt": "2026-02-05T18:37:49",
+        "ipLocation": "广东省",
+        "likeNum": 3
+      },
+      "replyTo": null
+    }
+  ]
+}

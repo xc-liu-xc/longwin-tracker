@@ -1,0 +1,137 @@
+{
+  "postId": "68077",
+  "fetchedAt": "2026-05-09T14:08:58+08:00",
+  "totalCommentNum": 3359,
+  "totalScanned": 3021,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1583779,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "恭喜中奖的朋友们！！！\n超级无敌幸运儿，有三位那么多啊！！！🤗\n",
+      "images": [],
+      "createdAt": "2026-02-25T10:05:49",
+      "ipLocation": "上海市",
+      "likeNum": 107
+    },
+    {
+      "type": "reply",
+      "id": 1589899,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看到几位熟悉的好朋友名字在上面😃，可太好了，还有来和我报喜的，感受到了明媚，快乐是会传递的，好开心呀😄，沾沾喜气，同乐同乐。\n老大今年大手笔了，史上最大一波新春大红包🧧了吧\n39998元=（10000+10000+6666*3）",
+      "images": [],
+      "createdAt": "2026-02-25T10:24:34",
+      "ipLocation": "上海市",
+      "likeNum": 84,
+      "parent": {
+        "id": 1583779,
+        "userName": "新米练习菌",
+        "content": "恭喜中奖的朋友们！！！\n超级无敌幸运儿，有三位那么多啊！！！🤗\n",
+        "images": [],
+        "createdAt": "2026-02-25T10:05:49",
+        "ipLocation": "上海市",
+        "likeNum": 107
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1591237,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "大奖现身了。唯一一次就是超超超超级大奖了。都过来摸一摸沾欧气！",
+      "images": [],
+      "createdAt": "2026-02-25T10:31:51",
+      "ipLocation": "北京市",
+      "likeNum": 485,
+      "parent": {
+        "id": 1588561,
+        "userName": "_puzzle19",
+        "content": "哇哇哇，太激动了，谢谢E大，唯一一次中奖！",
+        "images": [],
+        "createdAt": "2026-02-25T10:18:37",
+        "ipLocation": "江苏省",
+        "likeNum": 915
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1591933,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "来了来了！看到了！恭喜恭喜！好厉害呀~\n请允许我摸一摸，嗯，欧气，粘好了，感谢！！！\n（然后，被E大回复是超级无敌小概率的事件，幸运还双份了~）",
+      "images": [],
+      "createdAt": "2026-02-25T10:35:35",
+      "ipLocation": "上海市",
+      "likeNum": 68,
+      "parent": {
+        "id": 1588561,
+        "userName": "_puzzle19",
+        "content": "哇哇哇，太激动了，谢谢E大，唯一一次中奖！",
+        "images": [],
+        "createdAt": "2026-02-25T10:18:37",
+        "ipLocation": "江苏省",
+        "likeNum": 915
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1592365,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "大家开心最重要。我省吃俭用发红包。",
+      "images": [],
+      "createdAt": "2026-02-25T10:39:01",
+      "ipLocation": "北京市",
+      "likeNum": 275,
+      "parent": {
+        "id": 1583779,
+        "userName": "新米练习菌",
+        "content": "恭喜中奖的朋友们！！！\n超级无敌幸运儿，有三位那么多啊！！！🤗\n",
+        "images": [],
+        "createdAt": "2026-02-25T10:05:49",
+        "ipLocation": "上海市",
+        "likeNum": 107
+      },
+      "replyTo": {
+        "id": 1589899,
+        "userName": "新米练习菌",
+        "content": "看到几位熟悉的好朋友名字在上面😃，可太好了，还有来和我报喜的，感受到了明媚，快乐是会传递的，好开心呀😄，沾沾喜气，同乐同乐。\n老大今年大手笔了，史上最大一波新春大红包🧧了吧\n39998元=（10000+10000+6666*3）",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1594195,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，感谢您~「大家开心最重要」，您去年也这么说~\n老大是真的希望大家都好的人。\n但对自己很“抠搜“的：\n之前洗车，说前面的大哥豪爽地掏了60，老大掏出了9.9的券，然后又用信用卡支付又可以减了一块，8.9了。（高兴得都泪目的表情了）；\n有朋友说肯德基新出的原味鸡汉堡味道还不错，用券仅需9.9，就还问人家券在哪里领；\n吃麦当劳涨价了，还在微博上嘀咕，（原话）“点开久违的麦麦1+1，发现价格巨幅上涨7.5%。生气。”\n就这样过节俭的日子，但送大家礼物发红包的时候，从来不犹豫的，眼睛也不眨眼一下，666说提高到6666就提高，然后还✖3了~\n",
+      "images": [],
+      "createdAt": "2026-02-25T10:57:33",
+      "ipLocation": "上海市",
+      "likeNum": 59,
+      "parent": {
+        "id": 1583779,
+        "userName": "新米练习菌",
+        "content": "恭喜中奖的朋友们！！！\n超级无敌幸运儿，有三位那么多啊！！！🤗\n",
+        "images": [],
+        "createdAt": "2026-02-25T10:05:49",
+        "ipLocation": "上海市",
+        "likeNum": 107
+      },
+      "replyTo": {
+        "id": 1592365,
+        "userName": "ETF拯救世界",
+        "content": "大家开心最重要。我省吃俭用发红包。",
+        "images": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "postId": "67831",
+  "fetchedAt": "2026-05-09T14:11:57+08:00",
+  "totalCommentNum": 313,
+  "totalScanned": 263,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1552939,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "普通人千万不要让自己的资产大幅回撤。如果你的资产回撤70%，那么你需要上涨233%才能回本。",
+      "images": [],
+      "createdAt": "2026-02-23T14:17:33",
+      "ipLocation": "北京市",
+      "likeNum": 453
+    },
+    {
+      "type": "top",
+      "id": 1552951,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "公式：\n本金×(1-20%)×(1+100%×70%)=本金×1.36\n收益率=36%",
+      "images": [],
+      "createdAt": "2026-02-23T14:17:40",
+      "ipLocation": "上海市",
+      "likeNum": 206
+    },
+    {
+      "type": "reply",
+      "id": 1553377,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【留言2】论熊市少亏的重要性，数学题视角\n【下跌幅度】vs 回本需要的【上涨幅度】\n↓\t-5%\t↑\t5.26%\n↓\t-10%\t↑\t11.11%\n↓\t-15%\t↑\t17.65%\n↓\t-20%\t↑\t25.00%\n↓\t-25%\t↑\t33.33%\n↓\t-30%\t↑\t42.86%\n↓\t-35%\t↑\t53.85%\n↓\t-40%\t↑\t66.67%\n↓\t-45%\t↑\t81.82%\n↓\t-50%\t↑\t100.00%\n↓\t-55%\t↑\t122.22%\n↓\t-60%\t↑\t150.00%\n↓\t-65%\t↑\t185.71%\n↓\t-70%\t↑\t233.33%\n↓\t-75%\t↑\t300.00%\n↓\t-80%\t↑\t400.00%\n↓\t-85%\t↑\t566.67%\n↓\t-90%\t↑\t900.00%\n↓\t-95%\t↑\t1900.00%\n↓\t-100%\t↑\t永久性损失\n（之前看老大公众号时，画过2个表《「上涨下跌幅度图」与「补仓威力图」》，放这里吧：\nhttps://qieman.com/content/content-detail?postId=67837",
+      "images": [],
+      "createdAt": "2026-02-23T14:30:34",
+      "ipLocation": "上海市",
+      "likeNum": 274,
+      "parent": {
+        "id": 1552951,
+        "userName": "新米练习菌",
+        "content": "公式：\n本金×(1-20%)×(1+100%×70%)=本金×1.36\n收益率=36%",
+        "images": [],
+        "createdAt": "2026-02-23T14:17:40",
+        "ipLocation": "上海市",
+        "likeNum": 206
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1553653,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "233 是“笑”誒，啊哈哈\n嗯，-70%…人无语的时候真的会笑…",
+      "images": [],
+      "createdAt": "2026-02-23T14:42:19",
+      "ipLocation": "上海市",
+      "likeNum": 54,
+      "parent": {
+        "id": 1552939,
+        "userName": "ETF拯救世界",
+        "content": "普通人千万不要让自己的资产大幅回撤。如果你的资产回撤70%，那么你需要上涨233%才能回本。",
+        "images": [],
+        "createdAt": "2026-02-23T14:17:33",
+        "ipLocation": "北京市",
+        "likeNum": 453
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "postId": "67357",
+  "fetchedAt": "2026-05-09T14:40:10+08:00",
+  "totalCommentNum": 1400,
+  "totalScanned": 1342,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1328311,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大又破费了呀，每年春节都送红包🧧抽奖，先谢谢心意❤️。\n我觉得第一个不太好，wb很多不相干的人，虽然我的钻粉没掉，因为要考古，没事就要去翻翻，但不想再用wb，一想到一些🌶️🐔也混在里面揩油，就特别膈应，那是老大的心意。\n倾向第二个方法~都是同路人，大家也开心~",
+      "images": [],
+      "createdAt": "2026-02-15T17:23:32",
+      "ipLocation": "上海市",
+      "likeNum": 5
+    },
+    {
+      "type": "reply",
+      "id": 1328899,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "可以节后再公布名单。",
+      "images": [],
+      "createdAt": "2026-02-15T17:31:04",
+      "ipLocation": "北京市",
+      "likeNum": 101,
+      "parent": {
+        "id": 1328197,
+        "userName": "AZzzz",
+        "content": "但是第二个且慢员工会不会要加班筛选呀？",
+        "images": [],
+        "createdAt": "2026-02-15T17:22:36",
+        "ipLocation": "广东省",
+        "likeNum": 13
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1328941,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不会掉吗，会掉吧。一段时间没有互动就掉了。",
+      "images": [],
+      "createdAt": "2026-02-15T17:31:49",
+      "ipLocation": "北京市",
+      "likeNum": 124,
+      "parent": {
+        "id": 1328119,
+        "userName": "水清浅",
+        "content": "微博限制金粉应该没问题，即使每天没有互动不会减少，只是不增加了吧",
+        "images": [],
+        "createdAt": "2026-02-15T17:21:50",
+        "ipLocation": "湖北省",
+        "likeNum": 14
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1329205,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "第二个楼层的，我想了想，如果且慢暂时没有办法显示楼层，也有办法，可以「按最早」排序，导出所有评论，然后比如抽10位中奖的幸运朋友，就第5个，第8个，第15个，第18，第25个，第28个…以此类推，确认10个ID，然后公布个中奖的ID清单。\n这个不难，我也可以做。（我可以不参加，就找些高兴的事儿做做）\n只是举个例子，条件可以老大设定好。\n\n",
+      "images": [],
+      "createdAt": "2026-02-15T17:35:00",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 1328311,
+        "userName": "新米练习菌",
+        "content": "老大又破费了呀，每年春节都送红包🧧抽奖，先谢谢心意❤️。\n我觉得第一个不太好，wb很多不相干的人，虽然我的钻粉没掉，因为要考古，没事就要去翻翻，但不想再用wb，一想到一些🌶️🐔也混在里面揩油，就特别膈应，那是老大的心意。\n倾向第二个方法~都是同路人，大家也开心~",
+        "images": [],
+        "createdAt": "2026-02-15T17:23:32",
+        "ipLocation": "上海市",
+        "likeNum": 5
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1329529,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "wb粉值规则里有写：\n「连续90天不互动，从第91天起铁粉值每天减1」\n老大2025/10/26最后发了wb，目前离开112天，\n金粉以上的，金粉1就是125天的，可能没有扣完，而且一评论或者点赞，就会显示回了标志。\n顶多扣了22点。\n钻粉们肯定都在，不互动没扣完。\n（但是不想用wb，环境不太好…）\n",
+      "images": [],
+      "createdAt": "2026-02-15T17:40:39",
+      "ipLocation": "上海市",
+      "likeNum": 58,
+      "parent": {
+        "id": 1328119,
+        "userName": "水清浅",
+        "content": "微博限制金粉应该没问题，即使每天没有互动不会减少，只是不增加了吧",
+        "images": [],
+        "createdAt": "2026-02-15T17:21:50",
+        "ipLocation": "湖北省",
+        "likeNum": 14
+      },
+      "replyTo": {
+        "id": 1328941,
+        "userName": "ETF拯救世界",
+        "content": "不会掉吗，会掉吧。一段时间没有互动就掉了。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1331383,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "一段时间不互动，是会不显示的，但不是没了。\n要不试试留个言，或者点个赞，第二天看下，会重新显示的~",
+      "images": [],
+      "createdAt": "2026-02-15T18:17:46",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 1328119,
+        "userName": "水清浅",
+        "content": "微博限制金粉应该没问题，即使每天没有互动不会减少，只是不增加了吧",
+        "images": [],
+        "createdAt": "2026-02-15T17:21:50",
+        "ipLocation": "湖北省",
+        "likeNum": 14
+      },
+      "replyTo": {
+        "id": 1331095,
+        "userName": "妖精尾巴0606",
+        "content": "钻粉，已经掉没了",
+        "images": []
+      }
+    }
+  ]
+}

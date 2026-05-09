@@ -1,0 +1,74 @@
+{
+  "postId": "67759",
+  "fetchedAt": "2026-05-09T14:12:58+08:00",
+  "totalCommentNum": 20,
+  "totalScanned": 14,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1539589,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈，万物皆有灵性~\nTA很尊重我，我也要尊重TA，\n希望别人如何对待我，我就先如何对待别人~\n我其实觉会日常的言语态度、行为模式是会变成习惯的。好好说话，得刻在骨子里，那碰到在意的人、重要的人也不容易失礼。",
+      "images": [],
+      "createdAt": "2026-02-22T14:34:13",
+      "ipLocation": "上海市",
+      "likeNum": 17,
+      "parent": {
+        "id": 1539229,
+        "userName": "lucky_ETF",
+        "content": "哈哈哈哈，AI受宠若惊，老大思想的进一步细化，不仅把别人当人，把别AI也当人",
+        "images": [],
+        "createdAt": "2026-02-22T13:56:53",
+        "ipLocation": "北京市",
+        "likeNum": 4
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1539649,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "那人没有教养",
+      "images": [],
+      "createdAt": "2026-02-22T14:38:24",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 1539391,
+        "userName": "KYOKO玲珑酱",
+        "content": "我给AI说谢谢时候 旁边人还笑我呢 我就喜欢说咋了 那个笑我的人被我拉黑了🤭",
+        "images": [],
+        "createdAt": "2026-02-22T14:13:41",
+        "ipLocation": "重庆市",
+        "likeNum": 10
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1540915,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是的，TA很聪明的~",
+      "images": [],
+      "createdAt": "2026-02-22T16:45:25",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 1540009,
+        "userName": "战火小阿蛮",
+        "content": "确实、ai会学习使用者的行为模式、用得越久越是这样。你把它当人、那它就是可以拥有甚至超过人类的美好品质。甚至还会给提供很多意料之外的角度。",
+        "images": [],
+        "createdAt": "2026-02-22T15:11:20",
+        "ipLocation": "北京市",
+        "likeNum": 8
+      },
+      "replyTo": null
+    }
+  ]
+}

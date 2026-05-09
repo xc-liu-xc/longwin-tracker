@@ -1,0 +1,22 @@
+{
+  "postId": "67951",
+  "fetchedAt": "2026-05-09T14:10:53+08:00",
+  "totalCommentNum": 461,
+  "totalScanned": 385,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1571275,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "课题分离~\n——不能强迫马喝水，只能把它带到水边。\n你知道喝水好，把马带到河边，你的课题已经完整。喝不喝水，是它的课题。",
+      "images": [],
+      "createdAt": "2026-02-24T14:09:38",
+      "ipLocation": "上海市",
+      "likeNum": 152
+    }
+  ]
+}

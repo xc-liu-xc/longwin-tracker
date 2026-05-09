@@ -1,0 +1,32 @@
+{
+  "postId": "66277",
+  "fetchedAt": "2026-05-09T14:44:54+08:00",
+  "totalCommentNum": 43,
+  "totalScanned": 41,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1286497,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我会按最后一次提的做 总结表格 。\n（资料里发言追溯会存放所有的明细）",
+      "images": [],
+      "createdAt": "2026-02-04T14:54:47",
+      "ipLocation": "上海市",
+      "likeNum": 13,
+      "parent": {
+        "id": 1286047,
+        "userName": "skythree",
+        "content": "虽然时间有点远，但是也记录了下来：18年12月E大还说过“我理想中美股应该是8%-15%。欧洲应该是5%-10%”",
+        "images": [],
+        "createdAt": "2026-02-04T14:10:14",
+        "ipLocation": "广东省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    }
+  ]
+}

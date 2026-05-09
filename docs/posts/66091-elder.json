@@ -1,0 +1,32 @@
+{
+  "postId": "66091",
+  "fetchedAt": "2026-05-09T14:45:13+08:00",
+  "totalCommentNum": 41,
+  "totalScanned": 22,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1280881,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "好玩吧~",
+      "images": [],
+      "createdAt": "2026-02-03T09:54:09",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 1280869,
+        "userName": "头像好看吗_我画的",
+        "content": "米米，新中的债，尝试用了回落单，第一次吃到这么肉的债，开心😃🥳",
+        "images": [],
+        "createdAt": "2026-02-03T09:51:24",
+        "ipLocation": "江西省",
+        "likeNum": 14
+      },
+      "replyTo": null
+    }
+  ]
+}

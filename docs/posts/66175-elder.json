@@ -1,0 +1,74 @@
+{
+  "postId": "66175",
+  "fetchedAt": "2026-05-09T14:45:18+08:00",
+  "totalCommentNum": 107,
+  "totalScanned": 100,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1286647,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我把第三轮的仓位变化，从头到尾，都做了\n《资产配置趋势图》（做了发给老大过目的）\n和\n《CN仓位趋势图》（看了👆🏻这个之后，老大让我做的）\n就是。\n每次发车、每月或者有明显变动，都会发布一下\n",
+      "images": [],
+      "createdAt": "2026-02-04T15:22:34",
+      "ipLocation": "上海市",
+      "likeNum": 16,
+      "parent": {
+        "id": 1285963,
+        "userName": "追风少年2021",
+        "content": "宝藏米米，昨天想到如果把E大18年-至今的仓位变化图做一下，那将提升多大呀！然后今天打开且慢就看到了米米的仓位笔记，简直是太幸福了吧！\n话说为什么18年印象怎么深刻，因为遇见E大就是18年8月份，之后医药抄到E大的底，虽然钱少，但那是第一个翻倍的品种，印象深刻，所以现在对药疗情有独钟也有点之前的\n缘故。",
+        "images": [],
+        "createdAt": "2026-02-04T13:56:33",
+        "ipLocation": "广东省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1286659,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我一直觉得你这样的ID名，就要多和老大说说话、留留言，他评论都看的~",
+      "images": [],
+      "createdAt": "2026-02-04T15:24:07",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 1286071,
+        "userName": "E大就是我的光",
+        "content": "超详细，也给我们整理笔记提供 了好思路。我在列中还多了个“米米留言”哈哈哈，真好呢。",
+        "images": [],
+        "createdAt": "2026-02-04T14:15:47",
+        "ipLocation": "广东省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1422763,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "当然不是想加100%，这是各自最大仓位，不是相加用，超了就不买了。\n比如：吃饱，最多可以吃3个包子，或者2碗面，或者3碗饭。\n可能吃了2个包子+1碗饭，就饱了，那就不吃了。\n不是都吃。\n吃了3个包子，已经饱了，就不吃了。能理解吗？",
+      "images": [],
+      "createdAt": "2026-02-17T21:22:41",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 1421629,
+        "userName": "jackchengu",
+        "content": "米米，图5里面 成熟市场：说是20%，但是底下那些若是占比，加起来也不等于100%，看着不应该是20%作为整体拆分。 如果说是美、英、德、日 直接占比，它们加起来50%了，感觉也不对。😂",
+        "images": [],
+        "createdAt": "2026-02-17T21:10:21",
+        "ipLocation": "福建省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

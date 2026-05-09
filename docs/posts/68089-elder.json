@@ -1,0 +1,43 @@
+{
+  "postId": "68089",
+  "fetchedAt": "2026-05-09T14:09:11+08:00",
+  "totalCommentNum": 337,
+  "totalScanned": 276,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1592083,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "知道红利今天为什么新高吗？\n为了应景！\n因为老大刚刚发了“史上”最大的新春大红包，红包总金额新高了！\n相得益彰。",
+      "images": [],
+      "createdAt": "2026-02-25T10:36:38",
+      "ipLocation": "上海市",
+      "likeNum": 183
+    },
+    {
+      "type": "reply",
+      "id": 1592233,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【复习】【20251218】【且慢】红利类配置仓位\n「我这里说一个暴论。\n对于普通投资A股的朋友来说，A股部分的30%-50%，低位买入红利类资产。这部分绝大多数仓位长期持有，小部分做波段。同时，根据市场情况设置现金分红与再投资。\n剩下的大部分仓位长、短结合配置宽基资产。再剩下10%-20%在极低位买入优秀的行业，做大波段。\n这说的是A股部分。」",
+      "images": [],
+      "createdAt": "2026-02-25T10:38:08",
+      "ipLocation": "上海市",
+      "likeNum": 182,
+      "parent": {
+        "id": 1592083,
+        "userName": "新米练习菌",
+        "content": "知道红利今天为什么新高吗？\n为了应景！\n因为老大刚刚发了“史上”最大的新春大红包，红包总金额新高了！\n相得益彰。",
+        "images": [],
+        "createdAt": "2026-02-25T10:36:38",
+        "ipLocation": "上海市",
+        "likeNum": 183
+      },
+      "replyTo": null
+    }
+  ]
+}

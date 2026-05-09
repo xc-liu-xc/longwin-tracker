@@ -1,0 +1,53 @@
+{
+  "postId": "67837",
+  "fetchedAt": "2026-05-09T14:12:00+08:00",
+  "totalCommentNum": 80,
+  "totalScanned": 74,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1564021,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "杜米 节头骨\n还查了查，学到新词汇了~\n今天又比昨天多知道了一点点东西",
+      "images": [],
+      "createdAt": "2026-02-24T12:34:37",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1562923,
+        "userName": "小小顾",
+        "content": "不得不翘杜米节头骨，好棒，感谢感谢🥰",
+        "images": [],
+        "createdAt": "2026-02-24T11:17:10",
+        "ipLocation": "江苏省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1606537,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看你用来干吗，你跟踪指数比如做交易计划决策，就用指数，比如你要计算自己的资产，就用净值。只是数学，数学是工具。",
+      "images": [],
+      "createdAt": "2026-02-25T18:56:40",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 1577497,
+        "userName": "不问世事",
+        "content": "计算涨跌幅度是按找指数的点数计算还是按照基金的净值计算呢？感觉二者计算的结果不一样",
+        "images": [],
+        "createdAt": "2026-02-24T20:05:35",
+        "ipLocation": "福建省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

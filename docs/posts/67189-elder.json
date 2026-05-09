@@ -1,0 +1,53 @@
+{
+  "postId": "67189",
+  "fetchedAt": "2026-05-09T14:41:45+08:00",
+  "totalCommentNum": 16,
+  "totalScanned": 13,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1313575,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是我没写清楚，那是几个已经十几年的好朋友了，非常熟悉，和家人一样，没有负担。",
+      "images": [],
+      "createdAt": "2026-02-13T09:36:26",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 1313557,
+        "userName": "E点零E的365次方",
+        "content": "喜欢米，有时候会幻想和米面基是啥样子呀，哈哈哈。",
+        "images": [],
+        "createdAt": "2026-02-13T09:30:30",
+        "ipLocation": "山西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1316599,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "😊",
+      "images": [],
+      "createdAt": "2026-02-13T11:44:15",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1316563,
+        "userName": "小卡拉米橙子",
+        "content": "网上考古约起来",
+        "images": [],
+        "createdAt": "2026-02-13T11:42:41",
+        "ipLocation": "湖北省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}
