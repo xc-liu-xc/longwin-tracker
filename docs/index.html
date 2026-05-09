@@ -491,6 +491,24 @@
       white-space: pre-wrap;
       word-break: break-word;
     }
+    .elder-images {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 8px;
+    }
+    .elder-images img {
+      max-width: 240px;
+      max-height: 200px;
+      border-radius: 4px;
+      border: 1px solid #eee;
+      cursor: zoom-in;
+      object-fit: cover;
+    }
+    .elder-quote .elder-images img {
+      max-width: 180px;
+      max-height: 140px;
+    }
 
     .posts-empty {
       text-align: center;
@@ -1795,6 +1813,15 @@ function fmtElderTime(s) {
   return s.replace("T", " ").slice(0, 16);
 }
 
+function renderElderImages(images) {
+  if (!images || !images.length) return "";
+  let html = '<div class="elder-images">';
+  for (const url of images) {
+    html += '<img src="' + escHtml(url) + '" loading="lazy" onclick="window.open(this.src,\'_blank\')">';
+  }
+  return html + '</div>';
+}
+
 function renderAuthorBlock(it) {
   const meta = '<span class="author-meta">' + escHtml(fmtElderTime(it.createdAt))
     + (it.ipLocation ? ' · ' + escHtml(it.ipLocation) : '')
@@ -1807,6 +1834,7 @@ function renderAuthorBlock(it) {
     + meta
     + '</div>'
     + '<div class="author-content">' + escHtml(it.content || "") + '</div>'
+    + renderElderImages(it.images)
     + '</div>';
 }
 
@@ -1820,11 +1848,13 @@ function renderQuoteBlock(parent, deeper) {
     deeperHtml = '<div class="quote-deeper">'
       + '<span class="quote-name">' + escHtml(deeper.userName || "") + '：</span>'
       + escHtml(deeper.content || "")
+      + renderElderImages(deeper.images)
       + '</div>';
   }
   return '<div class="elder-quote">'
     + '<div><span class="quote-name">' + escHtml(parent.userName || "") + '</span>' + meta + '</div>'
     + '<div class="quote-content">' + escHtml(parent.content || "") + '</div>'
+    + renderElderImages(parent.images)
     + deeperHtml
     + '</div>';
 }

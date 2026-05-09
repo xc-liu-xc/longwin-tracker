@@ -166,6 +166,7 @@ def normalize_top(c: dict, author: str) -> dict:
         "author":        author,
         "authorUserId":  str(c.get("brokerUserId") or ""),
         "content":       c.get("content") or "",
+        "images":        c.get("images") or [],
         "createdAt":     c.get("createdAt") or "",
         "ipLocation":    c.get("ipLocation") or "",
         "likeNum":       c.get("likeNum") or 0,
@@ -177,6 +178,7 @@ def normalize_reply(reply: dict, parent: dict, siblings: list, author: str) -> d
         "id":         parent["id"],
         "userName":   parent.get("userName") or "",
         "content":    parent.get("content") or "",
+        "images":     parent.get("images") or [],
         "createdAt":  parent.get("createdAt") or "",
         "ipLocation": parent.get("ipLocation") or "",
         "likeNum":    parent.get("likeNum") or 0,
@@ -190,6 +192,7 @@ def normalize_reply(reply: dict, parent: dict, siblings: list, author: str) -> d
                     "id":       sib["id"],
                     "userName": sib.get("userName") or "",
                     "content":  sib.get("content") or "",
+                    "images":   sib.get("images") or [],
                 }
                 break
     return {
@@ -198,6 +201,7 @@ def normalize_reply(reply: dict, parent: dict, siblings: list, author: str) -> d
         "author":        author,
         "authorUserId":  str(reply.get("brokerUserId") or ""),
         "content":       reply.get("content") or "",
+        "images":        reply.get("images") or [],
         "createdAt":     reply.get("createdAt") or "",
         "ipLocation":    reply.get("ipLocation") or "",
         "likeNum":       reply.get("likeNum") or 0,

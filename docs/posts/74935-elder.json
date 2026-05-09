@@ -1,6 +1,6 @@
 {
   "postId": "74935",
-  "fetchedAt": "2026-05-09T12:04:03+08:00",
+  "fetchedAt": "2026-05-09T12:13:11+08:00",
   "totalCommentNum": 493,
   "totalScanned": 425,
   "expandedTopLevel": 4,
@@ -13,9 +13,13 @@
       "author": "新米练习菌",
       "authorUserId": "3194882",
       "content": "E大下午好\n\n一些记录，正好抓了数据，截至 5月7日 的仓位情况，供参考\n\n（是今日发车前的仓位，【150】上证50一份还未减，明日会更新）\n\n然后，\n\n【150】目前红利共持有16份 = 富国 中证红利 x 13份+ 博时 红利低波100 x 2份 + 易方达 红利低波 x 1份\n\n【S】目前红利共持有11份 = 富国 中证红利 x 8份+ 博时 红利低波100 x 2份 + 易方达 红利低波 x 1份\n\n目前已经提到和触及到的红利指数：\n\n📌中证红利（000922）\n\n📌红利低波100（930955）\n\n📌红利低波（H30269）\n\n🎯红利全收益（H00922）\n",
+      "images": [
+        "https://cdn-community.qieman.com/710221C0-958F-4310-B1ED-7FFB64748670.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/AE76BB46-BF9D-4609-AFBA-A76D830A3EBD.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50"
+      ],
       "createdAt": "2026-05-08T15:44:57",
       "ipLocation": "上海市",
-      "likeNum": 318
+      "likeNum": 319
     }
   ]
 }
