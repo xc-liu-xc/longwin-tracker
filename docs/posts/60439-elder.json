@@ -1,0 +1,85 @@
+{
+  "postId": "60439",
+  "fetchedAt": "2026-05-09T15:46:01+08:00",
+  "totalCommentNum": 52,
+  "totalScanned": 48,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 850081,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这些其实是年度大折子的一部分 1/5吧~",
+      "images": [],
+      "createdAt": "2026-01-05T12:25:44",
+      "ipLocation": "上海市",
+      "likeNum": 9
+    },
+    {
+      "type": "reply",
+      "id": 850087,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "目录截止到昨日营业，\n今早营业前发的贴子。",
+      "images": [],
+      "createdAt": "2026-01-05T12:26:50",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 850081,
+        "userName": "新米练习菌",
+        "content": "这些其实是年度大折子的一部分 1/5吧~",
+        "images": [],
+        "createdAt": "2026-01-05T12:25:44",
+        "ipLocation": "上海市",
+        "likeNum": 9
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 856003,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "誒~~对哦，哈哈，我看到第一行大字了，因为是文章了，我大意了，\n嗯，我去改改，谢谢提醒~~",
+      "images": [],
+      "createdAt": "2026-01-05T18:13:00",
+      "ipLocation": "广东省",
+      "likeNum": 2,
+      "parent": {
+        "id": 855865,
+        "userName": "谢婷",
+        "content": "那我就聊聊医药医疗，这一篇是帖子吧，米米",
+        "images": [],
+        "createdAt": "2026-01-05T17:57:49",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1081843,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是只有C类，只要是定义为波段操作的都算~\n",
+      "images": [],
+      "createdAt": "2026-01-14T18:06:50",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1078789,
+        "userName": "谢婷",
+        "content": "米米，我也统计了下发车记录表，以150发车为例，截至到25年，总共波段交易份数是21份，但是您表里是31份，我对了下，2022年以后这几年的波段记录都对不上，我这边统计22年波段是买1卖2，23年是买5，24年是买5卖3，25年是没有波段。波段的话是fg消费c,hb医疗C,HS300c,zz500c,4个品种对吗？还是有其他品种我没统计到啊。",
+        "images": [],
+        "createdAt": "2026-01-14T15:46:06",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

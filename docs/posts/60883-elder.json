@@ -1,0 +1,58 @@
+{
+  "postId": "60883",
+  "fetchedAt": "2026-05-09T15:43:06+08:00",
+  "totalCommentNum": 37,
+  "totalScanned": 28,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 897187,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我一个人整理的。\n那个是朋友的库，但后来我已经搬迁了，我现自己一个人的库，没有和任何人共享。",
+      "images": [],
+      "createdAt": "2026-01-07T19:21:58",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 895849,
+        "userName": "傻瓜笑",
+        "content": "老师，刚在微博翻到有个共享文档，我们的财务自由知识库，现在还有吗？是否可以分享",
+        "images": [],
+        "createdAt": "2026-01-07T16:17:24",
+        "ipLocation": "上海市",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 896179,
+        "userName": "追梦少女小鲤",
+        "content": "那都是米米的心血，那是她和朋友自己整理的宝库，建议有需要自己动手整理。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 907165,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "👍",
+      "images": [],
+      "createdAt": "2026-01-07T22:41:27",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 906655,
+        "userName": "etf拯救lz",
+        "content": "米米，突然有一个想法分享一下：我要把老大12.12后发的买入车单独记录一个模型",
+        "images": [],
+        "createdAt": "2026-01-07T22:32:05",
+        "ipLocation": "山东省",
+        "likeNum": 3
+      },
+      "replyTo": null
+    }
+  ]
+}

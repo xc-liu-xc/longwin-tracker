@@ -1,0 +1,32 @@
+{
+  "postId": "61585",
+  "fetchedAt": "2026-05-09T15:34:00+08:00",
+  "totalCommentNum": 39,
+  "totalScanned": 31,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 968011,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "早，我知道那个，全世界的高手云集，但我不向往那个，我只想做和老大相关的东西~",
+      "images": [],
+      "createdAt": "2026-01-12T08:28:59",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 967795,
+        "userName": "zura",
+        "content": "早，新米。我上个月才知道居然一直有excel世锦赛。",
+        "images": [],
+        "createdAt": "2026-01-12T07:01:08",
+        "ipLocation": "江苏省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

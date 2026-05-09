@@ -1,0 +1,43 @@
+{
+  "postId": "60043",
+  "fetchedAt": "2026-05-09T15:46:56+08:00",
+  "totalCommentNum": 544,
+  "totalScanned": 538,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 829237,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大上午好，\n老大假期里工作辛苦了~\n谢谢~已经开始盼着下午练脑子了",
+      "images": [],
+      "createdAt": "2026-01-02T10:26:01",
+      "ipLocation": "上海市",
+      "likeNum": 38
+    },
+    {
+      "type": "reply",
+      "id": 829537,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是『养老/财务自由提款器』的说明书吗\n",
+      "images": [],
+      "createdAt": "2026-01-02T10:30:43",
+      "ipLocation": "上海市",
+      "likeNum": 33,
+      "parent": {
+        "id": 829237,
+        "userName": "新米练习菌",
+        "content": "E大上午好，\n老大假期里工作辛苦了~\n谢谢~已经开始盼着下午练脑子了",
+        "images": [],
+        "createdAt": "2026-01-02T10:26:01",
+        "ipLocation": "上海市",
+        "likeNum": 38
+      },
+      "replyTo": null
+    }
+  ]
+}

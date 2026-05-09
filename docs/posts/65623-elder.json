@@ -1,0 +1,32 @@
+{
+  "postId": "65623",
+  "fetchedAt": "2026-05-09T15:03:17+08:00",
+  "totalCommentNum": 28,
+  "totalScanned": 25,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1264735,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我只觉得这四个本来和我“浑身不搭界”(上海话）的字按我身上很神奇，所以用了“一刚”(还是上海话) 调侃一下~",
+      "images": [],
+      "createdAt": "2026-01-30T12:24:46",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 1263835,
+        "userName": "biubiubiubiu",
+        "content": "哈哈哈，不好意思哈，前面是我说的，我想表达的是，你在喜欢的人、喜欢的事和想要守护的事物面前，你会表现得很勇敢，很有自己的想法，也会旗帜鲜明地输出自己的观点，有一股悍匪的利落感",
+        "images": [],
+        "createdAt": "2026-01-30T12:07:52",
+        "ipLocation": "上海市",
+        "likeNum": 4
+      },
+      "replyTo": null
+    }
+  ]
+}

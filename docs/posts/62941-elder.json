@@ -1,0 +1,32 @@
+{
+  "postId": "62941",
+  "fetchedAt": "2026-05-09T15:13:12+08:00",
+  "totalCommentNum": 58,
+  "totalScanned": 56,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1165453,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "谢谢提醒。两边提醒还。\n看了看了看了。\n最后的总结，里面有个统计是…\n（泪目了…)\n（啊啊啊…）\n还好你关照我要看到最后，于是我才看得特别认真。\n我要去存档存下来。",
+      "images": [],
+      "createdAt": "2026-01-19T17:03:26",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 1165387,
+        "userName": "lucky_ETF",
+        "content": "米米米米，且慢年度总结，最后有老大的话！\n",
+        "images": [],
+        "createdAt": "2026-01-19T16:44:24",
+        "ipLocation": "北京市",
+        "likeNum": 5
+      },
+      "replyTo": null
+    }
+  ]
+}

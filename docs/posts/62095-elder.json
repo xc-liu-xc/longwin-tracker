@@ -1,0 +1,32 @@
+{
+  "postId": "62095",
+  "fetchedAt": "2026-05-09T15:25:19+08:00",
+  "totalCommentNum": 26,
+  "totalScanned": 23,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1074415,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我不记得哪次了，平时发现问题，会想办法去解决，偶尔会感慨一下。\n数据收集肯定是关联和源自不同的数据源。",
+      "images": [],
+      "createdAt": "2026-01-14T13:49:46",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 1071055,
+        "userName": "安安静静",
+        "content": "谢谢米米，我要自己画，不知道猴年马月。想请教一个问题，上次米米说知道是哪里出问题了，这个数据的收集关联了某些数据吗，还是一个个对照券商一个个看的",
+        "images": [],
+        "createdAt": "2026-01-14T12:22:31",
+        "ipLocation": "广东省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

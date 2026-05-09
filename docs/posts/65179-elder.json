@@ -1,0 +1,142 @@
+{
+  "postId": "65179",
+  "fetchedAt": "2026-05-09T15:04:38+08:00",
+  "totalCommentNum": 88,
+  "totalScanned": 79,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1248787,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "对对对，还有左脚，蹬自行车🚲，踩，踢，顶，不假思索，会。",
+      "images": [],
+      "createdAt": "2026-01-28T12:57:09",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1248565,
+        "userName": "小虾米不瞎",
+        "content": "我也是左撇子，但是只有写字用右手，其他都用左手，甚至踢键子也得用左腿，哈哈哈",
+        "images": [],
+        "createdAt": "2026-01-28T12:31:47",
+        "ipLocation": "陕西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1248805,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "左手吃饭小时候不被允许，\n而且会和坐左边的人碰到。",
+      "images": [],
+      "createdAt": "2026-01-28T12:58:30",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 1248547,
+        "userName": "楠楠快乐投资",
+        "content": "居然跟米米有相同的习惯，不同的是我拿筷子也是左手呢。",
+        "images": [],
+        "createdAt": "2026-01-28T12:31:00",
+        "ipLocation": "湖北省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1249417,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "\"右捺子\"\n哈哈哈，抱歉，我笑得很大声。（我上海人，会用上海话念的，哎呀呀呀）\n骂得好。",
+      "images": [],
+      "createdAt": "2026-01-28T14:45:04",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 1249351,
+        "userName": "ZZ-369",
+        "content": "哈哈 ，我就是左撇子（就写字是右手，且还是幼儿园大班时被老师一直站我身边纠正成右手的）。\n小时候被其他小朋友骂我”左撇子“（那时候是贬义的），我回骂他们是“右捺子”。\n那时候我挺得意自己当时就回骂回去，还对骂的很工整，哈哈",
+        "images": [],
+        "createdAt": "2026-01-28T14:37:22",
+        "ipLocation": "天津市",
+        "likeNum": 6
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1249435,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "做晚饭的时候，多做一点就，做好先盛出来，装好次日用。",
+      "images": [],
+      "createdAt": "2026-01-28T14:46:21",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 1249195,
+        "userName": "枫叶一片云",
+        "content": "厨艺不错啊，看着都好吃。有一点不明白，这么少的量自己怎么做啊？\n",
+        "images": [],
+        "createdAt": "2026-01-28T14:06:07",
+        "ipLocation": "重庆市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1249441,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "照片关系…是扁平的，高7cm，直径16cm…",
+      "images": [],
+      "createdAt": "2026-01-28T14:47:17",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1249309,
+        "userName": "开开心心的",
+        "content": "竖的饭盒就不容易热透，可以换成平一点扁一点的饭盒",
+        "images": [],
+        "createdAt": "2026-01-28T14:29:51",
+        "ipLocation": "安徽省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1255111,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "反正就尬难听的那种。\n上海话有很多普通话念念没什么，上海话就有上海话特色的话\n比如：急则疲，慌则乱。",
+      "images": [],
+      "createdAt": "2026-01-28T16:22:06",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 1249351,
+        "userName": "ZZ-369",
+        "content": "哈哈 ，我就是左撇子（就写字是右手，且还是幼儿园大班时被老师一直站我身边纠正成右手的）。\n小时候被其他小朋友骂我”左撇子“（那时候是贬义的），我回骂他们是“右捺子”。\n那时候我挺得意自己当时就回骂回去，还对骂的很工整，哈哈",
+        "images": [],
+        "createdAt": "2026-01-28T14:37:22",
+        "ipLocation": "天津市",
+        "likeNum": 6
+      },
+      "replyTo": {
+        "id": 1254985,
+        "userName": "ZZ-369",
+        "content": "回骂的好吧[害羞]，那是“左撇子”被严重歧视，不被认为是正常人的80年代后期。 \n依稀知道上海话“右捺子”怎么发音，但不知道还有什么特殊意思，是有点类似英文里“nuts\"意思吗？若是，那一语双关，太巧啦，哈哈。",
+        "images": []
+      }
+    }
+  ]
+}

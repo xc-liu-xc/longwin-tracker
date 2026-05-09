@@ -1,0 +1,32 @@
+{
+  "postId": "61393",
+  "fetchedAt": "2026-05-09T15:35:04+08:00",
+  "totalCommentNum": 13,
+  "totalScanned": 11,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 955597,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，我写个贴子吧~\n这里，刚刚发：\nhttps://qieman.com/content/content-detail?postId=61441",
+      "images": [],
+      "createdAt": "2026-01-10T11:29:31",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 955027,
+        "userName": "大胆生活放心爱",
+        "content": "米米，请教下您往日里整理的中概互联指数可有参考的指数代码，有的话能提供我一下吗，我看您整理了两个！",
+        "images": [],
+        "createdAt": "2026-01-10T11:09:47",
+        "ipLocation": "安徽省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "postId": "61669",
+  "fetchedAt": "2026-05-09T15:31:01+08:00",
+  "totalCommentNum": 1591,
+  "totalScanned": 1358,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 976411,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "其实不交流也行。心太累了。年纪大了，遭不住。只是突然消失了，有点对不起这么多年一直关注我的这些朋友。",
+      "images": [],
+      "createdAt": "2026-01-12T12:07:18",
+      "ipLocation": "北京市",
+      "likeNum": 603
+    },
+    {
+      "type": "reply",
+      "id": 976621,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "到时候再说吧。",
+      "images": [],
+      "createdAt": "2026-01-12T12:09:14",
+      "ipLocation": "北京市",
+      "likeNum": 289,
+      "parent": {
+        "id": 976411,
+        "userName": "ETF拯救世界",
+        "content": "其实不交流也行。心太累了。年纪大了，遭不住。只是突然消失了，有点对不起这么多年一直关注我的这些朋友。",
+        "images": [],
+        "createdAt": "2026-01-12T12:07:18",
+        "ipLocation": "北京市",
+        "likeNum": 603
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 978133,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没啥对不起的，累了就休息，照顾好自己才是最要紧的，自己的感受才是第一位。\n到时候再说，那时心境又会有不同吧~\n自从看到约翰伯格的追随者建的网站，就坚定了这个决心，如果老大退隐了，那就我们自己做这件事。绝对不让老大“消失“历史的长河里，而是永远流传，流芳百世。",
+      "images": [],
+      "createdAt": "2026-01-12T12:26:47",
+      "ipLocation": "上海市",
+      "likeNum": 422,
+      "parent": {
+        "id": 976411,
+        "userName": "ETF拯救世界",
+        "content": "其实不交流也行。心太累了。年纪大了，遭不住。只是突然消失了，有点对不起这么多年一直关注我的这些朋友。",
+        "images": [],
+        "createdAt": "2026-01-12T12:07:18",
+        "ipLocation": "北京市",
+        "likeNum": 603
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 979243,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "也有可能回归第二轮那样，找个地方，发布我自己的交易。不是任何人的投资顾问，只记录自己的投资。谁知道呢，走着看吧。",
+      "images": [],
+      "createdAt": "2026-01-12T12:45:02",
+      "ipLocation": "北京市",
+      "likeNum": 648
+    },
+    {
+      "type": "reply",
+      "id": 985219,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个是【E学院】，一位广州的前辈做的，建立好像也有8~9年了吧？\nE大的公开发言（bk，xq，wb，gzh和小组之前的qm内容）按平台、时间、精选、全部，都整理在了上面。\n单向互动浏览可读。\n（那位前辈也非常忙，老大营业量大，很小一段时间停更了一会儿，所以里面有11个月的wb，我麻烦那位前辈帮忙上传过，前辈人很好，续上了，就一直又继续更新着，我也在相关的群里，但我不说话。\n没事，就是有这个网站，我只是把我知道的一些情况说一说，不代表其他人。）",
+      "images": [],
+      "createdAt": "2026-01-12T14:27:25",
+      "ipLocation": "上海市",
+      "likeNum": 16,
+      "parent": {
+        "id": 976411,
+        "userName": "ETF拯救世界",
+        "content": "其实不交流也行。心太累了。年纪大了，遭不住。只是突然消失了，有点对不起这么多年一直关注我的这些朋友。",
+        "images": [],
+        "createdAt": "2026-01-12T12:07:18",
+        "ipLocation": "北京市",
+        "likeNum": 603
+      },
+      "replyTo": {
+        "id": 981745,
+        "userName": "起源",
+        "content": "有一个网站，http://www.chinaetfs.cn/不知道是不是正版的",
+        "images": []
+      }
+    }
+  ]
+}

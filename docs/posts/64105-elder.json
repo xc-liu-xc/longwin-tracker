@@ -1,0 +1,100 @@
+{
+  "postId": "64105",
+  "fetchedAt": "2026-05-09T15:08:34+08:00",
+  "totalCommentNum": 53,
+  "totalScanned": 40,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1208767,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是出鞘的时候才打磨的，那就来不及了，是有效期只有60天…每两个月就会例行打磨一遍",
+      "images": [],
+      "createdAt": "2026-01-22T08:50:42",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 1208635,
+        "userName": "成小艳",
+        "content": "米米大侠，早呀，感觉剑要出鞘了",
+        "images": [],
+        "createdAt": "2026-01-22T08:38:13",
+        "ipLocation": "江苏省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1209685,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我不觉得麻烦，有deadline会提醒我定期检查一遍，我觉得蛮好的，时间长会有种不看也不会失效的，可能就丢着不管，容易懈怠。",
+      "images": [],
+      "createdAt": "2026-01-22T10:08:50",
+      "ipLocation": "上海市",
+      "likeNum": 13,
+      "parent": {
+        "id": 1208635,
+        "userName": "成小艳",
+        "content": "米米大侠，早呀，感觉剑要出鞘了",
+        "images": [],
+        "createdAt": "2026-01-22T08:38:13",
+        "ipLocation": "江苏省",
+        "likeNum": 4
+      },
+      "replyTo": {
+        "id": 1209517,
+        "userName": "愚人码头",
+        "content": "如果您不想那么麻烦，华@宝是想挣钱的，给钱，他们的条件单就会时间长很多。\n我还是60天，定期去延期。不想让他挣我的钱。哈哈。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1209691,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，得一个个打开界面，所以就都过一遍，心里有数也挺好的~\n凡事发生皆有利于我的感觉~",
+      "images": [],
+      "createdAt": "2026-01-22T10:09:54",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 1209487,
+        "userName": "长赢的熊",
+        "content": "以前觉得条件单不能一键延期很不合理，后来发现，还是应该定期检查条件单的，延期的时候就正好把所有条件单过一遍了。",
+        "images": [],
+        "createdAt": "2026-01-22T09:53:24",
+        "ipLocation": "四川省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1216075,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "长时间开麦的就这一次。\n之前还有一次且慢2020年四周年，老大说了祝福生日快乐。",
+      "images": [],
+      "createdAt": "2026-01-22T18:34:33",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 1215985,
+        "userName": "CoolEE",
+        "content": "新米好，抱歉打扰您，可以请教一下，老大第一次“耳机里与大家见面”的时间吗？一共见面几次嘞，看到一次是20220718，方便吗？谢谢谢谢",
+        "images": [],
+        "createdAt": "2026-01-22T17:55:38",
+        "ipLocation": "北京市",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "64099",
+  "fetchedAt": "2026-05-09T15:08:31+08:00",
+  "totalCommentNum": 25,
+  "totalScanned": 23,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1208287,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "早起的虫儿被鸟吃",
+      "images": [],
+      "createdAt": "2026-01-22T07:41:49",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 1208191,
+        "userName": "同路人_dizUVe",
+        "content": "早起鸟儿有虫吃",
+        "images": [],
+        "createdAt": "2026-01-22T07:07:30",
+        "ipLocation": "重庆市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

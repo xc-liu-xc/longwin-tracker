@@ -1,0 +1,43 @@
+{
+  "postId": "61885",
+  "fetchedAt": "2026-05-09T15:26:56+08:00",
+  "totalCommentNum": 596,
+  "totalScanned": 511,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1021483,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "他还会回来的。即使不告诉你，他也会悄悄回来",
+      "images": [],
+      "createdAt": "2026-01-13T11:22:31",
+      "ipLocation": "北京市",
+      "likeNum": 385,
+      "parent": {
+        "id": 1020415,
+        "userName": "iqin",
+        "content": "我朋友买了几年的基金 上周回本全部卖掉了 说再也不玩",
+        "images": [],
+        "createdAt": "2026-01-13T11:12:36",
+        "ipLocation": "上海市",
+        "likeNum": 39
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 1022227,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "GuShi上，我没有情绪…\n没用的东西，怎么判断啊？\n本来无一物，何处染尘埃。\n两个“也许”都没有，\n我只是一只根据策略执行交易的野生碳基AI。",
+      "images": [],
+      "createdAt": "2026-01-13T11:33:22",
+      "ipLocation": "上海市",
+      "likeNum": 21
+    }
+  ]
+}

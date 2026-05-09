@@ -1,0 +1,43 @@
+{
+  "postId": "61135",
+  "fetchedAt": "2026-05-09T15:38:49+08:00",
+  "totalCommentNum": 309,
+  "totalScanned": 210,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 926239,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好~\n别人家的医药，赚钱容易点，\n我们家的医药，赚钱困难点，\n反正都有，都会赚钱，就“种养”技术不一样~",
+      "images": [],
+      "createdAt": "2026-01-09T06:33:58",
+      "ipLocation": "上海市",
+      "likeNum": 42
+    },
+    {
+      "type": "reply",
+      "id": 927193,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "一切顺利！",
+      "images": [],
+      "createdAt": "2026-01-09T09:42:30",
+      "ipLocation": "北京市",
+      "likeNum": 111,
+      "parent": {
+        "id": 926593,
+        "userName": "dumdum霞",
+        "content": "E大，今天是我催产的第三天，成败就在今天了，不行就要转剖了。希望今天能顺顺利利的🙏🏻",
+        "images": [],
+        "createdAt": "2026-01-09T08:30:08",
+        "ipLocation": "广东省",
+        "likeNum": 180
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "postId": "61249",
+  "fetchedAt": "2026-05-09T15:37:25+08:00",
+  "totalCommentNum": 1025,
+  "totalScanned": 925,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 940171,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哇塞，99.18%，我觉得会到100%，因为锁门了，不会有新人。\n7位数是百万，\n8位数是千万，\n9位数是亿，\n10位数是几十亿，\n11位数就是百亿！\n我相信，能！\n一路新高，向着100%+11位数前进！！！\n",
+      "images": [],
+      "createdAt": "2026-01-09T14:18:33",
+      "ipLocation": "上海市",
+      "likeNum": 15
+    },
+    {
+      "type": "top",
+      "id": 943567,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "自然选择，前进四！",
+      "images": [],
+      "createdAt": "2026-01-09T14:38:45",
+      "ipLocation": "上海市",
+      "likeNum": 6
+    },
+    {
+      "type": "reply",
+      "id": 944305,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不是这么算的。如果十位开头是1，那利润当然会翻10倍。但如果十位开头是9，那再多10%就行了……",
+      "images": [],
+      "createdAt": "2026-01-09T14:49:04",
+      "ipLocation": "北京市",
+      "likeNum": 211,
+      "parent": {
+        "id": 943189,
+        "userName": "被ETF拯救的may",
+        "content": "十位数变11位，资产嘉玲，做梦都会笑醒啊，我太幸运了吧",
+        "images": [],
+        "createdAt": "2026-01-09T14:35:03",
+        "ipLocation": "辽宁省",
+        "likeNum": 31
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 946243,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "好玩吧！",
+      "images": [],
+      "createdAt": "2026-01-09T15:41:46",
+      "ipLocation": "北京市",
+      "likeNum": 130,
+      "parent": {
+        "id": 945619,
+        "userName": "骑着蜗牛去拉萨",
+        "content": "把这周盈利加进去，重新设置了最新资产，用提款小工具测试了一下，数据发生了很大变化，提高本金，稳定盈利，时间久了，就能改变很多事情。",
+        "images": [],
+        "createdAt": "2026-01-09T15:19:30",
+        "ipLocation": "新疆维吾尔自治区",
+        "likeNum": 74
+      },
+      "replyTo": null
+    }
+  ]
+}

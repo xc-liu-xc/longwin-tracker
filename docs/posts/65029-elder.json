@@ -1,0 +1,54 @@
+{
+  "postId": "65029",
+  "fetchedAt": "2026-05-09T15:06:07+08:00",
+  "totalCommentNum": 638,
+  "totalScanned": 462,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1244539,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "位高者未必睡得安稳，巨富者未必吃得香甜。做一个身体健康，跟大家关系都不错，有钱的，默默无闻的小卡拉米是最幸福的。",
+      "images": [],
+      "createdAt": "2026-01-27T20:49:07",
+      "ipLocation": "北京市",
+      "likeNum": 717
+    },
+    {
+      "type": "reply",
+      "id": 1244941,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "其实真的很重要",
+      "images": [],
+      "createdAt": "2026-01-27T20:56:38",
+      "ipLocation": "北京市",
+      "likeNum": 343,
+      "parent": {
+        "id": 1244311,
+        "userName": "Lour",
+        "content": "人际关系是必需的吗 感觉健康+有钱就好了呀",
+        "images": [],
+        "createdAt": "2026-01-27T20:45:27",
+        "ipLocation": "广东省",
+        "likeNum": 31
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 1245637,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大的排序很有意思的，\n人在财之前呢~\n健康为根、人心为暖、财务为安。\nE大晚安~\n===小声：想起一个keng===\n【20221014】\t第二个让我们持续快乐的，其实是人际关系。好了，以后有空再展开说吧。\n",
+      "images": [],
+      "createdAt": "2026-01-27T21:39:56",
+      "ipLocation": "上海市",
+      "likeNum": 144
+    }
+  ]
+}

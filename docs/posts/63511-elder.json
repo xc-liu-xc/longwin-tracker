@@ -1,0 +1,53 @@
+{
+  "postId": "63511",
+  "fetchedAt": "2026-05-09T15:12:37+08:00",
+  "totalCommentNum": 45,
+  "totalScanned": 35,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1174819,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "谢谢理解和体谅~~",
+      "images": [],
+      "createdAt": "2026-01-20T13:28:12",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 1174645,
+        "userName": "平安喜乐小牛马",
+        "content": "好的米米，刚才那条评论已经删掉了。你说得对，光知道一点点，不深入研究，会出问题的。真正深入研究的人，会根据一些信息，推断更多的数据。不研究的人，抄一点点，亏了还要嗷嗷喊。还是谢谢米米。",
+        "images": [],
+        "createdAt": "2026-01-20T13:20:23",
+        "ipLocation": "山西省",
+        "likeNum": 14
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1177261,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是，别人这么喊我，我引用一下…",
+      "images": [],
+      "createdAt": "2026-01-20T14:44:01",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1175599,
+        "userName": "台灯",
+        "content": "自称米米好可爱",
+        "images": [],
+        "createdAt": "2026-01-20T14:04:56",
+        "ipLocation": "福建省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

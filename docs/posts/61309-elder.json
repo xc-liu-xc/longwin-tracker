@@ -1,0 +1,85 @@
+{
+  "postId": "61309",
+  "fetchedAt": "2026-05-09T15:37:42+08:00",
+  "totalCommentNum": 26,
+  "totalScanned": 19,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 948271,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "还有，老大“不能说话”，一说话，就会有新的灵感，脑子里就会一直在想，用图表怎么表达好。",
+      "images": [],
+      "createdAt": "2026-01-09T18:25:35",
+      "ipLocation": "上海市",
+      "likeNum": 22
+    },
+    {
+      "type": "reply",
+      "id": 949153,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是发现有错，错误，发送前就肯定都检查好。\n是觉得好像可以有更好的东西~",
+      "images": [],
+      "createdAt": "2026-01-09T19:52:46",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 948493,
+        "userName": "长赢的熊",
+        "content": "做的文件，反复检查很多次都觉得没问题，一打印出来就发现有错……",
+        "images": [],
+        "createdAt": "2026-01-09T19:02:11",
+        "ipLocation": "四川省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 949213,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是这个意思，完全不是交卷或者交差的心情，交的时候就力求超预期。100分也是往120分做的。",
+      "images": [],
+      "createdAt": "2026-01-09T19:54:33",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 948421,
+        "userName": "邵帅",
+        "content": "交了卷才发现答不了满分",
+        "images": [],
+        "createdAt": "2026-01-09T18:51:36",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 951109,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "对，评论也是。\n“啊，那个点，蛮好那样写的。” \n“呀，有句话应该这样说的。”\n经常的。",
+      "images": [],
+      "createdAt": "2026-01-09T22:42:10",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 949975,
+        "userName": "Lucier茜",
+        "content": "我每次评论时候也是。经常评论了后发现还能再改改，然后一次次删除修改评论重发/笑哭。可能也算某种程度上的共通之处？",
+        "images": [],
+        "createdAt": "2026-01-09T20:39:40",
+        "ipLocation": "福建省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

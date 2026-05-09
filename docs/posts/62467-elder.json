@@ -1,0 +1,32 @@
+{
+  "postId": "62467",
+  "fetchedAt": "2026-05-09T15:19:33+08:00",
+  "totalCommentNum": 21,
+  "totalScanned": 16,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1118395,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "多少还是有时效性的，等老大更新了十个指数的话，（悄悄地KPI forward出去），我再发发。目前就红利低波100和中证500是新说起过，不然，很多是2年前说的点位，担心会误导就不好了呢",
+      "images": [],
+      "createdAt": "2026-01-16T15:47:01",
+      "ipLocation": "上海市",
+      "likeNum": 16,
+      "parent": {
+        "id": 1109131,
+        "userName": "田老师",
+        "content": "好想看米米今年的【e大关键点位图】，近期有更新嘛",
+        "images": [],
+        "createdAt": "2026-01-16T11:18:03",
+        "ipLocation": "湖南省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

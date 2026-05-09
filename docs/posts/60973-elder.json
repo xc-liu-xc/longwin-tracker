@@ -1,0 +1,32 @@
+{
+  "postId": "60973",
+  "fetchedAt": "2026-05-09T15:38:49+08:00",
+  "totalCommentNum": 17,
+  "totalScanned": 15,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 914767,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "会，提前打好招呼，发完了也会说一声的。",
+      "images": [],
+      "createdAt": "2026-01-08T09:47:46",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 913927,
+        "userName": "头像好看吗_我画的",
+        "content": "米米早。发之前会说一下么。然后等到对方说话或者中断一会继续发。\n\n43条。我想了下，换成表情包，有5个页面的样子",
+        "images": [],
+        "createdAt": "2026-01-08T09:19:43",
+        "ipLocation": "江西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

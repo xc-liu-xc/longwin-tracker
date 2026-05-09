@@ -1,0 +1,43 @@
+{
+  "postId": "60577",
+  "fetchedAt": "2026-05-09T15:43:22+08:00",
+  "totalCommentNum": 402,
+  "totalScanned": 325,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 859519,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好~\n一早就打预防针，\n如果今天表现好，超出预期，大喜；\n如果今天表现不好，已降低预期，也没感觉。\n心态超好，涨跌都行，秦始皇触电——赢麻了",
+      "images": [],
+      "createdAt": "2026-01-06T09:21:09",
+      "ipLocation": "上海市",
+      "likeNum": 138
+    },
+    {
+      "type": "reply",
+      "id": 860131,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "开盘了，\n话说，大盘（上证指数）刚刚超过去年11/14的最高点4034点了。\n现在（目前）最高4036点了。\n大A，哦不，A大，十年新高了！",
+      "images": [],
+      "createdAt": "2026-01-06T09:37:41",
+      "ipLocation": "上海市",
+      "likeNum": 75,
+      "parent": {
+        "id": 859519,
+        "userName": "新米练习菌",
+        "content": "E大早上好~\n一早就打预防针，\n如果今天表现好，超出预期，大喜；\n如果今天表现不好，已降低预期，也没感觉。\n心态超好，涨跌都行，秦始皇触电——赢麻了",
+        "images": [],
+        "createdAt": "2026-01-06T09:21:09",
+        "ipLocation": "上海市",
+        "likeNum": 138
+      },
+      "replyTo": null
+    }
+  ]
+}

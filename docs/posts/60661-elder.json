@@ -1,0 +1,158 @@
+{
+  "postId": "60661",
+  "fetchedAt": "2026-05-09T15:44:47+08:00",
+  "totalCommentNum": 35,
+  "totalScanned": 22,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 870325,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "觉得老大帅帅的，\n——“你、这、种、人、 就、是、我、关、闭、新、人、跟、车、的、原、因。”\n被这句霸气到了。\n",
+      "images": [],
+      "createdAt": "2026-01-06T15:22:32",
+      "ipLocation": "上海市",
+      "likeNum": 50
+    },
+    {
+      "type": "reply",
+      "id": 870379,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我觉得这里有个特别方便的功能，就是发帖子的时候可以“添加策略“，然后，鼠标滚轮滚滚直达选长赢，\n哈哈，觉得很荣幸的感觉，以前外面WB可没有这。\n",
+      "images": [],
+      "createdAt": "2026-01-06T15:25:05",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 870325,
+        "userName": "新米练习菌",
+        "content": "觉得老大帅帅的，\n——“你、这、种、人、 就、是、我、关、闭、新、人、跟、车、的、原、因。”\n被这句霸气到了。\n",
+        "images": [],
+        "createdAt": "2026-01-06T15:22:32",
+        "ipLocation": "上海市",
+        "likeNum": 50
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 871549,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "前年，2024，现在已经2026了~",
+      "images": [],
+      "createdAt": "2026-01-06T16:47:36",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 870799,
+        "userName": "甜橙坚果冲冲冲",
+        "content": "这个我没有，但是好开心你们赚钱，而且你们卖了终于我快有进去的机会了，哈哈哈",
+        "images": [],
+        "createdAt": "2026-01-06T15:48:14",
+        "ipLocation": "云南省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 871273,
+        "userName": "逐阳",
+        "content": "市场永远不缺机会，比如去年9月底 有很多补仓建议。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 871705,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大的脑子，那个转速，\n“（大脑）极限运动”过几次、“超负荷”过几回，我就知道了，不天天练习，真的不行\n",
+      "images": [],
+      "createdAt": "2026-01-06T17:02:09",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 870151,
+        "userName": "捡垃圾的跟班",
+        "content": "米米，我累的呼哧喘都跟不上你的脚步；",
+        "images": [],
+        "createdAt": "2026-01-06T15:16:38",
+        "ipLocation": "陕西省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 873355,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是买卖多次之后的成本，但并不是平均成本。\n这个的成本计算非常复杂，涉及到四个基金，每个基金每次卖出买入的交易规则，份数，金额，一两句说不清楚。",
+      "images": [],
+      "createdAt": "2026-01-06T20:48:21",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 870325,
+        "userName": "新米练习菌",
+        "content": "觉得老大帅帅的，\n——“你、这、种、人、 就、是、我、关、闭、新、人、跟、车、的、原、因。”\n被这句霸气到了。\n",
+        "images": [],
+        "createdAt": "2026-01-06T15:22:32",
+        "ipLocation": "上海市",
+        "likeNum": 50
+      },
+      "replyTo": {
+        "id": 873181,
+        "userName": "且行且珍惜......",
+        "content": "米米晚上好！请问成本线是长赢买了多次卖了多次以后的平均成本吗？",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 873373,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个问题我明天说明一下吧",
+      "images": [],
+      "createdAt": "2026-01-06T20:50:11",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 872455,
+        "userName": "缝中",
+        "content": "课代表你好！我一直有个困惑你能不能给我解答一下，S说每月发1到2车，我感觉之前好多个月份没发车，你这个现金8份是怎么算出来的呢？感觉规则我还没有吃透😂",
+        "images": [],
+        "createdAt": "2026-01-06T18:36:23",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 875053,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个提议挺好的，让我研究下~ 谢谢你",
+      "images": [],
+      "createdAt": "2026-01-07T04:47:05",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 873451,
+        "userName": "礼赞普洛柏比俐缇",
+        "content": "真的好棒！要是长线和波段的填充色能区分，也许会更直观明了",
+        "images": [],
+        "createdAt": "2026-01-06T21:02:59",
+        "ipLocation": "浙江省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

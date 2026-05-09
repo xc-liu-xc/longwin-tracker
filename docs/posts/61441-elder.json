@@ -1,0 +1,53 @@
+{
+  "postId": "61441",
+  "fetchedAt": "2026-05-09T15:35:06+08:00",
+  "totalCommentNum": 50,
+  "totalScanned": 35,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 957355,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "对~哈哈",
+      "images": [],
+      "createdAt": "2026-01-10T14:25:24",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 956713,
+        "userName": "小鹿同学_Anna",
+        "content": "恒小科（如图）对吗，米米？",
+        "images": [],
+        "createdAt": "2026-01-10T13:13:39",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 961645,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "拼时长…拼不过老大的。\n老大最晚凌晨1点半，最早凌晨3点半。\n（本来就很高效，还能那么长时间。）\n我最晚11点半，而且视线已经迷糊，脑子已经不会转了。最早4点半，因为那天是1号，但那天要出差赶火车。",
+      "images": [],
+      "createdAt": "2026-01-11T11:22:00",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 956635,
+        "userName": "胖菜",
+        "content": "涨的时候也是，白班收盘了“我还没涨够呢”，于是夜班继续。\n怎么这么像双子座的你们。",
+        "images": [],
+        "createdAt": "2026-01-10T13:01:47",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "postId": "61219",
+  "fetchedAt": "2026-05-09T15:35:54+08:00",
+  "totalCommentNum": 484,
+  "totalScanned": 382,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 931975,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "“什么叫纯波段，我之前在一个券商那里看到的传媒就是纯波段。”\n我也在那个券商里看的，还根据他们的表格的数据，对应着画了图，昨天正好在说《莫再提一代目》就发了：\nhttps://qieman.com/content/content-detail?postId=61039\n",
+      "images": [],
+      "createdAt": "2026-01-09T11:20:57",
+      "ipLocation": "上海市",
+      "likeNum": 86
+    },
+    {
+      "type": "reply",
+      "id": 932311,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "长赢里的【传媒】仓位：\n【150】0.66%（1份）\n【S】1.38%（1份）\n",
+      "images": [],
+      "createdAt": "2026-01-09T11:25:07",
+      "ipLocation": "上海市",
+      "likeNum": 34,
+      "parent": {
+        "id": 931975,
+        "userName": "新米练习菌",
+        "content": "“什么叫纯波段，我之前在一个券商那里看到的传媒就是纯波段。”\n我也在那个券商里看的，还根据他们的表格的数据，对应着画了图，昨天正好在说《莫再提一代目》就发了：\nhttps://qieman.com/content/content-detail?postId=61039\n",
+        "images": [],
+        "createdAt": "2026-01-09T11:20:57",
+        "ipLocation": "上海市",
+        "likeNum": 86
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 933031,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "因为500是宽基。计划的建立初衷就是宽基为基础，行业/风格为辅助。辅助可以清，基础轻易不清。",
+      "images": [],
+      "createdAt": "2026-01-09T11:38:50",
+      "ipLocation": "北京市",
+      "likeNum": 414,
+      "parent": {
+        "id": 931933,
+        "userName": "李易新",
+        "content": "请教一下，为什么传媒是有计划清仓，500却大概率不会清，可以讲一下吗？谢谢",
+        "images": [],
+        "createdAt": "2026-01-09T11:20:37",
+        "ipLocation": "广东省",
+        "likeNum": 35
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 937045,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你可以选几个目前价差最大的补一点。一般我买东西都不贵，如果你能以比我低20%以上的价格买，那应该是不错的机会。可以考虑补一点。",
+      "images": [],
+      "createdAt": "2026-01-09T13:40:57",
+      "ipLocation": "北京市",
+      "likeNum": 160,
+      "parent": {
+        "id": 934213,
+        "userName": "-Silvery",
+        "content": "大大你好，刚开始投，工薪党，选的s定投，今天看到了补仓建议，建议加仓10倍是不是太着急了不用理会，自动跟车就行？",
+        "images": [],
+        "createdAt": "2026-01-09T12:40:27",
+        "ipLocation": "广东省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 938665,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没有，和开通了的大家看的是一样的。",
+      "images": [],
+      "createdAt": "2026-01-09T14:08:06",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 931975,
+        "userName": "新米练习菌",
+        "content": "“什么叫纯波段，我之前在一个券商那里看到的传媒就是纯波段。”\n我也在那个券商里看的，还根据他们的表格的数据，对应着画了图，昨天正好在说《莫再提一代目》就发了：\nhttps://qieman.com/content/content-detail?postId=61039\n",
+        "images": [],
+        "createdAt": "2026-01-09T11:20:57",
+        "ipLocation": "上海市",
+        "likeNum": 86
+      },
+      "replyTo": {
+        "id": 935761,
+        "userName": "E想天开06",
+        "content": "哈哈，课代表看到的可不是随便看的，可以抄作业对答案的",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 942577,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大的gzh（长赢指数投资），回复「网格」，先把那《网格三篇》，看得很熟、很熟、很熟、很熟、很熟。",
+      "images": [],
+      "createdAt": "2026-01-09T14:29:35",
+      "ipLocation": "上海市",
+      "likeNum": 23,
+      "parent": {
+        "id": 931975,
+        "userName": "新米练习菌",
+        "content": "“什么叫纯波段，我之前在一个券商那里看到的传媒就是纯波段。”\n我也在那个券商里看的，还根据他们的表格的数据，对应着画了图，昨天正好在说《莫再提一代目》就发了：\nhttps://qieman.com/content/content-detail?postId=61039\n",
+        "images": [],
+        "createdAt": "2026-01-09T11:20:57",
+        "ipLocation": "上海市",
+        "likeNum": 86
+      },
+      "replyTo": {
+        "id": 938947,
+        "userName": "todkee",
+        "content": "请问网格波段有没有什么新手教程呢？",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 947113,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "《波段策略.网格之一：写在前面、体系以及策略》\n作者 ETF拯救世界 长赢指数投资\n2019年4月28日\nhttps://mp.weixin.qq.com/s/uxktt5ZpNo03FpQQX-aG7g",
+      "images": [],
+      "createdAt": "2026-01-09T16:27:34",
+      "ipLocation": "上海市",
+      "likeNum": 13,
+      "parent": {
+        "id": 931975,
+        "userName": "新米练习菌",
+        "content": "“什么叫纯波段，我之前在一个券商那里看到的传媒就是纯波段。”\n我也在那个券商里看的，还根据他们的表格的数据，对应着画了图，昨天正好在说《莫再提一代目》就发了：\nhttps://qieman.com/content/content-detail?postId=61039\n",
+        "images": [],
+        "createdAt": "2026-01-09T11:20:57",
+        "ipLocation": "上海市",
+        "likeNum": 86
+      },
+      "replyTo": {
+        "id": 946813,
+        "userName": "同路捡货人",
+        "content": "米米，您提到的（网格）能不能发个链接，WX、XQ上怎么没找到，谢谢啦",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1157803,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "黏贴到网页地址栏就是了",
+      "images": [],
+      "createdAt": "2026-01-18T19:13:48",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 931975,
+        "userName": "新米练习菌",
+        "content": "“什么叫纯波段，我之前在一个券商那里看到的传媒就是纯波段。”\n我也在那个券商里看的，还根据他们的表格的数据，对应着画了图，昨天正好在说《莫再提一代目》就发了：\nhttps://qieman.com/content/content-detail?postId=61039\n",
+        "images": [],
+        "createdAt": "2026-01-09T11:20:57",
+        "ipLocation": "上海市",
+        "likeNum": 86
+      },
+      "replyTo": {
+        "id": 1155325,
+        "userName": "恩慧",
+        "content": "请问您写的这个网页要去哪里打开看？",
+        "images": []
+      }
+    }
+  ]
+}

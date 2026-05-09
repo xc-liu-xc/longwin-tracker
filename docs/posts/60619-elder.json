@@ -1,0 +1,74 @@
+{
+  "postId": "60619",
+  "fetchedAt": "2026-05-09T15:44:45+08:00",
+  "totalCommentNum": 97,
+  "totalScanned": 84,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 868459,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈哈，我不知道普通话怎么说出这个意境",
+      "images": [],
+      "createdAt": "2026-01-06T14:13:36",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 865825,
+        "userName": "wuyanmao",
+        "content": "哈哈哈 一塔锅子",
+        "images": [],
+        "createdAt": "2026-01-06T13:00:41",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 871069,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "“一塔锅子”，其实是上海话里的“一塌刮子”（发音：yik tak guak zy）\n意思是：总共、全部、所有加起来，强调数量有限或范围全部覆盖。",
+      "images": [],
+      "createdAt": "2026-01-06T16:07:28",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 869245,
+        "userName": "小满_胜万全",
+        "content": "一塔锅子是啥意思啊？",
+        "images": [],
+        "createdAt": "2026-01-06T14:41:17",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 871591,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我没怪他们，只是调侃，然后意识到“标准化”背后的一些问题。\n联想到自己做东西，对于特定的或者特殊的，确实需要“定制”一下，单独弄一弄，不能套用了事",
+      "images": [],
+      "createdAt": "2026-01-06T16:49:58",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 870253,
+        "userName": "Ningx",
+        "content": "运营写文案很不容易的 原谅他们吧哈哈",
+        "images": [],
+        "createdAt": "2026-01-06T15:19:14",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

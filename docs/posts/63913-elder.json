@@ -1,0 +1,64 @@
+{
+  "postId": "63913",
+  "fetchedAt": "2026-05-09T15:08:50+08:00",
+  "totalCommentNum": 340,
+  "totalScanned": 270,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1189873,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好，\n谢谢老大的分享和提点~\n这两点真的是做人做事的根本，老大也一直都是这么身体力行的。\n耳濡目染，言传身教。\n嗯，记在心里了，也会落实到行动上，尊重他人，踏实做人，认真做事，用价值换真心～\n",
+      "images": [],
+      "createdAt": "2026-01-21T10:15:44",
+      "ipLocation": "上海市",
+      "likeNum": 4
+    },
+    {
+      "type": "reply",
+      "id": 1189909,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "长债慎重，中短债完全可以慢慢买点。可惜现在都不能大额申购，否则计划会加仓的",
+      "images": [],
+      "createdAt": "2026-01-21T10:15:59",
+      "ipLocation": "香港特别行政区",
+      "likeNum": 252,
+      "parent": {
+        "id": 1189513,
+        "userName": "luckyzz",
+        "content": "e大，请有机会的时候再聊聊美元债好吗？现在可以适当加仓吗？",
+        "images": [],
+        "createdAt": "2026-01-21T10:10:29",
+        "ipLocation": "山东省",
+        "likeNum": 16
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1190599,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "吹嘘拍马，是不是解决了领导的情绪心理需求？",
+      "images": [],
+      "createdAt": "2026-01-21T10:29:14",
+      "ipLocation": "香港特别行政区",
+      "likeNum": 220,
+      "parent": {
+        "id": 1189969,
+        "userName": "枫叶子",
+        "content": "公司里貌似不是，解决问题做实事的拿低薪，拍马屁吹嘘的拿高薪",
+        "images": [],
+        "createdAt": "2026-01-21T10:16:30",
+        "ipLocation": "湖南省",
+        "likeNum": 25
+      },
+      "replyTo": null
+    }
+  ]
+}

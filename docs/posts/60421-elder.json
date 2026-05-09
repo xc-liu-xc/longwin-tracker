@@ -1,0 +1,22 @@
+{
+  "postId": "60421",
+  "fetchedAt": "2026-05-09T15:46:25+08:00",
+  "totalCommentNum": 37,
+  "totalScanned": 37,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 849505,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "第一次发“文章”类型，不知道效果，嗯，可以改字体颜色，大小，表粗，都先试了试。",
+      "images": [],
+      "createdAt": "2026-01-05T11:42:10",
+      "ipLocation": "上海市",
+      "likeNum": 8
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "postId": "61903",
+  "fetchedAt": "2026-05-09T15:27:27+08:00",
+  "totalCommentNum": 262,
+  "totalScanned": 220,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1025269,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "说白了就是贪。",
+      "images": [],
+      "createdAt": "2026-01-13T12:18:30",
+      "ipLocation": "上海市",
+      "likeNum": 71
+    },
+    {
+      "type": "reply",
+      "id": 1026145,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "股市是人性的放大器，\n贪、嗔、痴、慢、疑，\n五毒，都被放得更大了",
+      "images": [],
+      "createdAt": "2026-01-13T12:30:22",
+      "ipLocation": "上海市",
+      "likeNum": 71,
+      "parent": {
+        "id": 1025269,
+        "userName": "新米练习菌",
+        "content": "说白了就是贪。",
+        "images": [],
+        "createdAt": "2026-01-13T12:18:30",
+        "ipLocation": "上海市",
+        "likeNum": 71
+      },
+      "replyTo": null
+    }
+  ]
+}

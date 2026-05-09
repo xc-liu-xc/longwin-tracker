@@ -2441,5 +2441,2329 @@
     "expandedTopLevel": 2,
     "truncatedTopLevel": 0,
     "fetchedAt": "2026-05-09T14:45:58+08:00"
+  },
+  "65851": {
+    "elderCount": 7,
+    "byAuthor": {
+      "新米练习菌": 5,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 404,
+    "totalScanned": 243,
+    "expandedTopLevel": 8,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:02:14+08:00"
+  },
+  "65755": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 14,
+    "totalScanned": 13,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:02:14+08:00"
+  },
+  "65761": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 10,
+    "totalScanned": 9,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:02:15+08:00"
+  },
+  "65767": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 26,
+    "totalScanned": 22,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:02:16+08:00"
+  },
+  "65641": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 761,
+    "totalScanned": 678,
+    "expandedTopLevel": 9,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:02:50+08:00"
+  },
+  "65743": {
+    "elderCount": 1,
+    "byAuthor": {
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 592,
+    "totalScanned": 515,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:14+08:00"
+  },
+  "65587": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 12,
+    "totalScanned": 12,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:15+08:00"
+  },
+  "65593": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 19,
+    "totalScanned": 14,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:15+08:00"
+  },
+  "65617": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 8,
+    "totalScanned": 6,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:16+08:00"
+  },
+  "65623": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 28,
+    "totalScanned": 25,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:17+08:00"
+  },
+  "65629": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 37,
+    "totalScanned": 33,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:18+08:00"
+  },
+  "65635": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 20,
+    "totalScanned": 19,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:19+08:00"
+  },
+  "65659": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 24,
+    "totalScanned": 21,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:20+08:00"
+  },
+  "65671": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 41,
+    "totalScanned": 25,
+    "expandedTopLevel": 2,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:22+08:00"
+  },
+  "65695": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 8,
+    "totalScanned": 7,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:22+08:00"
+  },
+  "65725": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 32,
+    "totalScanned": 25,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:24+08:00"
+  },
+  "65737": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 25,
+    "totalScanned": 24,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:25+08:00"
+  },
+  "65443": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 71,
+    "totalScanned": 55,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:27+08:00"
+  },
+  "65455": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 19,
+    "totalScanned": 12,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:28+08:00"
+  },
+  "65461": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 51,
+    "totalScanned": 47,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:03:29+08:00"
+  },
+  "65197": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 1029,
+    "totalScanned": 923,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:04:13+08:00"
+  },
+  "65209": {
+    "elderCount": 5,
+    "byAuthor": {
+      "新米练习菌": 4,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 471,
+    "totalScanned": 370,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:04:33+08:00"
+  },
+  "65125": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 30,
+    "totalScanned": 23,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:04:34+08:00"
+  },
+  "65149": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 48,
+    "totalScanned": 48,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:04:35+08:00"
+  },
+  "65179": {
+    "elderCount": 6,
+    "byAuthor": {
+      "新米练习菌": 6
+    },
+    "totalCommentNum": 88,
+    "totalScanned": 79,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:04:38+08:00"
+  },
+  "65215": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 46,
+    "totalScanned": 31,
+    "expandedTopLevel": 2,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:04:41+08:00"
+  },
+  "65269": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 25,
+    "totalScanned": 24,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:04:42+08:00"
+  },
+  "64933": {
+    "elderCount": 15,
+    "byAuthor": {
+      "新米练习菌": 15
+    },
+    "totalCommentNum": 1365,
+    "totalScanned": 1301,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:05:41+08:00"
+  },
+  "65029": {
+    "elderCount": 3,
+    "byAuthor": {
+      "ETF拯救世界": 2,
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 638,
+    "totalScanned": 462,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:06:07+08:00"
+  },
+  "64885": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 26,
+    "totalScanned": 26,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:06:08+08:00"
+  },
+  "64957": {
+    "elderCount": 5,
+    "byAuthor": {
+      "新米练习菌": 5
+    },
+    "totalCommentNum": 97,
+    "totalScanned": 87,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:06:11+08:00"
+  },
+  "64741": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 291,
+    "totalScanned": 249,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:06:23+08:00"
+  },
+  "64759": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 1,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 183,
+    "totalScanned": 142,
+    "expandedTopLevel": 2,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:06:31+08:00"
+  },
+  "64765": {
+    "elderCount": 6,
+    "byAuthor": {
+      "ETF拯救世界": 2,
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 317,
+    "totalScanned": 180,
+    "expandedTopLevel": 8,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:06:46+08:00"
+  },
+  "64777": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 467,
+    "totalScanned": 414,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:05+08:00"
+  },
+  "64729": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 27,
+    "totalScanned": 25,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:06+08:00"
+  },
+  "64753": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 17,
+    "totalScanned": 13,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:07+08:00"
+  },
+  "64771": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 9,
+    "totalScanned": 9,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:07+08:00"
+  },
+  "64789": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 36,
+    "totalScanned": 33,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:08+08:00"
+  },
+  "64825": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 41,
+    "totalScanned": 31,
+    "expandedTopLevel": 2,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:11+08:00"
+  },
+  "64657": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 10,
+    "totalScanned": 8,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:11+08:00"
+  },
+  "64699": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 17,
+    "totalScanned": 16,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:11+08:00"
+  },
+  "64555": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 24,
+    "totalScanned": 22,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:12+08:00"
+  },
+  "64567": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 16,
+    "totalScanned": 16,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:13+08:00"
+  },
+  "64573": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 15,
+    "totalScanned": 13,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:13+08:00"
+  },
+  "64603": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 24,
+    "totalScanned": 13,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:14+08:00"
+  },
+  "64351": {
+    "elderCount": 6,
+    "byAuthor": {
+      "新米练习菌": 4,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 387,
+    "totalScanned": 299,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:28+08:00"
+  },
+  "64441": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 721,
+    "totalScanned": 552,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:58+08:00"
+  },
+  "64333": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 18,
+    "totalScanned": 14,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:59+08:00"
+  },
+  "64393": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 14,
+    "totalScanned": 11,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:07:59+08:00"
+  },
+  "64147": {
+    "elderCount": 6,
+    "byAuthor": {
+      "新米练习菌": 1,
+      "ETF拯救世界": 5
+    },
+    "totalCommentNum": 478,
+    "totalScanned": 355,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:08:18+08:00"
+  },
+  "64165": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 1,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 299,
+    "totalScanned": 204,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:08:30+08:00"
+  },
+  "64099": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 25,
+    "totalScanned": 23,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:08:31+08:00"
+  },
+  "64105": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 53,
+    "totalScanned": 40,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:08:34+08:00"
+  },
+  "64291": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 22,
+    "totalScanned": 22,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:08:35+08:00"
+  },
+  "64303": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 27,
+    "totalScanned": 16,
+    "expandedTopLevel": 2,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:08:36+08:00"
+  },
+  "63913": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 1,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 340,
+    "totalScanned": 270,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:08:50+08:00"
+  },
+  "63925": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 2,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 416,
+    "totalScanned": 338,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:09:05+08:00"
+  },
+  "63967": {
+    "elderCount": 10,
+    "byAuthor": {
+      "ETF拯救世界": 2,
+      "新米练习菌": 8
+    },
+    "totalCommentNum": 817,
+    "totalScanned": 625,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:09:39+08:00"
+  },
+  "63985": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 3,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 315,
+    "totalScanned": 207,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:09:52+08:00"
+  },
+  "64027": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 982,
+    "totalScanned": 903,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:10:33+08:00"
+  },
+  "64033": {
+    "elderCount": 4,
+    "byAuthor": {
+      "ETF拯救世界": 1,
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 506,
+    "totalScanned": 361,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:10:53+08:00"
+  },
+  "63871": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 39,
+    "totalScanned": 33,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:10:55+08:00"
+  },
+  "63895": {
+    "elderCount": 5,
+    "byAuthor": {
+      "新米练习菌": 5
+    },
+    "totalCommentNum": 40,
+    "totalScanned": 25,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:10:56+08:00"
+  },
+  "63901": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 17,
+    "totalScanned": 11,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:10:57+08:00"
+  },
+  "63997": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 17,
+    "totalScanned": 5,
+    "expandedTopLevel": 2,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:10:59+08:00"
+  },
+  "64039": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 33,
+    "totalScanned": 27,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:11:01+08:00"
+  },
+  "64057": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 55,
+    "totalScanned": 49,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:11:03+08:00"
+  },
+  "63475": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 1,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 482,
+    "totalScanned": 392,
+    "expandedTopLevel": 8,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:11:23+08:00"
+  },
+  "63565": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 516,
+    "totalScanned": 435,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:11:41+08:00"
+  },
+  "63643": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 256,
+    "totalScanned": 217,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:11:51+08:00"
+  },
+  "63709": {
+    "elderCount": 6,
+    "byAuthor": {
+      "新米练习菌": 4,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 615,
+    "totalScanned": 509,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:12:14+08:00"
+  },
+  "63739": {
+    "elderCount": 6,
+    "byAuthor": {
+      "新米练习菌": 4,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 508,
+    "totalScanned": 428,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:12:32+08:00"
+  },
+  "63325": {
+    "elderCount": 5,
+    "byAuthor": {
+      "新米练习菌": 5
+    },
+    "totalCommentNum": 49,
+    "totalScanned": 39,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:12:34+08:00"
+  },
+  "63367": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 49,
+    "totalScanned": 41,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:12:36+08:00"
+  },
+  "63511": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 45,
+    "totalScanned": 35,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:12:37+08:00"
+  },
+  "63625": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 22,
+    "totalScanned": 13,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:12:38+08:00"
+  },
+  "63691": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 26,
+    "totalScanned": 21,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:12:40+08:00"
+  },
+  "63727": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 21,
+    "totalScanned": 10,
+    "expandedTopLevel": 2,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:12:41+08:00"
+  },
+  "63823": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 50,
+    "totalScanned": 48,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:12:43+08:00"
+  },
+  "63085": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 699,
+    "totalScanned": 591,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:13:10+08:00"
+  },
+  "62941": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 58,
+    "totalScanned": 56,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:13:12+08:00"
+  },
+  "63007": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 67,
+    "totalScanned": 60,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:13:15+08:00"
+  },
+  "62809": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 679,
+    "totalScanned": 618,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:13:39+08:00"
+  },
+  "62749": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 19,
+    "totalScanned": 14,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:13:40+08:00"
+  },
+  "62755": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 23,
+    "totalScanned": 18,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:13:41+08:00"
+  },
+  "62815": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 49,
+    "totalScanned": 42,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:13:42+08:00"
+  },
+  "62497": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 524,
+    "totalScanned": 476,
+    "expandedTopLevel": 2,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:14:00+08:00"
+  },
+  "62503": {
+    "elderCount": 6,
+    "byAuthor": {
+      "ETF拯救世界": 2,
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 306,
+    "totalScanned": 199,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:14:11+08:00"
+  },
+  "62515": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 3,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 672,
+    "totalScanned": 555,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:14:36+08:00"
+  },
+  "62545": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 364,
+    "totalScanned": 319,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:14:50+08:00"
+  },
+  "62563": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 2,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 409,
+    "totalScanned": 369,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:15:06+08:00"
+  },
+  "62575": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 3,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 354,
+    "totalScanned": 269,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:15:18+08:00"
+  },
+  "62611": {
+    "elderCount": 6,
+    "byAuthor": {
+      "新米练习菌": 4,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 6077,
+    "totalScanned": 5803,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:19:30+08:00"
+  },
+  "62437": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 45,
+    "totalScanned": 44,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:19:32+08:00"
+  },
+  "62467": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 21,
+    "totalScanned": 16,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:19:33+08:00"
+  },
+  "62479": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 27,
+    "totalScanned": 20,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:19:34+08:00"
+  },
+  "62533": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 22,
+    "totalScanned": 18,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:19:35+08:00"
+  },
+  "62281": {
+    "elderCount": 5,
+    "byAuthor": {
+      "ETF拯救世界": 1,
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 513,
+    "totalScanned": 468,
+    "expandedTopLevel": 2,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:19:53+08:00"
+  },
+  "62287": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 1,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 488,
+    "totalScanned": 384,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:20:12+08:00"
+  },
+  "62329": {
+    "elderCount": 5,
+    "byAuthor": {
+      "新米练习菌": 4,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 257,
+    "totalScanned": 197,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:20:20+08:00"
+  },
+  "62341": {
+    "elderCount": 5,
+    "byAuthor": {
+      "ETF拯救世界": 4,
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 949,
+    "totalScanned": 773,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:20:58+08:00"
+  },
+  "62401": {
+    "elderCount": 5,
+    "byAuthor": {
+      "ETF拯救世界": 1,
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 816,
+    "totalScanned": 744,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:21:30+08:00"
+  },
+  "62263": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 40,
+    "totalScanned": 38,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:21:31+08:00"
+  },
+  "62269": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 49,
+    "totalScanned": 39,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:21:33+08:00"
+  },
+  "62275": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 70,
+    "totalScanned": 57,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:21:35+08:00"
+  },
+  "62335": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 24,
+    "totalScanned": 21,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:21:36+08:00"
+  },
+  "62377": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 14,
+    "totalScanned": 13,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:21:36+08:00"
+  },
+  "62035": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 2,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 1963,
+    "totalScanned": 1904,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:22:52+08:00"
+  },
+  "62041": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 406,
+    "totalScanned": 374,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:23:07+08:00"
+  },
+  "62047": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 340,
+    "totalScanned": 229,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:23:20+08:00"
+  },
+  "62053": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 449,
+    "totalScanned": 413,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:23:36+08:00"
+  },
+  "62071": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 1,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 546,
+    "totalScanned": 483,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:23:55+08:00"
+  },
+  "62083": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 1,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 432,
+    "totalScanned": 338,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:24:10+08:00"
+  },
+  "62107": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 2,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 403,
+    "totalScanned": 302,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:24:26+08:00"
+  },
+  "62143": {
+    "elderCount": 9,
+    "byAuthor": {
+      "新米练习菌": 6,
+      "ETF拯救世界": 3
+    },
+    "totalCommentNum": 698,
+    "totalScanned": 560,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:24:55+08:00"
+  },
+  "62167": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 2,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 539,
+    "totalScanned": 344,
+    "expandedTopLevel": 10,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:25:16+08:00"
+  },
+  "62059": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 21,
+    "totalScanned": 20,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:25:17+08:00"
+  },
+  "62065": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 12,
+    "totalScanned": 12,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:25:17+08:00"
+  },
+  "62077": {
+    "elderCount": 5,
+    "byAuthor": {
+      "新米练习菌": 5
+    },
+    "totalCommentNum": 29,
+    "totalScanned": 22,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:25:18+08:00"
+  },
+  "62095": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 26,
+    "totalScanned": 23,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:25:19+08:00"
+  },
+  "61861": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 494,
+    "totalScanned": 429,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:25:36+08:00"
+  },
+  "61867": {
+    "elderCount": 3,
+    "byAuthor": {
+      "ETF拯救世界": 1,
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 778,
+    "totalScanned": 718,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:26:05+08:00"
+  },
+  "61873": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 793,
+    "totalScanned": 736,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:26:36+08:00"
+  },
+  "61885": {
+    "elderCount": 2,
+    "byAuthor": {
+      "ETF拯救世界": 1,
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 596,
+    "totalScanned": 511,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:26:56+08:00"
+  },
+  "61891": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 2,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 572,
+    "totalScanned": 429,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:27:16+08:00"
+  },
+  "61903": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 262,
+    "totalScanned": 220,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:27:27+08:00"
+  },
+  "61921": {
+    "elderCount": 6,
+    "byAuthor": {
+      "ETF拯救世界": 1,
+      "新米练习菌": 5
+    },
+    "totalCommentNum": 949,
+    "totalScanned": 710,
+    "expandedTopLevel": 13,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:28:05+08:00"
+  },
+  "61927": {
+    "elderCount": 5,
+    "byAuthor": {
+      "新米练习菌": 3,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 960,
+    "totalScanned": 775,
+    "expandedTopLevel": 10,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:28:45+08:00"
+  },
+  "61951": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 2,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 650,
+    "totalScanned": 458,
+    "expandedTopLevel": 14,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:29:13+08:00"
+  },
+  "61879": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 37,
+    "totalScanned": 32,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:29:14+08:00"
+  },
+  "61915": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 47,
+    "totalScanned": 44,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:29:16+08:00"
+  },
+  "61981": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 38,
+    "totalScanned": 25,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:29:17+08:00"
+  },
+  "61639": {
+    "elderCount": 6,
+    "byAuthor": {
+      "ETF拯救世界": 1,
+      "新米练习菌": 5
+    },
+    "totalCommentNum": 561,
+    "totalScanned": 444,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:29:38+08:00"
+  },
+  "61645": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 195,
+    "totalScanned": 168,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:29:46+08:00"
+  },
+  "61657": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 377,
+    "totalScanned": 351,
+    "expandedTopLevel": 2,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:29:59+08:00"
+  },
+  "61669": {
+    "elderCount": 5,
+    "byAuthor": {
+      "ETF拯救世界": 3,
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 1591,
+    "totalScanned": 1358,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:31:01+08:00"
+  },
+  "61681": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 556,
+    "totalScanned": 472,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:31:21+08:00"
+  },
+  "61717": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 319,
+    "totalScanned": 264,
+    "expandedTopLevel": 2,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:31:32+08:00"
+  },
+  "61723": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 3,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 669,
+    "totalScanned": 598,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:31:56+08:00"
+  },
+  "61735": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 230,
+    "totalScanned": 175,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:32:05+08:00"
+  },
+  "61753": {
+    "elderCount": 9,
+    "byAuthor": {
+      "新米练习菌": 5,
+      "ETF拯救世界": 4
+    },
+    "totalCommentNum": 1639,
+    "totalScanned": 1449,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:33:08+08:00"
+  },
+  "61819": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 331,
+    "totalScanned": 277,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:33:20+08:00"
+  },
+  "61603": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 37,
+    "totalScanned": 36,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:33:21+08:00"
+  },
+  "61663": {
+    "elderCount": 5,
+    "byAuthor": {
+      "新米练习菌": 5
+    },
+    "totalCommentNum": 37,
+    "totalScanned": 31,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:33:22+08:00"
+  },
+  "61687": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 19,
+    "totalScanned": 12,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:33:23+08:00"
+  },
+  "61537": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 462,
+    "totalScanned": 433,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:33:39+08:00"
+  },
+  "61561": {
+    "elderCount": 5,
+    "byAuthor": {
+      "新米练习菌": 2,
+      "ETF拯救世界": 3
+    },
+    "totalCommentNum": 423,
+    "totalScanned": 320,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:33:55+08:00"
+  },
+  "61519": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 34,
+    "totalScanned": 34,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:33:56+08:00"
+  },
+  "61525": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 34,
+    "totalScanned": 28,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:33:58+08:00"
+  },
+  "61531": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 9,
+    "totalScanned": 7,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:33:58+08:00"
+  },
+  "61585": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 39,
+    "totalScanned": 31,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:34:00+08:00"
+  },
+  "61423": {
+    "elderCount": 14,
+    "byAuthor": {
+      "ETF拯救世界": 12,
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 1055,
+    "totalScanned": 732,
+    "expandedTopLevel": 13,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:34:44+08:00"
+  },
+  "61459": {
+    "elderCount": 9,
+    "byAuthor": {
+      "新米练习菌": 4,
+      "ETF拯救世界": 5
+    },
+    "totalCommentNum": 364,
+    "totalScanned": 205,
+    "expandedTopLevel": 15,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:35:02+08:00"
+  },
+  "61369": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 29,
+    "totalScanned": 25,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:35:03+08:00"
+  },
+  "61387": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 17,
+    "totalScanned": 14,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:35:03+08:00"
+  },
+  "61393": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 13,
+    "totalScanned": 11,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:35:04+08:00"
+  },
+  "61399": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 20,
+    "totalScanned": 19,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:35:04+08:00"
+  },
+  "61441": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 50,
+    "totalScanned": 35,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:35:06+08:00"
+  },
+  "61183": {
+    "elderCount": 5,
+    "byAuthor": {
+      "新米练习菌": 4,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 382,
+    "totalScanned": 287,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:35:20+08:00"
+  },
+  "61195": {
+    "elderCount": 6,
+    "byAuthor": {
+      "新米练习菌": 3,
+      "ETF拯救世界": 3
+    },
+    "totalCommentNum": 408,
+    "totalScanned": 323,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:35:36+08:00"
+  },
+  "61219": {
+    "elderCount": 8,
+    "byAuthor": {
+      "新米练习菌": 6,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 484,
+    "totalScanned": 382,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:35:54+08:00"
+  },
+  "61237": {
+    "elderCount": 5,
+    "byAuthor": {
+      "ETF拯救世界": 2,
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 1222,
+    "totalScanned": 942,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:36:41+08:00"
+  },
+  "61249": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 2,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 1025,
+    "totalScanned": 925,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:37:25+08:00"
+  },
+  "61321": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 302,
+    "totalScanned": 235,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:37:35+08:00"
+  },
+  "61147": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 28,
+    "totalScanned": 27,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:37:36+08:00"
+  },
+  "61177": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 34,
+    "totalScanned": 30,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:37:37+08:00"
+  },
+  "61207": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 61,
+    "totalScanned": 51,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:37:40+08:00"
+  },
+  "61255": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 35,
+    "totalScanned": 30,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:37:41+08:00"
+  },
+  "61279": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 25,
+    "totalScanned": 25,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:37:42+08:00"
+  },
+  "61309": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 26,
+    "totalScanned": 19,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:37:42+08:00"
+  },
+  "60967": {
+    "elderCount": 11,
+    "byAuthor": {
+      "新米练习菌": 6,
+      "ETF拯救世界": 5
+    },
+    "totalCommentNum": 474,
+    "totalScanned": 359,
+    "expandedTopLevel": 9,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:38:00+08:00"
+  },
+  "61015": {
+    "elderCount": 6,
+    "byAuthor": {
+      "新米练习菌": 5,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 332,
+    "totalScanned": 201,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:38:14+08:00"
+  },
+  "61063": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 315,
+    "totalScanned": 244,
+    "expandedTopLevel": 5,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:38:26+08:00"
+  },
+  "61093": {
+    "elderCount": 5,
+    "byAuthor": {
+      "新米练习菌": 3,
+      "ETF拯救世界": 2
+    },
+    "totalCommentNum": 282,
+    "totalScanned": 179,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:38:37+08:00"
+  },
+  "61135": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 1,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 309,
+    "totalScanned": 210,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:38:49+08:00"
+  },
+  "60973": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 17,
+    "totalScanned": 15,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:38:49+08:00"
+  },
+  "60979": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 18,
+    "totalScanned": 17,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:38:49+08:00"
+  },
+  "60985": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 11,
+    "totalScanned": 9,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:38:49+08:00"
+  },
+  "60991": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 24,
+    "totalScanned": 24,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:38:50+08:00"
+  },
+  "60997": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 27,
+    "totalScanned": 20,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:38:51+08:00"
+  },
+  "61039": {
+    "elderCount": 5,
+    "byAuthor": {
+      "新米练习菌": 5
+    },
+    "totalCommentNum": 93,
+    "totalScanned": 83,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:38:54+08:00"
+  },
+  "61105": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 27,
+    "totalScanned": 16,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:38:55+08:00"
+  },
+  "60775": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 947,
+    "totalScanned": 845,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:39:32+08:00"
+  },
+  "60781": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 2512,
+    "totalScanned": 2462,
+    "expandedTopLevel": 2,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:41:15+08:00"
+  },
+  "60907": {
+    "elderCount": 8,
+    "byAuthor": {
+      "新米练习菌": 4,
+      "ETF拯救世界": 4
+    },
+    "totalCommentNum": 592,
+    "totalScanned": 460,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:41:37+08:00"
+  },
+  "60919": {
+    "elderCount": 4,
+    "byAuthor": {
+      "ETF拯救世界": 2,
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 2099,
+    "totalScanned": 1760,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:42:58+08:00"
+  },
+  "60751": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 30,
+    "totalScanned": 20,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:42:59+08:00"
+  },
+  "60805": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 38,
+    "totalScanned": 37,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:43:00+08:00"
+  },
+  "60871": {
+    "elderCount": 9,
+    "byAuthor": {
+      "新米练习菌": 9
+    },
+    "totalCommentNum": 83,
+    "totalScanned": 53,
+    "expandedTopLevel": 4,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:43:05+08:00"
+  },
+  "60883": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 37,
+    "totalScanned": 28,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:43:06+08:00"
+  },
+  "60577": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 402,
+    "totalScanned": 325,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:43:22+08:00"
+  },
+  "60601": {
+    "elderCount": 8,
+    "byAuthor": {
+      "新米练习菌": 5,
+      "ETF拯救世界": 3
+    },
+    "totalCommentNum": 766,
+    "totalScanned": 580,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:43:54+08:00"
+  },
+  "60631": {
+    "elderCount": 3,
+    "byAuthor": {
+      "ETF拯救世界": 1,
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 531,
+    "totalScanned": 450,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:44:14+08:00"
+  },
+  "60643": {
+    "elderCount": 6,
+    "byAuthor": {
+      "新米练习菌": 5,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 686,
+    "totalScanned": 474,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:44:40+08:00"
+  },
+  "60571": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 39,
+    "totalScanned": 34,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:44:41+08:00"
+  },
+  "60583": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 47,
+    "totalScanned": 39,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:44:42+08:00"
+  },
+  "60619": {
+    "elderCount": 3,
+    "byAuthor": {
+      "新米练习菌": 3
+    },
+    "totalCommentNum": 97,
+    "totalScanned": 84,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:44:45+08:00"
+  },
+  "60661": {
+    "elderCount": 7,
+    "byAuthor": {
+      "新米练习菌": 7
+    },
+    "totalCommentNum": 35,
+    "totalScanned": 22,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:44:47+08:00"
+  },
+  "60715": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 60,
+    "totalScanned": 58,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:44:48+08:00"
+  },
+  "60445": {
+    "elderCount": 6,
+    "byAuthor": {
+      "新米练习菌": 5,
+      "ETF拯救世界": 1
+    },
+    "totalCommentNum": 394,
+    "totalScanned": 319,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:45:02+08:00"
+  },
+  "60463": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 473,
+    "totalScanned": 352,
+    "expandedTopLevel": 6,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:45:20+08:00"
+  },
+  "60487": {
+    "elderCount": 3,
+    "byAuthor": {
+      "ETF拯救世界": 1,
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 926,
+    "totalScanned": 809,
+    "expandedTopLevel": 7,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:45:58+08:00"
+  },
+  "60433": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 38,
+    "totalScanned": 34,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:45:59+08:00"
+  },
+  "60439": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 52,
+    "totalScanned": 48,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:46:01+08:00"
+  },
+  "60523": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 18,
+    "totalScanned": 15,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:46:01+08:00"
+  },
+  "60409": {
+    "elderCount": 11,
+    "byAuthor": {
+      "新米练习菌": 8,
+      "ETF拯救世界": 3
+    },
+    "totalCommentNum": 618,
+    "totalScanned": 401,
+    "expandedTopLevel": 9,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:46:23+08:00"
+  },
+  "60415": {
+    "elderCount": 7,
+    "byAuthor": {
+      "新米练习菌": 7
+    },
+    "totalCommentNum": 31,
+    "totalScanned": 21,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:46:24+08:00"
+  },
+  "60421": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 37,
+    "totalScanned": 37,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:46:25+08:00"
+  },
+  "60361": {
+    "elderCount": 1,
+    "byAuthor": {
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 360,
+    "totalScanned": 323,
+    "expandedTopLevel": 3,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:46:38+08:00"
+  },
+  "60343": {
+    "elderCount": 4,
+    "byAuthor": {
+      "新米练习菌": 4
+    },
+    "totalCommentNum": 24,
+    "totalScanned": 18,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:46:38+08:00"
+  },
+  "60043": {
+    "elderCount": 2,
+    "byAuthor": {
+      "新米练习菌": 2
+    },
+    "totalCommentNum": 544,
+    "totalScanned": 538,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-09T15:46:56+08:00"
   }
 }

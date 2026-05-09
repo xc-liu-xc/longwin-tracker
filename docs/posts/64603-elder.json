@@ -1,0 +1,74 @@
+{
+  "postId": "64603",
+  "fetchedAt": "2026-05-09T15:07:14+08:00",
+  "totalCommentNum": 24,
+  "totalScanned": 13,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1227211,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊呀~这个是我眼里的老大 (如果是猫的时候)",
+      "images": [],
+      "createdAt": "2026-01-25T19:56:54",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1226947,
+        "userName": "井宿河中静",
+        "content": "我记得老大之前有只带回家的流浪咪是只小白，但应该不是这个表情咪",
+        "images": [],
+        "createdAt": "2026-01-25T12:09:40",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1228333,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "而且是白色的，非常干净~",
+      "images": [],
+      "createdAt": "2026-01-26T09:56:39",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1227661,
+        "userName": "长瀛",
+        "content": "图四的雄狮猫霸气十足，又不缺柔和，刚柔相济，才是王者风范！",
+        "images": [],
+        "createdAt": "2026-01-26T09:35:22",
+        "ipLocation": "浙江省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1234015,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不做饭，没饭吃啊…",
+      "images": [],
+      "createdAt": "2026-01-26T15:34:42",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1233955,
+        "userName": "十月啊",
+        "content": "米宝神奇的是，干那么多活居然还有时间做饭",
+        "images": [],
+        "createdAt": "2026-01-26T15:24:56",
+        "ipLocation": "云南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

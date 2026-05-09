@@ -1,0 +1,32 @@
+{
+  "postId": "65593",
+  "fetchedAt": "2026-05-09T15:03:15+08:00",
+  "totalCommentNum": 19,
+  "totalScanned": 14,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1267057,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "还是你细心，赶紧改",
+      "images": [],
+      "createdAt": "2026-01-30T15:07:56",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 1266937,
+        "userName": "被迫参与跑步的男子",
+        "content": "150的传媒卖出没写日期呢",
+        "images": [],
+        "createdAt": "2026-01-30T15:00:01",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

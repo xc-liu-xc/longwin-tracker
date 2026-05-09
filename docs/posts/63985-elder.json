@@ -1,0 +1,90 @@
+{
+  "postId": "63985",
+  "fetchedAt": "2026-05-09T15:09:52+08:00",
+  "totalCommentNum": 315,
+  "totalScanned": 207,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1197673,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "中证500，今日：8,332点\n目前仓位：\n【150】：500【15份】11.14%\n【S】：500【6份】10.54%\n【点位笔记】中证500（000905）\n小幅减仓点位：8100\n大幅减仓点位：8600-8700\n【E据】\n【20251229】中证500大幅减仓位置\n当初的8100是2023年，目前已经上移。最新：8100已经降格成为小幅减仓点位，大幅减仓点位上移至8600-8700一线。\n任何指数的致敬点位和外太空点位，极大概率都是要随着时间的推移不断上移的。这是金融和货币的规律。\n\n \n",
+      "images": [],
+      "createdAt": "2026-01-21T14:56:55",
+      "ipLocation": "上海市",
+      "likeNum": 263
+    },
+    {
+      "type": "reply",
+      "id": 1199347,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "300目前不考虑减持。",
+      "images": [],
+      "createdAt": "2026-01-21T15:55:28",
+      "ipLocation": "香港特别行政区",
+      "likeNum": 181,
+      "parent": {
+        "id": 1199329,
+        "userName": "TAU",
+        "content": "300的位置呢老大～",
+        "images": [],
+        "createdAt": "2026-01-21T15:52:45",
+        "ipLocation": "陕西省",
+        "likeNum": 20
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1199485,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "300目前情况：\n【150】：300【9份】6.67%\n【S】：300【5】6.73%\n同时，300于2025年12月04日 S，刚买入一份。\nS计划：\n\n买入一份易方达沪深300\n\n这一份买入主要是两个思路：\n\n第一，前几天减持中证500的换仓。从中小盘换到大盘，稍贵换到稍便宜，平衡配置。\n\n第二，非常明确的波段网格起始仓位。这一笔开始，长赢计划的系统性波段网格融合仓位将正式开始部署。这部分交易，各位应该对于涨跌都有所期盼才对。\n",
+      "images": [],
+      "createdAt": "2026-01-21T16:02:06",
+      "ipLocation": "上海市",
+      "likeNum": 94,
+      "parent": {
+        "id": 1199329,
+        "userName": "TAU",
+        "content": "300的位置呢老大～",
+        "images": [],
+        "createdAt": "2026-01-21T15:52:45",
+        "ipLocation": "陕西省",
+        "likeNum": 20
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1227235,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我看到券商的表格是在更新的。",
+      "images": [],
+      "createdAt": "2026-01-25T20:37:56",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1199329,
+        "userName": "TAU",
+        "content": "300的位置呢老大～",
+        "images": [],
+        "createdAt": "2026-01-21T15:52:45",
+        "ipLocation": "陕西省",
+        "likeNum": 20
+      },
+      "replyTo": {
+        "id": 1226827,
+        "userName": "方浮云",
+        "content": "所以新增的网格都会部署在我们的长赢计划中，华宝之前的网格策略不再更新退出舞台了是吗？",
+        "images": []
+      }
+    }
+  ]
+}

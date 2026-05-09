@@ -1,0 +1,53 @@
+{
+  "postId": "63007",
+  "fetchedAt": "2026-05-09T15:13:15+08:00",
+  "totalCommentNum": 67,
+  "totalScanned": 60,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1167559,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈哈，算营业了两次~感觉赚了",
+      "images": [],
+      "createdAt": "2026-01-19T19:39:40",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 1167019,
+        "userName": "长赢的熊",
+        "content": "以前都没看过，今天鬼使神差地去打开看了，没有错过“彩蛋”，哈哈！还有，老大来营业了哦，不用算看到“营业”了😄",
+        "images": [],
+        "createdAt": "2026-01-19T19:22:18",
+        "ipLocation": "四川省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1168075,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是，我也不知道为什么也想起了那个，不知道是不是在QM平台“录播”（其实文字)的关系",
+      "images": [],
+      "createdAt": "2026-01-19T20:09:01",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 1165801,
+        "userName": "林么嘿呀",
+        "content": "耳边响起了前两年E大温润又略带磁性的声音！",
+        "images": [],
+        "createdAt": "2026-01-19T18:23:07",
+        "ipLocation": "福建省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

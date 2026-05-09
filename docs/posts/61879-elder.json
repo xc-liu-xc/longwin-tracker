@@ -1,0 +1,53 @@
+{
+  "postId": "61879",
+  "fetchedAt": "2026-05-09T15:29:14+08:00",
+  "totalCommentNum": 37,
+  "totalScanned": 32,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1019491,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没写清仓，也没清仓，还有仓位的，今日卖出后还有相当于两网多的量。",
+      "images": [],
+      "createdAt": "2026-01-13T10:47:43",
+      "ipLocation": "上海市",
+      "likeNum": 20,
+      "parent": {
+        "id": 1019113,
+        "userName": "头像好看吗_我画的",
+        "content": "利润清仓，这算是告一段落了嘛？然后官方车里面继续，嘿嘿",
+        "images": [],
+        "createdAt": "2026-01-13T10:40:49",
+        "ipLocation": "江西省",
+        "likeNum": 5
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1024855,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "会公布。\n以前公开过的，会做完。",
+      "images": [],
+      "createdAt": "2026-01-13T12:09:18",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 1023349,
+        "userName": "爆米花.",
+        "content": "想知道医疗医药的致敬仓位什么点位卖呀？还会公布吗？怕没看到消息错过了",
+        "images": [],
+        "createdAt": "2026-01-13T11:48:44",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

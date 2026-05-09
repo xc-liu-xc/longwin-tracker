@@ -1,0 +1,43 @@
+{
+  "postId": "61105",
+  "fetchedAt": "2026-05-09T15:38:55+08:00",
+  "totalCommentNum": 27,
+  "totalScanned": 16,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 924235,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "今天要整理文档了，昨天就“中断”了，因为一直在整理数据和做图表。\n文档就当场随手贴在那里，没有整理。\n一天天的，马不停蹄，事情好多，哈哈~",
+      "images": [],
+      "createdAt": "2026-01-08T20:08:49",
+      "ipLocation": "上海市",
+      "likeNum": 15
+    },
+    {
+      "type": "reply",
+      "id": 926359,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不用，和WB内容一样的。",
+      "images": [],
+      "createdAt": "2026-01-09T07:37:37",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 926323,
+        "userName": "邵帅",
+        "content": "抽空去看看头条。我都没有头条。",
+        "images": [],
+        "createdAt": "2026-01-09T07:20:39",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "65455",
+  "fetchedAt": "2026-05-09T15:03:28+08:00",
+  "totalCommentNum": 19,
+  "totalScanned": 12,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1260397,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "A面了",
+      "images": [],
+      "createdAt": "2026-01-29T15:39:42",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 1260025,
+        "userName": "lucky_ETF",
+        "content": "本来期待有两个，但是有一个也很好，波段终于做起来了，为自己开心（可以多赚钱钱啦），也为老大开心（不受乱七八糟声音影响，强大坚定）",
+        "images": [],
+        "createdAt": "2026-01-29T15:05:00",
+        "ipLocation": "北京市",
+        "likeNum": 9
+      },
+      "replyTo": null
+    }
+  ]
+}

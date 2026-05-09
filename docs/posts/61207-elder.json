@@ -1,0 +1,105 @@
+{
+  "postId": "61207",
+  "fetchedAt": "2026-05-09T15:37:40+08:00",
+  "totalCommentNum": 61,
+  "totalScanned": 51,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 933397,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "那是因为少，贴得下，\n一代目，太密集了，贴不下的，只能放一丢丢~",
+      "images": [],
+      "createdAt": "2026-01-09T11:50:29",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 932221,
+        "userName": "襄芋毅",
+        "content": "又升级啦，有原文截图了！",
+        "images": [],
+        "createdAt": "2026-01-09T11:23:21",
+        "ipLocation": "天津市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 934549,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈哈\n绿兮兮的是吧？",
+      "images": [],
+      "createdAt": "2026-01-09T13:14:25",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 932221,
+        "userName": "襄芋毅",
+        "content": "又升级啦，有原文截图了！",
+        "images": [],
+        "createdAt": "2026-01-09T11:23:21",
+        "ipLocation": "天津市",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 934435,
+        "userName": "etf拯救lz",
+        "content": "配色绝了!!跟我近半年来每次打开场内证券账户看到医药的感觉一样，太亲切了",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 938503,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈哈，好~约定了",
+      "images": [],
+      "createdAt": "2026-01-09T14:06:05",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 932221,
+        "userName": "襄芋毅",
+        "content": "又升级啦，有原文截图了！",
+        "images": [],
+        "createdAt": "2026-01-09T11:23:21",
+        "ipLocation": "天津市",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 937339,
+        "userName": "披头士",
+        "content": "等涨起来就调整成大红色，哈哈",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 961147,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈，可爱~以后💊启动发威了，老大说不定会经常喊",
+      "images": [],
+      "createdAt": "2026-01-11T08:46:51",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 959677,
+        "userName": "my玉米玉米",
+        "content": "buer我女儿也叫小伊伊🤣🤣🤣",
+        "images": [],
+        "createdAt": "2026-01-10T19:26:11",
+        "ipLocation": "山东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

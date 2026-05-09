@@ -1,0 +1,32 @@
+{
+  "postId": "62059",
+  "fetchedAt": "2026-05-09T15:25:17+08:00",
+  "totalCommentNum": 21,
+  "totalScanned": 20,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1091275,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "自己的得自己统计",
+      "images": [],
+      "createdAt": "2026-01-15T12:48:26",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1083883,
+        "userName": "叨瑞咪发",
+        "content": "米米请教一下，我怎么看到自己的真实仓位呢？",
+        "images": [],
+        "createdAt": "2026-01-14T21:58:37",
+        "ipLocation": "河南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

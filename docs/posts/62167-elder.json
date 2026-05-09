@@ -1,0 +1,69 @@
+{
+  "postId": "62167",
+  "fetchedAt": "2026-05-09T15:25:16+08:00",
+  "totalCommentNum": 539,
+  "totalScanned": 344,
+  "expandedTopLevel": 10,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1079797,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "上班 + 副业 + 攒钱 + 理性投资 + 拒绝疯炒+远离 HDD + 不瞎负债 = 幸福人生\n（【20251226】（12:21）绝大多数普通人财务富足是有迹可循的）",
+      "images": [],
+      "createdAt": "2026-01-14T16:38:53",
+      "ipLocation": "上海市",
+      "likeNum": 213
+    },
+    {
+      "type": "reply",
+      "id": 1080223,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "话糙理不糙。不过巴菲特也是从0开始的。",
+      "images": [],
+      "createdAt": "2026-01-14T16:45:32",
+      "ipLocation": "北京市",
+      "likeNum": 247,
+      "parent": {
+        "id": 1079983,
+        "userName": "爱民谣不爱摇滚",
+        "content": "让我想到了段子里面，几万块去投资，网友评论每天少吃一顿晚饭的收益率可以超过巴菲特😁😁😁",
+        "images": [],
+        "createdAt": "2026-01-14T16:42:31",
+        "ipLocation": "上海市",
+        "likeNum": 219
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1103929,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "可能因为我不是只是看过，我是一篇篇手工整理的。",
+      "images": [],
+      "createdAt": "2026-01-16T08:13:59",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 1079797,
+        "userName": "新米练习菌",
+        "content": "上班 + 副业 + 攒钱 + 理性投资 + 拒绝疯炒+远离 HDD + 不瞎负债 = 幸福人生\n（【20251226】（12:21）绝大多数普通人财务富足是有迹可循的）",
+        "images": [],
+        "createdAt": "2026-01-14T16:38:53",
+        "ipLocation": "上海市",
+        "likeNum": 213
+      },
+      "replyTo": {
+        "id": 1102519,
+        "userName": "zyy",
+        "content": "哎，有没有同类。e大的帖子文章一个都不落下，但是看过就过了（好多很有感触的还会截图下）。课代表翻出来回顾才恍然：对哦e大讲过这~做为85后这个记忆力怎么提高改善呢，尤其这5年下降尤其明显",
+        "images": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "64789",
+  "fetchedAt": "2026-05-09T15:07:08+08:00",
+  "totalCommentNum": 36,
+  "totalScanned": 33,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1233997,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "S搭了，结构一样的，背后数据换一套S的班组就好了",
+      "images": [],
+      "createdAt": "2026-01-26T15:31:10",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 1233823,
+        "userName": "小虾米不瞎",
+        "content": "有了150，是不是会有s？期待中",
+        "images": [],
+        "createdAt": "2026-01-26T15:06:59",
+        "ipLocation": "陕西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

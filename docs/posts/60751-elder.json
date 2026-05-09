@@ -1,0 +1,32 @@
+{
+  "postId": "60751",
+  "fetchedAt": "2026-05-09T15:42:59+08:00",
+  "totalCommentNum": 30,
+  "totalScanned": 20,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 875371,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "锅贴+白粥",
+      "images": [],
+      "createdAt": "2026-01-07T08:56:57",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 875137,
+        "userName": "DragonL915",
+        "content": "早饭吃点啥？",
+        "images": [],
+        "createdAt": "2026-01-07T06:00:33",
+        "ipLocation": "上海市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

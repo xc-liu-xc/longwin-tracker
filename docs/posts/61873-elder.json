@@ -1,0 +1,69 @@
+{
+  "postId": "61873",
+  "fetchedAt": "2026-05-09T15:26:36+08:00",
+  "totalCommentNum": 793,
+  "totalScanned": 736,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1013929,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【更名了！！！】\n莫药再提疗\n↓\n不药再涨疗。",
+      "images": [],
+      "createdAt": "2026-01-13T10:05:20",
+      "ipLocation": "上海市",
+      "likeNum": 118
+    },
+    {
+      "type": "reply",
+      "id": 1015135,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【二代目】外号变迁，戏还不多\n日期\t点位\t外号\n2023-10-11\t9908\t我的小伊伊，不负如来不负卿\n2023-10-13\t9969\t伊伊\n2025-02-06\t8063\t新.莫再提。或者莫再提二代，莫再提v2.0，或者莫再提pro max ultra. ​​​\n2025-09-23\t9762\t莫再提\n2025-12-16\t8719\t莫再提\n2026-01-13\t9601\t不药再涨疗\n",
+      "images": [],
+      "createdAt": "2026-01-13T10:08:35",
+      "ipLocation": "上海市",
+      "likeNum": 88,
+      "parent": {
+        "id": 1013929,
+        "userName": "新米练习菌",
+        "content": "【更名了！！！】\n莫药再提疗\n↓\n不药再涨疗。",
+        "images": [],
+        "createdAt": "2026-01-13T10:05:20",
+        "ipLocation": "上海市",
+        "likeNum": 118
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1025035,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "Excel & Word 呀，微软的",
+      "images": [],
+      "createdAt": "2026-01-13T12:13:22",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 1013929,
+        "userName": "新米练习菌",
+        "content": "【更名了！！！】\n莫药再提疗\n↓\n不药再涨疗。",
+        "images": [],
+        "createdAt": "2026-01-13T10:05:20",
+        "ipLocation": "上海市",
+        "likeNum": 118
+      },
+      "replyTo": {
+        "id": 1020103,
+        "userName": "同路人_9FF5Dd",
+        "content": "练习菌你是用什么软件记录益达发言的呀？",
+        "images": []
+      }
+    }
+  ]
+}

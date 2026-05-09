@@ -1,0 +1,32 @@
+{
+  "postId": "65215",
+  "fetchedAt": "2026-05-09T15:04:41+08:00",
+  "totalCommentNum": 46,
+  "totalScanned": 31,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1259041,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大都有说过呀…\n举个例子，\n如果你打算1.0开始做网格，压力测试-60%，那就计划做到0.4，都计划好。\n现在1.1，你就等到1.0再开始买一网。\n如果现在1.0，就正好买一网，首网。\n如果现在0.9，就买两网，0.9一网，把1.0的网也补上。\n如果现在0.82，那就0.9，1.0，两网都补上呗，再等0.8咯。",
+      "images": [],
+      "createdAt": "2026-01-29T12:05:27",
+      "ipLocation": "上海市",
+      "likeNum": 18,
+      "parent": {
+        "id": 1258933,
+        "userName": "知了010",
+        "content": "米，能不能给点网格如何建底仓的提示。考古了e大的资料，没太找到相关材料，还是不得要领。当然如果叨扰你了，就算了哈",
+        "images": [],
+        "createdAt": "2026-01-29T11:33:24",
+        "ipLocation": "北京市",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

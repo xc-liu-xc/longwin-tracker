@@ -1,0 +1,53 @@
+{
+  "postId": "60571",
+  "fetchedAt": "2026-05-09T15:44:41+08:00",
+  "totalCommentNum": 39,
+  "totalScanned": 34,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 858403,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "打卡天数也是\n所以喜欢做统计~\n努力被量化+成就可视化",
+      "images": [],
+      "createdAt": "2026-01-06T08:09:49",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 858343,
+        "userName": "哈哈的小金鹅",
+        "content": "米米早安💜 日积月累，一点一点的，特别有成就感～想起之前跑步也是，看着软件上跑步里程增加特开心！还有现在整理老大文章也是，看着资料变得庞大起来，很有成就感，那是行动、努力过的痕迹哇～",
+        "images": [],
+        "createdAt": "2026-01-06T07:31:38",
+        "ipLocation": "北京市",
+        "likeNum": 3
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 871621,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看不懂的，就放一放，继续看，继续往下走，\n就类似四年级的时候，不用所有的题目都会做，继续读五年级的，等高年级了之后，回头一看，又都会了。",
+      "images": [],
+      "createdAt": "2026-01-06T16:53:26",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 860503,
+        "userName": "头像好看吗_我画的",
+        "content": "米米早~\n说说我自己最近（半年到一年）的变化。曾经以为高不可攀的山峰，自己开始做了，坚持做了， 会发现还是可以攀一攀的，而且不会觉得累。\n\n考古带来的另一个好处是能让我安静下来看书了，以前看着看着，看不懂就不耐烦了。现在遇到看不懂的先放下，做个标记，然后继续看后面。后面可能某一天就开窍了，嘻嘻~",
+        "images": [],
+        "createdAt": "2026-01-06T10:01:55",
+        "ipLocation": "江西省",
+        "likeNum": 6
+      },
+      "replyTo": null
+    }
+  ]
+}

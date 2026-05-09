@@ -1,0 +1,116 @@
+{
+  "postId": "62077",
+  "fetchedAt": "2026-05-09T15:25:18+08:00",
+  "totalCommentNum": 29,
+  "totalScanned": 22,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1070149,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊呀，索引错了，谢谢提醒，我等下去改改",
+      "images": [],
+      "createdAt": "2026-01-14T11:52:35",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1069069,
+        "userName": "秋秋絮语",
+        "content": "谢谢米米分享！但长线是华宝A吧，不是华宝C",
+        "images": [],
+        "createdAt": "2026-01-14T11:26:53",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1070197,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，看到了，索引错了，等一下去改，谢谢提醒",
+      "images": [],
+      "createdAt": "2026-01-14T11:54:11",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1068985,
+        "userName": "海伯翁",
+        "content": "长线是华宝A，波段华宝C，可以再精确一些",
+        "images": [],
+        "createdAt": "2026-01-14T11:25:35",
+        "ipLocation": "美国加利福尼亚圣何塞",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1070449,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，改了~",
+      "images": [],
+      "createdAt": "2026-01-14T12:00:32",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1069069,
+        "userName": "秋秋絮语",
+        "content": "谢谢米米分享！但长线是华宝A吧，不是华宝C",
+        "images": [],
+        "createdAt": "2026-01-14T11:26:53",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1070455,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "改好了~",
+      "images": [],
+      "createdAt": "2026-01-14T12:00:42",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1068985,
+        "userName": "海伯翁",
+        "content": "长线是华宝A，波段华宝C，可以再精确一些",
+        "images": [],
+        "createdAt": "2026-01-14T11:25:35",
+        "ipLocation": "美国加利福尼亚圣何塞",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1081813,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "汇金不是基金，是妥妥国家队（中央汇金投资有限责任公司）",
+      "images": [],
+      "createdAt": "2026-01-14T18:03:19",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 1081009,
+        "userName": "跟车机器人",
+        "content": "请问那个汇J是哪个基金啊？",
+        "images": [],
+        "createdAt": "2026-01-14T17:13:12",
+        "ipLocation": "山东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

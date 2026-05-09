@@ -1,0 +1,53 @@
+{
+  "postId": "63625",
+  "fetchedAt": "2026-05-09T15:12:38+08:00",
+  "totalCommentNum": 22,
+  "totalScanned": 13,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1180363,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "吓着不会，白开心是。哈哈。",
+      "images": [],
+      "createdAt": "2026-01-20T16:24:09",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 1179043,
+        "userName": "Ningx",
+        "content": "哈哈 这位朋友 要不咱加个区分符号 别天天把我们米米吓着了",
+        "images": [],
+        "createdAt": "2026-01-20T15:37:13",
+        "ipLocation": "北京市",
+        "likeNum": 9
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1184617,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是不是。\n我说的那位朋友其实自己不知道的呢。",
+      "images": [],
+      "createdAt": "2026-01-20T19:53:19",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 1182859,
+        "userName": "邵帅",
+        "content": "是巿吗？",
+        "images": [],
+        "createdAt": "2026-01-20T19:11:39",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "62749",
+  "fetchedAt": "2026-05-09T15:13:40+08:00",
+  "totalCommentNum": 19,
+  "totalScanned": 14,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1154683,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "推送我都打开了，发车是微信也会收到推送的，且慢也会弹出，基本第一时间知道。\n但是老大的消息不是，推送，有时收得到，有时收不到。",
+      "images": [],
+      "createdAt": "2026-01-18T08:59:53",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 1154407,
+        "userName": "楠楠快乐投资",
+        "content": "麻烦问下米米，怎么设置且慢才能在第一时间收到手机通知？",
+        "images": [],
+        "createdAt": "2026-01-18T07:02:22",
+        "ipLocation": "湖北省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

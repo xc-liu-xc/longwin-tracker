@@ -1,0 +1,210 @@
+{
+  "postId": "60871",
+  "fetchedAt": "2026-05-09T15:43:05+08:00",
+  "totalCommentNum": 83,
+  "totalScanned": 53,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 896287,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "对别人善意不傻不天真，行为本身没错，是对象错了。\n看看对方值不值你的善意。",
+      "images": [],
+      "createdAt": "2026-01-07T17:05:37",
+      "ipLocation": "上海市",
+      "likeNum": 18,
+      "parent": {
+        "id": 895687,
+        "userName": "亦暖暖",
+        "content": "今天有之前的同事，竟然直接对我说，我的论文题目是xxx，你帮我写写吧。真的，我当时都开始反省我自己，是不是之前太过善良，对她是有问必答。\n下午EMO了一会，感觉自己之前对别人的善意真是又傻又天真。\n现在，打开消息，看到米米的无私分享。觉得米米真的是很好很好！",
+        "images": [],
+        "createdAt": "2026-01-07T16:04:35",
+        "ipLocation": "北京市",
+        "likeNum": 11
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 896299,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我是不是改那边的也换一下？\n嗯，对，我去换一下",
+      "images": [],
+      "createdAt": "2026-01-07T17:06:59",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 895609,
+        "userName": "头像好看吗_我画的",
+        "content": "太囧了.....\n在说明的链接那张表上找半天更新的地方。。。\n心里还想：不是可以看清晰版本了么。。。\n怎么还这么糊。。。\n\n服了自己😥",
+        "images": [],
+        "createdAt": "2026-01-07T15:58:47",
+        "ipLocation": "江西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 897379,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大他用wind金融数据做的。\n我看且慢150策略下面有组合里相关基金的相关性，可以先参考。",
+      "images": [],
+      "createdAt": "2026-01-07T19:46:22",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 896521,
+        "userName": "kylin",
+        "content": "米米，我想问问你知不知道这个表在哪里找得到，e大在公众号里面曾经发过的品种相关性分析图：https://mp.weixin.qq.com/s/dPtHLWQr6Bqt9tiLZTkW9Q\n\n这个里面贴的图已经是几年前的了，想看看现在的数据。",
+        "images": [],
+        "createdAt": "2026-01-07T17:28:25",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 910003,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你可以看下 800消费（000932）指数在各大常用券商里的显示名字是不是 中证指数。\n用更常用的名字，容易识别。",
+      "images": [],
+      "createdAt": "2026-01-08T04:33:23",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 897469,
+        "userName": "同路人_Cm3vFP",
+        "content": "新米，今天买的品种全称是“中证主要消费指数 ”，是从中证800里面挑选的39只主要消费行业股票组成的，而上次9月买的品种虽然叫内地消费，但实际上也是中证800里的，包括了这次的主要消费以及单独的可选消费。在指数编制的名称里，这次买的品种对应的指数是“800消费”，上次则是在中证800里挑选了包括主要消费和可选消费里市值最大的50只股票。建议，只是个人建议，把表格里的新品种对应的指数改为800消费或者800主要消费，因为：虽然我个人认为未来短期内，可选消费发车的概率不大，但是为了区别，还是把指数名称改一下，两者在中证官网里分别叫“800消费”和“800可选”。",
+        "images": [],
+        "createdAt": "2026-01-07T19:55:57",
+        "ipLocation": "河南省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 910741,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "今天这个是 ETF联接A，就是联接这个汇添富消费ETF。\n不是一个场外对应多个ETF，基金公司都不一样的。\n有联接的是对应，有的是各自只是正好一家基金公司，有的都不是一家，只是跟踪一个指数。",
+      "images": [],
+      "createdAt": "2026-01-08T07:48:14",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 900781,
+        "userName": "Amber的成长备忘",
+        "content": "知道场外代码要找场内，我现在是天天基金上输入场外代码，然后点那个“查看相关ETF”，弹出来好像就是场内的。\n不知道这样准不准。\n有时候一个场外，会对应多个场内ETF。",
+        "images": [],
+        "createdAt": "2026-01-07T21:45:13",
+        "ipLocation": "福建省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 916993,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没事，我换掉了，你提醒我了",
+      "images": [],
+      "createdAt": "2026-01-08T10:50:12",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 895609,
+        "userName": "头像好看吗_我画的",
+        "content": "太囧了.....\n在说明的链接那张表上找半天更新的地方。。。\n心里还想：不是可以看清晰版本了么。。。\n怎么还这么糊。。。\n\n服了自己😥",
+        "images": [],
+        "createdAt": "2026-01-07T15:58:47",
+        "ipLocation": "江西省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 916567,
+        "userName": "头像好看吗_我画的",
+        "content": "天呐撸，我是单纯为自己的行为感到囧囧的，\n无形中增加了米米的工作量。\n\n呜呜~米米你太好了",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1192807,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "好嘞，√上来，下次有新的再法，谢谢提醒",
+      "images": [],
+      "createdAt": "2026-01-21T11:43:49",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1190971,
+        "userName": "攒够500万就躺平",
+        "content": "米米，002286，中银美元债，计划里有，但是没打勾~",
+        "images": [],
+        "createdAt": "2026-01-21T10:48:09",
+        "ipLocation": "山东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1192825,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "ETF不分AC的，AC是场外前段后端收申赎管理费的区别",
+      "images": [],
+      "createdAt": "2026-01-21T11:45:16",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1117771,
+        "userName": "找镜",
+        "content": "米米您好，我今天在对照这个表的时候发现“波段（场内）华宝”这一列你都没有标记任何打勾的，是出于什么考虑呀（我在想是不想让其他人知道E大华宝做的哪些吗？不过我在想即使知道了也不知道具体的网格，所以也还好？感觉你可能是考虑了别的，就有点疑惑问一下）",
+        "images": [],
+        "createdAt": "2026-01-16T15:20:20",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 1163959,
+        "userName": "找镜",
+        "content": "为什么中证500和中证500C的场内基金是一样的呢？我自己在想可能是因为场内是部分A和C？不过这样的话有点重复……也许可以相同的合并两格，不过这样的话可能就不好用筛选功能了……（自己的碎碎念，希望没有打扰到您）",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1192831,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大每次发波段账户XIRR表格也打码，和他同步",
+      "images": [],
+      "createdAt": "2026-01-21T11:46:08",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 1117771,
+        "userName": "找镜",
+        "content": "米米您好，我今天在对照这个表的时候发现“波段（场内）华宝”这一列你都没有标记任何打勾的，是出于什么考虑呀（我在想是不想让其他人知道E大华宝做的哪些吗？不过我在想即使知道了也不知道具体的网格，所以也还好？感觉你可能是考虑了别的，就有点疑惑问一下）",
+        "images": [],
+        "createdAt": "2026-01-16T15:20:20",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

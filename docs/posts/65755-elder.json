@@ -1,0 +1,32 @@
+{
+  "postId": "65755",
+  "fetchedAt": "2026-05-09T15:02:14+08:00",
+  "totalCommentNum": 14,
+  "totalScanned": 13,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1277011,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这些都是Excel做得",
+      "images": [],
+      "createdAt": "2026-02-02T15:29:55",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 1274755,
+        "userName": "嘀嘀",
+        "content": "请教下，这些图也是Excel生成的吗？能画这么好看？",
+        "images": [],
+        "createdAt": "2026-02-02T12:12:47",
+        "ipLocation": "云南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

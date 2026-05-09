@@ -1,0 +1,32 @@
+{
+  "postId": "65743",
+  "fetchedAt": "2026-05-09T15:03:14+08:00",
+  "totalCommentNum": 592,
+  "totalScanned": 515,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1268773,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "是谁跟你说有40几万的，没有那么多。另外这两份很多朋友没有持仓。",
+      "images": [],
+      "createdAt": "2026-01-30T20:40:15",
+      "ipLocation": "新加坡",
+      "likeNum": 264,
+      "parent": {
+        "id": 1268311,
+        "userName": "投资-小白",
+        "content": "老大，不是40多万人跟吗？怎么只有几万位呢？",
+        "images": [],
+        "createdAt": "2026-01-30T20:26:53",
+        "ipLocation": "贵州省",
+        "likeNum": 17
+      },
+      "replyTo": null
+    }
+  ]
+}

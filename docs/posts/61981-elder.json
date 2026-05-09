@@ -1,0 +1,53 @@
+{
+  "postId": "61981",
+  "fetchedAt": "2026-05-09T15:29:17+08:00",
+  "totalCommentNum": 38,
+  "totalScanned": 25,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1045867,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，gzh文里写了，收益率19%\n而且波段嘛，不用卖出收回平均金额/买入平均平均成本那样统计，单笔对应着，qm上也已经显示了~",
+      "images": [],
+      "createdAt": "2026-01-13T21:36:01",
+      "ipLocation": "上海市",
+      "likeNum": 16,
+      "parent": {
+        "id": 1045729,
+        "userName": "开通微博只为了E大",
+        "content": "今晚老大没总结今日卖出的那车，估计太累了！",
+        "images": [],
+        "createdAt": "2026-01-13T21:27:31",
+        "ipLocation": "广东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1052167,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "从老大指我的时候用了「她」字，我想我应该是女生吧^_^\nWB 2024.11.19\n“还有我评论里有位朋友经常做一些关于我的各种投资计划的图表。她设计的角度，制作的精细程度，你可以很明显感受到她不仅仅是做一件事，而是真的用心在做一件事，用脑子，用心把一件事做好。”",
+      "images": [],
+      "createdAt": "2026-01-14T08:09:57",
+      "ipLocation": "上海市",
+      "likeNum": 24,
+      "parent": {
+        "id": 1047739,
+        "userName": "沈家大少爷",
+        "content": "请问，米米是女生吧，哈哈哈",
+        "images": [],
+        "createdAt": "2026-01-14T07:15:54",
+        "ipLocation": "上海市",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

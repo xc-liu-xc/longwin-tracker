@@ -1,0 +1,32 @@
+{
+  "postId": "64393",
+  "fetchedAt": "2026-05-09T15:07:59+08:00",
+  "totalCommentNum": 14,
+  "totalScanned": 11,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1223209,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是，\n可能是还没有碰到，没有激活，我认为每个人都有属于自己的天赋，只是没发现。\n就像佛陀说的，每个人本自具足，只是尚未觉醒。\n——天赋也是一样，一直都在，只是还没被“看见”和“用上”。\n.\n没有喜欢的事或者不知道喜欢什么事，不做就不做，没感觉的，类似，没上瘾，也不会“发作”，自然不会难受的。",
+      "images": [],
+      "createdAt": "2026-01-23T16:50:54",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 1222999,
+        "userName": "翠峰果园",
+        "content": "“不做这件事会很想死。”\n那是什么事啊？如果是这样，我觉得有两种情况:\n\n1、没有这种感觉的人，是不是什么天赋都没有？\n2、那些被埋没了（或者尚未发现）天赋的人，他们是不是天天很难受的要死？",
+        "images": [],
+        "createdAt": "2026-01-23T16:24:05",
+        "ipLocation": "山东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

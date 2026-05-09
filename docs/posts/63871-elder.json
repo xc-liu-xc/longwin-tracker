@@ -1,0 +1,53 @@
+{
+  "postId": "63871",
+  "fetchedAt": "2026-05-09T15:10:55+08:00",
+  "totalCommentNum": 39,
+  "totalScanned": 33,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1188451,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "真的，有些东西还真的是跑步时想出来或者想通的",
+      "images": [],
+      "createdAt": "2026-01-21T08:35:42",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 1188373,
+        "userName": "沈家大少爷",
+        "content": "晨跑👍👍👍分泌多巴胺，灵感的来源",
+        "images": [],
+        "createdAt": "2026-01-21T08:24:35",
+        "ipLocation": "江苏省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1188751,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "Excel书…？我倒不看的…\n看B站视频+AI学吧？",
+      "images": [],
+      "createdAt": "2026-01-21T09:05:54",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 1188445,
+        "userName": "qiosan",
+        "content": "米米，你对EXCEL的深度令人叹为观止，能推荐一些书给我们吗？我想学习一下，当然米米老师愿意开开课～～嘿嘿，我就觉得是我们的福气和幸运",
+        "images": [],
+        "createdAt": "2026-01-21T08:35:03",
+        "ipLocation": "四川省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

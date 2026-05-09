@@ -1,0 +1,32 @@
+{
+  "postId": "60979",
+  "fetchedAt": "2026-05-09T15:38:49+08:00",
+  "totalCommentNum": 18,
+  "totalScanned": 17,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 926245,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "誒，哈哈哈，好像是哦，等下我去改改，谢谢你的仔细和提醒。\n啊呀，好像加了好几个月了，有点点丢脸，（捂）",
+      "images": [],
+      "createdAt": "2026-01-09T06:50:09",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 925753,
+        "userName": "一碗牛肉面",
+        "content": "谢谢米米分享，第四张图A和H的上标颜色和下标颜色不一致诶。（小声说，如果说错了，请米米原谅。）",
+        "images": [],
+        "createdAt": "2026-01-08T23:06:52",
+        "ipLocation": "云南省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

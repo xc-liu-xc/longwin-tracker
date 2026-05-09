@@ -1,0 +1,126 @@
+{
+  "postId": "63895",
+  "fetchedAt": "2026-05-09T15:10:56+08:00",
+  "totalCommentNum": 40,
+  "totalScanned": 25,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1189141,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "枣…也不爱吃…",
+      "images": [],
+      "createdAt": "2026-01-21T09:38:22",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1189045,
+        "userName": "Kun_天天开心",
+        "content": "米米你试一下姜枣茶，大块的姜，红枣去核~",
+        "images": [],
+        "createdAt": "2026-01-21T09:29:18",
+        "ipLocation": "河北省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1189165,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "肉桂也不行，不吃的，那些味道重的，都不碰的。\n有个可怕的面包叫肉桂面包，以前不懂，以为是肉松桂花面包，然后，咬了一口，谁发明的？为什么要这样啊…吃面包的人做错了什么？",
+      "images": [],
+      "createdAt": "2026-01-21T09:40:30",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 1188877,
+        "userName": "安安静静",
+        "content": "我喝习惯了还好，不知道米米吃不吃肉桂？茶➕一点肉桂粉，也是暖的……",
+        "images": [],
+        "createdAt": "2026-01-21T09:17:45",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1189177,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "受不了姜的味道誒，无论加在什么里面…",
+      "images": [],
+      "createdAt": "2026-01-21T09:41:29",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1188853,
+        "userName": "同路人_VoFdHL",
+        "content": "有没有试过姜撞奶，我不喜欢姜味的一吃就喜欢上",
+        "images": [],
+        "createdAt": "2026-01-21T09:15:35",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1192843,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "榴莲也不行…\n觉得简直是生化武器…",
+      "images": [],
+      "createdAt": "2026-01-21T11:47:06",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 1188877,
+        "userName": "安安静静",
+        "content": "我喝习惯了还好，不知道米米吃不吃肉桂？茶➕一点肉桂粉，也是暖的……",
+        "images": [],
+        "createdAt": "2026-01-21T09:17:45",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 1191223,
+        "userName": "同路人_nn",
+        "content": "哈哈哈肉松桂花太可爱了，同感怕生姜和肉桂，还有芥末和榴莲味道的东西赶紧逃",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1216105,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "味道重的东西都碰不了~",
+      "images": [],
+      "createdAt": "2026-01-22T18:40:36",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 1188877,
+        "userName": "安安静静",
+        "content": "我喝习惯了还好，不知道米米吃不吃肉桂？茶➕一点肉桂粉，也是暖的……",
+        "images": [],
+        "createdAt": "2026-01-21T09:17:45",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 1213471,
+        "userName": "悦屿清风",
+        "content": "哈哈哈没想到你不喜欢榴莲，我第一次吃不太习惯后来不知不觉爱上，女性来月事，吃这个好，姜茶不懂，我只知道姜水，农村人种的的姜，不是那种大大的姜，加上红糖，还可以，对月事好",
+        "images": []
+      }
+    }
+  ]
+}

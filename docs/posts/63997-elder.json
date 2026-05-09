@@ -1,0 +1,32 @@
+{
+  "postId": "63997",
+  "fetchedAt": "2026-05-09T15:10:59+08:00",
+  "totalCommentNum": 17,
+  "totalScanned": 5,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1202179,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "数据透视表和PowerQuery",
+      "images": [],
+      "createdAt": "2026-01-21T19:58:21",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 1201465,
+        "userName": "均衡慢盈",
+        "content": "pivot是C开头的吗米米，PQ是啥搜不出来……",
+        "images": [],
+        "createdAt": "2026-01-21T19:34:44",
+        "ipLocation": "湖南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

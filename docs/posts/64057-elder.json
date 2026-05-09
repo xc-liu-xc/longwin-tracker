@@ -1,0 +1,53 @@
+{
+  "postId": "64057",
+  "fetchedAt": "2026-05-09T15:11:03+08:00",
+  "totalCommentNum": 55,
+  "totalScanned": 49,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1209253,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "人家是一基金平台，我一圈外素人、乡野村妇，穿着裙裤、粘着青草，在人都西装笔挺的地方“走来走去”的，总觉得很怪的…",
+      "images": [],
+      "createdAt": "2026-01-22T09:36:40",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 1208041,
+        "userName": "胖菜",
+        "content": "米米早上好！\nE大是因为被迫收费，违背了他的风格，心里过于紧张才会这么觉得的。\n城里精心装修好的房子，或是乡下鱼塘边随便搭的草棚，哪里都可以一样谈笑风生的。\n重要的是人啊，不是场地。",
+        "images": [],
+        "createdAt": "2026-01-22T05:59:37",
+        "ipLocation": "广东省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1211659,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大的，我完全认同。\n就这么一个标准^ ^",
+      "images": [],
+      "createdAt": "2026-01-22T11:56:04",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 1207651,
+        "userName": "井宿河中静",
+        "content": "拜托米米发发发。你想想是不是也很想老大发各种？喜欢的人看他说什么都喜欢的。不一定完全认同，但也喜欢看哈",
+        "images": [],
+        "createdAt": "2026-01-21T23:57:14",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

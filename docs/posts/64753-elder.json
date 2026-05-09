@@ -1,0 +1,32 @@
+{
+  "postId": "64753",
+  "fetchedAt": "2026-05-09T15:07:07+08:00",
+  "totalCommentNum": 17,
+  "totalScanned": 13,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1228795,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大发的图，那片蓝色偏深的面积就是最大回撤，-19.79%\n发车信号，下面X轴一个个蓝圈圈的就是。",
+      "images": [],
+      "createdAt": "2026-01-26T10:09:48",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 1228417,
+        "userName": "跟车机器人",
+        "content": "嗯嗯老大发的图我咋找不到最大回撤，发车信号的那些标志呢😅",
+        "images": [],
+        "createdAt": "2026-01-26T09:58:27",
+        "ipLocation": "山东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

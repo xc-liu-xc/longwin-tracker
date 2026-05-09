@@ -1,0 +1,58 @@
+{
+  "postId": "63727",
+  "fetchedAt": "2026-05-09T15:12:41+08:00",
+  "totalCommentNum": 21,
+  "totalScanned": 10,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1185499,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看过，连着gzh那篇是吗？",
+      "images": [],
+      "createdAt": "2026-01-20T20:45:54",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1185103,
+        "userName": "兔子尾巴掉了",
+        "content": "米米。老大的且慢首页有：写给新朋友：ETF计划的投资世界观，不知道你看没看到过。提醒你下。",
+        "images": [],
+        "createdAt": "2026-01-20T20:20:46",
+        "ipLocation": "浙江省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1187017,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "那就是那篇2017.11.3的gzh文",
+      "images": [],
+      "createdAt": "2026-01-20T22:33:02",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 1185103,
+        "userName": "兔子尾巴掉了",
+        "content": "米米。老大的且慢首页有：写给新朋友：ETF计划的投资世界观，不知道你看没看到过。提醒你下。",
+        "images": [],
+        "createdAt": "2026-01-20T20:20:46",
+        "ipLocation": "浙江省",
+        "likeNum": 2
+      },
+      "replyTo": {
+        "id": 1185649,
+        "userName": "兔子尾巴掉了",
+        "content": "从风险、安全的指数投资、E TF指数投资计划、ETF计划的投资世界观这几个方面写的。",
+        "images": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "65269",
+  "fetchedAt": "2026-05-09T15:04:42+08:00",
+  "totalCommentNum": 25,
+  "totalScanned": 24,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1259053,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是，我是喜欢按关门开门的那个，有的人不按还挡着操作板，外面又没人，会等很久，很多楼层还都会停，容易耽搁时间\n我电梯里不看手机的，听歌的，走路不掏手机出来的",
+      "images": [],
+      "createdAt": "2026-01-29T12:07:46",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 1258975,
+        "userName": "Nnnnnn",
+        "content": "同感~ 米米是不是也不喜欢进电梯之后站按键操作位置，但低头看手机，不会提前按关门键的人",
+        "images": [],
+        "createdAt": "2026-01-29T11:41:32",
+        "ipLocation": "四川省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

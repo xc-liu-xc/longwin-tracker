@@ -1,0 +1,53 @@
+{
+  "postId": "64729",
+  "fetchedAt": "2026-05-09T15:07:06+08:00",
+  "totalCommentNum": 27,
+  "totalScanned": 25,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1227607,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是缺少，你翻翻历史，配置过两轮了，公开的第三轮计划清早一些。\nE大2005年就买实体黄金了。\n",
+      "images": [],
+      "createdAt": "2026-01-26T09:14:10",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 1227577,
+        "userName": "平常心L",
+        "content": "E大的体系，缺少黄金的配置，需自己根据对宏观的认知配置",
+        "images": [],
+        "createdAt": "2026-01-26T08:51:42",
+        "ipLocation": "广西壮族自治区",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1234009,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是不喜欢表情包，是不喜欢没礼貌、轻浮的表情吧。",
+      "images": [],
+      "createdAt": "2026-01-26T15:34:04",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 1233415,
+        "userName": "凭虚御风",
+        "content": "米米不喜欢表情包，但喜欢颜文字阿(●'◡'●)",
+        "images": [],
+        "createdAt": "2026-01-26T14:25:42",
+        "ipLocation": "新疆维吾尔自治区",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

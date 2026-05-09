@@ -1,0 +1,95 @@
+{
+  "postId": "62107",
+  "fetchedAt": "2026-05-09T15:24:26+08:00",
+  "totalCommentNum": 403,
+  "totalScanned": 302,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1073023,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大接收和识别的这些“信号”的天线真发达，\n我只会眨眨眼，只知道不要和GJD对着干，然后知道我们可能可以做波段\n",
+      "images": [],
+      "createdAt": "2026-01-14T13:20:03",
+      "ipLocation": "上海市",
+      "likeNum": 83
+    },
+    {
+      "type": "reply",
+      "id": 1074127,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这种可以玩。记得做波段。至于投资价值，在我心中几乎等于没有。为什么。因为，如果是我们的硬科技公司可以做出的产品，那就一定变成白菜价，最终赚不到大钱。即使其中1、2家真的掌握了核心科技，那剩下的几百家依然是垃圾。但这些垃圾已经炒到了100多倍估值。但是，交易价值是有的。因为疯子和傻子很多，做波段赚钱没问题。千万不要被故事骗了。",
+      "images": [],
+      "createdAt": "2026-01-14T13:38:49",
+      "ipLocation": "北京市",
+      "likeNum": 449,
+      "parent": {
+        "id": 1073785,
+        "userName": "李木子啊",
+        "content": "E大，不选择科创或者芯片/半导体相关的etf，是因为这些指数的编辑规则问题，还是觉得这种更多是话题炒作类的不符合您适合普通人投资的理念？E大您心里不死的品种具有哪些明显的特点？",
+        "images": [],
+        "createdAt": "2026-01-14T13:29:40",
+        "ipLocation": "四川省",
+        "likeNum": 58
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1074655,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "信息技术、创业板都是一个意思。我的信息技术甚至致敬了。",
+      "images": [],
+      "createdAt": "2026-01-14T13:57:18",
+      "ipLocation": "北京市",
+      "likeNum": 237,
+      "parent": {
+        "id": 1073785,
+        "userName": "李木子啊",
+        "content": "E大，不选择科创或者芯片/半导体相关的etf，是因为这些指数的编辑规则问题，还是觉得这种更多是话题炒作类的不符合您适合普通人投资的理念？E大您心里不死的品种具有哪些明显的特点？",
+        "images": [],
+        "createdAt": "2026-01-14T13:29:40",
+        "ipLocation": "四川省",
+        "likeNum": 58
+      },
+      "replyTo": {
+        "id": 1074499,
+        "userName": "同路人_PWhYD5",
+        "content": "信息技术其实就是呀，成份股差不多的，这两天我正在卖呢，剩不多了。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1081777,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈哈好像是2333~",
+      "images": [],
+      "createdAt": "2026-01-14T18:00:21",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 1073023,
+        "userName": "新米练习菌",
+        "content": "老大接收和识别的这些“信号”的天线真发达，\n我只会眨眨眼，只知道不要和GJD对着干，然后知道我们可能可以做波段\n",
+        "images": [],
+        "createdAt": "2026-01-14T13:20:03",
+        "ipLocation": "上海市",
+        "likeNum": 83
+      },
+      "replyTo": {
+        "id": 1081327,
+        "userName": "Amber的成长备忘",
+        "content": "米，你今天的天数是1333，哈哈哈。",
+        "images": []
+      }
+    }
+  ]
+}

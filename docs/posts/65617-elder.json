@@ -1,0 +1,32 @@
+{
+  "postId": "65617",
+  "fetchedAt": "2026-05-09T15:03:16+08:00",
+  "totalCommentNum": 8,
+  "totalScanned": 6,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1265863,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我以前是在B站学的，\n现在就要用什么又不会的时候，就问AI了。",
+      "images": [],
+      "createdAt": "2026-01-30T13:33:05",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 1261915,
+        "userName": "四明小山",
+        "content": "新米推荐一下在哪里学excel吧",
+        "images": [],
+        "createdAt": "2026-01-30T10:00:58",
+        "ipLocation": "浙江省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

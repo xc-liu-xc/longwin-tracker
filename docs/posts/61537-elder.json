@@ -1,0 +1,22 @@
+{
+  "postId": "61537",
+  "fetchedAt": "2026-05-09T15:33:39+08:00",
+  "totalCommentNum": 462,
+  "totalScanned": 433,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 963247,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大周日中午好~\n不是“有点”，是“很有”，\n只要老大聊的，都很有意思~",
+      "images": [],
+      "createdAt": "2026-01-11T13:24:12",
+      "ipLocation": "上海市",
+      "likeNum": 6
+    }
+  ]
+}

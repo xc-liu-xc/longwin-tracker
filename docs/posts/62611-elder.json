@@ -1,0 +1,137 @@
+{
+  "postId": "62611",
+  "fetchedAt": "2026-05-09T15:19:30+08:00",
+  "totalCommentNum": 6077,
+  "totalScanned": 5803,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1120237,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【老大填keng了！！！】\n谢谢您，又破费了呀，心意❤️先收到了~\n真的，说到做到了，说「年底前」，原来的是农历年，🐍年年底前~~\n【原🕳️记录】【WB25.10.24】\n年底前，我再自费给大家做点杯子吧。\n\n这次我想搞点新意思，在每个杯子上加上编号，是不是更好玩。\n\n当然这个只是我乱想的，不知道技术上好不好实现。如果太贵就算了，不如多做点呢。 ​",
+      "images": [],
+      "createdAt": "2026-01-16T16:27:08",
+      "ipLocation": "上海市",
+      "likeNum": 59
+    },
+    {
+      "type": "reply",
+      "id": 1122571,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【留言2】\n食言了？？？\n啊啊，原来是这个意思啊。\n还可以又翻回去看了看上一篇。\n“A股，基本配置做一些，大波段，小波段，玩玩就行了。\n收工走人。”\n的“收工走人”是老大今日营业收工啊？\n我以为是在A股这样“玩玩”就收工走人（赚到一波就离开一下，再赚到一波再离开一下)的意思了…",
+      "images": [],
+      "createdAt": "2026-01-16T16:31:53",
+      "ipLocation": "上海市",
+      "likeNum": 52,
+      "parent": {
+        "id": 1120237,
+        "userName": "新米练习菌",
+        "content": "【老大填keng了！！！】\n谢谢您，又破费了呀，心意❤️先收到了~\n真的，说到做到了，说「年底前」，原来的是农历年，🐍年年底前~~\n【原🕳️记录】【WB25.10.24】\n年底前，我再自费给大家做点杯子吧。\n\n这次我想搞点新意思，在每个杯子上加上编号，是不是更好玩。\n\n当然这个只是我乱想的，不知道技术上好不好实现。如果太贵就算了，不如多做点呢。 ​",
+        "images": [],
+        "createdAt": "2026-01-16T16:27:08",
+        "ipLocation": "上海市",
+        "likeNum": 59
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1125181,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "？？？这也行？",
+      "images": [],
+      "createdAt": "2026-01-16T16:42:51",
+      "ipLocation": "北京市",
+      "likeNum": 190,
+      "parent": {
+        "id": 1119565,
+        "userName": "大妙子",
+        "content": "我中 3 个杯子了🥹",
+        "images": [],
+        "createdAt": "2026-01-16T16:25:23",
+        "ipLocation": "江苏省",
+        "likeNum": 128
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1125397,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你这个名字给我整笑了",
+      "images": [],
+      "createdAt": "2026-01-16T16:43:43",
+      "ipLocation": "北京市",
+      "likeNum": 488,
+      "parent": {
+        "id": 1119199,
+        "userName": "微博且慢都被E大回复一次的幸运儿",
+        "content": "这次我是分子还是分母，期待了",
+        "images": [],
+        "createdAt": "2026-01-16T16:24:25",
+        "ipLocation": "广东省",
+        "likeNum": 427
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1126927,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈哈，\n现在可以更名成：\n“被E大回复过两次的幸运儿”\n或者\n“曾在微博被E大回复过一次又在且慢被E大回复过一次的幸运儿”\n老大，我统计过被您回复的概率誒，\n是大约0.000015%\n绝对的小概率事件了。\n（因为理WB，大约统计了下老大发WB数、所有评论数、回评数，估算了一下）\n",
+      "images": [],
+      "createdAt": "2026-01-16T16:54:57",
+      "ipLocation": "上海市",
+      "likeNum": 126,
+      "parent": {
+        "id": 1119199,
+        "userName": "微博且慢都被E大回复一次的幸运儿",
+        "content": "这次我是分子还是分母，期待了",
+        "images": [],
+        "createdAt": "2026-01-16T16:24:25",
+        "ipLocation": "广东省",
+        "likeNum": 427
+      },
+      "replyTo": {
+        "id": 1125397,
+        "userName": "ETF拯救世界",
+        "content": "你这个名字给我整笑了",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1128667,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哇塞，你连头像都改成被回复的截屏图了！！！",
+      "images": [],
+      "createdAt": "2026-01-16T17:16:16",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 1119199,
+        "userName": "微博且慢都被E大回复一次的幸运儿",
+        "content": "这次我是分子还是分母，期待了",
+        "images": [],
+        "createdAt": "2026-01-16T16:24:25",
+        "ipLocation": "广东省",
+        "likeNum": 427
+      },
+      "replyTo": {
+        "id": 1128241,
+        "userName": "微博且慢都被E大回复一次的幸运儿",
+        "content": "这么小的概率，我确实是幸运的~",
+        "images": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "61177",
+  "fetchedAt": "2026-05-09T15:37:37+08:00",
+  "totalCommentNum": 34,
+  "totalScanned": 30,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 926935,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我也以为会有毒的，所以我用玻璃饭盒的。但我不会去管别人的。",
+      "images": [],
+      "createdAt": "2026-01-09T09:26:25",
+      "ipLocation": "上海市",
+      "likeNum": 21,
+      "parent": {
+        "id": 926815,
+        "userName": "胖菜",
+        "content": "回旋镖，哈哈。\n不过，塑料盒子真的没问题吗？我一直以为塑料的加热会有毒。\n",
+        "images": [],
+        "createdAt": "2026-01-09T09:13:27",
+        "ipLocation": "广东省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

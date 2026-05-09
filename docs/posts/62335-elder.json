@@ -1,0 +1,32 @@
+{
+  "postId": "62335",
+  "fetchedAt": "2026-05-09T15:21:36+08:00",
+  "totalCommentNum": 24,
+  "totalScanned": 21,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1098925,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈哈哈哈，还可以这样断句，我真是没想到",
+      "images": [],
+      "createdAt": "2026-01-15T18:07:45",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 1093369,
+        "userName": "胖菜",
+        "content": "《不，要断章取义》\nE大说要all in!梭哈！\n浑身散发黑粉气息的真爱粉。",
+        "images": [],
+        "createdAt": "2026-01-15T14:49:09",
+        "ipLocation": "广东省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    }
+  ]
+}

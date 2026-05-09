@@ -1,0 +1,32 @@
+{
+  "postId": "60985",
+  "fetchedAt": "2026-05-09T15:38:49+08:00",
+  "totalCommentNum": 11,
+  "totalScanned": 9,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 919561,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "现金25%+倒是很久了，\n昨天前天A股仓位越过了50%两天。",
+      "images": [],
+      "createdAt": "2026-01-08T13:09:33",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 918571,
+        "userName": "自虐的骑行者",
+        "content": "现金又25%+了呀",
+        "images": [],
+        "createdAt": "2026-01-08T11:56:55",
+        "ipLocation": "广西壮族自治区",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

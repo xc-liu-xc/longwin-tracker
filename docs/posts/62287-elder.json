@@ -1,0 +1,43 @@
+{
+  "postId": "62287",
+  "fetchedAt": "2026-05-09T15:20:12+08:00",
+  "totalCommentNum": 488,
+  "totalScanned": 384,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1089871,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大中午好~\n昨天上午我看到医疗大涨，在心里开心，这是长线大仓要赚钱了；\n下午看到跳水加今天下跌，觉得NB，这是要做波段赚筹码了，未来赚更多。\n上涨赚金额，下跌赚份额。\n都开心，都NB。\n我心智成熟。是个悲观的乐观主义者。\n我想有资格做老大的朋友。\n（还在开会，前面的那篇还没法写评论，手机先回这篇~）",
+      "images": [],
+      "createdAt": "2026-01-15T11:53:31",
+      "ipLocation": "上海市",
+      "likeNum": 16
+    },
+    {
+      "type": "reply",
+      "id": 1090387,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "去我微博，搜“日元”",
+      "images": [],
+      "createdAt": "2026-01-15T12:07:33",
+      "ipLocation": "北京市",
+      "likeNum": 118,
+      "parent": {
+        "id": 1090111,
+        "userName": "卢昇",
+        "content": "老大，能不能说说最近的日元兑人民币汇率",
+        "images": [],
+        "createdAt": "2026-01-15T11:59:38",
+        "ipLocation": "江苏省",
+        "likeNum": 13
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "postId": "62083",
+  "fetchedAt": "2026-05-09T15:24:10+08:00",
+  "totalCommentNum": 432,
+  "totalScanned": 338,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1068427,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我的天线不懂这些宏观和信号，麻烦老大接收和识别了。\n老实巴交地承认，我基本只会看数据和图形，居然也“活”到现在，\n果然，有人罩着，感觉真好呀~\n",
+      "images": [],
+      "createdAt": "2026-01-14T11:19:07",
+      "ipLocation": "上海市",
+      "likeNum": 169
+    },
+    {
+      "type": "reply",
+      "id": 1075453,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "继续卖",
+      "images": [],
+      "createdAt": "2026-01-14T14:29:37",
+      "ipLocation": "北京市",
+      "likeNum": 111,
+      "parent": {
+        "id": 1074943,
+        "userName": "hillwind1980",
+        "content": "老大，如果一直逼空上涨，我们该如何应对呢？",
+        "images": [],
+        "createdAt": "2026-01-14T14:08:11",
+        "ipLocation": "上海市",
+        "likeNum": 13
+      },
+      "replyTo": null
+    }
+  ]
+}

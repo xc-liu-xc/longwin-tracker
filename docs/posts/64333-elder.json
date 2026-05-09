@@ -1,0 +1,32 @@
+{
+  "postId": "64333",
+  "fetchedAt": "2026-05-09T15:07:59+08:00",
+  "totalCommentNum": 18,
+  "totalScanned": 14,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1219279,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你喜欢这件事，就会自然而然去做的~\n爱好~",
+      "images": [],
+      "createdAt": "2026-01-23T10:16:39",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 1219027,
+        "userName": "同路人_cpGYe6",
+        "content": "米米能否分享下，你怎么做到这么有韧劲或者定力的，天生的还是有什么方法论",
+        "images": [],
+        "createdAt": "2026-01-23T09:49:29",
+        "ipLocation": "湖北省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

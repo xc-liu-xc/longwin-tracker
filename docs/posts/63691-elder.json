@@ -1,0 +1,32 @@
+{
+  "postId": "63691",
+  "fetchedAt": "2026-05-09T15:12:40+08:00",
+  "totalCommentNum": 26,
+  "totalScanned": 21,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1182385,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我能打开。你得问问HB客服比较合适。",
+      "images": [],
+      "createdAt": "2026-01-20T18:43:58",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 1182109,
+        "userName": "王天赐",
+        "content": "请问米米，您hb上的网格策略还可以打开吗？我的为什么已经打不开了，显示该产品暂停销售",
+        "images": [],
+        "createdAt": "2026-01-20T18:31:59",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

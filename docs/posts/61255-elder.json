@@ -1,0 +1,53 @@
+{
+  "postId": "61255",
+  "fetchedAt": "2026-05-09T15:37:41+08:00",
+  "totalCommentNum": 35,
+  "totalScanned": 30,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 945589,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "1）Word文档，给老大做备份用。\n2）然后再理进自己的，飞书文档。\n怎么做的，嗯，最笨笨的方法——手工复制黏贴。\n（在这个爬虫发达的时代里）",
+      "images": [],
+      "createdAt": "2026-01-09T15:18:00",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 943171,
+        "userName": "老用户新学员",
+        "content": "亲，请教下，你都是怎么做文档的？",
+        "images": [],
+        "createdAt": "2026-01-09T14:34:56",
+        "ipLocation": "河南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 945655,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "还有发车~",
+      "images": [],
+      "createdAt": "2026-01-09T15:20:19",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 945385,
+        "userName": "攒够500万就躺平",
+        "content": "感觉是因为帮大家赚到了钱，E大很开心，所以频率就高了",
+        "images": [],
+        "createdAt": "2026-01-09T15:11:55",
+        "ipLocation": "山东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

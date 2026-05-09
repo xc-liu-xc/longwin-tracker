@@ -1,0 +1,32 @@
+{
+  "postId": "65461",
+  "fetchedAt": "2026-05-09T15:03:29+08:00",
+  "totalCommentNum": 51,
+  "totalScanned": 47,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1260391,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我看懂了",
+      "images": [],
+      "createdAt": "2026-01-29T15:38:40",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 1260265,
+        "userName": "头像好看吗_我画的",
+        "content": "米米好想截图给你看，刚跟我家那位说，找到今天账户红红的原因了（自己黑车连绿好多天了）：是Alcohol 这个 Dead dog（不好意思，太粗鲁了）",
+        "images": [],
+        "createdAt": "2026-01-29T15:30:58",
+        "ipLocation": "江西省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "61369",
+  "fetchedAt": "2026-05-09T15:35:03+08:00",
+  "totalCommentNum": 29,
+  "totalScanned": 25,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 952201,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没记错，是有的~\n这篇：\n【20251230】（10:34）那我就聊聊医药医疗\n“其次，未来路线。\n买入方面。医疗我会在5900-6000左右，继续买入。已经好久好久没有买入了，空间时间都够，只看它是不是跌。”\n",
+      "images": [],
+      "createdAt": "2026-01-10T09:14:19",
+      "ipLocation": "上海市",
+      "likeNum": 20,
+      "parent": {
+        "id": 952099,
+        "userName": "执着",
+        "content": "请教新米，记得哪天先是评论区有人问了医疗，然后E大就有一篇说评论区的医疗，还讲了跌到哪个位置还会再买，昨晚上找了好久没有找到这篇，新米课代表，是否看到有？还是我记错了？打扰了！",
+        "images": [],
+        "createdAt": "2026-01-10T08:55:11",
+        "ipLocation": "湖南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

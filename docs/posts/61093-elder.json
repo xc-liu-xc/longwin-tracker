@@ -1,0 +1,101 @@
+{
+  "postId": "61093",
+  "fetchedAt": "2026-05-09T15:38:37+08:00",
+  "totalCommentNum": 282,
+  "totalScanned": 179,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 922999,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "谢谢分享，神图再现，迷雾散去。",
+      "images": [],
+      "createdAt": "2026-01-08T18:18:57",
+      "ipLocation": "上海市",
+      "likeNum": 45
+    },
+    {
+      "type": "top",
+      "id": 923029,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "反正我现在肯定不会在A股加仓了。",
+      "images": [],
+      "createdAt": "2026-01-08T18:20:13",
+      "ipLocation": "北京市",
+      "likeNum": 377
+    },
+    {
+      "type": "reply",
+      "id": 923215,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你不要管。如果她赚钱了，这不是好事吗。如果她赔钱了，你可以一举收回家里的投资大权。怎么你都赢。",
+      "images": [],
+      "createdAt": "2026-01-08T18:26:06",
+      "ipLocation": "北京市",
+      "likeNum": 439,
+      "parent": {
+        "id": 923101,
+        "userName": "一只胖黄鸭",
+        "content": "劝不动我加仓的老婆QAQ",
+        "images": [],
+        "createdAt": "2026-01-08T18:21:52",
+        "ipLocation": "东京都",
+        "likeNum": 25
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 923401,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯嗯，明白，贵不代表立马跌。\n就像天气热，看到温度计显示高温，也不代表立马就会转凉降温，甚至还会爆晒也未可知。\n放大了，仔细看了看，前几个月“将碰未到”十年均线就调头下来了一下下，现在又上去了，\n正式碰到，2017年跌破十年均线之后，第一次誒。\n2020年7月的几天疯🐮，也未触碰到十年均线就掉下了。\n如今，深综指已经2625点超过2021年高点2571点，成为次高点了，最高就是2015年的3157点了。\nPS:国债市盈率还是高高在上，也是奇观…",
+      "images": [],
+      "createdAt": "2026-01-08T18:35:08",
+      "ipLocation": "上海市",
+      "likeNum": 97,
+      "parent": {
+        "id": 922999,
+        "userName": "新米练习菌",
+        "content": "谢谢分享，神图再现，迷雾散去。",
+        "images": [],
+        "createdAt": "2026-01-08T18:18:57",
+        "ipLocation": "上海市",
+        "likeNum": 45
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 926887,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "意味着 国债收益率低，现在只有1.9%，「债」的性价比不高…\n国债市盈率=国债收益率的倒数",
+      "images": [],
+      "createdAt": "2026-01-09T09:22:17",
+      "ipLocation": "上海市",
+      "likeNum": 22,
+      "parent": {
+        "id": 922999,
+        "userName": "新米练习菌",
+        "content": "谢谢分享，神图再现，迷雾散去。",
+        "images": [],
+        "createdAt": "2026-01-08T18:18:57",
+        "ipLocation": "上海市",
+        "likeNum": 45
+      },
+      "replyTo": {
+        "id": 926611,
+        "userName": "Elysia",
+        "content": "请教米米，国债市盈率高意味着什么？",
+        "images": []
+      }
+    }
+  ]
+}

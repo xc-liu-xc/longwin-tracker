@@ -1,0 +1,168 @@
+{
+  "postId": "60415",
+  "fetchedAt": "2026-05-09T15:46:24+08:00",
+  "totalCommentNum": 31,
+  "totalScanned": 21,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 844585,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "对~",
+      "images": [],
+      "createdAt": "2026-01-04T19:21:13",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 844237,
+        "userName": "E251023",
+        "content": "米米，本来有疑问，当再次看图的时候发现，对应的99-10的收入百分位是指所在列对应国家的百分位，全球收入百分位是第一列，不知道猜的对吗？图好漂亮。",
+        "images": [],
+        "createdAt": "2026-01-04T18:11:12",
+        "ipLocation": "上海市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 844645,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "现在2026年，我看到是前几天发布的，我想应该是比较新的",
+      "images": [],
+      "createdAt": "2026-01-04T19:44:15",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 844591,
+        "userName": "波仔爱吃红薯饼",
+        "content": "米妹，有时间线吗  比如数据是近两年的，还是几年前的",
+        "images": [],
+        "createdAt": "2026-01-04T19:21:56",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 845419,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "手机和电脑都有，小组→工具",
+      "images": [],
+      "createdAt": "2026-01-04T22:22:46",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 845347,
+        "userName": "冷冻蔬菜拯救世界",
+        "content": "想问一下大家且慢网页版是不是没有小组帖子收藏的入口呀",
+        "images": [],
+        "createdAt": "2026-01-04T22:11:46",
+        "ipLocation": "荷兰",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 845545,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊，是说收藏功能呀，我以为在说今日上线的小工具。\n收藏网页版有的，评论/点赞旁边的⭐五角星，和手机界面一个位置。",
+      "images": [],
+      "createdAt": "2026-01-04T22:56:43",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 845347,
+        "userName": "冷冻蔬菜拯救世界",
+        "content": "想问一下大家且慢网页版是不是没有小组帖子收藏的入口呀",
+        "images": [],
+        "createdAt": "2026-01-04T22:11:46",
+        "ipLocation": "荷兰",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 845509,
+        "userName": "冷冻蔬菜拯救世界",
+        "content": "我这里通过社区-小组-工具里只有E大今天刚出的提款测算器诶。不过刚才在网页版收藏了帖子通过弹窗也可以到收藏列表了☺️",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 845785,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "谢谢分享，原图好啊~太好了\n棒棒糖图，🍭，学习了",
+      "images": [],
+      "createdAt": "2026-01-05T06:20:25",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 845755,
+        "userName": "ETF拯救哈基咪",
+        "content": "可以看看，应该是原图：\n\nhttps://www.visualcapitalist.com/wp-content/uploads/2022/11/income-distributions-world.jpg\n\n原文：\n\nhttps://www.visualcapitalist.com/cp/charting-income-distributions-worldwide/\n\n这个图是叫棒棒糖图（Lollipop Chart）吗？[媒体搬运时纵坐标英文拼错了～]",
+        "images": [],
+        "createdAt": "2026-01-05T02:16:43",
+        "ipLocation": "广东省",
+        "likeNum": 10
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 845791,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哇~喜欢~谢谢",
+      "images": [],
+      "createdAt": "2026-01-05T06:21:27",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 844591,
+        "userName": "波仔爱吃红薯饼",
+        "content": "米妹，有时间线吗  比如数据是近两年的，还是几年前的",
+        "images": [],
+        "createdAt": "2026-01-04T19:21:56",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 845773,
+        "userName": "最爱荒山茶",
+        "content": "新米，我找到的这个图是@rubenmathisen在2022年4月4日发在X上的。他的自我介绍是“Political Scientist at University of Bergen. I like charts.\" 他发布了很多不同类型的图，希望你喜欢。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 961141,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "是~",
+      "images": [],
+      "createdAt": "2026-01-11T08:45:43",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 959701,
+        "userName": "怡妍芸-成都",
+        "content": "请问单位都是 美元吗",
+        "images": [],
+        "createdAt": "2026-01-10T19:35:18",
+        "ipLocation": "四川省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

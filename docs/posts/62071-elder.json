@@ -1,0 +1,43 @@
+{
+  "postId": "62071",
+  "fetchedAt": "2026-05-09T15:23:55+08:00",
+  "totalCommentNum": 546,
+  "totalScanned": 483,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1063027,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我脑海中的形象——\n看上去笑盈盈的、弯着眼睛、没有杀气、冷静温和、其实气场强大、恐怖如斯、杀伐果决的金融大鳄。\n然后，这个大机构是我们誒。\n",
+      "images": [],
+      "createdAt": "2026-01-14T10:18:27",
+      "ipLocation": "上海市",
+      "likeNum": 11
+    },
+    {
+      "type": "reply",
+      "id": 1074811,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你就扯淡吧……",
+      "images": [],
+      "createdAt": "2026-01-14T14:02:28",
+      "ipLocation": "北京市",
+      "likeNum": 99,
+      "parent": {
+        "id": 1069723,
+        "userName": "LG攒钱记",
+        "content": "齐心的韭菜们，在冷静理性的主理人的指挥下，向市场一点点，一点点派发筹码。\n\n毛估估下：\n目前跟车人数44.4W，150计划每份金额算2000元，一共150份资金。\n该机构合计拥有资金44.4*10000*2000*150=133 200 000 000元\n\n我去！1332亿元！咱们都出息了，参与了千亿级别的大项目！！！\n\n",
+        "images": [],
+        "createdAt": "2026-01-14T11:41:08",
+        "ipLocation": "江苏省",
+        "likeNum": 38
+      },
+      "replyTo": null
+    }
+  ]
+}

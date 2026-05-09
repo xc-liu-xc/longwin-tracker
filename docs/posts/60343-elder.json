@@ -1,0 +1,95 @@
+{
+  "postId": "60343",
+  "fetchedAt": "2026-05-09T15:46:38+08:00",
+  "totalCommentNum": 24,
+  "totalScanned": 18,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 837373,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "对，是资产增长率，不是投资收益率~\nE大的文中原话：「注意，这里不只是你的投资资产变化，它实际上是你所有收入剩余的加总。你的任何收入：工资、外快、收到赠予等，都会体现在这里。所以它的增长率高，非常正常。」",
+      "images": [],
+      "createdAt": "2026-01-03T11:14:37",
+      "ipLocation": "上海市",
+      "likeNum": 13,
+      "parent": {
+        "id": 837019,
+        "userName": "E学研究员",
+        "content": "早上好，米米。想来这里找友友确认一下一个小疑惑。退休测算里资产增长率是工作赚到的可投资的钱+投资收益赚到的钱一起算的，资产增长率≠投资收益率对吧",
+        "images": [],
+        "createdAt": "2026-01-03T09:45:22",
+        "ipLocation": "福建省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 837385,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我看到了，那条下回复了，已经改好了，多谢~~",
+      "images": [],
+      "createdAt": "2026-01-03T11:15:22",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 837259,
+        "userName": "ZZ-369",
+        "content": "新米，我刚在你昨晚那EXCEL版计算器帖子下留言了，若有空能看到的话，可以帮查看下吧？你举例的2029年的I5=K4*(1+G5),是不是应该为I5=K4*(1+G4)？ ,29年提取金额应该是28年的最终提款和28年的通胀率得出29年的？谢谢！",
+        "images": [],
+        "createdAt": "2026-01-03T10:39:54",
+        "ipLocation": "天津市",
+        "likeNum": 3
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 839173,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，我就是看到了那个，才发了这个感慨~",
+      "images": [],
+      "createdAt": "2026-01-03T17:20:18",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 838825,
+        "userName": "竹夭小仰",
+        "content": "刚还在那篇贴子里看到有人做出了一个网页版，真的超级强，这里真的高手如云",
+        "images": [],
+        "createdAt": "2026-01-03T15:53:18",
+        "ipLocation": "上海市",
+        "likeNum": 6
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 841849,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "谢谢分享这个信息~~我去看看",
+      "images": [],
+      "createdAt": "2026-01-04T15:34:09",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 841105,
+        "userName": "ETF拯救哈基咪",
+        "content": "老大今天还没营业 同路人权益 且慢日历现在可以领取了～",
+        "images": [],
+        "createdAt": "2026-01-04T11:26:03",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

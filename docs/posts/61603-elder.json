@@ -1,0 +1,32 @@
+{
+  "postId": "61603",
+  "fetchedAt": "2026-05-09T15:33:21+08:00",
+  "totalCommentNum": 37,
+  "totalScanned": 36,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1091257,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大提起的时候，我会更新好了，发的。\n没提就是没事情。",
+      "images": [],
+      "createdAt": "2026-01-15T12:47:42",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 1084075,
+        "userName": "叨瑞咪发",
+        "content": "请问一下米米课代表哪里能看到E大持仓产品的致敬点位？有空了再回复谢谢🙏🙏🙏",
+        "images": [],
+        "createdAt": "2026-01-14T22:22:39",
+        "ipLocation": "河南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

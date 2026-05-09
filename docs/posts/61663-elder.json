@@ -1,0 +1,116 @@
+{
+  "postId": "61663",
+  "fetchedAt": "2026-05-09T15:33:22+08:00",
+  "totalCommentNum": 37,
+  "totalScanned": 31,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 985663,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个叫试图“民意化”，\n“你看，不只是我一个人想骂你，他们都骂你”\n报团一窝，又坏又怂。",
+      "images": [],
+      "createdAt": "2026-01-12T14:37:27",
+      "ipLocation": "上海市",
+      "likeNum": 14,
+      "parent": {
+        "id": 985201,
+        "userName": "头像好看吗_我画的",
+        "content": "而且，小人知道自己的行为不对，然后拉帮结派，证明自己是“没错”的，\n\n“你看，他们也这么说”试图把错误的行为\"合理化\"",
+        "images": [],
+        "createdAt": "2026-01-12T14:27:19",
+        "ipLocation": "江西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 985705,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "“酒杯横倒撒地上”的那种是吧",
+      "images": [],
+      "createdAt": "2026-01-12T14:38:42",
+      "ipLocation": "上海市",
+      "likeNum": 8,
+      "parent": {
+        "id": 985303,
+        "userName": "邵帅",
+        "content": "骂出来我敬你一杯。哈哈",
+        "images": [],
+        "createdAt": "2026-01-12T14:29:34",
+        "ipLocation": "北京市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 991039,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "说别人“不对”比承认自己无能要容易得多。\n那些倾泻说明你的存在以及做的事，在他们眼里其实很有分量，其实相当厉害，但深深地刺痛了他们的敷衍、将就、凑合、不行，才哇哇哇地难听的乱叫。",
+      "images": [],
+      "createdAt": "2026-01-12T16:11:33",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 986467,
+        "userName": "Amber的成长备忘",
+        "content": "我好像有点明白之前遇到的恶意从何而来了。\n“被人指指点点，是因为我，大大方方地、真实热烈地活着。——我和别人不一样。\n我敢做自己，他们不敢。”\n因为我和他们不一样了。\n从前生活过的地方，认识的人，迫于生存而适应那些环境。\n但是当我改变了，他们没有变。我跟他们不一样了，他们的恶意就开始向我倾泻。\n之前想过，不然我就关闭我的动态，默默生活。但是试了一阵子持续下来觉得特别憋屈，凭什么是我闭嘴？\n后来开始重新掌控我自己的生活，想分享就分享，想说就说，我过我自己的生活，谁管你们呢。\n舞到我面前来，我也有方法对付了。\n自己变得有力量之后，从前在意的那些，忽然之间就不太在意了。\n原来是因为“我敢做自己，他们不敢”啊，一群胆小鬼。👻👻👻",
+        "images": [],
+        "createdAt": "2026-01-12T15:04:17",
+        "ipLocation": "福建省",
+        "likeNum": 5
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 998209,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "《榨取喷子的剩余价值》——\n提供我思考和写作素材，\n当成助推我继续向前的“燃料”，虽然可能是地沟油…来着。",
+      "images": [],
+      "createdAt": "2026-01-12T17:55:14",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 997669,
+        "userName": "早睡玲",
+        "content": "看米米给黑子鞭尸，莫名的爽感。酷！",
+        "images": [],
+        "createdAt": "2026-01-12T17:38:29",
+        "ipLocation": "广东省",
+        "likeNum": 3
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1025179,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "乳腺是自己的，我得让它畅通。",
+      "images": [],
+      "createdAt": "2026-01-13T12:17:02",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1008733,
+        "userName": "英子姐姐",
+        "content": "米米很勇敢，也很通透，从内心给自己设置了安全防御系统！是我估计气的甲亢就犯了！",
+        "images": [],
+        "createdAt": "2026-01-13T09:13:33",
+        "ipLocation": "陕西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

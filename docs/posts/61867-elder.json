@@ -1,0 +1,64 @@
+{
+  "postId": "61867",
+  "fetchedAt": "2026-05-09T15:26:05+08:00",
+  "totalCommentNum": 778,
+  "totalScanned": 718,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1013071,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不看最近十年和之前十年股市的走势吗。股市不涨，我一个买指数的能怎么办。已经跑赢指数70%了。",
+      "images": [],
+      "createdAt": "2026-01-13T09:59:06",
+      "ipLocation": "北京市",
+      "likeNum": 374,
+      "parent": {
+        "id": 1011217,
+        "userName": "吻舞双全",
+        "content": "他们喷的一个很重要的方面是说：前些年收益率很高，但是最近十年收益率非常低",
+        "images": [],
+        "createdAt": "2026-01-13T09:49:07",
+        "ipLocation": "江苏省",
+        "likeNum": 40
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 1013521,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "就是恶意。就是坏玩意儿。\n他们眼里没有是非，只有流量；没有道德，只有流量；没有正确，只有流量，就没有想过为投资者赚钱，只想为自己谋利赚钱啊\n和老大做的事没有关系。因为人气、名望，蹭您，才有流量…\n自己没本事，不碰瓷，没人看啊。\n但凡自己有点本事，做事情也来不及，哪有功夫去搞别人。\n老大当然不会理解那种人，因为您不是那种人啊。",
+      "images": [],
+      "createdAt": "2026-01-13T10:03:20",
+      "ipLocation": "上海市",
+      "likeNum": 8
+    },
+    {
+      "type": "reply",
+      "id": 1016845,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "同期指数收益率%（2015-07-01~2026-01-12）\n\t\n长赢150：\t73.63%\n沪深300：\t12.62%\n中证500：\t-1.94%\n中证1000：\t-22.14%\n恒生：\t1.24%\nA股全指：\t4.75%\n中证偏股：\t46.27%\n上证指数：\t2.75%\n中证纯债：\t39.66%\n",
+      "images": [],
+      "createdAt": "2026-01-13T10:14:43",
+      "ipLocation": "上海市",
+      "likeNum": 25,
+      "parent": {
+        "id": 1011217,
+        "userName": "吻舞双全",
+        "content": "他们喷的一个很重要的方面是说：前些年收益率很高，但是最近十年收益率非常低",
+        "images": [],
+        "createdAt": "2026-01-13T09:49:07",
+        "ipLocation": "江苏省",
+        "likeNum": 40
+      },
+      "replyTo": null
+    }
+  ]
+}

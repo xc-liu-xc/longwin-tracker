@@ -1,0 +1,112 @@
+{
+  "postId": "64147",
+  "fetchedAt": "2026-05-09T15:08:18+08:00",
+  "totalCommentNum": 478,
+  "totalScanned": 355,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1211005,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大中午好~\n老大提「需求」了，\n这里藏龙卧虎，技术大牛可多了，感觉可以\n“招标”“征集”~",
+      "images": [],
+      "createdAt": "2026-01-22T11:43:51",
+      "ipLocation": "上海市",
+      "likeNum": 13
+    },
+    {
+      "type": "top",
+      "id": 1211089,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "如果有1500人订阅，每年100万收入，够不够2个程序员，一个财务，服务器，外加公司运营费用。如果有利润了，还可以降价。总之就是不要赚钱。稍微赔点也行。关键是麻烦，想想算了。",
+      "images": [],
+      "createdAt": "2026-01-22T11:44:30",
+      "ipLocation": "香港特别行政区",
+      "likeNum": 266
+    },
+    {
+      "type": "reply",
+      "id": 1211197,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我坚决反对且慢做。且慢的工作量已经很大了。不能再加了。",
+      "images": [],
+      "createdAt": "2026-01-22T11:46:44",
+      "ipLocation": "香港特别行政区",
+      "likeNum": 217,
+      "parent": {
+        "id": 1210873,
+        "userName": "Bryan没有T",
+        "content": "@且慢产品，来活了",
+        "images": [],
+        "createdAt": "2026-01-22T11:42:52",
+        "ipLocation": "江苏省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1211287,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "是的。有的股票你一看股息率很高，再往前翻翻发现根本没有持续性。有的股票几十年如一日从未降低分红，持续缓慢增长。这些东西这个app应该能一样看出来。",
+      "images": [],
+      "createdAt": "2026-01-22T11:48:10",
+      "ipLocation": "香港特别行政区",
+      "likeNum": 265,
+      "parent": {
+        "id": 1210735,
+        "userName": "回望故乡",
+        "content": "我买的私募，那家的研究员前段时间建了个高股息的a股组合。原本以为一搜数据就行，结果谈到分红、股息，要考虑的太多了。比如分红可持续性，分红周期不一致，是否具有相对高roe之类。\n这事儿确实值得研究，现在市面上的数据很多都是不准甚至错误的。",
+        "images": [],
+        "createdAt": "2026-01-22T11:41:23",
+        "ipLocation": "北京市",
+        "likeNum": 75
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 1211809,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "如果有心人愿意做，真的做得好我可以试用并给出公开评测。但是这个玩意儿我估计赚不了什么钱，如果做，就要坚持做下去。否则给别人扔半路就不好了。",
+      "images": [],
+      "createdAt": "2026-01-22T12:02:10",
+      "ipLocation": "香港特别行政区",
+      "likeNum": 246
+    },
+    {
+      "type": "reply",
+      "id": 1211989,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我就没见哪个大公司真的用心做这类产品的。",
+      "images": [],
+      "createdAt": "2026-01-22T12:11:36",
+      "ipLocation": "香港特别行政区",
+      "likeNum": 144,
+      "parent": {
+        "id": 1211089,
+        "userName": "ETF拯救世界",
+        "content": "如果有1500人订阅，每年100万收入，够不够2个程序员，一个财务，服务器，外加公司运营费用。如果有利润了，还可以降价。总之就是不要赚钱。稍微赔点也行。关键是麻烦，想想算了。",
+        "images": [],
+        "createdAt": "2026-01-22T11:44:30",
+        "ipLocation": "香港特别行政区",
+        "likeNum": 266
+      },
+      "replyTo": {
+        "id": 1211833,
+        "userName": "Zero拯救自己",
+        "content": "在中国收费是做不起来的，一旦有用户量，大公司一看顺带就给做了，公司就倒闭了",
+        "images": []
+      }
+    }
+  ]
+}

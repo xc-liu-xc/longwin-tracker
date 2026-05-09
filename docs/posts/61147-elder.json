@@ -1,0 +1,32 @@
+{
+  "postId": "61147",
+  "fetchedAt": "2026-05-09T15:37:36+08:00",
+  "totalCommentNum": 28,
+  "totalScanned": 27,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 926503,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我也是个低精力的人，出门吃饭都会累，剪个头发的感觉要一天才能恢复，若碰到周末某天不得不社交要一周才能好了…",
+      "images": [],
+      "createdAt": "2026-01-09T08:06:44",
+      "ipLocation": "上海市",
+      "likeNum": 20,
+      "parent": {
+        "id": 926383,
+        "userName": "lucky_ETF",
+        "content": "早啊，米米，“不请自来”，我这个低精力的人也做了不少喜欢的事情了呢，以前真不可想象，榜样的力量，谢谢米米",
+        "images": [],
+        "createdAt": "2026-01-09T07:41:02",
+        "ipLocation": "北京市",
+        "likeNum": 3
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "postId": "62263",
+  "fetchedAt": "2026-05-09T15:21:31+08:00",
+  "totalCommentNum": 40,
+  "totalScanned": 38,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1089937,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这就是我的生活。\n我喜欢也很珍惜。",
+      "images": [],
+      "createdAt": "2026-01-15T11:54:55",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 1089829,
+        "userName": "蓝叶枫",
+        "content": "我米也要好好享受生活哈",
+        "images": [],
+        "createdAt": "2026-01-15T11:51:47",
+        "ipLocation": "浙江省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1091245,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大的逻辑特别清楚，\n体系，有框架，有脉络，\n就是特别特别多，又随性，写得四处都是，分得散。\n正在努力捡。",
+      "images": [],
+      "createdAt": "2026-01-15T12:46:34",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 1084837,
+        "userName": "木木的网瘾日记",
+        "content": "早上好，米米，每次考古看到你的帖子总有一种豁然开朗的感觉，你总能把散落的珍珠串联起来，越发能感受到老大的高深和珍贵，感谢！",
+        "images": [],
+        "createdAt": "2026-01-15T06:06:26",
+        "ipLocation": "辽宁省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    }
+  ]
+}

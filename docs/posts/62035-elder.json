@@ -1,0 +1,90 @@
+{
+  "postId": "62035",
+  "fetchedAt": "2026-05-09T15:22:52+08:00",
+  "totalCommentNum": 1963,
+  "totalScanned": 1904,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1051123,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好~\n老大控制回撤永远一把好手：\n长赢150：-0.08%\n长赢S：-0.02%\n抱歉，在🚇地铁上，波段账户和致敬账户，现在没法看。\n但极大概率是正的，因为港和药昨天都是涨的，这两个账户里面占比多。\n等到了公司我看一眼。",
+      "images": [],
+      "createdAt": "2026-01-14T08:04:47",
+      "ipLocation": "上海市",
+      "likeNum": 53
+    },
+    {
+      "type": "reply",
+      "id": 1052035,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "红利跟利率环境和风格切换关系也很大。很难说会不会熊市对冲。但即使跌，跌幅肯定比那些辣鸡板块小。",
+      "images": [],
+      "createdAt": "2026-01-14T08:09:16",
+      "ipLocation": "北京市",
+      "likeNum": 326,
+      "parent": {
+        "id": 1050229,
+        "userName": "和E大拯救世界",
+        "content": "e大早 请教您 以后牛市泡泡破裂 红利低波资产会受益吗 还是跟着踩踏下跌",
+        "images": [],
+        "createdAt": "2026-01-14T08:01:55",
+        "ipLocation": "广东省",
+        "likeNum": 36
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1056097,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "看好了，昨日\n【波段账户】+0.9%\n（老大的）【致敬账户】+0.71% \n\n\n",
+      "images": [],
+      "createdAt": "2026-01-14T08:56:18",
+      "ipLocation": "上海市",
+      "likeNum": 52,
+      "parent": {
+        "id": 1051123,
+        "userName": "新米练习菌",
+        "content": "E大早上好~\n老大控制回撤永远一把好手：\n长赢150：-0.08%\n长赢S：-0.02%\n抱歉，在🚇地铁上，波段账户和致敬账户，现在没法看。\n但极大概率是正的，因为港和药昨天都是涨的，这两个账户里面占比多。\n等到了公司我看一眼。",
+        "images": [],
+        "createdAt": "2026-01-14T08:04:47",
+        "ipLocation": "上海市",
+        "likeNum": 53
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1057999,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你说的真好。",
+      "images": [],
+      "createdAt": "2026-01-14T09:40:42",
+      "ipLocation": "北京市",
+      "likeNum": 53,
+      "parent": {
+        "id": 1052245,
+        "userName": "云凡",
+        "content": "我我我我我！！！新人刚跟没多长时间！没想到大盘给我一棒槌！长赢给我大礼包😭太爱了！！！",
+        "images": [],
+        "createdAt": "2026-01-14T08:10:27",
+        "ipLocation": "广东省",
+        "likeNum": 25
+      },
+      "replyTo": {
+        "id": 1053295,
+        "userName": "老财迷",
+        "content": "你能拿到大礼包，说明你按提醒补仓了医药医疗等，大礼包是你该得的",
+        "images": []
+      }
+    }
+  ]
+}

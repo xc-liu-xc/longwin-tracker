@@ -1,0 +1,200 @@
+{
+  "postId": "61753",
+  "fetchedAt": "2026-05-09T15:33:08+08:00",
+  "totalCommentNum": 1639,
+  "totalScanned": 1449,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 994273,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我觉得很合理。\n其实我觉得gzh不发也没有关系的，嗯，但老大责任心重，会惦记着这个，觉得开始了就要全部做完，虽然其实事情有在做，只是换地方了而已。\n（说实话，想了解发车的人，即时没在qm跟车的，各种方法还是知道的，四处被传的。）\n嗯，不是当时说要第二阶段开始晚一周吗？\n我觉得如果只是发布交易，不需要详细说明发车逻辑内容的话，\n那一周，甚至一个月，gzh公布一次“当月的买卖”也都可以啊。\n",
+      "images": [],
+      "createdAt": "2026-01-12T16:43:16",
+      "ipLocation": "上海市",
+      "likeNum": 12
+    },
+    {
+      "type": "reply",
+      "id": 994759,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你以为某些大V没有在这里偷窥呢……不偷窥哪里有素材喷我……",
+      "images": [],
+      "createdAt": "2026-01-12T16:46:58",
+      "ipLocation": "北京市",
+      "likeNum": 483,
+      "parent": {
+        "id": 993913,
+        "userName": "贝贝一朵朵",
+        "content": "非常合理，而且盯着你的不止小散，还有其他大v和机构，不能便宜了他们。",
+        "images": [],
+        "createdAt": "2026-01-12T16:42:02",
+        "ipLocation": "广东省",
+        "likeNum": 353
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 994921,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "看不到。除了小组里的人，都看不到",
+      "images": [],
+      "createdAt": "2026-01-12T16:48:38",
+      "ipLocation": "北京市",
+      "likeNum": 211,
+      "parent": {
+        "id": 993469,
+        "userName": "终将自由",
+        "content": "但是他们可以每天下午三点前到且慢看计划主理人的发车记录，这不就也知道了？",
+        "images": [],
+        "createdAt": "2026-01-12T16:40:02",
+        "ipLocation": "陕西省",
+        "likeNum": 15
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 995173,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "啊，买，也不用公布。\n只要写清楚：现有计划，本月减仓操作，品种，份数，就好了。\n新买的，不用说。\n现有的，做完就好。\n",
+      "images": [],
+      "createdAt": "2026-01-12T16:51:33",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 994273,
+        "userName": "新米练习菌",
+        "content": "我觉得很合理。\n其实我觉得gzh不发也没有关系的，嗯，但老大责任心重，会惦记着这个，觉得开始了就要全部做完，虽然其实事情有在做，只是换地方了而已。\n（说实话，想了解发车的人，即时没在qm跟车的，各种方法还是知道的，四处被传的。）\n嗯，不是当时说要第二阶段开始晚一周吗？\n我觉得如果只是发布交易，不需要详细说明发车逻辑内容的话，\n那一周，甚至一个月，gzh公布一次“当月的买卖”也都可以啊。\n",
+        "images": [],
+        "createdAt": "2026-01-12T16:43:16",
+        "ipLocation": "上海市",
+        "likeNum": 12
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 995569,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "今年开始就关门了。不会有新人进来了",
+      "images": [],
+      "createdAt": "2026-01-12T16:56:55",
+      "ipLocation": "北京市",
+      "likeNum": 274,
+      "parent": {
+        "id": 994975,
+        "userName": "心灵自由先于财富自由",
+        "content": "赶紧实行，至少让那些黑子即使想黑也花点钱。",
+        "images": [],
+        "createdAt": "2026-01-12T16:48:56",
+        "ipLocation": "北京市",
+        "likeNum": 103
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 997909,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你说了两个没一个对的……",
+      "images": [],
+      "createdAt": "2026-01-12T17:46:12",
+      "ipLocation": "北京市",
+      "likeNum": 263,
+      "parent": {
+        "id": 997165,
+        "userName": "拈花笑",
+        "content": "现在的公众号是哪个？原来的拯救世界和eft长赢指数都停了。",
+        "images": [],
+        "createdAt": "2026-01-12T17:24:15",
+        "ipLocation": "上海市",
+        "likeNum": 8
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 998131,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "什么“原来的”，“原来的”也不是这两个啊…\n【长赢指数投资】chinaetfs\n新搜搜不到了。可以拿一篇文章点进去。\nhttps://mp.weixin.qq.com/s/uxktt5ZpNo03FpQQX-aG7g",
+      "images": [],
+      "createdAt": "2026-01-12T17:51:54",
+      "ipLocation": "上海市",
+      "likeNum": 45,
+      "parent": {
+        "id": 997165,
+        "userName": "拈花笑",
+        "content": "现在的公众号是哪个？原来的拯救世界和eft长赢指数都停了。",
+        "images": [],
+        "createdAt": "2026-01-12T17:24:15",
+        "ipLocation": "上海市",
+        "likeNum": 8
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1000165,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是新的！！！一直都是这个，一直都是这个，一直都是这个！\n从来没换过，从来也没有别的，只有这一个gzh。\n2015年6月11日（第一篇）开始，一直都是这个！",
+      "images": [],
+      "createdAt": "2026-01-12T19:09:37",
+      "ipLocation": "上海市",
+      "likeNum": 15,
+      "parent": {
+        "id": 997165,
+        "userName": "拈花笑",
+        "content": "现在的公众号是哪个？原来的拯救世界和eft长赢指数都停了。",
+        "images": [],
+        "createdAt": "2026-01-12T17:24:15",
+        "ipLocation": "上海市",
+        "likeNum": 8
+      },
+      "replyTo": {
+        "id": 999799,
+        "userName": "每天一个涨停板",
+        "content": "什么时候新开的公众号哦？新米",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1025101,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "buer，我不是写了吗？\n你都评论在我写了这个的评论上了…",
+      "images": [],
+      "createdAt": "2026-01-13T12:15:33",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 997165,
+        "userName": "拈花笑",
+        "content": "现在的公众号是哪个？原来的拯救世界和eft长赢指数都停了。",
+        "images": [],
+        "createdAt": "2026-01-12T17:24:15",
+        "ipLocation": "上海市",
+        "likeNum": 8
+      },
+      "replyTo": {
+        "id": 1010365,
+        "userName": "同路人_LBcZo9",
+        "content": "新来的问下大家，公众号叫什么",
+        "images": []
+      }
+    }
+  ]
+}

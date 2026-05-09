@@ -1,0 +1,32 @@
+{
+  "postId": "64657",
+  "fetchedAt": "2026-05-09T15:07:11+08:00",
+  "totalCommentNum": 10,
+  "totalScanned": 8,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1227241,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "Excel",
+      "images": [],
+      "createdAt": "2026-01-25T20:38:12",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 1226767,
+        "userName": "机器猫",
+        "content": "好勤快，周末也不睡懒觉，米米真的非常自律！你的图表都是用什么软件做的，看着非常醒目，想学学",
+        "images": [],
+        "createdAt": "2026-01-25T07:30:36",
+        "ipLocation": "辽宁省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

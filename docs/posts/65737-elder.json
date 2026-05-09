@@ -1,0 +1,32 @@
+{
+  "postId": "65737",
+  "fetchedAt": "2026-05-09T15:03:25+08:00",
+  "totalCommentNum": 25,
+  "totalScanned": 24,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1274149,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "“说教”是因为不敢不一样，人是城邦动物，需求认同，也怕自己显得异类，怕被排斥。\n另外，按比例来说，外向型的人偏多一些的，2/3-3/4了。\n不怕被讨厌，就不在乎了，不会被说教，也不会去说教别人。",
+      "images": [],
+      "createdAt": "2026-02-02T08:05:47",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1267759,
+        "userName": "lucky_ETF",
+        "content": "我不理解为什么要教内向的人变外向，外向的人收敛，每个人都有自己的性格（尤其养娃之后，更体会到每个人生下来的性格就有差异），找到适合自己舒服的方法，感受世界，每个人有不同的活法，构成多姿多彩的世界。\n米米给敏感人多了一种选择，“这是一种天赋而不是负担”，只是一种选择的可能性，不是说教强迫之类的。",
+        "images": [],
+        "createdAt": "2026-01-30T18:31:36",
+        "ipLocation": "北京市",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

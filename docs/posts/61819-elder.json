@@ -1,0 +1,69 @@
+{
+  "postId": "61819",
+  "fetchedAt": "2026-05-09T15:33:20+08:00",
+  "totalCommentNum": 331,
+  "totalScanned": 277,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1004197,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大，150新高了~\n150的第一个收益率100%也诞生了！\n富国500，101.71%",
+      "images": [],
+      "createdAt": "2026-01-12T21:47:50",
+      "ipLocation": "上海市",
+      "likeNum": 201
+    },
+    {
+      "type": "reply",
+      "id": 1005781,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没下赌桌，谁也别说。\nA 股里，账面赚钱的人太多，但真正把钱揣进兜里、落袋为安的，才是少数人。老大还是人太好，20%，那么多啊？\n一轮20%要么？\n一轮又一轮，每一轮都能把钱带走的，\n大概…三轮，20%×20%×20%=0.8%…\n",
+      "images": [],
+      "createdAt": "2026-01-12T22:17:35",
+      "ipLocation": "上海市",
+      "likeNum": 86,
+      "parent": {
+        "id": 1004197,
+        "userName": "新米练习菌",
+        "content": "老大，150新高了~\n150的第一个收益率100%也诞生了！\n富国500，101.71%",
+        "images": [],
+        "createdAt": "2026-01-12T21:47:50",
+        "ipLocation": "上海市",
+        "likeNum": 201
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1036147,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大的，QM展示着的长赢的，不是我个人的。",
+      "images": [],
+      "createdAt": "2026-01-13T15:34:36",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1004197,
+        "userName": "新米练习菌",
+        "content": "老大，150新高了~\n150的第一个收益率100%也诞生了！\n富国500，101.71%",
+        "images": [],
+        "createdAt": "2026-01-12T21:47:50",
+        "ipLocation": "上海市",
+        "likeNum": 201
+      },
+      "replyTo": {
+        "id": 1035463,
+        "userName": "敬夏",
+        "content": "你这个跟车天数，怎么能买到那么低的富国500？",
+        "images": []
+      }
+    }
+  ]
+}

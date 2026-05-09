@@ -1,0 +1,32 @@
+{
+  "postId": "65125",
+  "fetchedAt": "2026-05-09T15:04:34+08:00",
+  "totalCommentNum": 30,
+  "totalScanned": 23,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1249297,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "好奇问一句，你躲起来了，那我躲起来了吗？",
+      "images": [],
+      "createdAt": "2026-01-28T14:28:28",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1247911,
+        "userName": "英子姐姐",
+        "content": "想跟你分享一下今早的美梦，梦到E大和米米了（虽然没见过米米，只看过大E公开版头像，到梦里梦到脸了，很清晰，梦醒了感觉模糊了想不起了，到梦里那种喜悦的感觉还记得），梦里米米和我在我们单位一个拐角，看到E大走过来了，我躲起来偷偷看，E大回头看了一眼，面带微笑，（｡ò ∀ ó｡）太迷人了，哈哈，我竟然怂了，悄悄跟后面看，一路尾随E大去会议室给讲课去了，没能进去会议室，梦醒了",
+        "images": [],
+        "createdAt": "2026-01-28T11:00:43",
+        "ipLocation": "陕西省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    }
+  ]
+}

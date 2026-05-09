@@ -1,0 +1,137 @@
+{
+  "postId": "61639",
+  "fetchedAt": "2026-05-09T15:29:38+08:00",
+  "totalCommentNum": 561,
+  "totalScanned": 444,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 969313,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我看表格里面有。",
+      "images": [],
+      "createdAt": "2026-01-12T10:04:11",
+      "ipLocation": "北京市",
+      "likeNum": 134,
+      "parent": {
+        "id": 969007,
+        "userName": "鹏牙",
+        "content": "老大，想问个问题，这种留利润的，需要某些时刻卖出吗，这个没太掌握好",
+        "images": [],
+        "createdAt": "2026-01-12T10:02:30",
+        "ipLocation": "辽宁省",
+        "likeNum": 24
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 969727,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好，\n知道，莫再提一代目，疯了。\n网格波段因为它网的次数太多了，21次，每次利润留存，现在还有相当于三网多的量。\n【更新一些】网格波段今日的数据：\n传媒ETF，今日涨幅7.5%\n持仓收益率\t∞\nXIRR年化\t19.71%\n现距建仓涨跌\t46.40%\n距建仓最大跌幅\t-41.86%\n提款次数\t21\n单品仓位\t36.97%\n运行天数\t1854\n建仓日期\t2020/12/16\nXIRR计算日\t2026/1/12\n（图我先发自己主页了）",
+      "images": [],
+      "createdAt": "2026-01-12T10:08:23",
+      "ipLocation": "上海市",
+      "likeNum": 73
+    },
+    {
+      "type": "reply",
+      "id": 970057,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "补充：\n再涨4%不到，就要 第二次 卖纯利润仓位了。",
+      "images": [],
+      "createdAt": "2026-01-12T10:11:59",
+      "ipLocation": "上海市",
+      "likeNum": 40,
+      "parent": {
+        "id": 969727,
+        "userName": "新米练习菌",
+        "content": "E大早上好，\n知道，莫再提一代目，疯了。\n网格波段因为它网的次数太多了，21次，每次利润留存，现在还有相当于三网多的量。\n【更新一些】网格波段今日的数据：\n传媒ETF，今日涨幅7.5%\n持仓收益率\t∞\nXIRR年化\t19.71%\n现距建仓涨跌\t46.40%\n距建仓最大跌幅\t-41.86%\n提款次数\t21\n单品仓位\t36.97%\n运行天数\t1854\n建仓日期\t2020/12/16\nXIRR计算日\t2026/1/12\n（图我先发自己主页了）",
+        "images": [],
+        "createdAt": "2026-01-12T10:08:23",
+        "ipLocation": "上海市",
+        "likeNum": 73
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 972937,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "补充2：\n一代目ETF 涨停了（微笑脸）\n离第二次卖“利润仓”还差2个多点了\n加油，希望给我一个“标绿点点”的机会~",
+      "images": [],
+      "createdAt": "2026-01-12T11:01:11",
+      "ipLocation": "上海市",
+      "likeNum": 32,
+      "parent": {
+        "id": 969727,
+        "userName": "新米练习菌",
+        "content": "E大早上好，\n知道，莫再提一代目，疯了。\n网格波段因为它网的次数太多了，21次，每次利润留存，现在还有相当于三网多的量。\n【更新一些】网格波段今日的数据：\n传媒ETF，今日涨幅7.5%\n持仓收益率\t∞\nXIRR年化\t19.71%\n现距建仓涨跌\t46.40%\n距建仓最大跌幅\t-41.86%\n提款次数\t21\n单品仓位\t36.97%\n运行天数\t1854\n建仓日期\t2020/12/16\nXIRR计算日\t2026/1/12\n（图我先发自己主页了）",
+        "images": [],
+        "createdAt": "2026-01-12T10:08:23",
+        "ipLocation": "上海市",
+        "likeNum": 73
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1001101,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我看到表格里是2025/9/16",
+      "images": [],
+      "createdAt": "2026-01-12T19:44:27",
+      "ipLocation": "上海市",
+      "likeNum": 6,
+      "parent": {
+        "id": 969727,
+        "userName": "新米练习菌",
+        "content": "E大早上好，\n知道，莫再提一代目，疯了。\n网格波段因为它网的次数太多了，21次，每次利润留存，现在还有相当于三网多的量。\n【更新一些】网格波段今日的数据：\n传媒ETF，今日涨幅7.5%\n持仓收益率\t∞\nXIRR年化\t19.71%\n现距建仓涨跌\t46.40%\n距建仓最大跌幅\t-41.86%\n提款次数\t21\n单品仓位\t36.97%\n运行天数\t1854\n建仓日期\t2020/12/16\nXIRR计算日\t2026/1/12\n（图我先发自己主页了）",
+        "images": [],
+        "createdAt": "2026-01-12T10:08:23",
+        "ipLocation": "上海市",
+        "likeNum": 73
+      },
+      "replyTo": {
+        "id": 1000891,
+        "userName": "moon-star",
+        "content": "米米，第一次卖利润仓是什么时候呀",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1607185,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "第一代的意思，这里指传媒",
+      "images": [],
+      "createdAt": "2026-02-25T20:23:08",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 969727,
+        "userName": "新米练习菌",
+        "content": "E大早上好，\n知道，莫再提一代目，疯了。\n网格波段因为它网的次数太多了，21次，每次利润留存，现在还有相当于三网多的量。\n【更新一些】网格波段今日的数据：\n传媒ETF，今日涨幅7.5%\n持仓收益率\t∞\nXIRR年化\t19.71%\n现距建仓涨跌\t46.40%\n距建仓最大跌幅\t-41.86%\n提款次数\t21\n单品仓位\t36.97%\n运行天数\t1854\n建仓日期\t2020/12/16\nXIRR计算日\t2026/1/12\n（图我先发自己主页了）",
+        "images": [],
+        "createdAt": "2026-01-12T10:08:23",
+        "ipLocation": "上海市",
+        "likeNum": 73
+      },
+      "replyTo": {
+        "id": 1606279,
+        "userName": "天夏",
+        "content": "什么是一代目啊",
+        "images": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "postId": "65767",
+  "fetchedAt": "2026-05-09T15:02:16+08:00",
+  "totalCommentNum": 26,
+  "totalScanned": 22,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1271185,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "还是那句话，一体两面的，敏感多思的人就是容易顾虑他人的想法和感受，\n这样没有做，错的是没有分清对象。\n(有的人太把自己当回事了，其实TA什么都不是。)\n也不是“一刀切”的不理会、不要在意，更不是都要自己思索一遍，而是「先辨人」，分清对象。",
+      "images": [],
+      "createdAt": "2026-01-31T11:16:53",
+      "ipLocation": "上海市",
+      "likeNum": 27
+    },
+    {
+      "type": "reply",
+      "id": 1271821,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "哈哈哈，“素质守恒”。\n素质总量就那么多的话，那么素质本就不错的我们要做的是，素质最大化。就和股市一样，谁在赚钱，谁在赔钱，谁有素质，谁没素质。",
+      "images": [],
+      "createdAt": "2026-01-31T15:57:10",
+      "ipLocation": "上海市",
+      "likeNum": 13,
+      "parent": {
+        "id": 1271185,
+        "userName": "新米练习菌",
+        "content": "还是那句话，一体两面的，敏感多思的人就是容易顾虑他人的想法和感受，\n这样没有做，错的是没有分清对象。\n(有的人太把自己当回事了，其实TA什么都不是。)\n也不是“一刀切”的不理会、不要在意，更不是都要自己思索一遍，而是「先辨人」，分清对象。",
+        "images": [],
+        "createdAt": "2026-01-31T11:16:53",
+        "ipLocation": "上海市",
+        "likeNum": 27
+      },
+      "replyTo": {
+        "id": 1271515,
+        "userName": "战火小阿蛮",
+        "content": "最近朋友跟我说：你要学着点、如果你没有问题、那有问题的就另有其人。同理、素质是守恒的、如果你没有了素质、那么别人也就有了。 听完我恍然大悟、奉为年度真理。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1276993,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我看券商的表格上没有清。",
+      "images": [],
+      "createdAt": "2026-02-02T15:29:32",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 1274869,
+        "userName": "秋扬",
+        "content": "新米啊，求帮忙指个路，网格的传媒E大是清了吗？没爬到这个楼，求回复，感谢！",
+        "images": [],
+        "createdAt": "2026-02-02T13:35:08",
+        "ipLocation": "澳大利亚维多利亚墨尔本",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

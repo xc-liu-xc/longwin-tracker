@@ -1,0 +1,95 @@
+{
+  "postId": "62275",
+  "fetchedAt": "2026-05-09T15:21:35+08:00",
+  "totalCommentNum": 70,
+  "totalScanned": 57,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1090219,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，可以带五天去下一年。\n不能带的，肯定请完，我有很多事情要做。\n不会觉得羞耻，因为有更重要的事。",
+      "images": [],
+      "createdAt": "2026-01-15T12:02:32",
+      "ipLocation": "上海市",
+      "likeNum": 13,
+      "parent": {
+        "id": 1089253,
+        "userName": "润發润润發發",
+        "content": "有点好奇25天年假，会全请完吗？米米会有请假羞耻吗？我每次休假都还有工作找我",
+        "images": [],
+        "createdAt": "2026-01-15T11:40:10",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1090315,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "誒，对哦~\n4🈷️，6🈷️，7🈷️，9🈷️，12🈷️\n哪个没请，我去看看，哈哈~\n",
+      "images": [],
+      "createdAt": "2026-01-15T12:05:27",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1086343,
+        "userName": "艾的味道",
+        "content": "每个月1号上班的日子不是5日吗，米米？",
+        "images": [],
+        "createdAt": "2026-01-15T10:54:05",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1091095,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "一百斤，不是一百公斤。",
+      "images": [],
+      "createdAt": "2026-01-15T12:37:53",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1087639,
+        "userName": "绎成",
+        "content": "一百公斤，肯定不可能啊。",
+        "images": [],
+        "createdAt": "2026-01-15T11:09:46",
+        "ipLocation": "云南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1091107,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "男同事，就是表面意思…",
+      "images": [],
+      "createdAt": "2026-01-15T12:38:39",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 1086061,
+        "userName": "lucky_ETF",
+        "content": "如果是我发出“怎么你一直在吃饭啊”的疑问，潜台词肯定是“她怎么一直吃饭都不胖！而我喝水都胖啊阿啊阿啊阿啊阿啊”，疯狂土拨鼠尖叫。 还有25天年假好羡慕，只有5天年假的我，哭哭哭哭",
+        "images": [],
+        "createdAt": "2026-01-15T10:52:01",
+        "ipLocation": "北京市",
+        "likeNum": 11
+      },
+      "replyTo": null
+    }
+  ]
+}

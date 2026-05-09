@@ -1,0 +1,43 @@
+{
+  "postId": "61645",
+  "fetchedAt": "2026-05-09T15:29:46+08:00",
+  "totalCommentNum": 195,
+  "totalScanned": 168,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 971827,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "学着老大，扮猪吃老虎，揣着明白装糊涂，才是大智慧",
+      "images": [],
+      "createdAt": "2026-01-12T10:47:15",
+      "ipLocation": "上海市",
+      "likeNum": 65
+    },
+    {
+      "type": "reply",
+      "id": 973561,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "老大一直都是「估值结合趋势」的打法，\n为啥认为价投就只估值不技术分析、做波段就只趋势不看估值了。\n干嘛要非此即彼，各取优势，结合不好吗？\n想到一段gzh评论区的对话：\n2022年8月10日\n—：不做T，不做短线波段，做长线赚大钱\n长赢指数投资作者：人各有志吧。很多“长期”，也许是会长到大多数人会放弃的那么长。\n—：投资不能鼠目寸光，频繁交易。\n长赢指数投资 作者：交易是否正确不是用持仓时间长短去定义的。另外，人要有开阔的胸怀不能说交易风格不一样就是鼠目寸光。不要把自己关在一个封闭的空间。",
+      "images": [],
+      "createdAt": "2026-01-12T11:17:42",
+      "ipLocation": "上海市",
+      "likeNum": 83,
+      "parent": {
+        "id": 971827,
+        "userName": "新米练习菌",
+        "content": "学着老大，扮猪吃老虎，揣着明白装糊涂，才是大智慧",
+        "images": [],
+        "createdAt": "2026-01-12T10:47:15",
+        "ipLocation": "上海市",
+        "likeNum": 65
+      },
+      "replyTo": null
+    }
+  ]
+}
