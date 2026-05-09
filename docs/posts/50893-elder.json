@@ -1,0 +1,21 @@
+{
+  "postId": "50893",
+  "fetchedAt": "2026-05-09T11:45:02+08:00",
+  "totalCommentNum": 6960,
+  "totalScanned": 6906,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 102685,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大好~",
+      "createdAt": "2025-10-23T11:07:12",
+      "ipLocation": "上海市",
+      "likeNum": 1
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "postId": "73459",
+  "fetchedAt": "2026-05-09T11:20:33+08:00",
+  "totalCommentNum": 559,
+  "totalScanned": 496,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1955959,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我还是去问问AI吧。没一个靠谱的。🙂",
+      "createdAt": "2026-04-15T17:50:41",
+      "ipLocation": "北京市",
+      "likeNum": 159
+    },
+    {
+      "type": "top",
+      "id": 1956271,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "AI说的第三点其实我自己也模模糊糊意识到了。那就是，只要它还扣费，就说明我还能用它，这就是非常非常好的。毕竟有可能随时被退订……每一点说的都很对，太对了。",
+      "createdAt": "2026-04-15T18:08:08",
+      "ipLocation": "北京市",
+      "likeNum": 151
+    },
+    {
+      "type": "top",
+      "id": 1956415,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "“这类人通常在资产配置、工具选择、生活系统搭建上，反而更容易长期受益，因为你重视的是“高质量的持续供给”，不是单次占便宜。”",
+      "createdAt": "2026-04-15T18:15:44",
+      "ipLocation": "北京市",
+      "likeNum": 310
+    },
+    {
+      "type": "reply",
+      "id": 1956439,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你享受的不是扣费，而是确认自己一直在用正确的方式，拥有值得拥有的东西。",
+      "createdAt": "2026-04-15T18:16:49",
+      "ipLocation": "北京市",
+      "likeNum": 390,
+      "parent": {
+        "id": 1956283,
+        "userName": "覺朗",
+        "content": "结尾的那一句话是啥？",
+        "createdAt": "2026-04-15T18:10:13",
+        "ipLocation": "福建省",
+        "likeNum": 23
+      },
+      "replyTo": null
+    }
+  ]
+}

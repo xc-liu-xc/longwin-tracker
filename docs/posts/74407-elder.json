@@ -1,0 +1,21 @@
+{
+  "postId": "74407",
+  "fetchedAt": "2026-05-09T12:06:16+08:00",
+  "totalCommentNum": 321,
+  "totalScanned": 195,
+  "expandedTopLevel": 9,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1998049,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "说富国红利不是推荐你买，是因为我们有持仓。实际上我不推荐，目前的持仓也会慢慢在合适的时候换成更合适的品种。",
+      "createdAt": "2026-04-29T10:44:54",
+      "ipLocation": "北京市",
+      "likeNum": 268
+    }
+  ]
+}

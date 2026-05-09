@@ -1,0 +1,30 @@
+{
+  "postId": "74575",
+  "fetchedAt": "2026-05-09T12:05:55+08:00",
+  "totalCommentNum": 364,
+  "totalScanned": 380,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2000803,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我一般觉得可能不错的书先下载电子版。看完了真的觉得好值得多看几次才去买纸质版。因为我不喜欢有太多东西，让身边尽量保持简洁整齐。这也是很多年前学习了断舍离后才有的习惯。",
+      "createdAt": "2026-05-01T18:29:23",
+      "ipLocation": "河北省",
+      "likeNum": 420,
+      "parent": {
+        "id": 2000545,
+        "userName": "只会跟车",
+        "content": "益达在我家安装摄像头了么🤣，我一方面现在买书买的老多了，虽然在努力的读，但读不完，但其它方面又对自己扣扣搜搜的，我就是这个问题的综合体",
+        "createdAt": "2026-05-01T18:13:55",
+        "ipLocation": "陕西省",
+        "likeNum": 32
+      },
+      "replyTo": null
+    }
+  ]
+}

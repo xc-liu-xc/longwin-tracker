@@ -420,6 +420,78 @@
     .post-ext-link { color: #1677ff; text-decoration: none; }
     .post-ext-link:hover { text-decoration: underline; }
 
+    .post-tag.elder { background: #f9f0ff; color: #722ed1; border: 1px solid #d3adf7; }
+
+    .elder-section {
+      margin-top: 18px;
+      padding-top: 14px;
+      border-top: 1px dashed #e8e8e8;
+    }
+    .elder-section-title {
+      font-size: 13px;
+      font-weight: 600;
+      color: #722ed1;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .elder-item {
+      margin-bottom: 14px;
+      padding: 0 0 10px 0;
+      border-bottom: 1px dotted #f0f0f0;
+    }
+    .elder-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+    .elder-quote {
+      background: #fafafa;
+      border-left: 3px solid #d9d9d9;
+      padding: 8px 12px;
+      margin-bottom: 8px;
+      border-radius: 0 4px 4px 0;
+      font-size: 12.5px;
+      color: #666;
+    }
+    .elder-quote .quote-name { font-weight: 600; color: #555; margin-right: 8px; }
+    .elder-quote .quote-meta { color: #aaa; font-size: 11px; margin-left: 6px; }
+    .elder-quote .quote-content {
+      margin-top: 4px;
+      line-height: 1.7;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .elder-quote .quote-deeper {
+      margin-top: 6px;
+      padding: 4px 8px 4px 10px;
+      border-left: 2px solid #e8e8e8;
+      background: #fff;
+      border-radius: 0 4px 4px 0;
+      font-size: 11.5px;
+      color: #888;
+    }
+    .elder-author {
+      padding: 8px 12px;
+      background: #f9f0ff;
+      border-left: 3px solid #b37feb;
+      border-radius: 0 4px 4px 0;
+    }
+    .elder-author .author-head {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      color: #722ed1;
+      margin-bottom: 4px;
+    }
+    .elder-author .author-head .author-name { font-weight: 600; }
+    .elder-author .author-head .author-meta { color: #aaa; font-size: 11px; }
+    .elder-author .author-content {
+      font-size: 13.5px;
+      line-height: 1.8;
+      color: #333;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
     .posts-empty {
       text-align: center;
       padding: 48px;
@@ -840,6 +912,7 @@
 const CONTENT_URL      = "./content.json";
 const POSTS_INDEX_URL  = "./posts-index.json";
 const POSTS_CONTENT    = "./posts/";
+const ELDER_INDEX_URL  = "./posts/elder-index.json";
 const NAV_BASE         = "./nav/";
 
 const PLAN_FILES = {
@@ -852,6 +925,8 @@ const PAGE_SIZE = 50;
 let _contentMap   = {};
 let _postsIndex   = [];   // full index array
 let _contentCache = {};   // id → content object (lazy loaded)
+let _elderIndex   = {};   // postId → {elderCount, byAuthor, ...}
+let _elderCache   = {};   // postId → full elder.json (lazy)
 let _postsPage    = 0;
 let _chart        = null;
 
@@ -1219,12 +1294,14 @@ async function init() {
     applyHash();
 
     // Posts/content are global (not plan-scoped)
-    const [contentRes, indexRes] = await Promise.all([
+    const [contentRes, indexRes, elderIdxRes] = await Promise.all([
       fetch(CONTENT_URL).catch(function() { return null; }),
       fetch(POSTS_INDEX_URL).catch(function() { return null; }),
+      fetch(ELDER_INDEX_URL).catch(function() { return null; }),
     ]);
     if (contentRes && contentRes.ok) _contentMap = await contentRes.json();
     if (indexRes && indexRes.ok)     _postsIndex = await indexRes.json();
+    if (elderIdxRes && elderIdxRes.ok) _elderIndex = await elderIdxRes.json();
 
     // Load default plan (150) and allocation in parallel
     const [c, alloc, baselineRes] = await Promise.all([
@@ -1589,6 +1666,16 @@ function buildPostsHtml() {
     if (p.poCode && p.poCode.length) tags += '<span class="post-tag plan">长赢</span>';
     if (p.hasAudio)  tags += '<span class="post-tag audio">🎵</span>';
 
+    const elderEntry = _elderIndex[String(p.id)];
+    if (elderEntry && elderEntry.elderCount) {
+      const parts = [];
+      const ba = elderEntry.byAuthor || {};
+      if (ba["ETF拯救世界"]) parts.push("E大 " + ba["ETF拯救世界"]);
+      if (ba["新米练习菌"]) parts.push("新米 " + ba["新米练习菌"]);
+      const label = parts.length ? parts.join(" · ") : ("作者 " + elderEntry.elderCount);
+      tags += '<span class="post-tag elder">💬 ' + escHtml(label) + '</span>';
+    }
+
     const meta = '<span>' + escHtml(p.date || "-") + '</span>'
       + '<span>' + srcLabel + '</span>'
       + (p.likeNum    ? '<span>👍 ' + p.likeNum    + '</span>' : '')
@@ -1662,14 +1749,93 @@ async function togglePost(pid, postId) {
         }
         body.innerHTML = '<div class="post-content">' + clean + '</div>'
           + retweetHtml
+          + '<div class="elder-mount"></div>'
           + '<div class="post-footer">' + srcLink
           + '<div style="display:flex;gap:12px;">' + audioLink + '</div></div>';
         body.setAttribute("data-loaded", "true");
+        loadElderSection(postId, body.querySelector(".elder-mount"));
       } catch(e) {
         body.innerHTML = '<div style="padding:16px;color:#ff4d4f;font-size:13px;">加载失败：' + e.message + '</div>';
       }
     }
   }
+}
+
+async function loadElderSection(postId, mount) {
+  if (!mount) return;
+  const idxEntry = _elderIndex[String(postId)];
+  if (!idxEntry || !idxEntry.elderCount) return;
+  try {
+    let data = _elderCache[postId];
+    if (!data) {
+      const res = await fetch(POSTS_CONTENT + postId + "-elder.json");
+      if (!res.ok) return;
+      data = await res.json();
+      _elderCache[postId] = data;
+    }
+    if (!data.items || !data.items.length) return;
+    mount.innerHTML = renderElderHtml(data.items);
+  } catch (e) {
+    // silent — elder data is non-critical
+  }
+}
+
+function renderElderHtml(items) {
+  const head = '<div class="elder-section-title">📌 作者补充评论 (' + items.length + ')</div>';
+  let body = "";
+  for (const it of items) {
+    body += '<div class="elder-item">' + renderElderItem(it) + '</div>';
+  }
+  return '<div class="elder-section">' + head + body + '</div>';
+}
+
+function fmtElderTime(s) {
+  if (!s) return "";
+  // "2026-04-15T18:16:49" → "2026-04-15 18:16"
+  return s.replace("T", " ").slice(0, 16);
+}
+
+function renderAuthorBlock(it) {
+  const meta = '<span class="author-meta">' + escHtml(fmtElderTime(it.createdAt))
+    + (it.ipLocation ? ' · ' + escHtml(it.ipLocation) : '')
+    + (it.likeNum ? ' · 👍 ' + it.likeNum : '')
+    + '</span>';
+  return '<div class="elder-author">'
+    + '<div class="author-head">'
+    + '<span class="author-name">' + escHtml(it.author || "") + '</span>'
+    + '<span class="post-tag author" style="font-size:10px;padding:1px 5px;">作者</span>'
+    + meta
+    + '</div>'
+    + '<div class="author-content">' + escHtml(it.content || "") + '</div>'
+    + '</div>';
+}
+
+function renderQuoteBlock(parent, deeper) {
+  const meta = '<span class="quote-meta">' + escHtml(fmtElderTime(parent.createdAt))
+    + (parent.ipLocation ? ' · ' + escHtml(parent.ipLocation) : '')
+    + (parent.likeNum ? ' · 👍 ' + parent.likeNum : '')
+    + '</span>';
+  let deeperHtml = "";
+  if (deeper) {
+    deeperHtml = '<div class="quote-deeper">'
+      + '<span class="quote-name">' + escHtml(deeper.userName || "") + '：</span>'
+      + escHtml(deeper.content || "")
+      + '</div>';
+  }
+  return '<div class="elder-quote">'
+    + '<div><span class="quote-name">' + escHtml(parent.userName || "") + '</span>' + meta + '</div>'
+    + '<div class="quote-content">' + escHtml(parent.content || "") + '</div>'
+    + deeperHtml
+    + '</div>';
+}
+
+function renderElderItem(it) {
+  if (it.type === "top") {
+    return renderAuthorBlock(it);
+  }
+  // reply: parent quote (+ optional deeper replyTo) followed by author response
+  return (it.parent ? renderQuoteBlock(it.parent, it.replyTo) : "")
+    + renderAuthorBlock(it);
 }
 
 /* ── Holdings ── */
