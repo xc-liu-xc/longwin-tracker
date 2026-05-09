@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-05-08 12:51 CST",
+  "updatedAt": "2026-05-09 13:19 CST",
   "poName": "长赢指数投资计划-150份",
   "totalUnit": 150,
-  "investedUnit": 107,
-  "adjustedCount": 245,
+  "investedUnit": 106,
+  "adjustedCount": 246,
   "totalBuy": 254,
-  "totalSell": 147,
+  "totalSell": 148,
   "recentSignals": [
+    {
+      "date": "2026-05-08",
+      "action": "sell",
+      "fundCode": "001051",
+      "fundName": "华夏上证50ETF联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/23245",
+      "l1": "A股"
+    },
     {
       "date": "2026-05-06",
       "action": "buy",
@@ -114,15 +123,6 @@
       "unit": 1,
       "articleLink": "https://content.qieman.com/n/items/22369",
       "l1": "海外新兴"
-    },
-    {
-      "date": "2026-03-03",
-      "action": "buy",
-      "fundCode": "100050",
-      "fundName": "富国全球债券(QDII)人民币A",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22279",
-      "l1": "债券"
     }
   ],
   "holdings": [
@@ -1493,136 +1493,6 @@
       "l1": "海外新兴"
     },
     {
-      "fundCode": "001051",
-      "fundName": "华夏上证50ETF联接A",
-      "bought": 10,
-      "sold": 7,
-      "history": [
-        {
-          "date": "2025-09-01",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/19633",
-          "l1": "A股"
-        },
-        {
-          "date": "2022-07-05",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2034",
-          "l1": "A股"
-        },
-        {
-          "date": "2021-02-23",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/BvttuaaIOfWcsZUGOLoj9Q",
-          "l1": "A股"
-        },
-        {
-          "date": "2021-01-28",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/2LSFsCXMT8RfrfEmfMu28A",
-          "l1": "A股"
-        },
-        {
-          "date": "2020-12-15",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/5LsBSf_kAYp2l7CJLEFDLg",
-          "l1": "A股"
-        },
-        {
-          "date": "2020-08-12",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/X2F6CpXWKcWyZ2TTNMe6gw",
-          "l1": "A股"
-        },
-        {
-          "date": "2018-09-21",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/8xpujuycsExjw0PpjCsf1w",
-          "l1": "A股"
-        },
-        {
-          "date": "2018-07-05",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/POTDp9k4S_UmWqHG-W82tA",
-          "l1": "A股"
-        },
-        {
-          "date": "2016-12-14",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408477&idx=1&sn=6e2d07df54ed423f4cc489bc3b6e3297&scene=19#wechat_redirect",
-          "l1": "A股"
-        },
-        {
-          "date": "2016-05-30",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408395&idx=1&sn=6583cf8ea0e81d3070c27f0ece0e415a&scene=19#wechat_redirect",
-          "l1": "A股"
-        },
-        {
-          "date": "2016-04-28",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408373&idx=1&sn=6874500f093b98ca2e598833a25368a9&scene=19#wechat_redirect",
-          "l1": "A股"
-        },
-        {
-          "date": "2016-03-31",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=405564763&idx=1&sn=6a2d8b9b1a9bfc7d4eb982c8ea4069a5&scene=19#wechat_redirect",
-          "l1": "A股"
-        },
-        {
-          "date": "2016-02-29",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=404278898&idx=1&sn=5db3f6196daeaf2892071becf36d7a2f&scene=19#wechat_redirect",
-          "l1": "A股"
-        },
-        {
-          "date": "2016-01-26",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=403415084&idx=1&sn=f3682715cbaccb1002f8058c77455380&scene=19#wechat_redirect",
-          "l1": "A股"
-        },
-        {
-          "date": "2015-10-08",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=211051506&idx=1&sn=1d099b4adc5d847c957c4e2494f24a93&scene=19#wechat_redirect",
-          "l1": "A股"
-        },
-        {
-          "date": "2015-08-31",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=210417088&idx=1&sn=4b62384b013127b6f6b66148e1f66395&scene=19#wechat_redirect",
-          "l1": "A股"
-        },
-        {
-          "date": "2015-08-03",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=209850116&idx=1&sn=843617112021f20f3a568bd589e40925&scene=19#wechat_redirect",
-          "l1": "A股"
-        }
-      ],
-      "currentUnit": 3,
-      "latestDate": "2025-09-01",
-      "l1": "A股"
-    },
-    {
       "fundCode": "000051",
       "fundName": "华夏沪深300ETF联接A",
       "bought": 3,
@@ -1759,6 +1629,143 @@
       ],
       "currentUnit": 2,
       "latestDate": "2026-04-16",
+      "l1": "A股"
+    },
+    {
+      "fundCode": "001051",
+      "fundName": "华夏上证50ETF联接A",
+      "bought": 10,
+      "sold": 8,
+      "history": [
+        {
+          "date": "2026-05-08",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23245",
+          "l1": "A股"
+        },
+        {
+          "date": "2025-09-01",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/19633",
+          "l1": "A股"
+        },
+        {
+          "date": "2022-07-05",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2034",
+          "l1": "A股"
+        },
+        {
+          "date": "2021-02-23",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/BvttuaaIOfWcsZUGOLoj9Q",
+          "l1": "A股"
+        },
+        {
+          "date": "2021-01-28",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/2LSFsCXMT8RfrfEmfMu28A",
+          "l1": "A股"
+        },
+        {
+          "date": "2020-12-15",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/5LsBSf_kAYp2l7CJLEFDLg",
+          "l1": "A股"
+        },
+        {
+          "date": "2020-08-12",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/X2F6CpXWKcWyZ2TTNMe6gw",
+          "l1": "A股"
+        },
+        {
+          "date": "2018-09-21",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/8xpujuycsExjw0PpjCsf1w",
+          "l1": "A股"
+        },
+        {
+          "date": "2018-07-05",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/POTDp9k4S_UmWqHG-W82tA",
+          "l1": "A股"
+        },
+        {
+          "date": "2016-12-14",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408477&idx=1&sn=6e2d07df54ed423f4cc489bc3b6e3297&scene=19#wechat_redirect",
+          "l1": "A股"
+        },
+        {
+          "date": "2016-05-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408395&idx=1&sn=6583cf8ea0e81d3070c27f0ece0e415a&scene=19#wechat_redirect",
+          "l1": "A股"
+        },
+        {
+          "date": "2016-04-28",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408373&idx=1&sn=6874500f093b98ca2e598833a25368a9&scene=19#wechat_redirect",
+          "l1": "A股"
+        },
+        {
+          "date": "2016-03-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=405564763&idx=1&sn=6a2d8b9b1a9bfc7d4eb982c8ea4069a5&scene=19#wechat_redirect",
+          "l1": "A股"
+        },
+        {
+          "date": "2016-02-29",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=404278898&idx=1&sn=5db3f6196daeaf2892071becf36d7a2f&scene=19#wechat_redirect",
+          "l1": "A股"
+        },
+        {
+          "date": "2016-01-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=403415084&idx=1&sn=f3682715cbaccb1002f8058c77455380&scene=19#wechat_redirect",
+          "l1": "A股"
+        },
+        {
+          "date": "2015-10-08",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=211051506&idx=1&sn=1d099b4adc5d847c957c4e2494f24a93&scene=19#wechat_redirect",
+          "l1": "A股"
+        },
+        {
+          "date": "2015-08-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=210417088&idx=1&sn=4b62384b013127b6f6b66148e1f66395&scene=19#wechat_redirect",
+          "l1": "A股"
+        },
+        {
+          "date": "2015-08-03",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=209850116&idx=1&sn=843617112021f20f3a568bd589e40925&scene=19#wechat_redirect",
+          "l1": "A股"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2026-05-08",
       "l1": "A股"
     },
     {
