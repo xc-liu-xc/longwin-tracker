@@ -1,6 +1,6 @@
 {
   "postId": "74677",
-  "fetchedAt": "2026-05-09T12:05:06+08:00",
+  "fetchedAt": "2026-05-09T12:15:34+08:00",
   "totalCommentNum": 537,
   "totalScanned": 296,
   "expandedTopLevel": 10,
@@ -13,6 +13,11 @@
       "author": "新米练习菌",
       "authorUserId": "3194882",
       "content": "E大下午好，看到今日的发车，\n\n做了些红利指数相关的小图：\n\n【备注1】\n其中「红利全收益指数」，今日数据还未更新，目前到4/30。其余的为今日收盘。\n\n【备注2（关于日期）】\n\n数据从2013/12/16开始取的原因是：\n\n中证红利指数的加权方式那日由调整「市值加权」改为「股息率加权」，考虑这个变化比较“重大”，为了指数前后尽量一个核心、相对更有可比性，所以红利系指数的制图，都先采用这个日期开始。",
+      "images": [
+        "https://cdn-community.qieman.com/E1692458-C9E1-49CB-BDDD-DF8F944306BD.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_32,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/AE51412C-16D2-4492-A2AF-AAAC7996456F.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_32,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/79B8B0F7-E0A4-4FF2-8EC2-33CDD1FDDD6F.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_32,g_se,x_10,y_10,t_50,shadow_50"
+      ],
       "createdAt": "2026-05-06T16:08:22",
       "ipLocation": "上海市",
       "likeNum": 577
@@ -23,6 +28,11 @@
       "author": "新米练习菌",
       "authorUserId": "3194882",
       "content": "【留言2】续图",
+      "images": [
+        "https://cdn-community.qieman.com/9FFB18B7-A3DA-4EBE-B71A-5FB8DDF050C6.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_32,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/4B3E823C-A854-4A4D-B6DC-F28D89CF5244.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_18,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/8E7A568E-D0F4-4D6D-B71E-060BE7C782F8.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_25,g_se,x_10,y_10,t_50,shadow_50"
+      ],
       "createdAt": "2026-05-06T16:08:54",
       "ipLocation": "上海市",
       "likeNum": 282,
@@ -30,6 +40,11 @@
         "id": 2015377,
         "userName": "新米练习菌",
         "content": "E大下午好，看到今日的发车，\n\n做了些红利指数相关的小图：\n\n【备注1】\n其中「红利全收益指数」，今日数据还未更新，目前到4/30。其余的为今日收盘。\n\n【备注2（关于日期）】\n\n数据从2013/12/16开始取的原因是：\n\n中证红利指数的加权方式那日由调整「市值加权」改为「股息率加权」，考虑这个变化比较“重大”，为了指数前后尽量一个核心、相对更有可比性，所以红利系指数的制图，都先采用这个日期开始。",
+        "images": [
+          "https://cdn-community.qieman.com/E1692458-C9E1-49CB-BDDD-DF8F944306BD.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_32,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/AE51412C-16D2-4492-A2AF-AAAC7996456F.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_32,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/79B8B0F7-E0A4-4FF2-8EC2-33CDD1FDDD6F.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_32,g_se,x_10,y_10,t_50,shadow_50"
+        ],
         "createdAt": "2026-05-06T16:08:22",
         "ipLocation": "上海市",
         "likeNum": 577

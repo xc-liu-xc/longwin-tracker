@@ -1,6 +1,6 @@
 {
   "postId": "74917",
-  "fetchedAt": "2026-05-09T12:03:44+08:00",
+  "fetchedAt": "2026-05-09T12:14:12+08:00",
   "totalCommentNum": 291,
   "totalScanned": 229,
   "expandedTopLevel": 3,
@@ -13,9 +13,10 @@
       "author": "ETF拯救世界",
       "authorUserId": "793413",
       "content": "大哥没有说什么，但大哥做的已经告诉你很多。你可以不相信大哥说的话，但大哥做什么你一定要重视。",
+      "images": [],
       "createdAt": "2026-05-08T14:10:28",
       "ipLocation": "北京市",
-      "likeNum": 420
+      "likeNum": 421
     }
   ]
 }

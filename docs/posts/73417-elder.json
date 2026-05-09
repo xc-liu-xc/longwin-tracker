@@ -1,6 +1,6 @@
 {
   "postId": "73417",
-  "fetchedAt": "2026-05-09T11:20:52+08:00",
+  "fetchedAt": "2026-05-09T12:39:39+08:00",
   "totalCommentNum": 474,
   "totalScanned": 398,
   "expandedTopLevel": 4,
@@ -13,6 +13,7 @@
       "author": "ETF拯救世界",
       "authorUserId": "793413",
       "content": "并非刻意。",
+      "images": [],
       "createdAt": "2026-04-15T15:18:49",
       "ipLocation": "北京市",
       "likeNum": 129,
@@ -20,6 +21,7 @@
         "id": 1951297,
         "userName": "芒果你个pineapple",
         "content": "喷麻了哈哈哈哈益达你真的说啥都好搞笑",
+        "images": [],
         "createdAt": "2026-04-15T15:10:15",
         "ipLocation": "四川省",
         "likeNum": 106
@@ -32,6 +34,7 @@
       "author": "ETF拯救世界",
       "authorUserId": "793413",
       "content": "未来也会买中证红利。只是现在仓位有了就先买100。看后续操作吧。",
+      "images": [],
       "createdAt": "2026-04-15T15:25:27",
       "ipLocation": "北京市",
       "likeNum": 159,
@@ -39,6 +42,7 @@
         "id": 1952107,
         "userName": "王大壮",
         "content": "能不能讲一下为什么红利低波100比中证红利好呀？",
+        "images": [],
         "createdAt": "2026-04-15T15:18:12",
         "ipLocation": "浙江省",
         "likeNum": 15
@@ -51,6 +55,7 @@
       "author": "ETF拯救世界",
       "authorUserId": "793413",
       "content": "这个和易方达中概和恒生科技你要把它们三个当成一个品种来看。放心不会忘的。合适的时候会操作。",
+      "images": [],
       "createdAt": "2026-04-15T15:53:30",
       "ipLocation": "北京市",
       "likeNum": 191,
@@ -58,6 +63,7 @@
         "id": 1951297,
         "userName": "芒果你个pineapple",
         "content": "喷麻了哈哈哈哈益达你真的说啥都好搞笑",
+        "images": [],
         "createdAt": "2026-04-15T15:10:15",
         "ipLocation": "四川省",
         "likeNum": 106
@@ -65,7 +71,8 @@
       "replyTo": {
         "id": 1952533,
         "userName": "落_",
-        "content": "E大你是不是忘了这个了                                             \n 😇 互联\n交银施罗德中证海外中国互联网指数(QDII-LOF)A (164906)"
+        "content": "E大你是不是忘了这个了                                             \n 😇 互联\n交银施罗德中证海外中国互联网指数(QDII-LOF)A (164906)",
+        "images": []
       }
     }
   ]

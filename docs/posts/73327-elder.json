@@ -1,0 +1,32 @@
+{
+  "postId": "73327",
+  "fetchedAt": "2026-05-09T12:41:28+08:00",
+  "totalCommentNum": 1094,
+  "totalScanned": 1056,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1938877,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "其实类似投顾费，基金管理费这种费用，最好的做法应该是根据产品规模设定费率。规模越大，费率越低。但是好像几乎没见过有人这样做。其实这样做才是双赢的做法。",
+      "images": [],
+      "createdAt": "2026-04-14T14:18:55",
+      "ipLocation": "北京市",
+      "likeNum": 257,
+      "parent": {
+        "id": 1938397,
+        "userName": "Gaurrs",
+        "content": "如果把费用变成范围波动怎么样，比如适合补仓的时候低费用，不适合补仓或等待卖出的时候高费用，削峰填谷的平衡小游戏🧐",
+        "images": [],
+        "createdAt": "2026-04-14T14:11:30",
+        "ipLocation": "湖北省",
+        "likeNum": 20
+      },
+      "replyTo": null
+    }
+  ]
+}

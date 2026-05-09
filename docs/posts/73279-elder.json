@@ -1,0 +1,22 @@
+{
+  "postId": "73279",
+  "fetchedAt": "2026-05-09T12:59:19+08:00",
+  "totalCommentNum": 1397,
+  "totalScanned": 1332,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1931023,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "各位别急，明天开始分批返还。很快就会到账。",
+      "images": [],
+      "createdAt": "2026-04-13T19:33:57",
+      "ipLocation": "北京市",
+      "likeNum": 364
+    }
+  ]
+}

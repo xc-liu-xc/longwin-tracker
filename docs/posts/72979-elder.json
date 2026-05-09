@@ -1,0 +1,145 @@
+{
+  "postId": "72979",
+  "fetchedAt": "2026-05-09T13:00:18+08:00",
+  "totalCommentNum": 405,
+  "totalScanned": 251,
+  "expandedTopLevel": 9,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1912597,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我没有抄，是我先卖的。当然，依然没有人家卖的好。",
+      "images": [],
+      "createdAt": "2026-04-09T10:31:56",
+      "ipLocation": "北京市",
+      "likeNum": 277
+    },
+    {
+      "type": "top",
+      "id": 1912807,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "在A股做投资。我不觉得任何人真的NB。除了汇金。",
+      "images": [],
+      "createdAt": "2026-04-09T10:37:16",
+      "ipLocation": "北京市",
+      "likeNum": 336
+    },
+    {
+      "type": "top",
+      "id": 1913485,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "汇金的特点，在底部，顶部区域大量交易。买和卖都非常果断。当然，这与它的资金性质有关。它不需要长期在市场里，只在关键的时间出现即可。还有，它也没有“踏空”的焦虑。但是无论如何，汇金的买卖点，都极具参考价值。估值+技术+汇金，可以95%确定顶底区域。",
+      "images": [],
+      "createdAt": "2026-04-09T10:54:07",
+      "ipLocation": "北京市",
+      "likeNum": 476
+    },
+    {
+      "type": "reply",
+      "id": 1913521,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "但是1月他们卖出这么多300我不理解。300不贵，技术也没有到高位，为什么巨量减持。只能说是因为2024年买太多300了，没有太多500这样更高估的品种卖？",
+      "images": [],
+      "createdAt": "2026-04-09T10:55:58",
+      "ipLocation": "北京市",
+      "likeNum": 222,
+      "parent": {
+        "id": 1913485,
+        "userName": "ETF拯救世界",
+        "content": "汇金的特点，在底部，顶部区域大量交易。买和卖都非常果断。当然，这与它的资金性质有关。它不需要长期在市场里，只在关键的时间出现即可。还有，它也没有“踏空”的焦虑。但是无论如何，汇金的买卖点，都极具参考价值。估值+技术+汇金，可以95%确定顶底区域。",
+        "images": [],
+        "createdAt": "2026-04-09T10:54:07",
+        "ipLocation": "北京市",
+        "likeNum": 476
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1913563,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "",
+      "images": [
+        "https://cdn-community.qieman.com/5D94F842-576A-437C-836F-506B8BE2906E.png?x-oss-process=image/watermark,text_5LiU5oWiLUVURuaLr-aVkeS4lueVjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_38,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-04-09T10:57:36",
+      "ipLocation": "北京市",
+      "likeNum": 106,
+      "parent": {
+        "id": 1912807,
+        "userName": "ETF拯救世界",
+        "content": "在A股做投资。我不觉得任何人真的NB。除了汇金。",
+        "images": [],
+        "createdAt": "2026-04-09T10:37:16",
+        "ipLocation": "北京市",
+        "likeNum": 336
+      },
+      "replyTo": {
+        "id": 1913347,
+        "userName": "骨头卿",
+        "content": "老大呀，15年7月之后到24年8月之间，HJ就没出过手吗？",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1913743,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "汇金是做大波段的。这样的小波动他们不会动。",
+      "images": [],
+      "createdAt": "2026-04-09T11:06:34",
+      "ipLocation": "北京市",
+      "likeNum": 184,
+      "parent": {
+        "id": 1913485,
+        "userName": "ETF拯救世界",
+        "content": "汇金的特点，在底部，顶部区域大量交易。买和卖都非常果断。当然，这与它的资金性质有关。它不需要长期在市场里，只在关键的时间出现即可。还有，它也没有“踏空”的焦虑。但是无论如何，汇金的买卖点，都极具参考价值。估值+技术+汇金，可以95%确定顶底区域。",
+        "images": [],
+        "createdAt": "2026-04-09T10:54:07",
+        "ipLocation": "北京市",
+        "likeNum": 476
+      },
+      "replyTo": {
+        "id": 1913677,
+        "userName": "每天都要开心呀",
+        "content": "老大，前段时间跌到3800汇金抄底买了吗？",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 1913851,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "他说的是汇金……",
+      "images": [],
+      "createdAt": "2026-04-09T11:14:46",
+      "ipLocation": "北京市",
+      "likeNum": 34,
+      "parent": {
+        "id": 1913683,
+        "userName": "先做三分钟",
+        "content": "a股真正的大哥只有一个，以后要跟着大哥走",
+        "images": [],
+        "createdAt": "2026-04-09T11:01:51",
+        "ipLocation": "广东省",
+        "likeNum": 3
+      },
+      "replyTo": {
+        "id": 1913731,
+        "userName": "同路人_944pMl",
+        "content": "你这是捧杀，虽然我也这么认为😂",
+        "images": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "postId": "73039",
+  "fetchedAt": "2026-05-09T13:00:50+08:00",
+  "totalCommentNum": 352,
+  "totalScanned": 295,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1917823,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "实际上对我来说，各位不赔钱永远是第一位要考虑的问题。这个市场想要不赔钱，必须严格控制成本。严格也确实是没有办法。",
+      "images": [],
+      "createdAt": "2026-04-09T19:50:51",
+      "ipLocation": "北京市",
+      "likeNum": 406,
+      "parent": {
+        "id": 1917463,
+        "userName": "Yew",
+        "content": "现在补仓的条件多少还是太严苛了点",
+        "images": [],
+        "createdAt": "2026-04-09T19:41:21",
+        "ipLocation": "湖南省",
+        "likeNum": 35
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "postId": "73747",
+  "fetchedAt": "2026-05-09T12:19:48+08:00",
+  "totalCommentNum": 698,
+  "totalScanned": 588,
+  "expandedTopLevel": 8,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1966837,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "AI真的是可能会改变世界的一个工具。但目前为止，它只是工具。它可以帮你做很多数学分析的具体工作。但创意和想法要由你来提供。恐怕未来很多工具人要失去工作了。",
+      "images": [],
+      "createdAt": "2026-04-18T16:20:10",
+      "ipLocation": "北京市",
+      "likeNum": 469
+    }
+  ]
+}

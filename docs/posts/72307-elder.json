@@ -1,0 +1,53 @@
+{
+  "postId": "72307",
+  "fetchedAt": "2026-05-09T13:25:57+08:00",
+  "totalCommentNum": 721,
+  "totalScanned": 645,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1871203,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "今天目前上涨3%。",
+      "images": [],
+      "createdAt": "2026-04-01T10:46:33",
+      "ipLocation": "北京市",
+      "likeNum": 138,
+      "parent": {
+        "id": 1870915,
+        "userName": "轻舞飞扬-红",
+        "content": "华宝医疗C3月23日买入时0.541，3月31日净值0.5704，我算了下收益率是5.43%，和E大的不一样，哪位课代表帮指正一下，谢谢",
+        "images": [],
+        "createdAt": "2026-04-01T10:37:53",
+        "ipLocation": "上海市",
+        "likeNum": 15
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1871275,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "没那么快，但是稳。尽量保证所有乘客不晕车，不出事故。",
+      "images": [],
+      "createdAt": "2026-04-01T10:47:40",
+      "ipLocation": "北京市",
+      "likeNum": 579,
+      "parent": {
+        "id": 1870849,
+        "userName": "芳小姐",
+        "content": "老大，你是我见过开车开的最好的",
+        "images": [],
+        "createdAt": "2026-04-01T10:35:47",
+        "ipLocation": "广东省",
+        "likeNum": 195
+      },
+      "replyTo": null
+    }
+  ]
+}

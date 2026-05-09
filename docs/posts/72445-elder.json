@@ -1,0 +1,22 @@
+{
+  "postId": "72445",
+  "fetchedAt": "2026-05-09T13:18:55+08:00",
+  "totalCommentNum": 312,
+  "totalScanned": 241,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1885327,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "2024年之后改善了不少。之前几年是真的恐怖。",
+      "images": [],
+      "createdAt": "2026-04-02T14:08:29",
+      "ipLocation": "北京市",
+      "likeNum": 311
+    }
+  ]
+}

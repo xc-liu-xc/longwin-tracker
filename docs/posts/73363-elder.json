@@ -1,0 +1,32 @@
+{
+  "postId": "73363",
+  "fetchedAt": "2026-05-09T12:22:10+08:00",
+  "totalCommentNum": 709,
+  "totalScanned": 418,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1943947,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "？不然呢我请问？",
+      "images": [],
+      "createdAt": "2026-04-15T10:08:45",
+      "ipLocation": "北京市",
+      "likeNum": 446,
+      "parent": {
+        "id": 1943329,
+        "userName": "胖菜",
+        "content": "还以为说大A",
+        "images": [],
+        "createdAt": "2026-04-15T10:01:19",
+        "ipLocation": "广东省",
+        "likeNum": 202
+      },
+      "replyTo": null
+    }
+  ]
+}

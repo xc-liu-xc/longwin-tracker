@@ -1,0 +1,106 @@
+{
+  "postId": "73003",
+  "fetchedAt": "2026-05-09T13:00:36+08:00",
+  "totalCommentNum": 392,
+  "totalScanned": 251,
+  "expandedTopLevel": 10,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 1915099,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我认识一个朋友，最近这些年做BTC。从几千块涨到10万，他居然一分钱没挣，而且因为上杠杆玩合约，最后负债累累家徒四壁。他如果踏踏实实拿着现货不知道都赚多少了。我真的服了。逆天。（不是让你去投资BTC，在中国违规。我自己从未交易过。我是举个例子）",
+      "images": [],
+      "createdAt": "2026-04-09T13:35:13",
+      "ipLocation": "北京市",
+      "likeNum": 220
+    },
+    {
+      "type": "reply",
+      "id": 1915273,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你要看私募的底层资产，他到底在做什么买什么。这个很重要。",
+      "images": [],
+      "createdAt": "2026-04-09T13:38:44",
+      "ipLocation": "北京市",
+      "likeNum": 144,
+      "parent": {
+        "id": 1914757,
+        "userName": "浮动",
+        "content": "私募算不算非标金融品",
+        "images": [],
+        "createdAt": "2026-04-09T13:30:22",
+        "ipLocation": "北京市",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1915657,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我建议20%-25%以上差价的补。太小的就别补了。",
+      "images": [],
+      "createdAt": "2026-04-09T13:54:35",
+      "ipLocation": "北京市",
+      "likeNum": 215,
+      "parent": {
+        "id": 1915585,
+        "userName": "曼特拉",
+        "content": "差额很小了，提示我补仓，要不要补啊E大大",
+        "images": [],
+        "createdAt": "2026-04-09T13:47:41",
+        "ipLocation": "山东省",
+        "likeNum": 9
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1915675,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "要看哪个银行的什么产品。你看前几年知名的银行案子，钱到现在还没有拿回来。",
+      "images": [],
+      "createdAt": "2026-04-09T13:55:49",
+      "ipLocation": "北京市",
+      "likeNum": 150,
+      "parent": {
+        "id": 1915483,
+        "userName": "同路人_S20p4y",
+        "content": "银行理财产品的算不算非标金融产品呢？\n",
+        "images": [],
+        "createdAt": "2026-04-09T13:42:34",
+        "ipLocation": "广东省",
+        "likeNum": 5
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1915711,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "房产有几个特点不同。一个是长债，债务期限长，几十年。一个是有自住属性。相反，如果上了高杠杆+投资房，那你看这几年是否会难受。",
+      "images": [],
+      "createdAt": "2026-04-09T13:57:59",
+      "ipLocation": "北京市",
+      "likeNum": 110,
+      "parent": {
+        "id": 1915393,
+        "userName": "薛大王",
+        "content": "房产就又是杠杆又是非标吧？",
+        "images": [],
+        "createdAt": "2026-04-09T13:40:41",
+        "ipLocation": "北京市",
+        "likeNum": 8
+      },
+      "replyTo": null
+    }
+  ]
+}

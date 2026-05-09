@@ -1,0 +1,53 @@
+{
+  "postId": "74017",
+  "fetchedAt": "2026-05-09T12:19:04+08:00",
+  "totalCommentNum": 608,
+  "totalScanned": 510,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1978747,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不是，2024年都可以补仓。几乎可以补满",
+      "images": [],
+      "createdAt": "2026-04-23T14:57:38",
+      "ipLocation": "北京市",
+      "likeNum": 224,
+      "parent": {
+        "id": 1978393,
+        "userName": "心存阳光",
+        "content": "有建信500的都是五年以上的朋友了，可以没有🙁",
+        "images": [],
+        "createdAt": "2026-04-23T14:51:40",
+        "ipLocation": "山东省",
+        "likeNum": 32
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 1978951,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我现在已经不在公共平台上说话了。社交媒体刷到与自己有关的帖子也马上点不感兴趣然后划过去。不看就行了。把注意力集中在做好自己的事情，过好自己的人生，不让信任自己的人失望。",
+      "images": [],
+      "createdAt": "2026-04-23T15:04:10",
+      "ipLocation": "北京市",
+      "likeNum": 522,
+      "parent": {
+        "id": 1977475,
+        "userName": "luwikes",
+        "content": "E大，那些骂你的，我知道说让你别在意，有点儿绝对，你尽量少在意吧。他们不是我们的同路人，不值当的。\n是理解、认可你的投资理念的，会有不一样的思考，也会评论探讨。\n但是，因为跟车没赚钱，骂人的，他都不懂投资啊，你高看他一眼就是对他的赏赐了。",
+        "images": [],
+        "createdAt": "2026-04-23T14:42:46",
+        "ipLocation": "北京市",
+        "likeNum": 64
+      },
+      "replyTo": null
+    }
+  ]
+}

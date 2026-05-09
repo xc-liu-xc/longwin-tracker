@@ -1,0 +1,32 @@
+{
+  "postId": "73831",
+  "fetchedAt": "2026-05-09T12:19:18+08:00",
+  "totalCommentNum": 360,
+  "totalScanned": 280,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 1972039,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "大家可以试试\n",
+      "images": [],
+      "createdAt": "2026-04-21T11:30:49",
+      "ipLocation": "北京市",
+      "likeNum": 113,
+      "parent": {
+        "id": 1971793,
+        "userName": "AlineWang",
+        "content": "老大好😊，\n简单同步一下进度～\n现在分红分析和资产穿透工具从之前的 MVP，又往前走了一步：\n已经可以自己上传组合来做分红 + 穿透分析了，不只是看示例。\n这阶段没怎么扩功能，主要是在收数据口径和底层链路，让后面能稳一点。\n有空的话可以随便丢一组持仓进去看看顺不顺手：\nhttps://clarus.com.cn/mvpdividendlookthrough/\n目前只支持150计划中的基金，考虑到数据清洗质量，会慢慢分批增加基金品种。\n我这边先继续把底座打稳，再慢慢往你之前说的那些功能走。",
+        "images": [],
+        "createdAt": "2026-04-21T11:01:37",
+        "ipLocation": "上海市",
+        "likeNum": 215
+      },
+      "replyTo": null
+    }
+  ]
+}
