@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09 13:22 CST",
+  "updatedAt": "2026-05-10 13:40 CST",
   "version": "v_b (heuristic extraction → pre-classified rule_kind aggregation)",
   "source": "extracted from 1105 E大 articles via V_A heuristics, classifications loaded from scripts/baseline_classifications.json",
   "disclaimer": "本基线仅为对 E大 公开文章的启发式提取 + 分类整理，不包含基于市场估值的动态调整，不构成任何投资建议。",

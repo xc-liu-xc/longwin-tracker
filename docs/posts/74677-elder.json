@@ -1,8 +1,8 @@
 {
   "postId": "74677",
-  "fetchedAt": "2026-05-09T17:18:52+08:00",
+  "fetchedAt": "2026-05-10T13:38:12+08:00",
   "totalCommentNum": 537,
-  "totalScanned": 296,
+  "totalScanned": 298,
   "expandedTopLevel": 10,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -20,7 +20,7 @@
       ],
       "createdAt": "2026-05-06T16:08:22",
       "ipLocation": "上海市",
-      "likeNum": 578
+      "likeNum": 579
     },
     {
       "type": "reply",
@@ -35,7 +35,7 @@
       ],
       "createdAt": "2026-05-06T16:08:54",
       "ipLocation": "上海市",
-      "likeNum": 282,
+      "likeNum": 283,
       "parent": {
         "id": 2015377,
         "userName": "新米练习菌",
@@ -47,7 +47,7 @@
         ],
         "createdAt": "2026-05-06T16:08:22",
         "ipLocation": "上海市",
-        "likeNum": 578
+        "likeNum": 579
       },
       "replyTo": null
     }
