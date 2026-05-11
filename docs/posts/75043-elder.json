@@ -1,0 +1,53 @@
+{
+  "postId": "75043",
+  "fetchedAt": "2026-05-11T13:57:45+08:00",
+  "totalCommentNum": 286,
+  "totalScanned": 229,
+  "expandedTopLevel": 5,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2032177,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我的感觉就是特长不同。",
+      "images": [],
+      "createdAt": "2026-05-10T15:06:29",
+      "ipLocation": "北京市",
+      "likeNum": 68,
+      "parent": {
+        "id": 2031763,
+        "userName": "Marco.LF.Poon",
+        "content": "我一直用g，感觉比ch好用。看来投资要问ch",
+        "images": [],
+        "createdAt": "2026-05-10T15:00:18",
+        "ipLocation": "广东省",
+        "likeNum": 8
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2032783,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我甚至研究过CL用的什么字体……它们不仅产品的字体，它们生成的表格也好，html也好，文档也好，审美真的非常在线。一比较其它AI生成的至少在视觉方面都很粗糙。",
+      "images": [],
+      "createdAt": "2026-05-10T15:39:59",
+      "ipLocation": "北京市",
+      "likeNum": 67,
+      "parent": {
+        "id": 2032585,
+        "userName": "泓潫PatrickTing",
+        "content": "反正DB是真降智。DS的V4也确实省token，CL的字体看着很舒服，而G是能有长期记忆",
+        "images": [],
+        "createdAt": "2026-05-10T15:17:33",
+        "ipLocation": "浙江省",
+        "likeNum": 16
+      },
+      "replyTo": null
+    }
+  ]
+}
