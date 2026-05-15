@@ -1,6 +1,6 @@
 {
   "postId": "75043",
-  "fetchedAt": "2026-05-14T13:48:14+08:00",
+  "fetchedAt": "2026-05-15T13:57:11+08:00",
   "totalCommentNum": 286,
   "totalScanned": 263,
   "expandedTopLevel": 7,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-10T15:06:29",
       "ipLocation": "北京市",
-      "likeNum": 80,
+      "likeNum": 81,
       "parent": {
         "id": 2031763,
         "userName": "Marco.LF.Poon",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-10T15:39:59",
       "ipLocation": "北京市",
-      "likeNum": 94,
+      "likeNum": 95,
       "parent": {
         "id": 2032585,
         "userName": "泓潫PatrickTing",
@@ -45,7 +45,7 @@
         "images": [],
         "createdAt": "2026-05-10T15:17:33",
         "ipLocation": "浙江省",
-        "likeNum": 23
+        "likeNum": 24
       },
       "replyTo": null
     }
