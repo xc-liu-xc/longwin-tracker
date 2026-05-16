@@ -1,6 +1,6 @@
 {
   "postId": "75043",
-  "fetchedAt": "2026-05-15T13:57:11+08:00",
+  "fetchedAt": "2026-05-16T13:29:14+08:00",
   "totalCommentNum": 286,
   "totalScanned": 263,
   "expandedTopLevel": 7,
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-10T15:39:59",
       "ipLocation": "北京市",
-      "likeNum": 95,
+      "likeNum": 96,
       "parent": {
         "id": 2032585,
         "userName": "泓潫PatrickTing",

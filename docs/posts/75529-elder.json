@@ -1,0 +1,200 @@
+{
+  "postId": "75529",
+  "fetchedAt": "2026-05-16T13:26:03+08:00",
+  "totalCommentNum": 301,
+  "totalScanned": 257,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2059789,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "如果品种在我一直跟踪的范围内，当然会。如果品种没有一直跟踪，那就没办法了。如果你用这个系统选出100支没有跟踪过的股票也可以，但是那种投资方式不是个人能玩的。",
+      "images": [],
+      "createdAt": "2026-05-16T11:12:02",
+      "ipLocation": "北京市",
+      "likeNum": 37,
+      "parent": {
+        "id": 2059291,
+        "userName": "Khan",
+        "content": "动量有没有可能解决第四个问题，就是不会完全miss掉一些结构性牛市的机会，能在动量起来且估值没有那么贵的时候，蹭一点油水？",
+        "images": [],
+        "createdAt": "2026-05-16T11:02:30",
+        "ipLocation": "北京市",
+        "likeNum": 12
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2059825,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不是。网格的本质是定好了买入和卖出的位置，就吃这一段。动量是只要趋势不坏就持有，直到变坏。这是两回事。",
+      "images": [],
+      "createdAt": "2026-05-16T11:12:58",
+      "ipLocation": "北京市",
+      "likeNum": 42,
+      "parent": {
+        "id": 2059267,
+        "userName": "闲看云卷云舒",
+        "content": "E大高产，看了一遍没看懂，再认真学习！动量因子是不是放大版的网格策略呀？",
+        "images": [],
+        "createdAt": "2026-05-16T11:02:17",
+        "ipLocation": "中国",
+        "likeNum": 3
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2060053,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "现在美股很多指标都非常极端。但谁也不敢轻易做空。",
+      "images": [],
+      "createdAt": "2026-05-16T11:20:59",
+      "ipLocation": "北京市",
+      "likeNum": 18,
+      "parent": {
+        "id": 2059735,
+        "userName": "QT123",
+        "content": "动量股相对低波股已经到了+5倍标准差的历史最高点",
+        "images": [
+          "https://cdn-community.qieman.com/407334CA-3DE3-4739-A929-17353AC3B191.jpg?x-oss-process=image/watermark,text_5LiU5oWiLVFUMTIz,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_28,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-05-16T11:10:47",
+        "ipLocation": "北京市",
+        "likeNum": 3
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2060077,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不是“变成”。而是在某些品种上在原有的框架内融入动量的思路。",
+      "images": [],
+      "createdAt": "2026-05-16T11:21:55",
+      "ipLocation": "北京市",
+      "likeNum": 26,
+      "parent": {
+        "id": 2059609,
+        "userName": "Lina_INverse",
+        "content": "我理解，从左侧买入变成右侧了么？持仓体验会好很多，但是我们一车应该也算是比较大的资金了，大资金左侧买还是右侧买更好些呢？",
+        "images": [],
+        "createdAt": "2026-05-16T11:08:14",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2060209,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大上午好，谢谢投资笔记\n关于估值的部分，请容我借老大的神图用用，“涂鸦”一些自己看到的data speaking：\n1️⃣ A股估值中枢下降。\n2️⃣ 2021年段 大盘市盈率和中小盘市盈率出现了倒挂（沪深300PE超过中证500PE）🌟规模因子。",
+      "images": [
+        "https://cdn-community.qieman.com/B426E783-A944-495B-A22B-BE4681F462FE.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_26,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/CA4AD105-BAC3-4157-B1A3-1ED58D6A8046.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_48,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-05-16T11:26:51",
+      "ipLocation": "上海市",
+      "likeNum": 36
+    },
+    {
+      "type": "reply",
+      "id": 2060275,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "300、500这样的宽基基本不会清仓，只会加减仓。",
+      "images": [],
+      "createdAt": "2026-05-16T11:30:36",
+      "ipLocation": "北京市",
+      "likeNum": 17,
+      "parent": {
+        "id": 2059771,
+        "userName": "Liruhrn",
+        "content": "真难，比如现在中证500的动量怎么样？",
+        "images": [],
+        "createdAt": "2026-05-16T11:11:32",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 2059969,
+        "userName": "holykun",
+        "content": "感觉是啊，按照估值来说500到外太空附近了，但是还没出，可能是动量还在😇",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2060833,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "因为这个不可能100%准确。有时候这个月分数高，但正好是变盘的时候。做投资不可能有100%的事情。主要看概率",
+      "images": [],
+      "createdAt": "2026-05-16T12:27:21",
+      "ipLocation": "北京市",
+      "likeNum": 9,
+      "parent": {
+        "id": 2060569,
+        "userName": "E起富起来",
+        "content": "自己的疑问就是在得分高的第4位，为什么在3、6、12月后是负的越来越多呢，难道这个表不仅筛出的是后续趋势涨得好的，也有不好的排位在这里面吗（纯属自己瞎想的）",
+        "images": [],
+        "createdAt": "2026-05-16T11:53:05",
+        "ipLocation": "四川省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2060851,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "主要是交易的问题。你能不能买一百只股票，按照权重配置好呢。这需要极大的资金量和交易系统支持",
+      "images": [],
+      "createdAt": "2026-05-16T12:28:36",
+      "ipLocation": "北京市",
+      "likeNum": 6,
+      "parent": {
+        "id": 2060563,
+        "userName": "招财进宝富贵元元",
+        "content": "请问E大，这里说用类似的多因子系统选100支没跟踪过的股票不是个人能玩的，想了解下这个结论的原因是什么呢？ 是因为计算量过大还是什么呢？",
+        "images": [],
+        "createdAt": "2026-05-16T11:53:01",
+        "ipLocation": "四川省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2060869,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你说的是完全按照这个交易，我说的是融合进体系。",
+      "images": [],
+      "createdAt": "2026-05-16T12:31:10",
+      "ipLocation": "北京市",
+      "likeNum": 12,
+      "parent": {
+        "id": 2060185,
+        "userName": "乐安饲养合伙人",
+        "content": "按照动量因子的话，现在医疗消费恒科是不是该割肉？",
+        "images": [],
+        "createdAt": "2026-05-16T11:26:00",
+        "ipLocation": "山东省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -614,16 +614,16 @@
     "totalScanned": 24,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-15T13:57:48+08:00"
+    "fetchedAt": "2026-05-16T13:29:47+08:00"
   },
   "74995": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 1,
-    "totalScanned": 21,
+    "totalScanned": 22,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-15T13:57:50+08:00"
+    "fetchedAt": "2026-05-16T13:29:48+08:00"
   },
   "74749": {
     "elderCount": 0,
@@ -8220,7 +8220,7 @@
     "totalScanned": 263,
     "expandedTopLevel": 7,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-15T13:57:11+08:00"
+    "fetchedAt": "2026-05-16T13:29:14+08:00"
   },
   "75061": {
     "elderCount": 1,
@@ -8231,16 +8231,16 @@
     "totalScanned": 492,
     "expandedTopLevel": 7,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-15T13:57:46+08:00"
+    "fetchedAt": "2026-05-16T13:29:45+08:00"
   },
   "75163": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 433,
-    "totalScanned": 760,
+    "totalScanned": 761,
     "expandedTopLevel": 19,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-15T13:56:48+08:00"
+    "fetchedAt": "2026-05-16T13:28:55+08:00"
   },
   "75331": {
     "elderCount": 1,
@@ -8248,19 +8248,19 @@
       "ETF拯救世界": 1
     },
     "totalCommentNum": 550,
-    "totalScanned": 554,
+    "totalScanned": 559,
     "expandedTopLevel": 7,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-15T13:54:25+08:00"
+    "fetchedAt": "2026-05-16T13:26:41+08:00"
   },
   "75349": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 321,
-    "totalScanned": 252,
+    "totalScanned": 256,
     "expandedTopLevel": 6,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-15T13:54:47+08:00"
+    "fetchedAt": "2026-05-16T13:27:01+08:00"
   },
   "75355": {
     "elderCount": 3,
@@ -8269,10 +8269,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 411,
-    "totalScanned": 331,
-    "expandedTopLevel": 3,
+    "totalScanned": 346,
+    "expandedTopLevel": 4,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-15T13:55:11+08:00"
+    "fetchedAt": "2026-05-16T13:27:25+08:00"
   },
   "75403": {
     "elderCount": 1,
@@ -8280,9 +8280,21 @@
       "ETF拯救世界": 1
     },
     "totalCommentNum": 437,
-    "totalScanned": 287,
+    "totalScanned": 331,
+    "expandedTopLevel": 8,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-16T13:27:52+08:00"
+  },
+  "75529": {
+    "elderCount": 9,
+    "byAuthor": {
+      "ETF拯救世界": 8,
+      "新米练习菌": 1
+    },
+    "totalCommentNum": 301,
+    "totalScanned": 257,
     "expandedTopLevel": 6,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-15T13:55:36+08:00"
+    "fetchedAt": "2026-05-16T13:26:03+08:00"
   }
 }
