@@ -1,9 +1,9 @@
 {
   "postId": "75529",
-  "fetchedAt": "2026-05-16T13:26:03+08:00",
+  "fetchedAt": "2026-05-17T13:47:28+08:00",
   "totalCommentNum": 301,
-  "totalScanned": 257,
-  "expandedTopLevel": 6,
+  "totalScanned": 369,
+  "expandedTopLevel": 10,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:12:02",
       "ipLocation": "北京市",
-      "likeNum": 37,
+      "likeNum": 98,
       "parent": {
         "id": 2059291,
         "userName": "Khan",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:02:30",
         "ipLocation": "北京市",
-        "likeNum": 12
+        "likeNum": 19
       },
       "replyTo": null
     },
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:12:58",
       "ipLocation": "北京市",
-      "likeNum": 42,
+      "likeNum": 144,
       "parent": {
         "id": 2059267,
         "userName": "闲看云卷云舒",
@@ -45,7 +45,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:02:17",
         "ipLocation": "中国",
-        "likeNum": 3
+        "likeNum": 8
       },
       "replyTo": null
     },
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:20:59",
       "ipLocation": "北京市",
-      "likeNum": 18,
+      "likeNum": 61,
       "parent": {
         "id": 2059735,
         "userName": "QT123",
@@ -68,7 +68,7 @@
         ],
         "createdAt": "2026-05-16T11:10:47",
         "ipLocation": "北京市",
-        "likeNum": 3
+        "likeNum": 7
       },
       "replyTo": null
     },
@@ -81,7 +81,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:21:55",
       "ipLocation": "北京市",
-      "likeNum": 26,
+      "likeNum": 84,
       "parent": {
         "id": 2059609,
         "userName": "Lina_INverse",
@@ -89,7 +89,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:08:14",
         "ipLocation": "上海市",
-        "likeNum": 0
+        "likeNum": 7
       },
       "replyTo": null
     },
@@ -105,7 +105,7 @@
       ],
       "createdAt": "2026-05-16T11:26:51",
       "ipLocation": "上海市",
-      "likeNum": 36
+      "likeNum": 130
     },
     {
       "type": "reply",
@@ -116,7 +116,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:30:36",
       "ipLocation": "北京市",
-      "likeNum": 17,
+      "likeNum": 26,
       "parent": {
         "id": 2059771,
         "userName": "Liruhrn",
@@ -124,7 +124,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:11:32",
         "ipLocation": "上海市",
-        "likeNum": 0
+        "likeNum": 1
       },
       "replyTo": {
         "id": 2059969,
@@ -142,7 +142,7 @@
       "images": [],
       "createdAt": "2026-05-16T12:27:21",
       "ipLocation": "北京市",
-      "likeNum": 9,
+      "likeNum": 65,
       "parent": {
         "id": 2060569,
         "userName": "E起富起来",
@@ -150,7 +150,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:53:05",
         "ipLocation": "四川省",
-        "likeNum": 0
+        "likeNum": 4
       },
       "replyTo": null
     },
@@ -163,7 +163,7 @@
       "images": [],
       "createdAt": "2026-05-16T12:28:36",
       "ipLocation": "北京市",
-      "likeNum": 6,
+      "likeNum": 51,
       "parent": {
         "id": 2060563,
         "userName": "招财进宝富贵元元",
@@ -171,7 +171,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:53:01",
         "ipLocation": "四川省",
-        "likeNum": 0
+        "likeNum": 2
       },
       "replyTo": null
     },
@@ -184,7 +184,7 @@
       "images": [],
       "createdAt": "2026-05-16T12:31:10",
       "ipLocation": "北京市",
-      "likeNum": 12,
+      "likeNum": 91,
       "parent": {
         "id": 2060185,
         "userName": "乐安饲养合伙人",
@@ -192,9 +192,35 @@
         "images": [],
         "createdAt": "2026-05-16T11:26:00",
         "ipLocation": "山东省",
-        "likeNum": 2
+        "likeNum": 7
       },
       "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2061505,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你真挺厉害。一下子就理解了我一些思路的细节。",
+      "images": [],
+      "createdAt": "2026-05-16T16:02:40",
+      "ipLocation": "北京市",
+      "likeNum": 65,
+      "parent": {
+        "id": 2060185,
+        "userName": "乐安饲养合伙人",
+        "content": "按照动量因子的话，现在医疗消费恒科是不是该割肉？",
+        "images": [],
+        "createdAt": "2026-05-16T11:26:00",
+        "ipLocation": "山东省",
+        "likeNum": 7
+      },
+      "replyTo": {
+        "id": 2061421,
+        "userName": "田老师",
+        "content": "他有几层规则考虑的，动量趋势坏了，但你估值不高，为啥要卖，当然是继续持有",
+        "images": []
+      }
     }
   ]
 }

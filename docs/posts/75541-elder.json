@@ -1,0 +1,69 @@
+{
+  "postId": "75541",
+  "fetchedAt": "2026-05-17T13:48:09+08:00",
+  "totalCommentNum": 314,
+  "totalScanned": 260,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2063479,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这里有不少金融圈内的朋友。如果任何人，能在跟我的私聊记录中，找到我嘲笑、评价、议论任何金融圈同行（除了不停无缘无故打击我的人），我立即给他转账20万人民币。",
+      "images": [],
+      "createdAt": "2026-05-16T18:48:32",
+      "ipLocation": "北京市",
+      "likeNum": 137
+    },
+    {
+      "type": "reply",
+      "id": 2063701,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这不公平。我极度厌恶不公平的事情。",
+      "images": [],
+      "createdAt": "2026-05-16T18:54:38",
+      "ipLocation": "北京市",
+      "likeNum": 131,
+      "parent": {
+        "id": 2063479,
+        "userName": "ETF拯救世界",
+        "content": "这里有不少金融圈内的朋友。如果任何人，能在跟我的私聊记录中，找到我嘲笑、评价、议论任何金融圈同行（除了不停无缘无故打击我的人），我立即给他转账20万人民币。",
+        "images": [],
+        "createdAt": "2026-05-16T18:48:32",
+        "ipLocation": "北京市",
+        "likeNum": 137
+      },
+      "replyTo": {
+        "id": 2063623,
+        "userName": "天天向上的铁骨天",
+        "content": "E大上头了，这帮造谣的就想看见你上头，不理不睬就是最好的办法。路边的野狗冲你叫两声，你难道还要回应吗？对吧😄",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2065471,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "加入了的话，一直到现在都不会买了。",
+      "images": [],
+      "createdAt": "2026-05-16T20:18:21",
+      "ipLocation": "北京市",
+      "likeNum": 65,
+      "parent": {
+        "id": 2064121,
+        "userName": "全息基金",
+        "content": "有个疑问：比如消费，医药，医疗这种趋势不好时间长，如果加入动量因子感觉效果也不会太好呢",
+        "images": [],
+        "createdAt": "2026-05-16T19:11:41",
+        "ipLocation": "山东省",
+        "likeNum": 6
+      },
+      "replyTo": null
+    }
+  ]
+}

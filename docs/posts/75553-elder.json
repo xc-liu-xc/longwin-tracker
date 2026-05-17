@@ -1,0 +1,142 @@
+{
+  "postId": "75553",
+  "fetchedAt": "2026-05-17T13:49:16+08:00",
+  "totalCommentNum": 795,
+  "totalScanned": 647,
+  "expandedTopLevel": 6,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2067259,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "消费连跌6年了。世界证券史上这样的情况都万中无一。浮亏幅度只有十几个点，再忍一忍。",
+      "images": [],
+      "createdAt": "2026-05-16T21:08:55",
+      "ipLocation": "北京市",
+      "likeNum": 197,
+      "parent": {
+        "id": 2066287,
+        "userName": "花傲天yu",
+        "content": "e大，您让我们别放弃医药医疗已经说了好多次好几年了，中概和消费能放弃吗",
+        "images": [],
+        "createdAt": "2026-05-16T21:01:19",
+        "ipLocation": "江西省",
+        "likeNum": 28
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2067799,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "主要是因为我的好多品种都需要几年培育期。你看现在好多赚钱的品种其实都是买了几年才开始大涨。这个一定要理解。你那位30多年的同学不会辜负你的信任的，为了他我也得更加努力。",
+      "images": [],
+      "createdAt": "2026-05-16T21:17:56",
+      "ipLocation": "北京市",
+      "likeNum": 145,
+      "parent": {
+        "id": 2067193,
+        "userName": "有粥喝粥有饭吃饭",
+        "content": "我是跟着一位30年的特别信任的同学进来的，虽然是去年才进来，确实浮亏了，但因为信任同学，所以信任E大，没有丝毫的怨言，只有足够的耐心，相信未来，我值得拥有更好的收益💪😃",
+        "images": [],
+        "createdAt": "2026-05-16T21:08:17",
+        "ipLocation": "广东省",
+        "likeNum": 38
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2068549,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我有一个希望。我希望在与大家说再见前，为且慢平台所有跟车的朋友，赚到100亿人民币。这个目标并不是非常遥远。祝福大家，也祝福我自己。到了那天，我会告诉大家的。",
+      "images": [],
+      "createdAt": "2026-05-16T21:34:49",
+      "ipLocation": "北京市",
+      "likeNum": 172
+    },
+    {
+      "type": "reply",
+      "id": 2069347,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我可没满仓啊……",
+      "images": [],
+      "createdAt": "2026-05-16T22:02:31",
+      "ipLocation": "北京市",
+      "likeNum": 47,
+      "parent": {
+        "id": 2067193,
+        "userName": "有粥喝粥有饭吃饭",
+        "content": "我是跟着一位30年的特别信任的同学进来的，虽然是去年才进来，确实浮亏了，但因为信任同学，所以信任E大，没有丝毫的怨言，只有足够的耐心，相信未来，我值得拥有更好的收益💪😃",
+        "images": [],
+        "createdAt": "2026-05-16T21:08:17",
+        "ipLocation": "广东省",
+        "likeNum": 38
+      },
+      "replyTo": {
+        "id": 2068513,
+        "userName": "小番茄的储蓄罐",
+        "content": "不要说再见，那条评论删除了，我满仓医疗医药，相信您",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2069461,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我只能告诉你，现在消费是历史最低估值区间。其PB已经与2008年金融危机期间一样。结合连跌六年这样的史无前例。这根弹簧压得太紧了，总有超级爆发的一天。",
+      "images": [],
+      "createdAt": "2026-05-16T22:10:31",
+      "ipLocation": "北京市",
+      "likeNum": 169,
+      "parent": {
+        "id": 2066287,
+        "userName": "花傲天yu",
+        "content": "e大，您让我们别放弃医药医疗已经说了好多次好几年了，中概和消费能放弃吗",
+        "images": [],
+        "createdAt": "2026-05-16T21:01:19",
+        "ipLocation": "江西省",
+        "likeNum": 28
+      },
+      "replyTo": {
+        "id": 2067979,
+        "userName": "花傲天yu",
+        "content": "消费连续跌了六年但是也没医疗跌的多，距离70还有很大一段距离，e大",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2069545,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这个区域，只有目前、2018年底钻石坑、2008年10月金融危机三个点到过。我不知道未来会不会有例外。但我总感觉不会特别远了。",
+      "images": [],
+      "createdAt": "2026-05-16T22:14:28",
+      "ipLocation": "北京市",
+      "likeNum": 69,
+      "parent": {
+        "id": 2066287,
+        "userName": "花傲天yu",
+        "content": "e大，您让我们别放弃医药医疗已经说了好多次好几年了，中概和消费能放弃吗",
+        "images": [],
+        "createdAt": "2026-05-16T21:01:19",
+        "ipLocation": "江西省",
+        "likeNum": 28
+      },
+      "replyTo": {
+        "id": 2069461,
+        "userName": "ETF拯救世界",
+        "content": "我只能告诉你，现在消费是历史最低估值区间。其PB已经与2008年金融危机期间一样。结合连跌六年这样的史无前例。这根弹簧压得太紧了，总有超级爆发的一天。",
+        "images": []
+      }
+    }
+  ]
+}
