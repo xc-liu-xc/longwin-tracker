@@ -1,0 +1,75 @@
+{
+  "postId": "75625",
+  "fetchedAt": "2026-05-18T14:11:52+08:00",
+  "totalCommentNum": 205,
+  "totalScanned": 141,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2078911,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "个股不适合7080。永远不适合。因为个股是有可能死的。",
+      "images": [],
+      "createdAt": "2026-05-18T11:36:39",
+      "ipLocation": "北京市",
+      "likeNum": 197,
+      "parent": {
+        "id": 2078761,
+        "userName": "红魔披头士",
+        "content": "这个跌幅，如果是指数的话，我已经大笔买入了，个股的话真的不敢。\n当然了，消费现在整体低估，我也一直在按节奏买入，今天也买了。",
+        "images": [],
+        "createdAt": "2026-05-18T11:32:53",
+        "ipLocation": "山西省",
+        "likeNum": 57
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2079139,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大中午好，\n想起一些之前WB也相关的帖子：",
+      "images": [
+        "https://cdn-community.qieman.com/7933C324-3B60-4730-9160-2BE2C3E62CEF.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_54,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/CF73E8DB-049C-4924-BFD8-A22DCFFA7BE4.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_29,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/92183094-BD0C-40B3-96F0-8A48400A55A3.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_22,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-05-18T11:42:07",
+      "ipLocation": "上海市",
+      "likeNum": 120
+    },
+    {
+      "type": "reply",
+      "id": 2079529,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【留言2】一些相关个股和指数 年线&自最高点跌幅％\n(其中，国证食品饮料、全指消费、中证消费、中证酒，连跌六年)\n(没有安利的意思，只是展示当下数据情况)",
+      "images": [
+        "https://cdn-community.qieman.com/696C0D77-3B78-40FD-A37A-91556BB02F3C.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_27,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/48BA423F-D5B2-4388-ADF5-E3F02E271115.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_43,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-05-18T12:02:15",
+      "ipLocation": "上海市",
+      "likeNum": 51,
+      "parent": {
+        "id": 2079139,
+        "userName": "新米练习菌",
+        "content": "E大中午好，\n想起一些之前WB也相关的帖子：",
+        "images": [
+          "https://cdn-community.qieman.com/7933C324-3B60-4730-9160-2BE2C3E62CEF.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_54,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/CF73E8DB-049C-4924-BFD8-A22DCFFA7BE4.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_29,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/92183094-BD0C-40B3-96F0-8A48400A55A3.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_22,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-05-18T11:42:07",
+        "ipLocation": "上海市",
+        "likeNum": 120
+      },
+      "replyTo": null
+    }
+  ]
+}

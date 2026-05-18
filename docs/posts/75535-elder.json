@@ -1,8 +1,8 @@
 {
   "postId": "75535",
-  "fetchedAt": "2026-05-17T13:47:47+08:00",
+  "fetchedAt": "2026-05-18T14:12:36+08:00",
   "totalCommentNum": 302,
-  "totalScanned": 213,
+  "totalScanned": 244,
   "expandedTopLevel": 6,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-16T16:40:19",
       "ipLocation": "北京市",
-      "likeNum": 119,
+      "likeNum": 155,
       "parent": {
         "id": 2061685,
         "userName": "Zhangyg",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-16T16:52:21",
       "ipLocation": "北京市",
-      "likeNum": 73,
+      "likeNum": 113,
       "parent": {
         "id": 2061883,
         "userName": "同路人_58J5wD",
@@ -63,7 +63,7 @@
       "images": [],
       "createdAt": "2026-05-16T17:17:23",
       "ipLocation": "北京市",
-      "likeNum": 93,
+      "likeNum": 137,
       "parent": {
         "id": 2062351,
         "userName": "南山豆瓣",
@@ -71,7 +71,7 @@
         "images": [],
         "createdAt": "2026-05-16T17:06:49",
         "ipLocation": "重庆市",
-        "likeNum": 8
+        "likeNum": 20
       },
       "replyTo": null
     },
@@ -84,7 +84,7 @@
       "images": [],
       "createdAt": "2026-05-16T17:41:34",
       "ipLocation": "北京市",
-      "likeNum": 11,
+      "likeNum": 16,
       "parent": {
         "id": 2061883,
         "userName": "同路人_58J5wD",
@@ -110,7 +110,7 @@
       "images": [],
       "createdAt": "2026-05-16T17:44:21",
       "ipLocation": "北京市",
-      "likeNum": 11,
+      "likeNum": 17,
       "parent": {
         "id": 2061883,
         "userName": "同路人_58J5wD",
@@ -131,7 +131,7 @@
       "images": [],
       "createdAt": "2026-05-16T18:04:31",
       "ipLocation": "北京市",
-      "likeNum": 86,
+      "likeNum": 146,
       "parent": {
         "id": 2062267,
         "userName": "红魔披头士",
@@ -139,7 +139,7 @@
         "images": [],
         "createdAt": "2026-05-16T16:59:22",
         "ipLocation": "山西省",
-        "likeNum": 44
+        "likeNum": 60
       },
       "replyTo": null
     },
@@ -152,7 +152,7 @@
       "images": [],
       "createdAt": "2026-05-16T18:25:36",
       "ipLocation": "北京市",
-      "likeNum": 12,
+      "likeNum": 17,
       "parent": {
         "id": 2061883,
         "userName": "同路人_58J5wD",
@@ -173,7 +173,7 @@
       "images": [],
       "createdAt": "2026-05-16T19:54:48",
       "ipLocation": "上海市",
-      "likeNum": 18,
+      "likeNum": 33,
       "parent": {
         "id": 2061883,
         "userName": "同路人_58J5wD",

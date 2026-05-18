@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-05-17 13:45 CST",
+  "updatedAt": "2026-05-18 14:10 CST",
   "poName": "长赢指数投资计划-S定投",
-  "totalUnit": 212,
-  "investedUnit": 88,
-  "adjustedCount": 183,
-  "totalBuy": 153,
+  "totalUnit": 214,
+  "investedUnit": 90,
+  "adjustedCount": 184,
+  "totalBuy": 155,
   "totalSell": 74,
   "recentSignals": [
+    {
+      "date": "2026-05-18",
+      "action": "buy",
+      "fundCode": "007169",
+      "fundName": "易方达中债1-3年国开债A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/23335",
+      "l1": "其他"
+    },
+    {
+      "date": "2026-05-18",
+      "action": "buy",
+      "fundCode": "020602",
+      "fundName": "易方达中证红利低波动联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/23335",
+      "l1": "其他"
+    },
     {
       "date": "2026-05-06",
       "action": "buy",
@@ -113,15 +131,6 @@
       "fundName": "广发创业板ETF联接A",
       "unit": 1,
       "articleLink": "https://content.qieman.com/n/items/22045",
-      "l1": "A股"
-    },
-    {
-      "date": "2026-01-30",
-      "action": "sell",
-      "fundCode": "001052",
-      "fundName": "华夏中证500ETF联接A",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/21913",
       "l1": "A股"
     }
   ],
@@ -1092,6 +1101,31 @@
       "l1": "A股"
     },
     {
+      "fundCode": "020602",
+      "fundName": "易方达中证红利低波动联接A",
+      "bought": 2,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-05-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23335",
+          "l1": "其他"
+        },
+        {
+          "date": "2026-05-06",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23179",
+          "l1": "其他"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2026-05-18",
+      "l1": "其他"
+    },
+    {
       "fundCode": "110027",
       "fundName": "易方达安心债券A",
       "bought": 1,
@@ -1562,21 +1596,21 @@
       "l1": "A股"
     },
     {
-      "fundCode": "020602",
-      "fundName": "易方达中证红利低波动联接A",
+      "fundCode": "007169",
+      "fundName": "易方达中债1-3年国开债A",
       "bought": 1,
       "sold": 0,
       "history": [
         {
-          "date": "2026-05-06",
+          "date": "2026-05-18",
           "action": "buy",
           "unit": 1,
-          "articleLink": "https://qieman.com/content/items/23179",
+          "articleLink": "https://qieman.com/content/items/23335",
           "l1": "其他"
         }
       ],
       "currentUnit": 1,
-      "latestDate": "2026-05-06",
+      "latestDate": "2026-05-18",
       "l1": "其他"
     },
     {
