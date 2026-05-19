@@ -1,0 +1,46 @@
+{
+  "postId": "75739",
+  "fetchedAt": "2026-05-19T14:06:24+08:00",
+  "totalCommentNum": 298,
+  "totalScanned": 195,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2088589,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不能这样，容易卖飞。一定要先买后卖。因为先买没有坏处，最多多一些持仓。先卖如果错了问题就大了",
+      "images": [],
+      "createdAt": "2026-05-19T09:44:20",
+      "ipLocation": "北京市",
+      "likeNum": 342,
+      "parent": {
+        "id": 2088397,
+        "userName": "投资-小白",
+        "content": "涨上去正好把富国卖了，跌回来又买红利100和50，波段的时候完成切换，我太机智了！",
+        "images": [],
+        "createdAt": "2026-05-19T09:42:28",
+        "ipLocation": "贵州省",
+        "likeNum": 16
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2088607,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好\n我更新一下目前红利相关的情况：\n【150】\n红利仓位：10.52%\n目前红利共持有17份 = 富国 中证红利 x 13份+ 博时 红利低波100 x 2份 + 易方达 红利低波 x 2份\n【S】\n红利仓位：14.97%\n目前红利共持有12份 = 富国 中证红利 x 8份+ 博时 红利低波100 x 2份 + 易方达 红利低波 x 2份\n---\n（附：指数视角交易图）\n\n",
+      "images": [
+        "https://cdn-community.qieman.com/C962F2D9-40B7-439E-B0D1-8B06DAB3AF13.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_46,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/6B7CBFC8-C39C-4088-856A-AB5A710DED47.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_46,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-05-19T09:44:24",
+      "ipLocation": "上海市",
+      "likeNum": 140
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "postId": "75529",
-  "fetchedAt": "2026-05-18T14:12:21+08:00",
+  "fetchedAt": "2026-05-19T14:08:42+08:00",
   "totalCommentNum": 301,
-  "totalScanned": 395,
+  "totalScanned": 410,
   "expandedTopLevel": 10,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:12:02",
       "ipLocation": "北京市",
-      "likeNum": 113,
+      "likeNum": 124,
       "parent": {
         "id": 2059291,
         "userName": "Khan",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:02:30",
         "ipLocation": "北京市",
-        "likeNum": 22
+        "likeNum": 24
       },
       "replyTo": null
     },
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:12:58",
       "ipLocation": "北京市",
-      "likeNum": 175,
+      "likeNum": 191,
       "parent": {
         "id": 2059267,
         "userName": "闲看云卷云舒",
@@ -45,7 +45,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:02:17",
         "ipLocation": "中国",
-        "likeNum": 10
+        "likeNum": 12
       },
       "replyTo": null
     },
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:20:59",
       "ipLocation": "北京市",
-      "likeNum": 76,
+      "likeNum": 82,
       "parent": {
         "id": 2059735,
         "userName": "QT123",
@@ -68,7 +68,7 @@
         ],
         "createdAt": "2026-05-16T11:10:47",
         "ipLocation": "北京市",
-        "likeNum": 8
+        "likeNum": 11
       },
       "replyTo": null
     },
@@ -81,7 +81,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:21:55",
       "ipLocation": "北京市",
-      "likeNum": 101,
+      "likeNum": 111,
       "parent": {
         "id": 2059609,
         "userName": "Lina_INverse",
@@ -89,7 +89,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:08:14",
         "ipLocation": "上海市",
-        "likeNum": 8
+        "likeNum": 9
       },
       "replyTo": null
     },
@@ -105,7 +105,7 @@
       ],
       "createdAt": "2026-05-16T11:26:51",
       "ipLocation": "上海市",
-      "likeNum": 156
+      "likeNum": 165
     },
     {
       "type": "reply",
@@ -116,7 +116,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:30:36",
       "ipLocation": "北京市",
-      "likeNum": 32,
+      "likeNum": 33,
       "parent": {
         "id": 2059771,
         "userName": "Liruhrn",
@@ -142,7 +142,7 @@
       "images": [],
       "createdAt": "2026-05-16T12:27:21",
       "ipLocation": "北京市",
-      "likeNum": 79,
+      "likeNum": 89,
       "parent": {
         "id": 2060569,
         "userName": "E起富起来",
@@ -150,7 +150,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:53:05",
         "ipLocation": "四川省",
-        "likeNum": 4
+        "likeNum": 5
       },
       "replyTo": null
     },
@@ -163,7 +163,7 @@
       "images": [],
       "createdAt": "2026-05-16T12:28:36",
       "ipLocation": "北京市",
-      "likeNum": 64,
+      "likeNum": 74,
       "parent": {
         "id": 2060563,
         "userName": "招财进宝富贵元元",
@@ -171,7 +171,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:53:01",
         "ipLocation": "四川省",
-        "likeNum": 2
+        "likeNum": 4
       },
       "replyTo": null
     },
@@ -184,7 +184,7 @@
       "images": [],
       "createdAt": "2026-05-16T12:31:10",
       "ipLocation": "北京市",
-      "likeNum": 126,
+      "likeNum": 141,
       "parent": {
         "id": 2060185,
         "userName": "投资合伙人",
@@ -192,7 +192,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:26:00",
         "ipLocation": "山东省",
-        "likeNum": 8
+        "likeNum": 10
       },
       "replyTo": null
     },
@@ -205,7 +205,7 @@
       "images": [],
       "createdAt": "2026-05-16T16:02:40",
       "ipLocation": "北京市",
-      "likeNum": 103,
+      "likeNum": 119,
       "parent": {
         "id": 2060185,
         "userName": "投资合伙人",
@@ -213,7 +213,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:26:00",
         "ipLocation": "山东省",
-        "likeNum": 8
+        "likeNum": 10
       },
       "replyTo": {
         "id": 2061421,

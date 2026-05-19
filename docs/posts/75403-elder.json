@@ -1,8 +1,8 @@
 {
   "postId": "75403",
-  "fetchedAt": "2026-05-18T14:15:15+08:00",
+  "fetchedAt": "2026-05-19T14:13:14+08:00",
   "totalCommentNum": 437,
-  "totalScanned": 340,
+  "totalScanned": 341,
   "expandedTopLevel": 8,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-14T18:38:21",
       "ipLocation": "北京市",
-      "likeNum": 947,
+      "likeNum": 971,
       "parent": {
         "id": 2054347,
         "userName": "路生生",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-05-14T18:28:52",
         "ipLocation": "中国",
-        "likeNum": 60
+        "likeNum": 62
       },
       "replyTo": null
     }

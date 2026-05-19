@@ -1,0 +1,43 @@
+{
+  "postId": "75709",
+  "fetchedAt": "2026-05-19T14:06:03+08:00",
+  "totalCommentNum": 175,
+  "totalScanned": 155,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2087797,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我要是让一个人来做一个产品，即使我付费，我都不好意思没完没了的让他改。其实有时候我都不好意思让AI改……但是比支使人干活感受好多了。AI真好啊，能几乎没有心理负担的让他干活，他还特别聪明有时候我都觉得我的表述不清楚，他也能听懂。干活还快，找bug修错误瞬间搞定。有些方面AI真比人强……",
+      "images": [],
+      "createdAt": "2026-05-19T08:57:14",
+      "ipLocation": "北京市",
+      "likeNum": 165,
+      "parent": {
+        "id": 2087647,
+        "userName": "科技想要什么",
+        "content": "能跟AI聊天就尽量不要跟人聊天吗？",
+        "images": [],
+        "createdAt": "2026-05-19T08:51:24",
+        "ipLocation": "广东省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2087911,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "所以美是有一些基本原则的，也就是有“套路”的。这些东西真的应该融入到我们从小的教育中，让每一个人能认知、创造美。让我们的生活让我们的国家变得更美。",
+      "images": [],
+      "createdAt": "2026-05-19T09:02:16",
+      "ipLocation": "北京市",
+      "likeNum": 128
+    }
+  ]
+}
