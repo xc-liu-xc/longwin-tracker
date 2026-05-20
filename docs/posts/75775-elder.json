@@ -1,0 +1,244 @@
+{
+  "postId": "75775",
+  "fetchedAt": "2026-05-20T14:07:04+08:00",
+  "totalCommentNum": 416,
+  "totalScanned": 206,
+  "expandedTopLevel": 8,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2091823,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "看到图中，中证医疗估值在2015年到过150倍……麻了。",
+      "images": [],
+      "createdAt": "2026-05-19T18:13:46",
+      "ipLocation": "北京市",
+      "likeNum": 141
+    },
+    {
+      "type": "top",
+      "id": 2092189,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "另外全指信息虽然说盈利改善，PE还没有到2015年的疯狂。但其实已经接近2007年了。2007年PE最高点其实就比现在高百分之十几。",
+      "images": [],
+      "createdAt": "2026-05-19T18:25:54",
+      "ipLocation": "北京市",
+      "likeNum": 188
+    },
+    {
+      "type": "reply",
+      "id": 2092201,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "已经70倍了。",
+      "images": [],
+      "createdAt": "2026-05-19T18:26:11",
+      "ipLocation": "北京市",
+      "likeNum": 132,
+      "parent": {
+        "id": 2092189,
+        "userName": "ETF拯救世界",
+        "content": "另外全指信息虽然说盈利改善，PE还没有到2015年的疯狂。但其实已经接近2007年了。2007年PE最高点其实就比现在高百分之十几。",
+        "images": [],
+        "createdAt": "2026-05-19T18:25:54",
+        "ipLocation": "北京市",
+        "likeNum": 188
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2092237,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "当时的1/5左右。",
+      "images": [],
+      "createdAt": "2026-05-19T18:28:05",
+      "ipLocation": "北京市",
+      "likeNum": 54,
+      "parent": {
+        "id": 2091823,
+        "userName": "ETF拯救世界",
+        "content": "看到图中，中证医疗估值在2015年到过150倍……麻了。",
+        "images": [],
+        "createdAt": "2026-05-19T18:13:46",
+        "ipLocation": "北京市",
+        "likeNum": 141
+      },
+      "replyTo": {
+        "id": 2091973,
+        "userName": "捡辣鸡捡到发财",
+        "content": "现在多少倍😏",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2092327,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我认为99.9999999999%不可能出现了。那时候市场上一共就1000多只股票，现在5000多只，比美国还多40%！！！！",
+      "images": [],
+      "createdAt": "2026-05-19T18:35:30",
+      "ipLocation": "北京市",
+      "likeNum": 117,
+      "parent": {
+        "id": 2091823,
+        "userName": "ETF拯救世界",
+        "content": "看到图中，中证医疗估值在2015年到过150倍……麻了。",
+        "images": [],
+        "createdAt": "2026-05-19T18:13:46",
+        "ipLocation": "北京市",
+        "likeNum": 141
+      },
+      "replyTo": {
+        "id": 2092153,
+        "userName": "alekc",
+        "content": "请问E大有没有应对未来再次出现“中证医疗估值在2015年到过150倍……麻了”的方案",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2092363,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这个确实。利润增速不行。不过要是行也不会在这个时候干到这个地步。",
+      "images": [],
+      "createdAt": "2026-05-19T18:38:46",
+      "ipLocation": "北京市",
+      "likeNum": 145,
+      "parent": {
+        "id": 2092291,
+        "userName": "刀疤博文",
+        "content": "医药医疗还是业绩不够好",
+        "images": [],
+        "createdAt": "2026-05-19T18:32:35",
+        "ipLocation": "四川省",
+        "likeNum": 16
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2092441,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "作为对比，2026年财年的预测市盈率：英伟达：27。台积电：20。美光：8。三星：7。sk海力士：5。当然这些说白了也是强周期。不过它们在周期最强的地方就是这个估值。",
+      "images": [],
+      "createdAt": "2026-05-19T18:43:57",
+      "ipLocation": "北京市",
+      "likeNum": 144,
+      "parent": {
+        "id": 2092189,
+        "userName": "ETF拯救世界",
+        "content": "另外全指信息虽然说盈利改善，PE还没有到2015年的疯狂。但其实已经接近2007年了。2007年PE最高点其实就比现在高百分之十几。",
+        "images": [],
+        "createdAt": "2026-05-19T18:25:54",
+        "ipLocation": "北京市",
+        "likeNum": 188
+      },
+      "replyTo": {
+        "id": 2092201,
+        "userName": "ETF拯救世界",
+        "content": "已经70倍了。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2092489,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "基本就是上沿，刚进。",
+      "images": [],
+      "createdAt": "2026-05-19T18:48:44",
+      "ipLocation": "北京市",
+      "likeNum": 144,
+      "parent": {
+        "id": 2092417,
+        "userName": "Elaine.",
+        "content": "现在医疗医药离最低区域的上沿跌了多少了呢",
+        "images": [],
+        "createdAt": "2026-05-19T18:42:06",
+        "ipLocation": "湖北省",
+        "likeNum": 16
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2092495,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "目前是86%的人挣钱。几个月前是99%的人挣钱。现在且慢平台长赢计划已经为大家赚了几十亿人民币。这里有跟了好多年的人。你应该相信一件事：不会有那么多人不挣钱还长期坚持。",
+      "images": [],
+      "createdAt": "2026-05-19T18:50:44",
+      "ipLocation": "北京市",
+      "likeNum": 321,
+      "parent": {
+        "id": 2092345,
+        "userName": "同路人_LP0s7r",
+        "content": "这个说法从上轮牛市听到这一轮，我就问下挣钱了吗？还那么多人跟",
+        "images": [],
+        "createdAt": "2026-05-19T18:36:18",
+        "ipLocation": "北京市",
+        "likeNum": 39
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2092519,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "",
+      "images": [
+        "https://cdn-community.qieman.com/9CAE9DB9-5364-4F33-B837-4B1E0A740938.png?x-oss-process=image/watermark,text_5LiU5oWiLUVURuaLr-aVkeS4lueVjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_41,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-05-19T18:53:17",
+      "ipLocation": "北京市",
+      "likeNum": 84,
+      "parent": {
+        "id": 2092345,
+        "userName": "同路人_LP0s7r",
+        "content": "这个说法从上轮牛市听到这一轮，我就问下挣钱了吗？还那么多人跟",
+        "images": [],
+        "createdAt": "2026-05-19T18:36:18",
+        "ipLocation": "北京市",
+        "likeNum": 39
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2092537,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "现在有14%的人确实没挣钱，主要是他们这几年开始跟车，持仓消费医疗太多了……",
+      "images": [],
+      "createdAt": "2026-05-19T18:54:57",
+      "ipLocation": "北京市",
+      "likeNum": 187,
+      "parent": {
+        "id": 2092345,
+        "userName": "同路人_LP0s7r",
+        "content": "这个说法从上轮牛市听到这一轮，我就问下挣钱了吗？还那么多人跟",
+        "images": [],
+        "createdAt": "2026-05-19T18:36:18",
+        "ipLocation": "北京市",
+        "likeNum": 39
+      },
+      "replyTo": {
+        "id": 2092513,
+        "userName": "15层的猫",
+        "content": "你没挣钱嘛🙈",
+        "images": []
+      }
+    }
+  ]
+}

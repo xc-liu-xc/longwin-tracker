@@ -1,8 +1,8 @@
 {
   "postId": "75541",
-  "fetchedAt": "2026-05-19T14:09:30+08:00",
+  "fetchedAt": "2026-05-20T14:10:09+08:00",
   "totalCommentNum": 314,
-  "totalScanned": 329,
+  "totalScanned": 331,
   "expandedTopLevel": 4,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-16T18:48:32",
       "ipLocation": "北京市",
-      "likeNum": 248
+      "likeNum": 252
     },
     {
       "type": "reply",
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-05-16T18:54:38",
       "ipLocation": "北京市",
-      "likeNum": 243,
+      "likeNum": 248,
       "parent": {
         "id": 2063479,
         "userName": "ETF拯救世界",
@@ -35,7 +35,7 @@
         "images": [],
         "createdAt": "2026-05-16T18:48:32",
         "ipLocation": "北京市",
-        "likeNum": 248
+        "likeNum": 252
       },
       "replyTo": {
         "id": 2063623,
@@ -53,7 +53,7 @@
       "images": [],
       "createdAt": "2026-05-16T20:18:21",
       "ipLocation": "北京市",
-      "likeNum": 158,
+      "likeNum": 162,
       "parent": {
         "id": 2064121,
         "userName": "全息基金",
