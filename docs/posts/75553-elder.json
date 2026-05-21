@@ -1,8 +1,8 @@
 {
   "postId": "75553",
-  "fetchedAt": "2026-05-20T14:11:43+08:00",
+  "fetchedAt": "2026-05-21T14:17:04+08:00",
   "totalCommentNum": 795,
-  "totalScanned": 923,
+  "totalScanned": 931,
   "expandedTopLevel": 7,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-16T21:08:55",
       "ipLocation": "北京市",
-      "likeNum": 431,
+      "likeNum": 436,
       "parent": {
         "id": 2066287,
         "userName": "花傲天yu",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-05-16T21:01:19",
         "ipLocation": "江西省",
-        "likeNum": 61
+        "likeNum": 63
       },
       "replyTo": null
     },
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-16T21:17:56",
       "ipLocation": "北京市",
-      "likeNum": 297,
+      "likeNum": 300,
       "parent": {
         "id": 2067193,
         "userName": "有粥喝粥有饭吃饭",
@@ -45,7 +45,7 @@
         "images": [],
         "createdAt": "2026-05-16T21:08:17",
         "ipLocation": "广东省",
-        "likeNum": 67
+        "likeNum": 70
       },
       "replyTo": null
     },
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-05-16T21:34:49",
       "ipLocation": "北京市",
-      "likeNum": 400
+      "likeNum": 407
     },
     {
       "type": "reply",
@@ -69,7 +69,7 @@
       "images": [],
       "createdAt": "2026-05-16T22:02:31",
       "ipLocation": "北京市",
-      "likeNum": 129,
+      "likeNum": 131,
       "parent": {
         "id": 2067193,
         "userName": "有粥喝粥有饭吃饭",
@@ -77,7 +77,7 @@
         "images": [],
         "createdAt": "2026-05-16T21:08:17",
         "ipLocation": "广东省",
-        "likeNum": 67
+        "likeNum": 70
       },
       "replyTo": {
         "id": 2068513,
@@ -95,7 +95,7 @@
       "images": [],
       "createdAt": "2026-05-16T22:10:31",
       "ipLocation": "北京市",
-      "likeNum": 522,
+      "likeNum": 529,
       "parent": {
         "id": 2066287,
         "userName": "花傲天yu",
@@ -103,7 +103,7 @@
         "images": [],
         "createdAt": "2026-05-16T21:01:19",
         "ipLocation": "江西省",
-        "likeNum": 61
+        "likeNum": 63
       },
       "replyTo": {
         "id": 2067979,
@@ -121,7 +121,7 @@
       "images": [],
       "createdAt": "2026-05-16T22:14:28",
       "ipLocation": "北京市",
-      "likeNum": 208,
+      "likeNum": 211,
       "parent": {
         "id": 2066287,
         "userName": "花傲天yu",
@@ -129,7 +129,7 @@
         "images": [],
         "createdAt": "2026-05-16T21:01:19",
         "ipLocation": "江西省",
-        "likeNum": 61
+        "likeNum": 63
       },
       "replyTo": {
         "id": 2069461,

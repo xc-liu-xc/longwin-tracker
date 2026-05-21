@@ -1,0 +1,74 @@
+{
+  "postId": "76027",
+  "fetchedAt": "2026-05-21T14:10:28+08:00",
+  "totalCommentNum": 82,
+  "totalScanned": 51,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2110153,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "规模",
+      "images": [],
+      "createdAt": "2026-05-21T11:55:12",
+      "ipLocation": "北京市",
+      "likeNum": 72,
+      "parent": {
+        "id": 2110015,
+        "userName": "知雄守雌",
+        "content": "e大，目前或者即将在我们的计划里融入哪些因子？除了价值 动量",
+        "images": [],
+        "createdAt": "2026-05-21T11:53:15",
+        "ipLocation": "上海市",
+        "likeNum": 16
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2110741,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "A500。它也是未来计划配置宽基的首选了。",
+      "images": [],
+      "createdAt": "2026-05-21T12:14:49",
+      "ipLocation": "北京市",
+      "likeNum": 109,
+      "parent": {
+        "id": 2110495,
+        "userName": "小w",
+        "content": "我想听听A50和A500相关的内容 E大",
+        "images": [],
+        "createdAt": "2026-05-21T12:06:07",
+        "ipLocation": "湖北省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2110765,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "没必要梭。慢慢买呗。",
+      "images": [],
+      "createdAt": "2026-05-21T12:15:44",
+      "ipLocation": "北京市",
+      "likeNum": 69,
+      "parent": {
+        "id": 2110243,
+        "userName": "阿海-",
+        "content": "e大，前几年开始，我就一直在涨钱想囤红利，攒了几年一直没动，就为了等一天能把红利梭哈进去。当然，这个所谓的一天，也可以是一段时间，一个区域。梭哈进去后，我准备这笔钱拿20年，再也不动，为此我新开了一个账户，就放在我老婆那里。现在我有一个问题，这一天接近了嘛😋（我已经两个账号跟车7年，可以完全承担风险）",
+        "images": [],
+        "createdAt": "2026-05-21T11:57:28",
+        "ipLocation": "广东省",
+        "likeNum": 11
+      },
+      "replyTo": null
+    }
+  ]
+}

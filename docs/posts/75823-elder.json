@@ -1,9 +1,9 @@
 {
   "postId": "75823",
-  "fetchedAt": "2026-05-20T14:05:54+08:00",
+  "fetchedAt": "2026-05-21T14:11:10+08:00",
   "totalCommentNum": 361,
-  "totalScanned": 271,
-  "expandedTopLevel": 5,
+  "totalScanned": 383,
+  "expandedTopLevel": 10,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -19,7 +19,7 @@
       ],
       "createdAt": "2026-05-20T11:08:53",
       "ipLocation": "上海市",
-      "likeNum": 94
+      "likeNum": 250
     },
     {
       "type": "reply",
@@ -34,7 +34,7 @@
       ],
       "createdAt": "2026-05-20T11:09:35",
       "ipLocation": "上海市",
-      "likeNum": 29,
+      "likeNum": 88,
       "parent": {
         "id": 2096395,
         "userName": "新米练习菌",
@@ -45,7 +45,28 @@
         ],
         "createdAt": "2026-05-20T11:08:53",
         "ipLocation": "上海市",
-        "likeNum": 94
+        "likeNum": 250
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2098159,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "从历史数据看，5-10年区间，能跟美股掰手腕的只有红利。其它品种牛市大涨，然后就是大跌。对于操作以及运气要求过高了，很可能收益不行。",
+      "images": [],
+      "createdAt": "2026-05-20T16:02:55",
+      "ipLocation": "北京市",
+      "likeNum": 109,
+      "parent": {
+        "id": 2097793,
+        "userName": "村长刘",
+        "content": "红利最大的问题是牛市基本不动   别的标第都疯涨大家都挣钱时候就显得自己很傻X  买了就得长期持有",
+        "images": [],
+        "createdAt": "2026-05-20T15:01:47",
+        "ipLocation": "新疆维吾尔自治区",
+        "likeNum": 12
       },
       "replyTo": null
     }

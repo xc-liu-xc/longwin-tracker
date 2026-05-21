@@ -1,0 +1,247 @@
+{
+  "postId": "76009",
+  "fetchedAt": "2026-05-21T14:10:23+08:00",
+  "totalCommentNum": 429,
+  "totalScanned": 335,
+  "expandedTopLevel": 8,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2108761,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这个是券商自己在发布信息。我觉得还可以，也在跟。",
+      "images": [],
+      "createdAt": "2026-05-21T11:19:45",
+      "ipLocation": "北京市",
+      "likeNum": 147,
+      "parent": {
+        "id": 2108233,
+        "userName": "Iridescent",
+        "content": "请问 【华宝网格】现在还是E大主刀吗？",
+        "images": [],
+        "createdAt": "2026-05-21T11:13:15",
+        "ipLocation": "山东省",
+        "likeNum": 18
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2108773,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "理财和红利还是不一样。",
+      "images": [],
+      "createdAt": "2026-05-21T11:20:09",
+      "ipLocation": "北京市",
+      "likeNum": 49,
+      "parent": {
+        "id": 2108215,
+        "userName": "同路人_天地一沙鸥",
+        "content": "E大，如果能抗住波动，能否用红利替代理财？",
+        "images": [],
+        "createdAt": "2026-05-21T11:13:02",
+        "ipLocation": "北京市",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2109001,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "前几天买的，我估计十年都不会卖。",
+      "images": [],
+      "createdAt": "2026-05-21T11:23:12",
+      "ipLocation": "北京市",
+      "likeNum": 98,
+      "parent": {
+        "id": 2107429,
+        "userName": "阿胜",
+        "content": "钱几天不是刚买红利吗。又要换仓？不懂，求解",
+        "images": [],
+        "createdAt": "2026-05-21T11:07:47",
+        "ipLocation": "浙江省",
+        "likeNum": 6
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2109103,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "跟着就行。",
+      "images": [],
+      "createdAt": "2026-05-21T11:25:20",
+      "ipLocation": "北京市",
+      "likeNum": 59,
+      "parent": {
+        "id": 2108599,
+        "userName": "凡潇",
+        "content": "E大，我有个问题，这里大部分人有份额，那我们没有份额的呢🤔多买两份吗？",
+        "images": [],
+        "createdAt": "2026-05-21T11:17:19",
+        "ipLocation": "江西省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2109151,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你是说一笔补齐吗。我不好说。我的操作都是预留了很大的下跌空间的。",
+      "images": [],
+      "createdAt": "2026-05-21T11:26:08",
+      "ipLocation": "北京市",
+      "likeNum": 53,
+      "parent": {
+        "id": 2108545,
+        "userName": "15层的猫",
+        "content": "老大，有个疑问，就是这种操作，对于之前没有持有红利或份数不够的人来说（比如我自己），基于这次操作补齐了红利仓位，没问题吧？",
+        "images": [],
+        "createdAt": "2026-05-21T11:16:37",
+        "ipLocation": "湖北省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2109169,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "？？？什么脑洞大开。我都要卖了你还买……",
+      "images": [],
+      "createdAt": "2026-05-21T11:26:44",
+      "ipLocation": "北京市",
+      "likeNum": 56,
+      "parent": {
+        "id": 2108413,
+        "userName": "也许有一天会很有钱吧",
+        "content": "那我之前富国红利不多的话是不是可以多买一点，等你卖富国红利的时候我再出一点😃",
+        "images": [],
+        "createdAt": "2026-05-21T11:14:49",
+        "ipLocation": "浙江省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2109433,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "做了个【红利】相关的四个价格指数比较的图\n大方向一样，日常走势也会有分化的时候，有差异时交易不同的，会有些超额收益吧\n（红利低波50，2016年5月之前的数据暂时还没扒到）\n同时，更新一下中证红利的图\n",
+      "images": [
+        "https://cdn-community.qieman.com/965F7193-3ADE-435F-B6D0-E174C2A1CFD1.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_38,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/92AFD850-9B8D-4FC2-91FF-A3ECC68A6528.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_43,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-05-21T11:34:55",
+      "ipLocation": "上海市",
+      "likeNum": 42
+    },
+    {
+      "type": "reply",
+      "id": 2109571,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "确实有感情。是真发钱啊。",
+      "images": [],
+      "createdAt": "2026-05-21T11:38:49",
+      "ipLocation": "北京市",
+      "likeNum": 65,
+      "parent": {
+        "id": 2109379,
+        "userName": "小卡拉米橙子",
+        "content": "对富国红利都产生感情了，特别是在熊市时接近10%的分红，老大提醒我们改为现金，增加投资子弹。确实费率高了点，当时没有基金新规和更多品种选择，跟车换挡，每年的养老金抵扣还指望小红呢",
+        "images": [],
+        "createdAt": "2026-05-21T11:33:15",
+        "ipLocation": "湖北省",
+        "likeNum": 25
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2110423,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "目前富国美债的久期大概是6年多，没有什么大问题。计划买入的话，我再观察一下。自己交易和一个那么多人的大型组合还是不一样的。",
+      "images": [],
+      "createdAt": "2026-05-21T12:04:01",
+      "ipLocation": "北京市",
+      "likeNum": 34,
+      "parent": {
+        "id": 2108599,
+        "userName": "凡潇",
+        "content": "E大，我有个问题，这里大部分人有份额，那我们没有份额的呢🤔多买两份吗？",
+        "images": [],
+        "createdAt": "2026-05-21T11:17:19",
+        "ipLocation": "江西省",
+        "likeNum": 7
+      },
+      "replyTo": {
+        "id": 2109961,
+        "userName": "凡潇",
+        "content": "E大，谢谢您的回复。我想多问一句，最近美债跌得有点狠，150只买了四份，我个人多买了些，最近一直下跌，有点难受，翻阅了之前在微博的所有关于美债的记录，有几个点，一个是美债的大坑已经走出来了，其次收益率5.0，再就是如果不是限额的问题，会买更多，我们买的都是中短债，不用太过担心。我想问这个节点上，风险依然很大吗？可以补仓吗？可以详细说一下吗？我想这也是大家关心的问题。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2110459,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "那肯定可以啊。否则咱们的仓位不是永远没办法一样了。我之所以现在买一定是能买了。",
+      "images": [],
+      "createdAt": "2026-05-21T12:04:52",
+      "ipLocation": "北京市",
+      "likeNum": 36,
+      "parent": {
+        "id": 2108545,
+        "userName": "15层的猫",
+        "content": "老大，有个疑问，就是这种操作，对于之前没有持有红利或份数不够的人来说（比如我自己），基于这次操作补齐了红利仓位，没问题吧？",
+        "images": [],
+        "createdAt": "2026-05-21T11:16:37",
+        "ipLocation": "湖北省",
+        "likeNum": 7
+      },
+      "replyTo": {
+        "id": 2109319,
+        "userName": "15层的猫",
+        "content": "不是一笔补齐，就是按这个操作，您是先买2份新品种，我也会跟着买。然后再卖2份旧品种，我因为没有不会跟着卖。\n这样下来，您的持仓没变，我的持仓跟您补齐了。之前一直没有这样的补齐机会。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2110675,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不是错觉，你的感觉非常对。主要是跟踪指数的走势不一样。但你放心，我们要换的更好。",
+      "images": [
+        "https://cdn-community.qieman.com/2F220DFE-DFA9-4A86-A1AA-B0DBA8785B15.png?x-oss-process=image/watermark,text_5LiU5oWiLUVURuaLr-aVkeS4lueVjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_21,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-05-21T12:12:14",
+      "ipLocation": "北京市",
+      "likeNum": 64,
+      "parent": {
+        "id": 2110045,
+        "userName": "狭窄的宇宙",
+        "content": "再问一个，富国红利费率是高些，但这大半年表现好像比其它红利好些，是我错觉吗？",
+        "images": [],
+        "createdAt": "2026-05-21T11:53:57",
+        "ipLocation": "广东省",
+        "likeNum": 12
+      },
+      "replyTo": null
+    }
+  ]
+}

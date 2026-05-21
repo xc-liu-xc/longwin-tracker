@@ -1,6 +1,6 @@
 {
   "postId": "75535",
-  "fetchedAt": "2026-05-20T14:09:45+08:00",
+  "fetchedAt": "2026-05-21T14:15:07+08:00",
   "totalCommentNum": 302,
   "totalScanned": 252,
   "expandedTopLevel": 7,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-16T16:40:19",
       "ipLocation": "北京市",
-      "likeNum": 170,
+      "likeNum": 173,
       "parent": {
         "id": 2061685,
         "userName": "Zhangyg",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-05-16T16:28:46",
         "ipLocation": "北京市",
-        "likeNum": 2
+        "likeNum": 3
       },
       "replyTo": null
     },
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-16T16:52:21",
       "ipLocation": "北京市",
-      "likeNum": 125,
+      "likeNum": 128,
       "parent": {
         "id": 2061883,
         "userName": "沈潜",
@@ -45,7 +45,7 @@
         "images": [],
         "createdAt": "2026-05-16T16:35:19",
         "ipLocation": "辽宁省",
-        "likeNum": 13
+        "likeNum": 14
       },
       "replyTo": {
         "id": 2061955,
@@ -63,7 +63,7 @@
       "images": [],
       "createdAt": "2026-05-16T17:17:23",
       "ipLocation": "北京市",
-      "likeNum": 152,
+      "likeNum": 156,
       "parent": {
         "id": 2062351,
         "userName": "南山豆瓣",
@@ -71,7 +71,7 @@
         "images": [],
         "createdAt": "2026-05-16T17:06:49",
         "ipLocation": "重庆市",
-        "likeNum": 22
+        "likeNum": 23
       },
       "replyTo": null
     },
@@ -92,7 +92,7 @@
         "images": [],
         "createdAt": "2026-05-16T16:35:19",
         "ipLocation": "辽宁省",
-        "likeNum": 13
+        "likeNum": 14
       },
       "replyTo": {
         "id": 2062555,
@@ -118,7 +118,7 @@
         "images": [],
         "createdAt": "2026-05-16T16:35:19",
         "ipLocation": "辽宁省",
-        "likeNum": 13
+        "likeNum": 14
       },
       "replyTo": null
     },
@@ -131,7 +131,7 @@
       "images": [],
       "createdAt": "2026-05-16T18:04:31",
       "ipLocation": "北京市",
-      "likeNum": 172,
+      "likeNum": 175,
       "parent": {
         "id": 2062267,
         "userName": "红魔披头士",
@@ -139,7 +139,7 @@
         "images": [],
         "createdAt": "2026-05-16T16:59:22",
         "ipLocation": "山西省",
-        "likeNum": 69
+        "likeNum": 70
       },
       "replyTo": null
     },
@@ -160,7 +160,7 @@
         "images": [],
         "createdAt": "2026-05-16T16:35:19",
         "ipLocation": "辽宁省",
-        "likeNum": 13
+        "likeNum": 14
       },
       "replyTo": null
     },
@@ -181,7 +181,7 @@
         "images": [],
         "createdAt": "2026-05-16T16:35:19",
         "ipLocation": "辽宁省",
-        "likeNum": 13
+        "likeNum": 14
       },
       "replyTo": {
         "id": 2062681,

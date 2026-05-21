@@ -1,8 +1,8 @@
 {
   "postId": "75529",
-  "fetchedAt": "2026-05-20T14:09:21+08:00",
+  "fetchedAt": "2026-05-21T14:14:44+08:00",
   "totalCommentNum": 301,
-  "totalScanned": 410,
+  "totalScanned": 412,
   "expandedTopLevel": 10,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:12:02",
       "ipLocation": "北京市",
-      "likeNum": 127,
+      "likeNum": 128,
       "parent": {
         "id": 2059291,
         "userName": "Khan",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:12:58",
       "ipLocation": "北京市",
-      "likeNum": 196,
+      "likeNum": 198,
       "parent": {
         "id": 2059267,
         "userName": "闲看云卷云舒",
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:20:59",
       "ipLocation": "北京市",
-      "likeNum": 86,
+      "likeNum": 88,
       "parent": {
         "id": 2059735,
         "userName": "QT123",
@@ -81,7 +81,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:21:55",
       "ipLocation": "北京市",
-      "likeNum": 115,
+      "likeNum": 116,
       "parent": {
         "id": 2059609,
         "userName": "Lina_INverse",
@@ -105,7 +105,7 @@
       ],
       "createdAt": "2026-05-16T11:26:51",
       "ipLocation": "上海市",
-      "likeNum": 169
+      "likeNum": 172
     },
     {
       "type": "reply",
@@ -142,7 +142,7 @@
       "images": [],
       "createdAt": "2026-05-16T12:27:21",
       "ipLocation": "北京市",
-      "likeNum": 92,
+      "likeNum": 94,
       "parent": {
         "id": 2060569,
         "userName": "E起富起来",
@@ -163,7 +163,7 @@
       "images": [],
       "createdAt": "2026-05-16T12:28:36",
       "ipLocation": "北京市",
-      "likeNum": 78,
+      "likeNum": 79,
       "parent": {
         "id": 2060563,
         "userName": "招财进宝富贵元元",
@@ -184,7 +184,7 @@
       "images": [],
       "createdAt": "2026-05-16T12:31:10",
       "ipLocation": "北京市",
-      "likeNum": 146,
+      "likeNum": 150,
       "parent": {
         "id": 2060185,
         "userName": "投资合伙人",
@@ -205,7 +205,7 @@
       "images": [],
       "createdAt": "2026-05-16T16:02:40",
       "ipLocation": "北京市",
-      "likeNum": 127,
+      "likeNum": 129,
       "parent": {
         "id": 2060185,
         "userName": "投资合伙人",
