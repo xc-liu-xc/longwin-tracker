@@ -1,9 +1,9 @@
 {
   "postId": "76027",
-  "fetchedAt": "2026-05-21T14:10:28+08:00",
+  "fetchedAt": "2026-05-22T14:06:23+08:00",
   "totalCommentNum": 82,
-  "totalScanned": 51,
-  "expandedTopLevel": 2,
+  "totalScanned": 69,
+  "expandedTopLevel": 3,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:55:12",
       "ipLocation": "北京市",
-      "likeNum": 72,
+      "likeNum": 120,
       "parent": {
         "id": 2110015,
         "userName": "知雄守雌",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-05-21T11:53:15",
         "ipLocation": "上海市",
-        "likeNum": 16
+        "likeNum": 25
       },
       "replyTo": null
     },
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-21T12:14:49",
       "ipLocation": "北京市",
-      "likeNum": 109,
+      "likeNum": 195,
       "parent": {
         "id": 2110495,
         "userName": "小w",
@@ -45,7 +45,7 @@
         "images": [],
         "createdAt": "2026-05-21T12:06:07",
         "ipLocation": "湖北省",
-        "likeNum": 7
+        "likeNum": 17
       },
       "replyTo": null
     },
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-05-21T12:15:44",
       "ipLocation": "北京市",
-      "likeNum": 69,
+      "likeNum": 127,
       "parent": {
         "id": 2110243,
         "userName": "阿海-",
@@ -66,7 +66,7 @@
         "images": [],
         "createdAt": "2026-05-21T11:57:28",
         "ipLocation": "广东省",
-        "likeNum": 11
+        "likeNum": 18
       },
       "replyTo": null
     }

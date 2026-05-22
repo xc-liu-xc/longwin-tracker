@@ -1,0 +1,130 @@
+{
+  "postId": "76063",
+  "fetchedAt": "2026-05-22T14:07:00+08:00",
+  "totalCommentNum": 248,
+  "totalScanned": 147,
+  "expandedTopLevel": 8,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2116225,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不是，虽然低于历史平均，也没那么值。因为A股是真的超级变态，每次熊市都是好多年。也确实要考虑各位的心情。",
+      "images": [],
+      "createdAt": "2026-05-21T17:14:39",
+      "ipLocation": "北京市",
+      "likeNum": 121,
+      "parent": {
+        "id": 2115955,
+        "userName": "浩瀚星辰",
+        "content": "哎，主要是喷子太多，老大要更保守地追求绝对收益了，本来中低估值区间也是不错的买入位置，因为投资是件讲概率的事情，越靠近底的位置的概率越小。。。好久没见新米了，是不是也被喷子喷走了。",
+        "images": [],
+        "createdAt": "2026-05-21T16:55:30",
+        "ipLocation": "广东省",
+        "likeNum": 8
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2116363,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不用管，自动跟车即可。另外你可以打开“补仓提醒”。找那些差价大的，比如比我买入价低20%甚至30%以上的选自己想补的补。医药中概现在都在补仓范围内。",
+      "images": [],
+      "createdAt": "2026-05-21T17:27:32",
+      "ipLocation": "北京市",
+      "likeNum": 119,
+      "parent": {
+        "id": 2116267,
+        "userName": "阿观",
+        "content": "我不是黑粉，我从好多年前听说E大，在且慢跟投一年多了。我只是提醒我就补仓，正常自动跟车，每份2000，从没自己主动操作加仓或者减仓，相信且慢相信E大。但是，我自己买的科技都吃了30%盈利，出来了，结果这个指数长赢，还给我绿！为什么E大这些暴跌的指数我就都跟他份数一致，其他那些能红的指数我的一份都没自动买，系统都没有自动买入，系统从来没有提示过？有没有老粉丝跟我答疑解惑一下，我看到最近E大说的中证红利，我想买，系统也不提醒我跟车，是不是我要自己凑上去买？还有医药，中概都跌成啥样了，我想抄底长线投资我觉得可以买入了，但是系统也没提醒跟车，我不敢下啊？求求解答！",
+        "images": [
+          "https://cdn-community.qieman.com/2D733659-E9DF-47ED-A9FD-8959CAD4C468.png?x-oss-process=image/watermark,text_5LiU5oWiLemYv-ingg,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_26,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/DE428CCE-B19C-4BB6-A174-2C82FCD3ABA8.jpg?x-oss-process=image/watermark,text_5LiU5oWiLemYv-ingg,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_35,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/FCFB7BD0-150A-40ED-A5C4-6DB1B3580A7E.jpg?x-oss-process=image/watermark,text_5LiU5oWiLemYv-ingg,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_35,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-05-21T17:19:02",
+        "ipLocation": "广东省",
+        "likeNum": 11
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2116561,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "说实话，也基本只有医药、中概、消费在补仓范围内了。所有品种只有这几个不赚钱了，赚钱的你是不可以补仓的。",
+      "images": [],
+      "createdAt": "2026-05-21T17:43:34",
+      "ipLocation": "北京市",
+      "likeNum": 90,
+      "parent": {
+        "id": 2116267,
+        "userName": "阿观",
+        "content": "我不是黑粉，我从好多年前听说E大，在且慢跟投一年多了。我只是提醒我就补仓，正常自动跟车，每份2000，从没自己主动操作加仓或者减仓，相信且慢相信E大。但是，我自己买的科技都吃了30%盈利，出来了，结果这个指数长赢，还给我绿！为什么E大这些暴跌的指数我就都跟他份数一致，其他那些能红的指数我的一份都没自动买，系统都没有自动买入，系统从来没有提示过？有没有老粉丝跟我答疑解惑一下，我看到最近E大说的中证红利，我想买，系统也不提醒我跟车，是不是我要自己凑上去买？还有医药，中概都跌成啥样了，我想抄底长线投资我觉得可以买入了，但是系统也没提醒跟车，我不敢下啊？求求解答！",
+        "images": [
+          "https://cdn-community.qieman.com/2D733659-E9DF-47ED-A9FD-8959CAD4C468.png?x-oss-process=image/watermark,text_5LiU5oWiLemYv-ingg,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_26,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/DE428CCE-B19C-4BB6-A174-2C82FCD3ABA8.jpg?x-oss-process=image/watermark,text_5LiU5oWiLemYv-ingg,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_35,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/FCFB7BD0-150A-40ED-A5C4-6DB1B3580A7E.jpg?x-oss-process=image/watermark,text_5LiU5oWiLemYv-ingg,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_35,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-05-21T17:19:02",
+        "ipLocation": "广东省",
+        "likeNum": 11
+      },
+      "replyTo": {
+        "id": 2116363,
+        "userName": "ETF拯救世界",
+        "content": "不用管，自动跟车即可。另外你可以打开“补仓提醒”。找那些差价大的，比如比我买入价低20%甚至30%以上的选自己想补的补。医药中概现在都在补仓范围内。",
+        "images": []
+      }
+    },
+    {
+      "type": "top",
+      "id": 2116591,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "因为沪深300涉及到3个基金（富国&华夏A/C），还做过波段，我更新个对应的“基金合并&长短融合”的指数视角的图吧：\n",
+      "images": [
+        "https://cdn-community.qieman.com/B95FDBEA-CFB7-41C7-B8FA-6B5F2DB682CA.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_50,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-05-21T17:46:48",
+      "ipLocation": "上海市",
+      "likeNum": 74
+    },
+    {
+      "type": "reply",
+      "id": 2116633,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "尽量不要改金额，容易乱。不过你改了就改了吧。红利我后续会加，等着就行了。",
+      "images": [],
+      "createdAt": "2026-05-21T17:51:37",
+      "ipLocation": "北京市",
+      "likeNum": 44,
+      "parent": {
+        "id": 2116267,
+        "userName": "阿观",
+        "content": "我不是黑粉，我从好多年前听说E大，在且慢跟投一年多了。我只是提醒我就补仓，正常自动跟车，每份2000，从没自己主动操作加仓或者减仓，相信且慢相信E大。但是，我自己买的科技都吃了30%盈利，出来了，结果这个指数长赢，还给我绿！为什么E大这些暴跌的指数我就都跟他份数一致，其他那些能红的指数我的一份都没自动买，系统都没有自动买入，系统从来没有提示过？有没有老粉丝跟我答疑解惑一下，我看到最近E大说的中证红利，我想买，系统也不提醒我跟车，是不是我要自己凑上去买？还有医药，中概都跌成啥样了，我想抄底长线投资我觉得可以买入了，但是系统也没提醒跟车，我不敢下啊？求求解答！",
+        "images": [
+          "https://cdn-community.qieman.com/2D733659-E9DF-47ED-A9FD-8959CAD4C468.png?x-oss-process=image/watermark,text_5LiU5oWiLemYv-ingg,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_26,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/DE428CCE-B19C-4BB6-A174-2C82FCD3ABA8.jpg?x-oss-process=image/watermark,text_5LiU5oWiLemYv-ingg,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_35,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/FCFB7BD0-150A-40ED-A5C4-6DB1B3580A7E.jpg?x-oss-process=image/watermark,text_5LiU5oWiLemYv-ingg,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_35,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-05-21T17:19:02",
+        "ipLocation": "广东省",
+        "likeNum": 11
+      },
+      "replyTo": {
+        "id": 2116531,
+        "userName": "阿观",
+        "content": "补仓提醒一直都有打开，最近一直提醒补仓富国消费，哈哈哈。就是之前每一次补仓提醒都有加入。他就是不提醒我补仓中证红利，E大您都买了13份了，我这，一份都没买，也不提醒的。我是不是可以自己加仓买入中证红利了呢",
+        "images": []
+      }
+    }
+  ]
+}

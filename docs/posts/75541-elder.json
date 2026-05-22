@@ -1,8 +1,8 @@
 {
   "postId": "75541",
-  "fetchedAt": "2026-05-21T14:15:32+08:00",
+  "fetchedAt": "2026-05-22T14:12:17+08:00",
   "totalCommentNum": 314,
-  "totalScanned": 334,
+  "totalScanned": 335,
   "expandedTopLevel": 4,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-05-16T18:54:38",
       "ipLocation": "北京市",
-      "likeNum": 251,
+      "likeNum": 252,
       "parent": {
         "id": 2063479,
         "userName": "ETF拯救世界",

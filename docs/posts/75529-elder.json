@@ -1,8 +1,8 @@
 {
   "postId": "75529",
-  "fetchedAt": "2026-05-21T14:14:44+08:00",
+  "fetchedAt": "2026-05-22T14:11:39+08:00",
   "totalCommentNum": 301,
-  "totalScanned": 412,
+  "totalScanned": 413,
   "expandedTopLevel": 10,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:12:58",
       "ipLocation": "北京市",
-      "likeNum": 198,
+      "likeNum": 200,
       "parent": {
         "id": 2059267,
         "userName": "闲看云卷云舒",
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:20:59",
       "ipLocation": "北京市",
-      "likeNum": 88,
+      "likeNum": 89,
       "parent": {
         "id": 2059735,
         "userName": "QT123",
@@ -184,7 +184,7 @@
       "images": [],
       "createdAt": "2026-05-16T12:31:10",
       "ipLocation": "北京市",
-      "likeNum": 150,
+      "likeNum": 152,
       "parent": {
         "id": 2060185,
         "userName": "投资合伙人",
@@ -192,7 +192,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:26:00",
         "ipLocation": "山东省",
-        "likeNum": 10
+        "likeNum": 11
       },
       "replyTo": null
     },
@@ -205,7 +205,7 @@
       "images": [],
       "createdAt": "2026-05-16T16:02:40",
       "ipLocation": "北京市",
-      "likeNum": 129,
+      "likeNum": 130,
       "parent": {
         "id": 2060185,
         "userName": "投资合伙人",
@@ -213,7 +213,7 @@
         "images": [],
         "createdAt": "2026-05-16T11:26:00",
         "ipLocation": "山东省",
-        "likeNum": 10
+        "likeNum": 11
       },
       "replyTo": {
         "id": 2061421,

@@ -1,8 +1,8 @@
 {
   "postId": "75739",
-  "fetchedAt": "2026-05-21T14:11:51+08:00",
+  "fetchedAt": "2026-05-22T14:09:20+08:00",
   "totalCommentNum": 298,
-  "totalScanned": 244,
+  "totalScanned": 245,
   "expandedTopLevel": 12,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-19T09:44:20",
       "ipLocation": "北京市",
-      "likeNum": 503,
+      "likeNum": 505,
       "parent": {
         "id": 2088397,
         "userName": "投资-小白",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-05-19T09:42:28",
         "ipLocation": "贵州省",
-        "likeNum": 30
+        "likeNum": 31
       },
       "replyTo": null
     },
@@ -40,7 +40,7 @@
       ],
       "createdAt": "2026-05-19T09:44:24",
       "ipLocation": "上海市",
-      "likeNum": 208
+      "likeNum": 209
     }
   ]
 }

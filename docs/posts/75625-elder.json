@@ -1,6 +1,6 @@
 {
   "postId": "75625",
-  "fetchedAt": "2026-05-21T14:13:20+08:00",
+  "fetchedAt": "2026-05-22T14:10:29+08:00",
   "totalCommentNum": 205,
   "totalScanned": 180,
   "expandedTopLevel": 5,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-18T11:36:39",
       "ipLocation": "北京市",
-      "likeNum": 326,
+      "likeNum": 329,
       "parent": {
         "id": 2078761,
         "userName": "红魔披头士",

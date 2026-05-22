@@ -1,8 +1,8 @@
 {
   "postId": "75709",
-  "fetchedAt": "2026-05-21T14:11:22+08:00",
+  "fetchedAt": "2026-05-22T14:08:56+08:00",
   "totalCommentNum": 175,
-  "totalScanned": 173,
+  "totalScanned": 174,
   "expandedTopLevel": 3,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-19T08:57:14",
       "ipLocation": "北京市",
-      "likeNum": 243,
+      "likeNum": 244,
       "parent": {
         "id": 2087647,
         "userName": "科技想要什么",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-19T09:02:16",
       "ipLocation": "北京市",
-      "likeNum": 185
+      "likeNum": 186
     }
   ]
 }

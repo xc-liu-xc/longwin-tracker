@@ -1,0 +1,120 @@
+{
+  "postId": "76087",
+  "fetchedAt": "2026-05-22T14:07:22+08:00",
+  "totalCommentNum": 465,
+  "totalScanned": 325,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2118169,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我没那个闲工夫。做研究每天晚上到1点，哪有功夫弄那些玩意儿。而且我喜欢写文章跟大家聊天。",
+      "images": [],
+      "createdAt": "2026-05-21T19:49:54",
+      "ipLocation": "北京市",
+      "likeNum": 346,
+      "parent": {
+        "id": 2117335,
+        "userName": "阿木木123",
+        "content": "E 大会用 AI 训练自己的语料来发贴吗？我感觉我敏感了。",
+        "images": [],
+        "createdAt": "2026-05-21T19:35:31",
+        "ipLocation": "广东省",
+        "likeNum": 6
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2118223,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "关键不是暴涨暴跌，而是时间。时间太长了，感受就特别不好。",
+      "images": [],
+      "createdAt": "2026-05-21T19:52:13",
+      "ipLocation": "北京市",
+      "likeNum": 244
+    },
+    {
+      "type": "top",
+      "id": 2118583,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【图1】拿手机看了一眼沪深300全收益&沪深300。\n【图2】然后，上述数据，用沪深300（000300）视角看的话，是这样的画面，大面积的回撤，确实…一直在回本的路上…\n从2002/01/04到今天，统计了5912个交易日，其中回撤为0%的日子，只有127天，占比仅2.1%，也没忍住，笑了一下。",
+      "images": [
+        "https://cdn-community.qieman.com/2BEA4DDA-236D-429B-B55D-588FBD96BF4E.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/A5C79C75-EA8D-443A-ADE8-E33F77EE49B3.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_42,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-05-21T20:06:43",
+      "ipLocation": "上海市",
+      "likeNum": 72
+    },
+    {
+      "type": "top",
+      "id": 2118631,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这不是沪深300不行。中证500到现在3994天还没有创出2015年以来的新高。11年了。",
+      "images": [],
+      "createdAt": "2026-05-21T20:09:11",
+      "ipLocation": "北京市",
+      "likeNum": 153
+    },
+    {
+      "type": "reply",
+      "id": 2118775,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "是。很多时候心情不好。我不喜欢现在的状态。",
+      "images": [],
+      "createdAt": "2026-05-21T20:16:49",
+      "ipLocation": "北京市",
+      "likeNum": 38,
+      "parent": {
+        "id": 2117917,
+        "userName": "ETF拯救世界和我",
+        "content": "唉，感觉E大都不是以前那么阳光了",
+        "images": [],
+        "createdAt": "2026-05-21T19:43:37",
+        "ipLocation": "山西省",
+        "likeNum": 10
+      },
+      "replyTo": {
+        "id": 2117953,
+        "userName": "ETF拯救世界和我",
+        "content": "最近一直在整理E大文集，感觉现在的E大很难受",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2118883,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【留言2】【图3】中证500\n从2004/12/31到今天，统计5191天，回撤为0%的日子，仅177天，也就是历史长创新高的日子，占比只有3.4%，2015年之后，目前还“未回本”",
+      "images": [
+        "https://cdn-community.qieman.com/CF408253-0EC6-4501-9CDC-639B929835D9.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_30,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-05-21T20:21:46",
+      "ipLocation": "上海市",
+      "likeNum": 35,
+      "parent": {
+        "id": 2118583,
+        "userName": "新米练习菌",
+        "content": "【图1】拿手机看了一眼沪深300全收益&沪深300。\n【图2】然后，上述数据，用沪深300（000300）视角看的话，是这样的画面，大面积的回撤，确实…一直在回本的路上…\n从2002/01/04到今天，统计了5912个交易日，其中回撤为0%的日子，只有127天，占比仅2.1%，也没忍住，笑了一下。",
+        "images": [
+          "https://cdn-community.qieman.com/2BEA4DDA-236D-429B-B55D-588FBD96BF4E.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/A5C79C75-EA8D-443A-ADE8-E33F77EE49B3.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_42,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-05-21T20:06:43",
+        "ipLocation": "上海市",
+        "likeNum": 72
+      },
+      "replyTo": null
+    }
+  ]
+}
