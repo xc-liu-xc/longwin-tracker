@@ -1,8 +1,8 @@
 {
   "postId": "75553",
-  "fetchedAt": "2026-05-22T14:13:33+08:00",
+  "fetchedAt": "2026-05-23T13:48:56+08:00",
   "totalCommentNum": 795,
-  "totalScanned": 930,
+  "totalScanned": 931,
   "expandedTopLevel": 6,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-16T21:08:55",
       "ipLocation": "北京市",
-      "likeNum": 441,
+      "likeNum": 445,
       "parent": {
         "id": 2066287,
         "userName": "花傲天yu",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-16T21:17:56",
       "ipLocation": "北京市",
-      "likeNum": 302,
+      "likeNum": 304,
       "parent": {
         "id": 2067193,
         "userName": "有粥喝粥有饭吃饭",
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-05-16T21:34:49",
       "ipLocation": "北京市",
-      "likeNum": 412
+      "likeNum": 414
     },
     {
       "type": "reply",
@@ -69,7 +69,7 @@
       "images": [],
       "createdAt": "2026-05-16T22:02:31",
       "ipLocation": "北京市",
-      "likeNum": 132,
+      "likeNum": 133,
       "parent": {
         "id": 2067193,
         "userName": "有粥喝粥有饭吃饭",
@@ -95,7 +95,7 @@
       "images": [],
       "createdAt": "2026-05-16T22:10:31",
       "ipLocation": "北京市",
-      "likeNum": 535,
+      "likeNum": 539,
       "parent": {
         "id": 2066287,
         "userName": "花傲天yu",
@@ -121,7 +121,7 @@
       "images": [],
       "createdAt": "2026-05-16T22:14:28",
       "ipLocation": "北京市",
-      "likeNum": 213,
+      "likeNum": 217,
       "parent": {
         "id": 2066287,
         "userName": "花傲天yu",

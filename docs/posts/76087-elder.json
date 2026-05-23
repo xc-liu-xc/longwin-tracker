@@ -1,9 +1,9 @@
 {
   "postId": "76087",
-  "fetchedAt": "2026-05-22T14:07:22+08:00",
+  "fetchedAt": "2026-05-23T13:41:31+08:00",
   "totalCommentNum": 465,
-  "totalScanned": 325,
-  "expandedTopLevel": 7,
+  "totalScanned": 347,
+  "expandedTopLevel": 8,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-21T19:49:54",
       "ipLocation": "北京市",
-      "likeNum": 346,
+      "likeNum": 409,
       "parent": {
         "id": 2117335,
         "userName": "阿木木123",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-05-21T19:35:31",
         "ipLocation": "广东省",
-        "likeNum": 6
+        "likeNum": 8
       },
       "replyTo": null
     },
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-21T19:52:13",
       "ipLocation": "北京市",
-      "likeNum": 244
+      "likeNum": 284
     },
     {
       "type": "top",
@@ -51,7 +51,7 @@
       ],
       "createdAt": "2026-05-21T20:06:43",
       "ipLocation": "上海市",
-      "likeNum": 72
+      "likeNum": 91
     },
     {
       "type": "top",
@@ -62,7 +62,7 @@
       "images": [],
       "createdAt": "2026-05-21T20:09:11",
       "ipLocation": "北京市",
-      "likeNum": 153
+      "likeNum": 183
     },
     {
       "type": "reply",
@@ -73,7 +73,7 @@
       "images": [],
       "createdAt": "2026-05-21T20:16:49",
       "ipLocation": "北京市",
-      "likeNum": 38,
+      "likeNum": 41,
       "parent": {
         "id": 2117917,
         "userName": "ETF拯救世界和我",
@@ -101,7 +101,7 @@
       ],
       "createdAt": "2026-05-21T20:21:46",
       "ipLocation": "上海市",
-      "likeNum": 35,
+      "likeNum": 46,
       "parent": {
         "id": 2118583,
         "userName": "新米练习菌",
@@ -112,7 +112,7 @@
         ],
         "createdAt": "2026-05-21T20:06:43",
         "ipLocation": "上海市",
-        "likeNum": 72
+        "likeNum": 91
       },
       "replyTo": null
     }

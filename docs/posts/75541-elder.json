@@ -1,6 +1,6 @@
 {
   "postId": "75541",
-  "fetchedAt": "2026-05-22T14:12:17+08:00",
+  "fetchedAt": "2026-05-23T13:47:29+08:00",
   "totalCommentNum": 314,
   "totalScanned": 335,
   "expandedTopLevel": 4,
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-05-16T18:54:38",
       "ipLocation": "北京市",
-      "likeNum": 252,
+      "likeNum": 253,
       "parent": {
         "id": 2063479,
         "userName": "ETF拯救世界",
@@ -53,7 +53,7 @@
       "images": [],
       "createdAt": "2026-05-16T20:18:21",
       "ipLocation": "北京市",
-      "likeNum": 166,
+      "likeNum": 167,
       "parent": {
         "id": 2064121,
         "userName": "全息基金",

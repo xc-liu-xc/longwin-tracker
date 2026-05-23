@@ -1,6 +1,6 @@
 {
   "postId": "75529",
-  "fetchedAt": "2026-05-22T14:11:39+08:00",
+  "fetchedAt": "2026-05-23T13:46:46+08:00",
   "totalCommentNum": 301,
   "totalScanned": 413,
   "expandedTopLevel": 10,
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-05-16T11:20:59",
       "ipLocation": "北京市",
-      "likeNum": 89,
+      "likeNum": 90,
       "parent": {
         "id": 2059735,
         "userName": "QT123",
@@ -142,7 +142,7 @@
       "images": [],
       "createdAt": "2026-05-16T12:27:21",
       "ipLocation": "北京市",
-      "likeNum": 94,
+      "likeNum": 95,
       "parent": {
         "id": 2060569,
         "userName": "E起富起来",
@@ -184,7 +184,7 @@
       "images": [],
       "createdAt": "2026-05-16T12:31:10",
       "ipLocation": "北京市",
-      "likeNum": 152,
+      "likeNum": 153,
       "parent": {
         "id": 2060185,
         "userName": "投资合伙人",
@@ -205,7 +205,7 @@
       "images": [],
       "createdAt": "2026-05-16T16:02:40",
       "ipLocation": "北京市",
-      "likeNum": 130,
+      "likeNum": 131,
       "parent": {
         "id": 2060185,
         "userName": "投资合伙人",

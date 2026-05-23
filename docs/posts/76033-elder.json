@@ -1,8 +1,8 @@
 {
   "postId": "76033",
-  "fetchedAt": "2026-05-22T14:06:34+08:00",
+  "fetchedAt": "2026-05-23T13:40:26+08:00",
   "totalCommentNum": 110,
-  "totalScanned": 122,
+  "totalScanned": 123,
   "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-21T12:34:25",
       "ipLocation": "北京市",
-      "likeNum": 107,
+      "likeNum": 113,
       "parent": {
         "id": 2111113,
         "userName": "望山山是你",
@@ -40,7 +40,7 @@
       ],
       "createdAt": "2026-05-21T12:43:21",
       "ipLocation": "上海市",
-      "likeNum": 178
+      "likeNum": 185
     },
     {
       "type": "reply",
@@ -51,7 +51,7 @@
       "images": [],
       "createdAt": "2026-05-21T13:17:57",
       "ipLocation": "北京市",
-      "likeNum": 93,
+      "likeNum": 100,
       "parent": {
         "id": 2111113,
         "userName": "望山山是你",

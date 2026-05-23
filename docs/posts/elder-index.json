@@ -8295,7 +8295,7 @@
     "totalScanned": 413,
     "expandedTopLevel": 10,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:11:39+08:00"
+    "fetchedAt": "2026-05-23T13:46:46+08:00"
   },
   "75535": {
     "elderCount": 8,
@@ -8307,7 +8307,7 @@
     "totalScanned": 255,
     "expandedTopLevel": 7,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:11:58+08:00"
+    "fetchedAt": "2026-05-23T13:47:07+08:00"
   },
   "75541": {
     "elderCount": 3,
@@ -8318,16 +8318,16 @@
     "totalScanned": 335,
     "expandedTopLevel": 4,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:12:17+08:00"
+    "fetchedAt": "2026-05-23T13:47:29+08:00"
   },
   "75547": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 216,
-    "totalScanned": 286,
+    "totalScanned": 287,
     "expandedTopLevel": 2,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:12:32+08:00"
+    "fetchedAt": "2026-05-23T13:47:46+08:00"
   },
   "75553": {
     "elderCount": 6,
@@ -8335,19 +8335,19 @@
       "ETF拯救世界": 6
     },
     "totalCommentNum": 795,
-    "totalScanned": 930,
+    "totalScanned": 931,
     "expandedTopLevel": 6,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:13:33+08:00"
+    "fetchedAt": "2026-05-23T13:48:56+08:00"
   },
   "75613": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 571,
-    "totalScanned": 558,
+    "totalScanned": 555,
     "expandedTopLevel": 4,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:10:14+08:00"
+    "fetchedAt": "2026-05-23T13:45:06+08:00"
   },
   "75625": {
     "elderCount": 3,
@@ -8359,16 +8359,16 @@
     "totalScanned": 180,
     "expandedTopLevel": 5,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:10:29+08:00"
+    "fetchedAt": "2026-05-23T13:45:24+08:00"
   },
   "75643": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 235,
     "totalScanned": 558,
-    "expandedTopLevel": 12,
+    "expandedTopLevel": 13,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:11:10+08:00"
+    "fetchedAt": "2026-05-23T13:46:12+08:00"
   },
   "75709": {
     "elderCount": 2,
@@ -8379,7 +8379,7 @@
     "totalScanned": 174,
     "expandedTopLevel": 3,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:08:56+08:00"
+    "fetchedAt": "2026-05-23T13:43:37+08:00"
   },
   "75739": {
     "elderCount": 2,
@@ -8388,10 +8388,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 298,
-    "totalScanned": 245,
-    "expandedTopLevel": 12,
+    "totalScanned": 244,
+    "expandedTopLevel": 11,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:09:20+08:00"
+    "fetchedAt": "2026-05-23T13:44:04+08:00"
   },
   "75721": {
     "elderCount": 0,
@@ -8400,7 +8400,7 @@
     "totalScanned": 36,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:09:21+08:00"
+    "fetchedAt": "2026-05-23T13:44:06+08:00"
   },
   "75727": {
     "elderCount": 0,
@@ -8409,7 +8409,7 @@
     "totalScanned": 28,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:09:23+08:00"
+    "fetchedAt": "2026-05-23T13:44:07+08:00"
   },
   "75823": {
     "elderCount": 3,
@@ -8421,7 +8421,7 @@
     "totalScanned": 387,
     "expandedTopLevel": 10,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:08:46+08:00"
+    "fetchedAt": "2026-05-23T13:43:25+08:00"
   },
   "75775": {
     "elderCount": 11,
@@ -8432,7 +8432,7 @@
     "totalScanned": 227,
     "expandedTopLevel": 9,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:09:44+08:00"
+    "fetchedAt": "2026-05-23T13:44:33+08:00"
   },
   "76003": {
     "elderCount": 2,
@@ -8440,10 +8440,10 @@
       "新米练习菌": 2
     },
     "totalCommentNum": 1101,
-    "totalScanned": 1155,
+    "totalScanned": 1166,
     "expandedTopLevel": 5,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:05:54+08:00"
+    "fetchedAt": "2026-05-23T13:39:37+08:00"
   },
   "76009": {
     "elderCount": 11,
@@ -8455,7 +8455,7 @@
     "totalScanned": 373,
     "expandedTopLevel": 9,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:06:18+08:00"
+    "fetchedAt": "2026-05-23T13:40:08+08:00"
   },
   "76027": {
     "elderCount": 3,
@@ -8466,7 +8466,7 @@
     "totalScanned": 69,
     "expandedTopLevel": 3,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:06:23+08:00"
+    "fetchedAt": "2026-05-23T13:40:14+08:00"
   },
   "76033": {
     "elderCount": 3,
@@ -8475,10 +8475,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 110,
-    "totalScanned": 122,
+    "totalScanned": 123,
     "expandedTopLevel": 5,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:06:34+08:00"
+    "fetchedAt": "2026-05-23T13:40:26+08:00"
   },
   "76045": {
     "elderCount": 1,
@@ -8486,10 +8486,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 286,
-    "totalScanned": 203,
+    "totalScanned": 205,
     "expandedTopLevel": 5,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:06:47+08:00"
+    "fetchedAt": "2026-05-23T13:40:43+08:00"
   },
   "76063": {
     "elderCount": 5,
@@ -8498,10 +8498,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 248,
-    "totalScanned": 147,
-    "expandedTopLevel": 8,
+    "totalScanned": 152,
+    "expandedTopLevel": 10,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:07:00+08:00"
+    "fetchedAt": "2026-05-23T13:41:01+08:00"
   },
   "76087": {
     "elderCount": 6,
@@ -8510,18 +8510,18 @@
       "新米练习菌": 2
     },
     "totalCommentNum": 465,
-    "totalScanned": 325,
-    "expandedTopLevel": 7,
+    "totalScanned": 347,
+    "expandedTopLevel": 8,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:07:22+08:00"
+    "fetchedAt": "2026-05-23T13:41:31+08:00"
   },
   "76099": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 1112,
-    "totalScanned": 1022,
-    "expandedTopLevel": 4,
+    "totalScanned": 1171,
+    "expandedTopLevel": 11,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-22T14:08:16+08:00"
+    "fetchedAt": "2026-05-23T13:42:52+08:00"
   }
 }

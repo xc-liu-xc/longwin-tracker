@@ -1,9 +1,9 @@
 {
   "postId": "76063",
-  "fetchedAt": "2026-05-22T14:07:00+08:00",
+  "fetchedAt": "2026-05-23T13:41:01+08:00",
   "totalCommentNum": 248,
-  "totalScanned": 147,
-  "expandedTopLevel": 8,
+  "totalScanned": 152,
+  "expandedTopLevel": 10,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-21T17:14:39",
       "ipLocation": "北京市",
-      "likeNum": 121,
+      "likeNum": 145,
       "parent": {
         "id": 2115955,
         "userName": "浩瀚星辰",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-05-21T16:55:30",
         "ipLocation": "广东省",
-        "likeNum": 8
+        "likeNum": 10
       },
       "replyTo": null
     },
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-21T17:27:32",
       "ipLocation": "北京市",
-      "likeNum": 119,
+      "likeNum": 139,
       "parent": {
         "id": 2116267,
         "userName": "阿观",
@@ -49,7 +49,7 @@
         ],
         "createdAt": "2026-05-21T17:19:02",
         "ipLocation": "广东省",
-        "likeNum": 11
+        "likeNum": 15
       },
       "replyTo": null
     },
@@ -62,7 +62,7 @@
       "images": [],
       "createdAt": "2026-05-21T17:43:34",
       "ipLocation": "北京市",
-      "likeNum": 90,
+      "likeNum": 108,
       "parent": {
         "id": 2116267,
         "userName": "阿观",
@@ -74,7 +74,7 @@
         ],
         "createdAt": "2026-05-21T17:19:02",
         "ipLocation": "广东省",
-        "likeNum": 11
+        "likeNum": 15
       },
       "replyTo": {
         "id": 2116363,
@@ -94,7 +94,7 @@
       ],
       "createdAt": "2026-05-21T17:46:48",
       "ipLocation": "上海市",
-      "likeNum": 74
+      "likeNum": 89
     },
     {
       "type": "reply",
@@ -105,7 +105,7 @@
       "images": [],
       "createdAt": "2026-05-21T17:51:37",
       "ipLocation": "北京市",
-      "likeNum": 44,
+      "likeNum": 50,
       "parent": {
         "id": 2116267,
         "userName": "阿观",
@@ -117,7 +117,7 @@
         ],
         "createdAt": "2026-05-21T17:19:02",
         "ipLocation": "广东省",
-        "likeNum": 11
+        "likeNum": 15
       },
       "replyTo": {
         "id": 2116531,

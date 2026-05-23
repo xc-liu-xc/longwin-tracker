@@ -1,8 +1,8 @@
 {
   "postId": "76045",
-  "fetchedAt": "2026-05-22T14:06:47+08:00",
+  "fetchedAt": "2026-05-23T13:40:43+08:00",
   "totalCommentNum": 286,
-  "totalScanned": 203,
+  "totalScanned": 205,
   "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -18,7 +18,7 @@
       ],
       "createdAt": "2026-05-21T14:52:00",
       "ipLocation": "上海市",
-      "likeNum": 294
+      "likeNum": 321
     }
   ]
 }
