@@ -1,6 +1,6 @@
 {
   "postId": "75625",
-  "fetchedAt": "2026-05-23T13:45:24+08:00",
+  "fetchedAt": "2026-05-24T14:05:42+08:00",
   "totalCommentNum": 205,
   "totalScanned": 180,
   "expandedTopLevel": 5,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-18T11:36:39",
       "ipLocation": "北京市",
-      "likeNum": 330,
+      "likeNum": 331,
       "parent": {
         "id": 2078761,
         "userName": "红魔披头士",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-05-18T11:32:53",
         "ipLocation": "山西省",
-        "likeNum": 88
+        "likeNum": 89
       },
       "replyTo": null
     },
@@ -41,7 +41,7 @@
       ],
       "createdAt": "2026-05-18T11:42:07",
       "ipLocation": "上海市",
-      "likeNum": 205
+      "likeNum": 206
     },
     {
       "type": "reply",
@@ -55,7 +55,7 @@
       ],
       "createdAt": "2026-05-18T12:02:15",
       "ipLocation": "上海市",
-      "likeNum": 107,
+      "likeNum": 109,
       "parent": {
         "id": 2079139,
         "userName": "新米练习菌",
@@ -67,7 +67,7 @@
         ],
         "createdAt": "2026-05-18T11:42:07",
         "ipLocation": "上海市",
-        "likeNum": 205
+        "likeNum": 206
       },
       "replyTo": null
     }

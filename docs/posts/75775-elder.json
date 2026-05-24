@@ -1,6 +1,6 @@
 {
   "postId": "75775",
-  "fetchedAt": "2026-05-23T13:44:33+08:00",
+  "fetchedAt": "2026-05-24T14:04:58+08:00",
   "totalCommentNum": 416,
   "totalScanned": 227,
   "expandedTopLevel": 9,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:13:46",
       "ipLocation": "北京市",
-      "likeNum": 160
+      "likeNum": 161
     },
     {
       "type": "top",
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:25:54",
       "ipLocation": "北京市",
-      "likeNum": 220
+      "likeNum": 221
     },
     {
       "type": "reply",
@@ -38,7 +38,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:26:11",
       "ipLocation": "北京市",
-      "likeNum": 156,
+      "likeNum": 158,
       "parent": {
         "id": 2092189,
         "userName": "ETF拯救世界",
@@ -46,7 +46,7 @@
         "images": [],
         "createdAt": "2026-05-19T18:25:54",
         "ipLocation": "北京市",
-        "likeNum": 220
+        "likeNum": 221
       },
       "replyTo": null
     },
@@ -59,7 +59,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:28:05",
       "ipLocation": "北京市",
-      "likeNum": 61,
+      "likeNum": 63,
       "parent": {
         "id": 2091823,
         "userName": "ETF拯救世界",
@@ -67,7 +67,7 @@
         "images": [],
         "createdAt": "2026-05-19T18:13:46",
         "ipLocation": "北京市",
-        "likeNum": 160
+        "likeNum": 161
       },
       "replyTo": {
         "id": 2091973,
@@ -85,7 +85,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:35:30",
       "ipLocation": "北京市",
-      "likeNum": 139,
+      "likeNum": 141,
       "parent": {
         "id": 2091823,
         "userName": "ETF拯救世界",
@@ -93,7 +93,7 @@
         "images": [],
         "createdAt": "2026-05-19T18:13:46",
         "ipLocation": "北京市",
-        "likeNum": 160
+        "likeNum": 161
       },
       "replyTo": {
         "id": 2092153,
@@ -111,7 +111,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:38:46",
       "ipLocation": "北京市",
-      "likeNum": 165,
+      "likeNum": 167,
       "parent": {
         "id": 2092291,
         "userName": "刀疤博文",
@@ -132,7 +132,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:43:57",
       "ipLocation": "北京市",
-      "likeNum": 176,
+      "likeNum": 179,
       "parent": {
         "id": 2092189,
         "userName": "ETF拯救世界",
@@ -140,7 +140,7 @@
         "images": [],
         "createdAt": "2026-05-19T18:25:54",
         "ipLocation": "北京市",
-        "likeNum": 220
+        "likeNum": 221
       },
       "replyTo": {
         "id": 2092201,
@@ -158,7 +158,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:48:44",
       "ipLocation": "北京市",
-      "likeNum": 170,
+      "likeNum": 171,
       "parent": {
         "id": 2092417,
         "userName": "Elaine.",
@@ -179,7 +179,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:50:44",
       "ipLocation": "北京市",
-      "likeNum": 384,
+      "likeNum": 388,
       "parent": {
         "id": 2092345,
         "userName": "同路人_LP0s7r",
@@ -223,7 +223,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:54:57",
       "ipLocation": "北京市",
-      "likeNum": 233,
+      "likeNum": 234,
       "parent": {
         "id": 2092345,
         "userName": "同路人_LP0s7r",

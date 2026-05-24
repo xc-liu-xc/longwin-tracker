@@ -1,8 +1,8 @@
 {
   "postId": "76087",
-  "fetchedAt": "2026-05-23T13:41:31+08:00",
+  "fetchedAt": "2026-05-24T14:02:19+08:00",
   "totalCommentNum": 465,
-  "totalScanned": 347,
+  "totalScanned": 352,
   "expandedTopLevel": 8,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-21T19:49:54",
       "ipLocation": "北京市",
-      "likeNum": 409,
+      "likeNum": 427,
       "parent": {
         "id": 2117335,
         "userName": "阿木木123",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-21T19:52:13",
       "ipLocation": "北京市",
-      "likeNum": 284
+      "likeNum": 297
     },
     {
       "type": "top",
@@ -51,7 +51,7 @@
       ],
       "createdAt": "2026-05-21T20:06:43",
       "ipLocation": "上海市",
-      "likeNum": 91
+      "likeNum": 99
     },
     {
       "type": "top",
@@ -62,7 +62,7 @@
       "images": [],
       "createdAt": "2026-05-21T20:09:11",
       "ipLocation": "北京市",
-      "likeNum": 183
+      "likeNum": 191
     },
     {
       "type": "reply",
@@ -73,7 +73,7 @@
       "images": [],
       "createdAt": "2026-05-21T20:16:49",
       "ipLocation": "北京市",
-      "likeNum": 41,
+      "likeNum": 43,
       "parent": {
         "id": 2117917,
         "userName": "ETF拯救世界和我",
@@ -81,7 +81,7 @@
         "images": [],
         "createdAt": "2026-05-21T19:43:37",
         "ipLocation": "山西省",
-        "likeNum": 10
+        "likeNum": 11
       },
       "replyTo": {
         "id": 2117953,
@@ -101,7 +101,7 @@
       ],
       "createdAt": "2026-05-21T20:21:46",
       "ipLocation": "上海市",
-      "likeNum": 46,
+      "likeNum": 52,
       "parent": {
         "id": 2118583,
         "userName": "新米练习菌",
@@ -112,7 +112,7 @@
         ],
         "createdAt": "2026-05-21T20:06:43",
         "ipLocation": "上海市",
-        "likeNum": 91
+        "likeNum": 99
       },
       "replyTo": null
     }

@@ -1,6 +1,6 @@
 {
   "postId": "76009",
-  "fetchedAt": "2026-05-23T13:40:08+08:00",
+  "fetchedAt": "2026-05-24T14:01:09+08:00",
   "totalCommentNum": 429,
   "totalScanned": 373,
   "expandedTopLevel": 9,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:19:45",
       "ipLocation": "北京市",
-      "likeNum": 252,
+      "likeNum": 256,
       "parent": {
         "id": 2108233,
         "userName": "Iridescent",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:20:09",
       "ipLocation": "北京市",
-      "likeNum": 76,
+      "likeNum": 79,
       "parent": {
         "id": 2108215,
         "userName": "同路人_天地一沙鸥",
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:23:12",
       "ipLocation": "北京市",
-      "likeNum": 157,
+      "likeNum": 160,
       "parent": {
         "id": 2107429,
         "userName": "阿胜",
@@ -66,7 +66,7 @@
         "images": [],
         "createdAt": "2026-05-21T11:07:47",
         "ipLocation": "浙江省",
-        "likeNum": 7
+        "likeNum": 8
       },
       "replyTo": null
     },
@@ -79,7 +79,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:25:20",
       "ipLocation": "北京市",
-      "likeNum": 87,
+      "likeNum": 90,
       "parent": {
         "id": 2108599,
         "userName": "凡潇",
@@ -87,7 +87,7 @@
         "images": [],
         "createdAt": "2026-05-21T11:17:19",
         "ipLocation": "江西省",
-        "likeNum": 8
+        "likeNum": 9
       },
       "replyTo": null
     },
@@ -100,7 +100,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:26:08",
       "ipLocation": "北京市",
-      "likeNum": 86,
+      "likeNum": 89,
       "parent": {
         "id": 2108545,
         "userName": "15层的猫",
@@ -108,7 +108,7 @@
         "images": [],
         "createdAt": "2026-05-21T11:16:37",
         "ipLocation": "湖北省",
-        "likeNum": 9
+        "likeNum": 10
       },
       "replyTo": null
     },
@@ -121,7 +121,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:26:44",
       "ipLocation": "北京市",
-      "likeNum": 101,
+      "likeNum": 106,
       "parent": {
         "id": 2108413,
         "userName": "也许有一天会很有钱吧",
@@ -145,7 +145,7 @@
       ],
       "createdAt": "2026-05-21T11:34:55",
       "ipLocation": "上海市",
-      "likeNum": 104
+      "likeNum": 110
     },
     {
       "type": "reply",
@@ -156,7 +156,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:38:49",
       "ipLocation": "北京市",
-      "likeNum": 129,
+      "likeNum": 133,
       "parent": {
         "id": 2109379,
         "userName": "小卡拉米橙子",
@@ -164,7 +164,7 @@
         "images": [],
         "createdAt": "2026-05-21T11:33:15",
         "ipLocation": "湖北省",
-        "likeNum": 43
+        "likeNum": 45
       },
       "replyTo": null
     },
@@ -177,7 +177,7 @@
       "images": [],
       "createdAt": "2026-05-21T12:04:01",
       "ipLocation": "北京市",
-      "likeNum": 77,
+      "likeNum": 80,
       "parent": {
         "id": 2108599,
         "userName": "凡潇",
@@ -185,7 +185,7 @@
         "images": [],
         "createdAt": "2026-05-21T11:17:19",
         "ipLocation": "江西省",
-        "likeNum": 8
+        "likeNum": 9
       },
       "replyTo": {
         "id": 2109961,
@@ -203,7 +203,7 @@
       "images": [],
       "createdAt": "2026-05-21T12:04:52",
       "ipLocation": "北京市",
-      "likeNum": 76,
+      "likeNum": 79,
       "parent": {
         "id": 2108545,
         "userName": "15层的猫",
@@ -211,7 +211,7 @@
         "images": [],
         "createdAt": "2026-05-21T11:16:37",
         "ipLocation": "湖北省",
-        "likeNum": 9
+        "likeNum": 10
       },
       "replyTo": {
         "id": 2109319,
@@ -231,7 +231,7 @@
       ],
       "createdAt": "2026-05-21T12:12:14",
       "ipLocation": "北京市",
-      "likeNum": 138,
+      "likeNum": 142,
       "parent": {
         "id": 2110045,
         "userName": "狭窄的宇宙",
@@ -239,7 +239,7 @@
         "images": [],
         "createdAt": "2026-05-21T11:53:57",
         "ipLocation": "广东省",
-        "likeNum": 20
+        "likeNum": 21
       },
       "replyTo": null
     }
