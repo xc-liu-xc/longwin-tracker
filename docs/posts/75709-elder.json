@@ -1,6 +1,6 @@
 {
   "postId": "75709",
-  "fetchedAt": "2026-05-25T14:30:52+08:00",
+  "fetchedAt": "2026-05-26T14:09:50+08:00",
   "totalCommentNum": 175,
   "totalScanned": 174,
   "expandedTopLevel": 3,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-19T08:57:14",
       "ipLocation": "北京市",
-      "likeNum": 250,
+      "likeNum": 252,
       "parent": {
         "id": 2087647,
         "userName": "科技想要什么",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-19T09:02:16",
       "ipLocation": "北京市",
-      "likeNum": 191
+      "likeNum": 193
     }
   ]
 }

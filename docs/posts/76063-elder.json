@@ -1,8 +1,8 @@
 {
   "postId": "76063",
-  "fetchedAt": "2026-05-25T14:28:04+08:00",
+  "fetchedAt": "2026-05-26T14:07:08+08:00",
   "totalCommentNum": 248,
-  "totalScanned": 155,
+  "totalScanned": 157,
   "expandedTopLevel": 11,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-21T17:14:39",
       "ipLocation": "北京市",
-      "likeNum": 154,
+      "likeNum": 163,
       "parent": {
         "id": 2115955,
         "userName": "浩瀚星辰",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-21T17:27:32",
       "ipLocation": "北京市",
-      "likeNum": 149,
+      "likeNum": 160,
       "parent": {
         "id": 2116267,
         "userName": "阿观",
@@ -49,7 +49,7 @@
         ],
         "createdAt": "2026-05-21T17:19:02",
         "ipLocation": "广东省",
-        "likeNum": 17
+        "likeNum": 22
       },
       "replyTo": null
     },
@@ -62,7 +62,7 @@
       "images": [],
       "createdAt": "2026-05-21T17:43:34",
       "ipLocation": "北京市",
-      "likeNum": 118,
+      "likeNum": 127,
       "parent": {
         "id": 2116267,
         "userName": "阿观",
@@ -74,7 +74,7 @@
         ],
         "createdAt": "2026-05-21T17:19:02",
         "ipLocation": "广东省",
-        "likeNum": 17
+        "likeNum": 22
       },
       "replyTo": {
         "id": 2116363,
@@ -94,7 +94,7 @@
       ],
       "createdAt": "2026-05-21T17:46:48",
       "ipLocation": "上海市",
-      "likeNum": 103
+      "likeNum": 115
     },
     {
       "type": "reply",
@@ -105,7 +105,7 @@
       "images": [],
       "createdAt": "2026-05-21T17:51:37",
       "ipLocation": "北京市",
-      "likeNum": 53,
+      "likeNum": 57,
       "parent": {
         "id": 2116267,
         "userName": "阿观",
@@ -117,7 +117,7 @@
         ],
         "createdAt": "2026-05-21T17:19:02",
         "ipLocation": "广东省",
-        "likeNum": 17
+        "likeNum": 22
       },
       "replyTo": {
         "id": 2116531,

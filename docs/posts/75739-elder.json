@@ -1,6 +1,6 @@
 {
   "postId": "75739",
-  "fetchedAt": "2026-05-25T14:31:20+08:00",
+  "fetchedAt": "2026-05-26T14:10:11+08:00",
   "totalCommentNum": 298,
   "totalScanned": 244,
   "expandedTopLevel": 11,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-19T09:44:20",
       "ipLocation": "北京市",
-      "likeNum": 513,
+      "likeNum": 515,
       "parent": {
         "id": 2088397,
         "userName": "投资-小白",
@@ -40,7 +40,7 @@
       ],
       "createdAt": "2026-05-19T09:44:24",
       "ipLocation": "上海市",
-      "likeNum": 213
+      "likeNum": 214
     }
   ]
 }

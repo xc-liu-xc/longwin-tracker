@@ -8379,7 +8379,7 @@
     "totalScanned": 174,
     "expandedTopLevel": 3,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:30:52+08:00"
+    "fetchedAt": "2026-05-26T14:09:50+08:00"
   },
   "75739": {
     "elderCount": 2,
@@ -8391,7 +8391,7 @@
     "totalScanned": 244,
     "expandedTopLevel": 11,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:31:20+08:00"
+    "fetchedAt": "2026-05-26T14:10:11+08:00"
   },
   "75721": {
     "elderCount": 0,
@@ -8400,16 +8400,16 @@
     "totalScanned": 36,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:31:21+08:00"
+    "fetchedAt": "2026-05-26T14:10:12+08:00"
   },
   "75727": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 19,
-    "totalScanned": 28,
+    "totalScanned": 29,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:31:23+08:00"
+    "fetchedAt": "2026-05-26T14:10:14+08:00"
   },
   "75823": {
     "elderCount": 3,
@@ -8421,7 +8421,7 @@
     "totalScanned": 388,
     "expandedTopLevel": 11,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:30:41+08:00"
+    "fetchedAt": "2026-05-26T14:09:41+08:00"
   },
   "75775": {
     "elderCount": 11,
@@ -8432,7 +8432,7 @@
     "totalScanned": 227,
     "expandedTopLevel": 9,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:31:49+08:00"
+    "fetchedAt": "2026-05-26T14:10:38+08:00"
   },
   "76003": {
     "elderCount": 2,
@@ -8440,10 +8440,10 @@
       "新米练习菌": 2
     },
     "totalCommentNum": 1101,
-    "totalScanned": 1092,
+    "totalScanned": 1093,
     "expandedTopLevel": 5,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:26:39+08:00"
+    "fetchedAt": "2026-05-26T14:05:54+08:00"
   },
   "76009": {
     "elderCount": 11,
@@ -8455,7 +8455,7 @@
     "totalScanned": 373,
     "expandedTopLevel": 9,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:27:08+08:00"
+    "fetchedAt": "2026-05-26T14:06:19+08:00"
   },
   "76027": {
     "elderCount": 3,
@@ -8466,7 +8466,7 @@
     "totalScanned": 71,
     "expandedTopLevel": 3,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:27:15+08:00"
+    "fetchedAt": "2026-05-26T14:06:24+08:00"
   },
   "76033": {
     "elderCount": 3,
@@ -8475,10 +8475,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 110,
-    "totalScanned": 126,
+    "totalScanned": 127,
     "expandedTopLevel": 5,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:27:27+08:00"
+    "fetchedAt": "2026-05-26T14:06:35+08:00"
   },
   "76045": {
     "elderCount": 1,
@@ -8486,10 +8486,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 286,
-    "totalScanned": 208,
+    "totalScanned": 209,
     "expandedTopLevel": 6,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:27:44+08:00"
+    "fetchedAt": "2026-05-26T14:06:51+08:00"
   },
   "76063": {
     "elderCount": 5,
@@ -8498,10 +8498,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 248,
-    "totalScanned": 155,
+    "totalScanned": 157,
     "expandedTopLevel": 11,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:28:04+08:00"
+    "fetchedAt": "2026-05-26T14:07:08+08:00"
   },
   "76087": {
     "elderCount": 6,
@@ -8510,18 +8510,36 @@
       "新米练习菌": 2
     },
     "totalCommentNum": 465,
-    "totalScanned": 359,
+    "totalScanned": 368,
     "expandedTopLevel": 8,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:28:34+08:00"
+    "fetchedAt": "2026-05-26T14:07:34+08:00"
   },
   "76099": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 1112,
-    "totalScanned": 1258,
-    "expandedTopLevel": 19,
+    "totalScanned": 1387,
+    "expandedTopLevel": 25,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-25T14:30:06+08:00"
+    "fetchedAt": "2026-05-26T14:09:11+08:00"
+  },
+  "76387": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 22,
+    "totalScanned": 21,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-26T14:04:51+08:00"
+  },
+  "76393": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 38,
+    "totalScanned": 38,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-26T14:04:53+08:00"
   }
 }

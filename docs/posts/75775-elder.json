@@ -1,6 +1,6 @@
 {
   "postId": "75775",
-  "fetchedAt": "2026-05-25T14:31:49+08:00",
+  "fetchedAt": "2026-05-26T14:10:38+08:00",
   "totalCommentNum": 416,
   "totalScanned": 227,
   "expandedTopLevel": 9,
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:25:54",
       "ipLocation": "北京市",
-      "likeNum": 223
+      "likeNum": 224
     },
     {
       "type": "reply",
@@ -46,7 +46,7 @@
         "images": [],
         "createdAt": "2026-05-19T18:25:54",
         "ipLocation": "北京市",
-        "likeNum": 223
+        "likeNum": 224
       },
       "replyTo": null
     },
@@ -111,7 +111,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:38:46",
       "ipLocation": "北京市",
-      "likeNum": 169,
+      "likeNum": 170,
       "parent": {
         "id": 2092291,
         "userName": "刀疤博文",
@@ -140,7 +140,7 @@
         "images": [],
         "createdAt": "2026-05-19T18:25:54",
         "ipLocation": "北京市",
-        "likeNum": 223
+        "likeNum": 224
       },
       "replyTo": {
         "id": 2092201,
@@ -158,7 +158,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:48:44",
       "ipLocation": "北京市",
-      "likeNum": 173,
+      "likeNum": 175,
       "parent": {
         "id": 2092417,
         "userName": "Elaine.",
@@ -166,7 +166,7 @@
         "images": [],
         "createdAt": "2026-05-19T18:42:06",
         "ipLocation": "湖北省",
-        "likeNum": 21
+        "likeNum": 22
       },
       "replyTo": null
     },
@@ -179,7 +179,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:50:44",
       "ipLocation": "北京市",
-      "likeNum": 390,
+      "likeNum": 392,
       "parent": {
         "id": 2092345,
         "userName": "同路人_LP0s7r",
@@ -187,7 +187,7 @@
         "images": [],
         "createdAt": "2026-05-19T18:36:18",
         "ipLocation": "北京市",
-        "likeNum": 54
+        "likeNum": 55
       },
       "replyTo": null
     },
@@ -202,7 +202,7 @@
       ],
       "createdAt": "2026-05-19T18:53:17",
       "ipLocation": "北京市",
-      "likeNum": 95,
+      "likeNum": 96,
       "parent": {
         "id": 2092345,
         "userName": "同路人_LP0s7r",
@@ -210,7 +210,7 @@
         "images": [],
         "createdAt": "2026-05-19T18:36:18",
         "ipLocation": "北京市",
-        "likeNum": 54
+        "likeNum": 55
       },
       "replyTo": null
     },
@@ -223,7 +223,7 @@
       "images": [],
       "createdAt": "2026-05-19T18:54:57",
       "ipLocation": "北京市",
-      "likeNum": 235,
+      "likeNum": 236,
       "parent": {
         "id": 2092345,
         "userName": "同路人_LP0s7r",
@@ -231,7 +231,7 @@
         "images": [],
         "createdAt": "2026-05-19T18:36:18",
         "ipLocation": "北京市",
-        "likeNum": 54
+        "likeNum": 55
       },
       "replyTo": {
         "id": 2092513,
