@@ -1,12 +1,39 @@
 {
-  "updatedAt": "2026-05-26 14:03 CST",
+  "updatedAt": "2026-05-27 14:16 CST",
   "poName": "长赢指数投资计划-S定投",
-  "totalUnit": 212,
-  "investedUnit": 88,
-  "adjustedCount": 185,
-  "totalBuy": 157,
-  "totalSell": 74,
+  "totalUnit": 213,
+  "investedUnit": 89,
+  "adjustedCount": 186,
+  "totalBuy": 159,
+  "totalSell": 75,
   "recentSignals": [
+    {
+      "date": "2026-05-27",
+      "action": "buy",
+      "fundCode": "007169",
+      "fundName": "易方达中债1-3年国开债A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/23449",
+      "l1": "其他"
+    },
+    {
+      "date": "2026-05-27",
+      "action": "buy",
+      "fundCode": "009051",
+      "fundName": "易方达中证红利ETF联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/23449",
+      "l1": "其他"
+    },
+    {
+      "date": "2026-05-27",
+      "action": "sell",
+      "fundCode": "001052",
+      "fundName": "华夏中证500ETF联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/23449",
+      "l1": "A股"
+    },
     {
       "date": "2026-05-25",
       "action": "buy",
@@ -132,15 +159,6 @@
       "unit": 1,
       "articleLink": "https://content.qieman.com/n/items/22369",
       "l1": "海外新兴"
-    },
-    {
-      "date": "2026-03-03",
-      "action": "buy",
-      "fundCode": "100050",
-      "fundName": "富国全球债券(QDII)人民币A",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22279",
-      "l1": "债券"
     }
   ],
   "holdings": [
@@ -858,6 +876,38 @@
       "l1": "A股"
     },
     {
+      "fundCode": "007169",
+      "fundName": "易方达中债1-3年国开债A",
+      "bought": 3,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-05-27",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23449",
+          "l1": "其他"
+        },
+        {
+          "date": "2026-05-25",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23401",
+          "l1": "其他"
+        },
+        {
+          "date": "2026-05-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23335",
+          "l1": "其他"
+        }
+      ],
+      "currentUnit": 3,
+      "latestDate": "2026-05-27",
+      "l1": "其他"
+    },
+    {
       "fundCode": "519915",
       "fundName": "富国消费主题混合A",
       "bought": 3,
@@ -1139,31 +1189,6 @@
       ],
       "currentUnit": 2,
       "latestDate": "2026-05-18",
-      "l1": "其他"
-    },
-    {
-      "fundCode": "007169",
-      "fundName": "易方达中债1-3年国开债A",
-      "bought": 2,
-      "sold": 0,
-      "history": [
-        {
-          "date": "2026-05-25",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/23401",
-          "l1": "其他"
-        },
-        {
-          "date": "2026-05-18",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/23335",
-          "l1": "其他"
-        }
-      ],
-      "currentUnit": 2,
-      "latestDate": "2026-05-25",
       "l1": "其他"
     },
     {
@@ -1471,52 +1496,6 @@
       "l1": "A股"
     },
     {
-      "fundCode": "001052",
-      "fundName": "华夏中证500ETF联接A",
-      "bought": 3,
-      "sold": 2,
-      "history": [
-        {
-          "date": "2026-01-30",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21913",
-          "l1": "A股"
-        },
-        {
-          "date": "2023-02-27",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3034",
-          "l1": "A股"
-        },
-        {
-          "date": "2019-11-01",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/O-qHOQJTf39l9QyBJI1oBg",
-          "l1": "A股"
-        },
-        {
-          "date": "2018-09-14",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/rnAWZmqGAmez7PrUcJNNyg",
-          "l1": "A股"
-        },
-        {
-          "date": "2018-05-31",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/vQWOgs3Ex68iVPED-0Hb1A",
-          "l1": "A股"
-        }
-      ],
-      "currentUnit": 1,
-      "latestDate": "2026-01-30",
-      "l1": "A股"
-    },
-    {
       "fundCode": "007562",
       "fundName": "景顺长城景泰纯利债券A",
       "bought": 1,
@@ -1635,6 +1614,24 @@
       "currentUnit": 1,
       "latestDate": "2026-04-23",
       "l1": "A股"
+    },
+    {
+      "fundCode": "009051",
+      "fundName": "易方达中证红利ETF联接A",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-05-27",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23449",
+          "l1": "其他"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2026-05-27",
+      "l1": "其他"
     },
     {
       "fundCode": "501018",
@@ -2331,6 +2328,59 @@
       ],
       "currentUnit": 0,
       "latestDate": "2026-03-24",
+      "l1": "A股"
+    },
+    {
+      "fundCode": "001052",
+      "fundName": "华夏中证500ETF联接A",
+      "bought": 3,
+      "sold": 3,
+      "history": [
+        {
+          "date": "2026-05-27",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23449",
+          "l1": "A股"
+        },
+        {
+          "date": "2026-01-30",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21913",
+          "l1": "A股"
+        },
+        {
+          "date": "2023-02-27",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3034",
+          "l1": "A股"
+        },
+        {
+          "date": "2019-11-01",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/O-qHOQJTf39l9QyBJI1oBg",
+          "l1": "A股"
+        },
+        {
+          "date": "2018-09-14",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/rnAWZmqGAmez7PrUcJNNyg",
+          "l1": "A股"
+        },
+        {
+          "date": "2018-05-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/vQWOgs3Ex68iVPED-0Hb1A",
+          "l1": "A股"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2026-05-27",
       "l1": "A股"
     }
   ]

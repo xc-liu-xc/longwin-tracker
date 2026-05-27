@@ -1,6 +1,6 @@
 {
   "postId": "76009",
-  "fetchedAt": "2026-05-26T14:06:19+08:00",
+  "fetchedAt": "2026-05-27T14:19:06+08:00",
   "totalCommentNum": 429,
   "totalScanned": 373,
   "expandedTopLevel": 9,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:19:45",
       "ipLocation": "北京市",
-      "likeNum": 263,
+      "likeNum": 270,
       "parent": {
         "id": 2108233,
         "userName": "Iridescent",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:20:09",
       "ipLocation": "北京市",
-      "likeNum": 81,
+      "likeNum": 82,
       "parent": {
         "id": 2108215,
         "userName": "同路人_天地一沙鸥",
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:23:12",
       "ipLocation": "北京市",
-      "likeNum": 164,
+      "likeNum": 165,
       "parent": {
         "id": 2107429,
         "userName": "阿胜",
@@ -79,7 +79,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:25:20",
       "ipLocation": "北京市",
-      "likeNum": 92,
+      "likeNum": 95,
       "parent": {
         "id": 2108599,
         "userName": "凡潇",
@@ -100,7 +100,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:26:08",
       "ipLocation": "北京市",
-      "likeNum": 90,
+      "likeNum": 92,
       "parent": {
         "id": 2108545,
         "userName": "15层的猫",
@@ -121,7 +121,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:26:44",
       "ipLocation": "北京市",
-      "likeNum": 109,
+      "likeNum": 111,
       "parent": {
         "id": 2108413,
         "userName": "也许有一天会很有钱吧",
@@ -145,7 +145,7 @@
       ],
       "createdAt": "2026-05-21T11:34:55",
       "ipLocation": "上海市",
-      "likeNum": 115
+      "likeNum": 118
     },
     {
       "type": "reply",
@@ -156,7 +156,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:38:49",
       "ipLocation": "北京市",
-      "likeNum": 137,
+      "likeNum": 140,
       "parent": {
         "id": 2109379,
         "userName": "小卡拉米橙子",
@@ -164,7 +164,7 @@
         "images": [],
         "createdAt": "2026-05-21T11:33:15",
         "ipLocation": "湖北省",
-        "likeNum": 47
+        "likeNum": 49
       },
       "replyTo": null
     },
@@ -177,7 +177,7 @@
       "images": [],
       "createdAt": "2026-05-21T12:04:01",
       "ipLocation": "北京市",
-      "likeNum": 83,
+      "likeNum": 86,
       "parent": {
         "id": 2108599,
         "userName": "凡潇",
@@ -203,7 +203,7 @@
       "images": [],
       "createdAt": "2026-05-21T12:04:52",
       "ipLocation": "北京市",
-      "likeNum": 80,
+      "likeNum": 82,
       "parent": {
         "id": 2108545,
         "userName": "15层的猫",
@@ -231,7 +231,7 @@
       ],
       "createdAt": "2026-05-21T12:12:14",
       "ipLocation": "北京市",
-      "likeNum": 149,
+      "likeNum": 154,
       "parent": {
         "id": 2110045,
         "userName": "狭窄的宇宙",

@@ -1,6 +1,6 @@
 {
   "postId": "76027",
-  "fetchedAt": "2026-05-26T14:06:24+08:00",
+  "fetchedAt": "2026-05-27T14:19:11+08:00",
   "totalCommentNum": 82,
   "totalScanned": 71,
   "expandedTopLevel": 3,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-21T11:55:12",
       "ipLocation": "北京市",
-      "likeNum": 139,
+      "likeNum": 140,
       "parent": {
         "id": 2110015,
         "userName": "知雄守雌",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-21T12:14:49",
       "ipLocation": "北京市",
-      "likeNum": 217,
+      "likeNum": 221,
       "parent": {
         "id": 2110495,
         "userName": "小w",
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-05-21T12:15:44",
       "ipLocation": "北京市",
-      "likeNum": 141,
+      "likeNum": 142,
       "parent": {
         "id": 2110243,
         "userName": "阿海-",
