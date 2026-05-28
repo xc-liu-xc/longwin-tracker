@@ -8440,10 +8440,10 @@
       "新米练习菌": 2
     },
     "totalCommentNum": 1101,
-    "totalScanned": 1095,
+    "totalScanned": 1097,
     "expandedTopLevel": 5,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-27T14:18:43+08:00"
+    "fetchedAt": "2026-05-28T14:10:27+08:00"
   },
   "76009": {
     "elderCount": 11,
@@ -8452,10 +8452,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 429,
-    "totalScanned": 373,
+    "totalScanned": 374,
     "expandedTopLevel": 9,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-27T14:19:06+08:00"
+    "fetchedAt": "2026-05-28T14:10:56+08:00"
   },
   "76027": {
     "elderCount": 3,
@@ -8463,10 +8463,10 @@
       "ETF拯救世界": 3
     },
     "totalCommentNum": 82,
-    "totalScanned": 71,
+    "totalScanned": 72,
     "expandedTopLevel": 3,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-27T14:19:11+08:00"
+    "fetchedAt": "2026-05-28T14:11:03+08:00"
   },
   "76033": {
     "elderCount": 3,
@@ -8475,10 +8475,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 110,
-    "totalScanned": 127,
+    "totalScanned": 128,
     "expandedTopLevel": 5,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-27T14:19:20+08:00"
+    "fetchedAt": "2026-05-28T14:11:16+08:00"
   },
   "76045": {
     "elderCount": 1,
@@ -8486,10 +8486,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 286,
-    "totalScanned": 210,
+    "totalScanned": 212,
     "expandedTopLevel": 6,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-27T14:19:35+08:00"
+    "fetchedAt": "2026-05-28T14:11:35+08:00"
   },
   "76063": {
     "elderCount": 5,
@@ -8498,10 +8498,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 248,
-    "totalScanned": 159,
+    "totalScanned": 160,
     "expandedTopLevel": 11,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-27T14:19:51+08:00"
+    "fetchedAt": "2026-05-28T14:11:55+08:00"
   },
   "76087": {
     "elderCount": 6,
@@ -8510,36 +8510,63 @@
       "新米练习菌": 2
     },
     "totalCommentNum": 465,
-    "totalScanned": 371,
+    "totalScanned": 381,
     "expandedTopLevel": 8,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-27T14:20:15+08:00"
+    "fetchedAt": "2026-05-28T14:12:26+08:00"
   },
   "76099": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 1112,
-    "totalScanned": 1484,
-    "expandedTopLevel": 34,
+    "totalScanned": 1627,
+    "expandedTopLevel": 49,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-27T14:21:53+08:00"
+    "fetchedAt": "2026-05-28T14:14:56+08:00"
   },
   "76387": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 22,
-    "totalScanned": 27,
+    "totalScanned": 28,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-27T14:17:44+08:00"
+    "fetchedAt": "2026-05-28T14:09:14+08:00"
   },
   "76393": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 38,
-    "totalScanned": 52,
+    "totalScanned": 59,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-05-27T14:17:46+08:00"
+    "fetchedAt": "2026-05-28T14:09:16+08:00"
+  },
+  "76633": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 69,
+    "totalScanned": 69,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-28T14:09:11+08:00"
+  },
+  "76657": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 19,
+    "totalScanned": 19,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-28T14:09:11+08:00"
+  },
+  "76663": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 19,
+    "totalScanned": 19,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-05-28T14:09:12+08:00"
   }
 }

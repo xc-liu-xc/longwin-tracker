@@ -1,8 +1,8 @@
 {
   "postId": "76087",
-  "fetchedAt": "2026-05-27T14:20:15+08:00",
+  "fetchedAt": "2026-05-28T14:12:26+08:00",
   "totalCommentNum": 465,
-  "totalScanned": 371,
+  "totalScanned": 381,
   "expandedTopLevel": 8,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-05-21T19:49:54",
       "ipLocation": "北京市",
-      "likeNum": 477,
+      "likeNum": 488,
       "parent": {
         "id": 2117335,
         "userName": "阿木木123",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-05-21T19:35:31",
         "ipLocation": "广东省",
-        "likeNum": 9
+        "likeNum": 10
       },
       "replyTo": null
     },
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-05-21T19:52:13",
       "ipLocation": "北京市",
-      "likeNum": 335
+      "likeNum": 345
     },
     {
       "type": "top",
@@ -51,7 +51,7 @@
       ],
       "createdAt": "2026-05-21T20:06:43",
       "ipLocation": "上海市",
-      "likeNum": 113
+      "likeNum": 118
     },
     {
       "type": "top",
@@ -62,7 +62,7 @@
       "images": [],
       "createdAt": "2026-05-21T20:09:11",
       "ipLocation": "北京市",
-      "likeNum": 214
+      "likeNum": 225
     },
     {
       "type": "reply",
@@ -101,7 +101,7 @@
       ],
       "createdAt": "2026-05-21T20:21:46",
       "ipLocation": "上海市",
-      "likeNum": 61,
+      "likeNum": 65,
       "parent": {
         "id": 2118583,
         "userName": "新米练习菌",
@@ -112,7 +112,7 @@
         ],
         "createdAt": "2026-05-21T20:06:43",
         "ipLocation": "上海市",
-        "likeNum": 113
+        "likeNum": 118
       },
       "replyTo": null
     }
