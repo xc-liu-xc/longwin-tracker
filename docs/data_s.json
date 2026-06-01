@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-05-31 14:14 CST",
+  "updatedAt": "2026-06-01 14:51 CST",
   "poName": "长赢指数投资计划-S定投",
-  "totalUnit": 214,
-  "investedUnit": 88,
-  "adjustedCount": 186,
-  "totalBuy": 159,
+  "totalUnit": 215,
+  "investedUnit": 89,
+  "adjustedCount": 187,
+  "totalBuy": 160,
   "totalSell": 75,
   "recentSignals": [
+    {
+      "date": "2026-06-01",
+      "action": "buy",
+      "fundCode": "012323",
+      "fundName": "华宝医疗ETF联接C",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/23503",
+      "l1": "A股"
+    },
     {
       "date": "2026-05-27",
       "action": "buy",
@@ -141,24 +150,6 @@
       "unit": 1,
       "articleLink": "https://content.qieman.com/n/items/22537",
       "l1": "A股"
-    },
-    {
-      "date": "2026-03-06",
-      "action": "buy",
-      "fundCode": "006327",
-      "fundName": "易方达中证海外联接人民币A",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22369",
-      "l1": "海外新兴"
-    },
-    {
-      "date": "2026-03-06",
-      "action": "sell",
-      "fundCode": "000071",
-      "fundName": "华夏恒生ETF联接A",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22369",
-      "l1": "海外新兴"
     }
   ],
   "holdings": [
@@ -434,50 +425,18 @@
       "l1": "A股"
     },
     {
-      "fundCode": "162412",
-      "fundName": "华宝医疗ETF联接A",
-      "bought": 4,
-      "sold": 0,
-      "history": [
-        {
-          "date": "2025-05-22",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/17779",
-          "l1": "A股"
-        },
-        {
-          "date": "2023-08-22",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/4021",
-          "l1": "A股"
-        },
-        {
-          "date": "2023-07-19",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3822",
-          "l1": "A股"
-        },
-        {
-          "date": "2023-05-10",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3377",
-          "l1": "A股"
-        }
-      ],
-      "currentUnit": 4,
-      "latestDate": "2025-05-22",
-      "l1": "A股"
-    },
-    {
       "fundCode": "012323",
       "fundName": "华宝医疗ETF联接C",
-      "bought": 6,
+      "bought": 7,
       "sold": 2,
       "history": [
+        {
+          "date": "2026-06-01",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23503",
+          "l1": "A股"
+        },
         {
           "date": "2026-04-15",
           "action": "sell",
@@ -535,8 +494,47 @@
           "l1": "A股"
         }
       ],
+      "currentUnit": 5,
+      "latestDate": "2026-06-01",
+      "l1": "A股"
+    },
+    {
+      "fundCode": "162412",
+      "fundName": "华宝医疗ETF联接A",
+      "bought": 4,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2025-05-22",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/17779",
+          "l1": "A股"
+        },
+        {
+          "date": "2023-08-22",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/4021",
+          "l1": "A股"
+        },
+        {
+          "date": "2023-07-19",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3822",
+          "l1": "A股"
+        },
+        {
+          "date": "2023-05-10",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3377",
+          "l1": "A股"
+        }
+      ],
       "currentUnit": 4,
-      "latestDate": "2026-04-15",
+      "latestDate": "2025-05-22",
       "l1": "A股"
     },
     {

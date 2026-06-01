@@ -1,0 +1,25 @@
+{
+  "postId": "77047",
+  "fetchedAt": "2026-06-01T14:52:44+08:00",
+  "totalCommentNum": 7,
+  "totalScanned": 7,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2164153,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "A：\n（投资难度 相对其他市场 较大）",
+      "images": [
+        "https://cdn-community.qieman.com/182E49AE-7DE3-4F7D-B2B7-90702687407E.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_30,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/CC22EE8B-0418-4A08-9BB5-4AD5F6C7B1F0.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_30,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-06-01T14:16:17",
+      "ipLocation": "上海市",
+      "likeNum": 7
+    }
+  ]
+}
