@@ -8531,7 +8531,7 @@
     "totalScanned": 29,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-01T14:55:09+08:00"
+    "fetchedAt": "2026-06-02T14:43:13+08:00"
   },
   "76393": {
     "elderCount": 0,
@@ -8540,16 +8540,16 @@
     "totalScanned": 59,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-01T14:55:11+08:00"
+    "fetchedAt": "2026-06-02T14:43:15+08:00"
   },
   "76633": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 69,
     "totalScanned": 85,
-    "expandedTopLevel": 0,
+    "expandedTopLevel": 1,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-01T14:55:04+08:00"
+    "fetchedAt": "2026-06-02T14:43:08+08:00"
   },
   "76657": {
     "elderCount": 0,
@@ -8558,7 +8558,7 @@
     "totalScanned": 29,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-01T14:55:05+08:00"
+    "fetchedAt": "2026-06-02T14:43:09+08:00"
   },
   "76663": {
     "elderCount": 0,
@@ -8567,7 +8567,7 @@
     "totalScanned": 33,
     "expandedTopLevel": 1,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-01T14:55:07+08:00"
+    "fetchedAt": "2026-06-02T14:43:11+08:00"
   },
   "76843": {
     "elderCount": 1,
@@ -8575,37 +8575,37 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 2213,
-    "totalScanned": 2231,
-    "expandedTopLevel": 15,
+    "totalScanned": 2338,
+    "expandedTopLevel": 21,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-01T14:55:00+08:00"
+    "fetchedAt": "2026-06-02T14:43:02+08:00"
   },
   "77017": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 23,
-    "totalScanned": 22,
+    "totalScanned": 31,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-01T14:52:40+08:00"
+    "fetchedAt": "2026-06-02T14:40:18+08:00"
   },
   "77023": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 16,
-    "totalScanned": 16,
+    "totalScanned": 25,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-01T14:52:41+08:00"
+    "fetchedAt": "2026-06-02T14:40:19+08:00"
   },
   "77035": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 31,
-    "totalScanned": 23,
+    "totalScanned": 29,
     "expandedTopLevel": 1,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-01T14:52:43+08:00"
+    "fetchedAt": "2026-06-02T14:40:21+08:00"
   },
   "77047": {
     "elderCount": 1,
@@ -8613,9 +8613,27 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 7,
-    "totalScanned": 7,
+    "totalScanned": 30,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-06-02T14:40:24+08:00"
+  },
+  "77131": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 16,
+    "totalScanned": 16,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-01T14:52:44+08:00"
+    "fetchedAt": "2026-06-02T14:40:14+08:00"
+  },
+  "77137": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 22,
+    "totalScanned": 17,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-06-02T14:40:16+08:00"
   }
 }
