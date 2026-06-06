@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-06-05 14:18 CST",
+  "updatedAt": "2026-06-06 13:51 CST",
   "poName": "长赢指数投资计划-S定投",
   "totalUnit": 214,
   "investedUnit": 88,
-  "adjustedCount": 187,
-  "totalBuy": 160,
-  "totalSell": 75,
+  "adjustedCount": 188,
+  "totalBuy": 161,
+  "totalSell": 76,
   "recentSignals": [
+    {
+      "date": "2026-06-05",
+      "action": "buy",
+      "fundCode": "007169",
+      "fundName": "易方达中债1-3年国开债A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/23671",
+      "l1": "其他"
+    },
+    {
+      "date": "2026-06-05",
+      "action": "sell",
+      "fundCode": "100032",
+      "fundName": "富国中证红利指数增强A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/23671",
+      "l1": "A股"
+    },
     {
       "date": "2026-06-01",
       "action": "buy",
@@ -141,24 +159,110 @@
       "unit": 1,
       "articleLink": "https://content.qieman.com/n/items/22597",
       "l1": "A股"
-    },
-    {
-      "date": "2026-03-23",
-      "action": "buy",
-      "fundCode": "012323",
-      "fundName": "华宝医疗ETF联接C",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22537",
-      "l1": "A股"
     }
   ],
   "holdings": [
     {
+      "fundCode": "164906",
+      "fundName": "交银施罗德中证海外中国互联网指数(QDII-LOF)A",
+      "bought": 9,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2021-10-22",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/Ov8NzBcH56dhaflpG4bX7g",
+          "l1": "海外新兴"
+        },
+        {
+          "date": "2021-08-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/yq_X259WsoXaNXlooZ6Epg",
+          "l1": "海外新兴"
+        },
+        {
+          "date": "2021-07-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/XDbjPeVrz1GHgopfpWOIBg",
+          "l1": "海外新兴"
+        },
+        {
+          "date": "2021-07-09",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/qJt3nBmgWxvZGb9XVxtmiQ",
+          "l1": "海外新兴"
+        },
+        {
+          "date": "2021-06-09",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/VWY9XFy2hwdv9Xd4r_1u4A",
+          "l1": "海外新兴"
+        },
+        {
+          "date": "2021-04-16",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/lEf1lUNpvsbi3UmL-uxOpg",
+          "l1": "海外新兴"
+        },
+        {
+          "date": "2020-11-11",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/z7ButJBYo2WAH9y6T2l6JQ",
+          "l1": "海外新兴"
+        },
+        {
+          "date": "2020-07-16",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A",
+          "l1": "海外新兴"
+        },
+        {
+          "date": "2019-08-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "http://mp.weixin.qq.com/s?__biz=MzIxOTYxNTY4MQ==&mid=100009179&idx=1&sn=5e24a4ec386c8a54f0ae0b888229afad&chksm=17da3c7520adb563977508c0ee6d6a1de29bd06abf6466ec5d7b9fb15fb81de0796d174c1c4e#rd",
+          "l1": "海外新兴"
+        },
+        {
+          "date": "2019-05-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/XPM2EWudS8PpItcwoqhfkQ",
+          "l1": "海外新兴"
+        },
+        {
+          "date": "2019-01-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/iJsvgEUQDnOoLi220TR5Lw",
+          "l1": "海外新兴"
+        }
+      ],
+      "currentUnit": 7,
+      "latestDate": "2021-10-22",
+      "l1": "海外新兴"
+    },
+    {
       "fundCode": "100032",
       "fundName": "富国中证红利指数增强A",
       "bought": 11,
-      "sold": 3,
+      "sold": 4,
       "history": [
+        {
+          "date": "2026-06-05",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23671",
+          "l1": "A股"
+        },
         {
           "date": "2024-10-08",
           "action": "sell",
@@ -258,97 +362,9 @@
           "l1": "A股"
         }
       ],
-      "currentUnit": 8,
-      "latestDate": "2024-10-08",
-      "l1": "A股"
-    },
-    {
-      "fundCode": "164906",
-      "fundName": "交银施罗德中证海外中国互联网指数(QDII-LOF)A",
-      "bought": 9,
-      "sold": 2,
-      "history": [
-        {
-          "date": "2021-10-22",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Ov8NzBcH56dhaflpG4bX7g",
-          "l1": "海外新兴"
-        },
-        {
-          "date": "2021-08-18",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/yq_X259WsoXaNXlooZ6Epg",
-          "l1": "海外新兴"
-        },
-        {
-          "date": "2021-07-26",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/XDbjPeVrz1GHgopfpWOIBg",
-          "l1": "海外新兴"
-        },
-        {
-          "date": "2021-07-09",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/qJt3nBmgWxvZGb9XVxtmiQ",
-          "l1": "海外新兴"
-        },
-        {
-          "date": "2021-06-09",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/VWY9XFy2hwdv9Xd4r_1u4A",
-          "l1": "海外新兴"
-        },
-        {
-          "date": "2021-04-16",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/lEf1lUNpvsbi3UmL-uxOpg",
-          "l1": "海外新兴"
-        },
-        {
-          "date": "2020-11-11",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/z7ButJBYo2WAH9y6T2l6JQ",
-          "l1": "海外新兴"
-        },
-        {
-          "date": "2020-07-16",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A",
-          "l1": "海外新兴"
-        },
-        {
-          "date": "2019-08-15",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "http://mp.weixin.qq.com/s?__biz=MzIxOTYxNTY4MQ==&mid=100009179&idx=1&sn=5e24a4ec386c8a54f0ae0b888229afad&chksm=17da3c7520adb563977508c0ee6d6a1de29bd06abf6466ec5d7b9fb15fb81de0796d174c1c4e#rd",
-          "l1": "海外新兴"
-        },
-        {
-          "date": "2019-05-30",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/XPM2EWudS8PpItcwoqhfkQ",
-          "l1": "海外新兴"
-        },
-        {
-          "date": "2019-01-31",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/iJsvgEUQDnOoLi220TR5Lw",
-          "l1": "海外新兴"
-        }
-      ],
       "currentUnit": 7,
-      "latestDate": "2021-10-22",
-      "l1": "海外新兴"
+      "latestDate": "2026-06-05",
+      "l1": "A股"
     },
     {
       "fundCode": "001180",
@@ -536,6 +552,45 @@
       "currentUnit": 4,
       "latestDate": "2025-05-22",
       "l1": "A股"
+    },
+    {
+      "fundCode": "007169",
+      "fundName": "易方达中债1-3年国开债A",
+      "bought": 4,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-06-05",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23671",
+          "l1": "其他"
+        },
+        {
+          "date": "2026-05-27",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23449",
+          "l1": "其他"
+        },
+        {
+          "date": "2026-05-25",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23401",
+          "l1": "其他"
+        },
+        {
+          "date": "2026-05-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23335",
+          "l1": "其他"
+        }
+      ],
+      "currentUnit": 4,
+      "latestDate": "2026-06-05",
+      "l1": "其他"
     },
     {
       "fundCode": "100038",
@@ -872,38 +927,6 @@
       "currentUnit": 3,
       "latestDate": "2026-05-25",
       "l1": "A股"
-    },
-    {
-      "fundCode": "007169",
-      "fundName": "易方达中债1-3年国开债A",
-      "bought": 3,
-      "sold": 0,
-      "history": [
-        {
-          "date": "2026-05-27",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/23449",
-          "l1": "其他"
-        },
-        {
-          "date": "2026-05-25",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/23401",
-          "l1": "其他"
-        },
-        {
-          "date": "2026-05-18",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/23335",
-          "l1": "其他"
-        }
-      ],
-      "currentUnit": 3,
-      "latestDate": "2026-05-27",
-      "l1": "其他"
     },
     {
       "fundCode": "519915",

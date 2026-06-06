@@ -1,10 +1,22 @@
 {
   "postId": "77617",
-  "fetchedAt": "2026-06-05T14:20:03+08:00",
+  "fetchedAt": "2026-06-06T13:53:04+08:00",
   "totalCommentNum": 20,
-  "totalScanned": 19,
-  "expandedTopLevel": 0,
+  "totalScanned": 46,
+  "expandedTopLevel": 1,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
-  "items": []
+  "items": [
+    {
+      "type": "top",
+      "id": 2178247,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【1/2】（已发，未显示）在：\nhttps://qieman.com/content/content-detail?postId=77611",
+      "images": [],
+      "createdAt": "2026-06-05T14:40:11",
+      "ipLocation": "上海市",
+      "likeNum": 13
+    }
+  ]
 }
