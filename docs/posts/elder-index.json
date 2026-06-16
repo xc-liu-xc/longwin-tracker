@@ -8690,7 +8690,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-15T15:15:46+08:00"
+    "fetchedAt": "2026-06-16T15:24:50+08:00"
   },
   "78475": {
     "elderCount": 0,
@@ -8699,7 +8699,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-15T15:15:35+08:00"
+    "fetchedAt": "2026-06-16T15:24:38+08:00"
   },
   "78523": {
     "elderCount": 0,
@@ -8708,7 +8708,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-15T15:15:35+08:00"
+    "fetchedAt": "2026-06-16T15:24:39+08:00"
   },
   "78553": {
     "elderCount": 0,
@@ -8717,15 +8717,51 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-15T15:15:36+08:00"
+    "fetchedAt": "2026-06-16T15:24:39+08:00"
   },
   "78559": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 129,
-    "totalScanned": 153,
+    "totalScanned": 158,
+    "expandedTopLevel": 1,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-06-16T15:24:49+08:00"
+  },
+  "78799": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 0,
+    "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-15T15:15:45+08:00"
+    "fetchedAt": "2026-06-16T15:24:29+08:00"
+  },
+  "78805": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 24,
+    "totalScanned": 23,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-06-16T15:24:31+08:00"
+  },
+  "78817": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 31,
+    "totalScanned": 29,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-06-16T15:24:34+08:00"
+  },
+  "78715": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 69,
+    "totalScanned": 64,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-06-16T15:24:37+08:00"
   }
 }
