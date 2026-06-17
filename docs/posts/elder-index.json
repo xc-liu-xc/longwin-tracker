@@ -8690,7 +8690,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-16T15:24:50+08:00"
+    "fetchedAt": "2026-06-17T15:07:30+08:00"
   },
   "78475": {
     "elderCount": 0,
@@ -8699,7 +8699,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-16T15:24:38+08:00"
+    "fetchedAt": "2026-06-17T15:07:19+08:00"
   },
   "78523": {
     "elderCount": 0,
@@ -8708,7 +8708,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-16T15:24:39+08:00"
+    "fetchedAt": "2026-06-17T15:07:20+08:00"
   },
   "78553": {
     "elderCount": 0,
@@ -8717,16 +8717,16 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-16T15:24:39+08:00"
+    "fetchedAt": "2026-06-17T15:07:21+08:00"
   },
   "78559": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 129,
-    "totalScanned": 158,
+    "totalScanned": 159,
     "expandedTopLevel": 1,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-16T15:24:49+08:00"
+    "fetchedAt": "2026-06-17T15:07:29+08:00"
   },
   "78799": {
     "elderCount": 0,
@@ -8735,33 +8735,42 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-16T15:24:29+08:00"
+    "fetchedAt": "2026-06-17T15:07:10+08:00"
   },
   "78805": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 24,
-    "totalScanned": 23,
+    "totalScanned": 32,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-16T15:24:31+08:00"
+    "fetchedAt": "2026-06-17T15:07:12+08:00"
   },
   "78817": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 31,
-    "totalScanned": 29,
+    "totalScanned": 57,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-16T15:24:34+08:00"
+    "fetchedAt": "2026-06-17T15:07:15+08:00"
   },
   "78715": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 69,
-    "totalScanned": 64,
+    "totalScanned": 69,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-16T15:24:37+08:00"
+    "fetchedAt": "2026-06-17T15:07:19+08:00"
+  },
+  "78895": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 132,
+    "totalScanned": 123,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-06-17T15:07:10+08:00"
   }
 }
