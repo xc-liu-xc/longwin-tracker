@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-06-17 15:05 CST",
+  "updatedAt": "2026-06-18 14:48 CST",
   "poName": "长赢指数投资计划-150份",
   "totalUnit": 150,
-  "investedUnit": 109,
-  "adjustedCount": 253,
-  "totalBuy": 262,
+  "investedUnit": 110,
+  "adjustedCount": 254,
+  "totalBuy": 263,
   "totalSell": 153,
   "recentSignals": [
+    {
+      "date": "2026-06-18",
+      "action": "buy",
+      "fundCode": "000248",
+      "fundName": "汇添富中证主要消费ETF联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/23983",
+      "l1": "A股"
+    },
     {
       "date": "2026-06-17",
       "action": "sell",
@@ -141,15 +150,6 @@
       "unit": 1,
       "articleLink": "https://qieman.com/content/items/23179",
       "l1": "其他"
-    },
-    {
-      "date": "2026-04-23",
-      "action": "sell",
-      "fundCode": "000478",
-      "fundName": "建信中证500指数增强A",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/23089",
-      "l1": "A股"
     }
   ],
   "holdings": [
@@ -1909,6 +1909,31 @@
       "l1": "A股"
     },
     {
+      "fundCode": "000248",
+      "fundName": "汇添富中证主要消费ETF联接A",
+      "bought": 2,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-06-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23983",
+          "l1": "A股"
+        },
+        {
+          "date": "2026-01-07",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21493",
+          "l1": "A股"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2026-06-18",
+      "l1": "A股"
+    },
+    {
       "fundCode": "003376",
       "fundName": "广发中债7-10年国开债指数A",
       "bought": 9,
@@ -2321,24 +2346,6 @@
       "currentUnit": 1,
       "latestDate": "2025-09-04",
       "l1": "债券"
-    },
-    {
-      "fundCode": "000248",
-      "fundName": "汇添富中证主要消费ETF联接A",
-      "bought": 1,
-      "sold": 0,
-      "history": [
-        {
-          "date": "2026-01-07",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21493",
-          "l1": "A股"
-        }
-      ],
-      "currentUnit": 1,
-      "latestDate": "2026-01-07",
-      "l1": "A股"
     },
     {
       "fundCode": "161017",

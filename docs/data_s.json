@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-06-17 15:05 CST",
+  "updatedAt": "2026-06-18 14:48 CST",
   "poName": "长赢指数投资计划-S定投",
-  "totalUnit": 214,
-  "investedUnit": 88,
-  "adjustedCount": 188,
-  "totalBuy": 161,
+  "totalUnit": 215,
+  "investedUnit": 89,
+  "adjustedCount": 189,
+  "totalBuy": 162,
   "totalSell": 76,
   "recentSignals": [
+    {
+      "date": "2026-06-18",
+      "action": "buy",
+      "fundCode": "000248",
+      "fundName": "汇添富中证主要消费ETF联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/23983",
+      "l1": "A股"
+    },
     {
       "date": "2026-06-05",
       "action": "buy",
@@ -141,24 +150,6 @@
       "unit": 1,
       "articleLink": "https://content.qieman.com/n/items/22897",
       "l1": "债券"
-    },
-    {
-      "date": "2026-03-24",
-      "action": "buy",
-      "fundCode": "110022",
-      "fundName": "易方达消费行业",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22597",
-      "l1": "A股"
-    },
-    {
-      "date": "2026-03-24",
-      "action": "sell",
-      "fundCode": "001064",
-      "fundName": "广发中证环保ETF联接A",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22597",
-      "l1": "A股"
     }
   ],
   "holdings": [
@@ -1213,6 +1204,31 @@
       "l1": "其他"
     },
     {
+      "fundCode": "000248",
+      "fundName": "汇添富中证主要消费ETF联接A",
+      "bought": 2,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-06-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23983",
+          "l1": "A股"
+        },
+        {
+          "date": "2026-01-07",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21493",
+          "l1": "A股"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2026-06-18",
+      "l1": "A股"
+    },
+    {
       "fundCode": "110027",
       "fundName": "易方达安心债券A",
       "bought": 1,
@@ -1464,24 +1480,6 @@
       ],
       "currentUnit": 1,
       "latestDate": "2025-12-04",
-      "l1": "A股"
-    },
-    {
-      "fundCode": "000248",
-      "fundName": "汇添富中证主要消费ETF联接A",
-      "bought": 1,
-      "sold": 0,
-      "history": [
-        {
-          "date": "2026-01-07",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21493",
-          "l1": "A股"
-        }
-      ],
-      "currentUnit": 1,
-      "latestDate": "2026-01-07",
       "l1": "A股"
     },
     {
