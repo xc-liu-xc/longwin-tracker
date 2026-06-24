@@ -8768,10 +8768,10 @@
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 132,
-    "totalScanned": 150,
+    "totalScanned": 149,
     "expandedTopLevel": 1,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:36+08:00"
+    "fetchedAt": "2026-06-24T14:05:10+08:00"
   },
   "79075": {
     "elderCount": 0,
@@ -8780,7 +8780,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:20+08:00"
+    "fetchedAt": "2026-06-24T14:04:55+08:00"
   },
   "79123": {
     "elderCount": 0,
@@ -8789,7 +8789,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:20+08:00"
+    "fetchedAt": "2026-06-24T14:04:56+08:00"
   },
   "79129": {
     "elderCount": 0,
@@ -8798,7 +8798,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:21+08:00"
+    "fetchedAt": "2026-06-24T14:04:56+08:00"
   },
   "79135": {
     "elderCount": 0,
@@ -8807,7 +8807,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:22+08:00"
+    "fetchedAt": "2026-06-24T14:04:57+08:00"
   },
   "79081": {
     "elderCount": 0,
@@ -8816,7 +8816,7 @@
     "totalScanned": 19,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:23+08:00"
+    "fetchedAt": "2026-06-24T14:04:58+08:00"
   },
   "79087": {
     "elderCount": 0,
@@ -8825,7 +8825,7 @@
     "totalScanned": 11,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:23+08:00"
+    "fetchedAt": "2026-06-24T14:04:59+08:00"
   },
   "79093": {
     "elderCount": 0,
@@ -8834,7 +8834,7 @@
     "totalScanned": 19,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:24+08:00"
+    "fetchedAt": "2026-06-24T14:04:59+08:00"
   },
   "78955": {
     "elderCount": 0,
@@ -8843,7 +8843,7 @@
     "totalScanned": 65,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:41+08:00"
+    "fetchedAt": "2026-06-24T14:05:14+08:00"
   },
   "79303": {
     "elderCount": 0,
@@ -8852,7 +8852,7 @@
     "totalScanned": 20,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:17+08:00"
+    "fetchedAt": "2026-06-24T14:04:53+08:00"
   },
   "79309": {
     "elderCount": 0,
@@ -8861,7 +8861,7 @@
     "totalScanned": 23,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:19+08:00"
+    "fetchedAt": "2026-06-24T14:04:55+08:00"
   },
   "79201": {
     "elderCount": 0,
@@ -8870,7 +8870,7 @@
     "totalScanned": 40,
     "expandedTopLevel": 1,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:27+08:00"
+    "fetchedAt": "2026-06-24T14:05:02+08:00"
   },
   "79375": {
     "elderCount": 0,
@@ -8879,7 +8879,7 @@
     "totalScanned": 22,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:11+08:00"
+    "fetchedAt": "2026-06-24T14:04:47+08:00"
   },
   "79345": {
     "elderCount": 0,
@@ -8888,7 +8888,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:12+08:00"
+    "fetchedAt": "2026-06-24T14:04:48+08:00"
   },
   "79351": {
     "elderCount": 0,
@@ -8897,43 +8897,43 @@
     "totalScanned": 46,
     "expandedTopLevel": 1,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:16+08:00"
+    "fetchedAt": "2026-06-24T14:04:51+08:00"
   },
   "79429": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 43,
-    "totalScanned": 51,
+    "totalScanned": 52,
     "expandedTopLevel": 1,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:09+08:00"
+    "fetchedAt": "2026-06-24T14:04:45+08:00"
   },
   "79585": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 11,
-    "totalScanned": 8,
+    "totalScanned": 10,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:02+08:00"
+    "fetchedAt": "2026-06-24T14:04:37+08:00"
   },
   "79591": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 9,
-    "totalScanned": 9,
+    "totalScanned": 12,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:02+08:00"
+    "fetchedAt": "2026-06-24T14:04:38+08:00"
   },
   "79603": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 33,
-    "totalScanned": 20,
-    "expandedTopLevel": 1,
+    "totalScanned": 30,
+    "expandedTopLevel": 2,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:05+08:00"
+    "fetchedAt": "2026-06-24T14:04:42+08:00"
   },
   "79459": {
     "elderCount": 0,
@@ -8942,6 +8942,6 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-06-23T14:05:09+08:00"
+    "fetchedAt": "2026-06-24T14:04:46+08:00"
   }
 }
