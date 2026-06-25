@@ -1,0 +1,32 @@
+{
+  "postId": "79855",
+  "fetchedAt": "2026-06-25T14:04:47+08:00",
+  "totalCommentNum": 33,
+  "totalScanned": 31,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2207635,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "5355是（数据源）那日的收盘价，从收盘价看是回撤-25%，最高点是5627。",
+      "images": [],
+      "createdAt": "2026-06-25T09:18:07",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 2207617,
+        "userName": "一树一花555",
+        "content": "请教友友们：回撤是怎样计算的，我（5355-4035）/5355=0.246，对不上啊",
+        "images": [],
+        "createdAt": "2026-06-25T08:51:54",
+        "ipLocation": "湖北省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

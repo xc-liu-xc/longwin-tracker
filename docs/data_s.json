@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-06-24 14:03 CST",
+  "updatedAt": "2026-06-25 14:03 CST",
   "poName": "长赢指数投资计划-S定投",
   "totalUnit": 214,
   "investedUnit": 88,
-  "adjustedCount": 190,
-  "totalBuy": 163,
+  "adjustedCount": 191,
+  "totalBuy": 164,
   "totalSell": 76,
   "recentSignals": [
+    {
+      "date": "2026-06-24",
+      "action": "buy",
+      "fundCode": "009051",
+      "fundName": "易方达中证红利ETF联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/24091",
+      "l1": "其他"
+    },
     {
       "date": "2026-06-22",
       "action": "buy",
@@ -131,24 +140,6 @@
       "fundName": "建信中证500指数增强A",
       "unit": 1,
       "articleLink": "https://content.qieman.com/n/items/23089",
-      "l1": "A股"
-    },
-    {
-      "date": "2026-04-15",
-      "action": "buy",
-      "fundCode": "021550",
-      "fundName": "博时中证红利低波动100ETF联接A",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22957",
-      "l1": "A股"
-    },
-    {
-      "date": "2026-04-15",
-      "action": "sell",
-      "fundCode": "012323",
-      "fundName": "华宝医疗ETF联接C",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/22957",
       "l1": "A股"
     }
   ],
@@ -1236,6 +1227,31 @@
       "l1": "A股"
     },
     {
+      "fundCode": "009051",
+      "fundName": "易方达中证红利ETF联接A",
+      "bought": 2,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-06-24",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/24091",
+          "l1": "其他"
+        },
+        {
+          "date": "2026-05-27",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23449",
+          "l1": "其他"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2026-06-24",
+      "l1": "其他"
+    },
+    {
       "fundCode": "110027",
       "fundName": "易方达安心债券A",
       "bought": 1,
@@ -1640,24 +1656,6 @@
       "currentUnit": 1,
       "latestDate": "2026-04-23",
       "l1": "A股"
-    },
-    {
-      "fundCode": "009051",
-      "fundName": "易方达中证红利ETF联接A",
-      "bought": 1,
-      "sold": 0,
-      "history": [
-        {
-          "date": "2026-05-27",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/23449",
-          "l1": "其他"
-        }
-      ],
-      "currentUnit": 1,
-      "latestDate": "2026-05-27",
-      "l1": "其他"
     },
     {
       "fundCode": "501018",

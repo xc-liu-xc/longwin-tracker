@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-06-24 14:03 CST",
+  "updatedAt": "2026-06-25 14:03 CST",
   "poName": "长赢指数投资计划-150份",
   "totalUnit": 150,
-  "investedUnit": 111,
-  "adjustedCount": 255,
-  "totalBuy": 264,
+  "investedUnit": 112,
+  "adjustedCount": 256,
+  "totalBuy": 265,
   "totalSell": 153,
   "recentSignals": [
+    {
+      "date": "2026-06-24",
+      "action": "buy",
+      "fundCode": "009051",
+      "fundName": "易方达中证红利ETF联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/24091",
+      "l1": "其他"
+    },
     {
       "date": "2026-06-22",
       "action": "buy",
@@ -141,15 +150,6 @@
       "unit": 1,
       "articleLink": "https://qieman.com/content/items/23335",
       "l1": "其他"
-    },
-    {
-      "date": "2026-05-08",
-      "action": "sell",
-      "fundCode": "001051",
-      "fundName": "华夏上证50ETF联接A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23245",
-      "l1": "A股"
     }
   ],
   "holdings": [
@@ -1941,6 +1941,31 @@
       "l1": "A股"
     },
     {
+      "fundCode": "009051",
+      "fundName": "易方达中证红利ETF联接A",
+      "bought": 2,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-06-24",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/24091",
+          "l1": "其他"
+        },
+        {
+          "date": "2026-05-27",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23449",
+          "l1": "其他"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2026-06-24",
+      "l1": "其他"
+    },
+    {
       "fundCode": "003376",
       "fundName": "广发中债7-10年国开债指数A",
       "bought": 9,
@@ -2463,24 +2488,6 @@
       "currentUnit": 1,
       "latestDate": "2026-04-10",
       "l1": "债券"
-    },
-    {
-      "fundCode": "009051",
-      "fundName": "易方达中证红利ETF联接A",
-      "bought": 1,
-      "sold": 0,
-      "history": [
-        {
-          "date": "2026-05-27",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/23449",
-          "l1": "其他"
-        }
-      ],
-      "currentUnit": 1,
-      "latestDate": "2026-05-27",
-      "l1": "其他"
     },
     {
       "fundCode": "110026",
