@@ -1,12 +1,39 @@
 {
-  "updatedAt": "2026-06-25 14:03 CST",
+  "updatedAt": "2026-06-26 14:06 CST",
   "poName": "长赢指数投资计划-S定投",
   "totalUnit": 214,
   "investedUnit": 88,
-  "adjustedCount": 191,
-  "totalBuy": 164,
-  "totalSell": 76,
+  "adjustedCount": 192,
+  "totalBuy": 165,
+  "totalSell": 78,
   "recentSignals": [
+    {
+      "date": "2026-06-25",
+      "action": "buy",
+      "fundCode": "020602",
+      "fundName": "易方达中证红利低波动联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/24109",
+      "l1": "其他"
+    },
+    {
+      "date": "2026-06-25",
+      "action": "sell",
+      "fundCode": "000478",
+      "fundName": "建信中证500指数增强A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/24109",
+      "l1": "A股"
+    },
+    {
+      "date": "2026-06-25",
+      "action": "sell",
+      "fundCode": "502010",
+      "fundName": "易方达中证全指证券公司指数(LOF)A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/24109",
+      "l1": "A股"
+    },
     {
       "date": "2026-06-24",
       "action": "buy",
@@ -132,15 +159,6 @@
       "unit": 1,
       "articleLink": "https://qieman.com/content/items/23179",
       "l1": "其他"
-    },
-    {
-      "date": "2026-04-23",
-      "action": "sell",
-      "fundCode": "000478",
-      "fundName": "建信中证500指数增强A",
-      "unit": 1,
-      "articleLink": "https://content.qieman.com/n/items/23089",
-      "l1": "A股"
     }
   ],
   "holdings": [
@@ -918,6 +936,38 @@
       "l1": "海外新兴"
     },
     {
+      "fundCode": "020602",
+      "fundName": "易方达中证红利低波动联接A",
+      "bought": 3,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-06-25",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/24109",
+          "l1": "其他"
+        },
+        {
+          "date": "2026-05-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23335",
+          "l1": "其他"
+        },
+        {
+          "date": "2026-05-06",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23179",
+          "l1": "其他"
+        }
+      ],
+      "currentUnit": 3,
+      "latestDate": "2026-06-25",
+      "l1": "其他"
+    },
+    {
       "fundCode": "519915",
       "fundName": "富国消费主题混合A",
       "bought": 3,
@@ -1177,31 +1227,6 @@
       "l1": "A股"
     },
     {
-      "fundCode": "020602",
-      "fundName": "易方达中证红利低波动联接A",
-      "bought": 2,
-      "sold": 0,
-      "history": [
-        {
-          "date": "2026-05-18",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/23335",
-          "l1": "其他"
-        },
-        {
-          "date": "2026-05-06",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/23179",
-          "l1": "其他"
-        }
-      ],
-      "currentUnit": 2,
-      "latestDate": "2026-05-18",
-      "l1": "其他"
-    },
-    {
       "fundCode": "000248",
       "fundName": "汇添富中证主要消费ETF联接A",
       "bought": 2,
@@ -1303,38 +1328,6 @@
       ],
       "currentUnit": 1,
       "latestDate": "2023-01-06",
-      "l1": "A股"
-    },
-    {
-      "fundCode": "502010",
-      "fundName": "易方达中证全指证券公司指数(LOF)A",
-      "bought": 2,
-      "sold": 1,
-      "history": [
-        {
-          "date": "2023-02-01",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2904",
-          "l1": "A股"
-        },
-        {
-          "date": "2018-06-19",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408846&idx=1&sn=d6ed087bfa68eea0ec3bcc0c8935c179&chksm=8d226ca1ba55e5b76b72199b939fd3991124972e0f5cc971aa6a2c7d457c6dd2d531fa485868&mpshare=1&scene=1&srcid=0619aWPgAwTNepMJqXr6eixF&rd2werd=1#wechat_redirect",
-          "l1": "A股"
-        },
-        {
-          "date": "2018-04-02",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/pxd7EDN1P5pklSnOzksq3g",
-          "l1": "A股"
-        }
-      ],
-      "currentUnit": 1,
-      "latestDate": "2023-02-01",
       "l1": "A股"
     },
     {
@@ -1554,108 +1547,6 @@
       "currentUnit": 1,
       "latestDate": "2026-04-10",
       "l1": "债券"
-    },
-    {
-      "fundCode": "000478",
-      "fundName": "建信中证500指数增强A",
-      "bought": 7,
-      "sold": 6,
-      "history": [
-        {
-          "date": "2026-04-23",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/23089",
-          "l1": "A股"
-        },
-        {
-          "date": "2026-01-07",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21493",
-          "l1": "A股"
-        },
-        {
-          "date": "2025-11-25",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/20971",
-          "l1": "A股"
-        },
-        {
-          "date": "2023-02-01",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/2904",
-          "l1": "A股"
-        },
-        {
-          "date": "2022-01-10",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/GvVf7NmHp5i8vGe4tM4t8w",
-          "l1": "A股"
-        },
-        {
-          "date": "2021-09-27",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Co06iEW7CVewD4duhnfjYQ",
-          "l1": "A股"
-        },
-        {
-          "date": "2020-02-04",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/1LRP6wqS60SjDlnzZ4-nXQ",
-          "l1": "A股"
-        },
-        {
-          "date": "2019-07-31",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/VZwwgE92m7lASr4YCVriyg",
-          "l1": "A股"
-        },
-        {
-          "date": "2019-06-18",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/yPb-oTpCfoUF5WT3I4uXdQ",
-          "l1": "A股"
-        },
-        {
-          "date": "2018-06-14",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408837&idx=1&sn=bc364667a2b8f4dfdf7fc3253d8849af&chksm=8d226caaba55e5bcdc948915d72b74693b68c7c0690426a7e691024e03ff4ca2534f37824ac7&scene=0&key=ce969f24fc1b9f53d5d923c25a83050957aedbc12c484248e997a2db39829f6a1cd1c6d22f1292665aedc795c24ee30eb771e93ae21a3543f58304eb60c9fa95ce69b677f825167ec3954f957335f258&ascene=0&uin=MjMzNDA5ODE0MA%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G1036)&version=12010310&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=xwQcBPS4Ufls6HhU%2BnAPAAT5XGam7dAPlWoxXFsC1EOwtRrqB3t5KgkqwRCNyP7C",
-          "l1": "A股"
-        },
-        {
-          "date": "2018-04-26",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408792&idx=1&sn=243af5873781e76bcae38e55c98dc9a3&chksm=8d226cf7ba55e5e1c34ed21e5b0e0d1333c91bc691f7bcd9abc54cab44c5d3b409c52c03bf81&mpshare=1&scene=1&srcid=0426nwSTTqlsdavldLvx7hI0&rd2werd=1#wechat_redirect",
-          "l1": "A股"
-        },
-        {
-          "date": "2018-02-01",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/T-02WkWpEI-LoJkxEo4mTw",
-          "l1": "A股"
-        },
-        {
-          "date": "2017-12-29",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408700&idx=1&sn=f05ca4a983b0ff2d353680eeea2782a5&chksm=8d226f53ba55e6450e5375c902312cca86ba75b4c5f2ff8284463a07ec53b9cf623fd41de1a3&scene=0&key=57d22f5855d672bb018ff50ed082bb2374227a527c8f6aea974d4fbf5b22544298dd3f981b8fa5e792c75d3615226d699c2ef59624d43810b23ceba93824aab982a85bd2d18bb32e77b05b2ed307e5ee&ascene=0&uin=MzYzODEyMzU0OQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=VTcYBykx%2FapKHpZC9wzIUxZ90ZvkZ16qCX9if%2FQaZlQl5lGlERLuiBdQSYHGG5mT",
-          "l1": "A股"
-        }
-      ],
-      "currentUnit": 1,
-      "latestDate": "2026-04-23",
-      "l1": "A股"
     },
     {
       "fundCode": "501018",
@@ -2405,6 +2296,154 @@
       ],
       "currentUnit": 0,
       "latestDate": "2026-05-27",
+      "l1": "A股"
+    },
+    {
+      "fundCode": "000478",
+      "fundName": "建信中证500指数增强A",
+      "bought": 7,
+      "sold": 7,
+      "history": [
+        {
+          "date": "2026-06-25",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/24109",
+          "l1": "A股"
+        },
+        {
+          "date": "2026-04-23",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/23089",
+          "l1": "A股"
+        },
+        {
+          "date": "2026-01-07",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21493",
+          "l1": "A股"
+        },
+        {
+          "date": "2025-11-25",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/20971",
+          "l1": "A股"
+        },
+        {
+          "date": "2023-02-01",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2904",
+          "l1": "A股"
+        },
+        {
+          "date": "2022-01-10",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/GvVf7NmHp5i8vGe4tM4t8w",
+          "l1": "A股"
+        },
+        {
+          "date": "2021-09-27",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/Co06iEW7CVewD4duhnfjYQ",
+          "l1": "A股"
+        },
+        {
+          "date": "2020-02-04",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/1LRP6wqS60SjDlnzZ4-nXQ",
+          "l1": "A股"
+        },
+        {
+          "date": "2019-07-31",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/VZwwgE92m7lASr4YCVriyg",
+          "l1": "A股"
+        },
+        {
+          "date": "2019-06-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/yPb-oTpCfoUF5WT3I4uXdQ",
+          "l1": "A股"
+        },
+        {
+          "date": "2018-06-14",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408837&idx=1&sn=bc364667a2b8f4dfdf7fc3253d8849af&chksm=8d226caaba55e5bcdc948915d72b74693b68c7c0690426a7e691024e03ff4ca2534f37824ac7&scene=0&key=ce969f24fc1b9f53d5d923c25a83050957aedbc12c484248e997a2db39829f6a1cd1c6d22f1292665aedc795c24ee30eb771e93ae21a3543f58304eb60c9fa95ce69b677f825167ec3954f957335f258&ascene=0&uin=MjMzNDA5ODE0MA%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G1036)&version=12010310&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=xwQcBPS4Ufls6HhU%2BnAPAAT5XGam7dAPlWoxXFsC1EOwtRrqB3t5KgkqwRCNyP7C",
+          "l1": "A股"
+        },
+        {
+          "date": "2018-04-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408792&idx=1&sn=243af5873781e76bcae38e55c98dc9a3&chksm=8d226cf7ba55e5e1c34ed21e5b0e0d1333c91bc691f7bcd9abc54cab44c5d3b409c52c03bf81&mpshare=1&scene=1&srcid=0426nwSTTqlsdavldLvx7hI0&rd2werd=1#wechat_redirect",
+          "l1": "A股"
+        },
+        {
+          "date": "2018-02-01",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/T-02WkWpEI-LoJkxEo4mTw",
+          "l1": "A股"
+        },
+        {
+          "date": "2017-12-29",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408700&idx=1&sn=f05ca4a983b0ff2d353680eeea2782a5&chksm=8d226f53ba55e6450e5375c902312cca86ba75b4c5f2ff8284463a07ec53b9cf623fd41de1a3&scene=0&key=57d22f5855d672bb018ff50ed082bb2374227a527c8f6aea974d4fbf5b22544298dd3f981b8fa5e792c75d3615226d699c2ef59624d43810b23ceba93824aab982a85bd2d18bb32e77b05b2ed307e5ee&ascene=0&uin=MzYzODEyMzU0OQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.6+build(16G29)&version=12020810&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=VTcYBykx%2FapKHpZC9wzIUxZ90ZvkZ16qCX9if%2FQaZlQl5lGlERLuiBdQSYHGG5mT",
+          "l1": "A股"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2026-06-25",
+      "l1": "A股"
+    },
+    {
+      "fundCode": "502010",
+      "fundName": "易方达中证全指证券公司指数(LOF)A",
+      "bought": 2,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2026-06-25",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/24109",
+          "l1": "A股"
+        },
+        {
+          "date": "2023-02-01",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/2904",
+          "l1": "A股"
+        },
+        {
+          "date": "2018-06-19",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s?__biz=MzIwMTIzNDMwNA==&mid=2653408846&idx=1&sn=d6ed087bfa68eea0ec3bcc0c8935c179&chksm=8d226ca1ba55e5b76b72199b939fd3991124972e0f5cc971aa6a2c7d457c6dd2d531fa485868&mpshare=1&scene=1&srcid=0619aWPgAwTNepMJqXr6eixF&rd2werd=1#wechat_redirect",
+          "l1": "A股"
+        },
+        {
+          "date": "2018-04-02",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/pxd7EDN1P5pklSnOzksq3g",
+          "l1": "A股"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2026-06-25",
       "l1": "A股"
     }
   ]
