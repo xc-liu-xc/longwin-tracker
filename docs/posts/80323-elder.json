@@ -1,0 +1,32 @@
+{
+  "postId": "80323",
+  "fetchedAt": "2026-06-29T14:43:50+08:00",
+  "totalCommentNum": 26,
+  "totalScanned": 25,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2213041,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，改了~应该是1998-2003，谢谢提醒~",
+      "images": [],
+      "createdAt": "2026-06-29T11:18:35",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 2212981,
+        "userName": "同路人_u9kyrt",
+        "content": "捉个虫，图好像弄错了，表头是到2023，曲线图尽头是2003。",
+        "images": [],
+        "createdAt": "2026-06-29T11:08:34",
+        "ipLocation": "广东省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    }
+  ]
+}
