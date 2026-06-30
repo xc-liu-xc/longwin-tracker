@@ -1,6 +1,6 @@
 {
   "postId": "79855",
-  "fetchedAt": "2026-06-29T14:44:10+08:00",
+  "fetchedAt": "2026-06-30T14:09:47+08:00",
   "totalCommentNum": 33,
   "totalScanned": 32,
   "expandedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-06-25T09:18:07",
       "ipLocation": "上海市",
-      "likeNum": 10,
+      "likeNum": 11,
       "parent": {
         "id": 2207617,
         "userName": "一树一花555",

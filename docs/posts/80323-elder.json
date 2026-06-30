@@ -1,9 +1,9 @@
 {
   "postId": "80323",
-  "fetchedAt": "2026-06-29T14:43:50+08:00",
+  "fetchedAt": "2026-06-30T14:09:21+08:00",
   "totalCommentNum": 26,
-  "totalScanned": 25,
-  "expandedTopLevel": 0,
+  "totalScanned": 30,
+  "expandedTopLevel": 1,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-06-29T11:18:35",
       "ipLocation": "上海市",
-      "likeNum": 7,
+      "likeNum": 13,
       "parent": {
         "id": 2212981,
         "userName": "同路人_u9kyrt",
@@ -24,9 +24,56 @@
         "images": [],
         "createdAt": "2026-06-29T11:08:34",
         "ipLocation": "广东省",
-        "likeNum": 4
+        "likeNum": 6
       },
       "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2214037,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我最近没有隐藏过帖子，你往前翻翻，应该都在。",
+      "images": [],
+      "createdAt": "2026-06-29T15:36:06",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 2213611,
+        "userName": "布小可",
+        "content": "米米你好，请问你前几天发过一条帖子提到过一个人的名字及文章，是很呼应当下时境的，还给了地址来着，好像还提到了巴菲特当年被吐槽的点，我当时没及时存，刚刚找了一下你最近的帖子内容都没看到，不知是否方便再告知一下？感谢🙏",
+        "images": [],
+        "createdAt": "2026-06-29T14:48:50",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2214385,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "https://qieman.com/content/content-detail?postId=80077\n这个吗？可能因为（我也不知道的）什么原因不能显示了？",
+      "images": [],
+      "createdAt": "2026-06-29T16:28:10",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 2213611,
+        "userName": "布小可",
+        "content": "米米你好，请问你前几天发过一条帖子提到过一个人的名字及文章，是很呼应当下时境的，还给了地址来着，好像还提到了巴菲特当年被吐槽的点，我当时没及时存，刚刚找了一下你最近的帖子内容都没看到，不知是否方便再告知一下？感谢🙏",
+        "images": [],
+        "createdAt": "2026-06-29T14:48:50",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 2214283,
+        "userName": "布小可",
+        "content": "好奇怪呀，从你的主页进去没看到那篇帖子，我又想了想，就从“通知”那里进去，一下就看到了，就是提到霍华德的那篇，然后我又去你主页确认，发现从主页去看就是没有这篇",
+        "images": []
+      }
     }
   ]
 }
