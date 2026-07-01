@@ -1,0 +1,37 @@
+{
+  "postId": "80575",
+  "fetchedAt": "2026-07-01T14:24:23+08:00",
+  "totalCommentNum": 47,
+  "totalScanned": 38,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2217745,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我觉得又快又漫长",
+      "images": [],
+      "createdAt": "2026-07-01T13:22:24",
+      "ipLocation": "",
+      "likeNum": 0,
+      "parent": {
+        "id": 2216401,
+        "userName": "胖菜",
+        "content": "2026唯4的需请假1号，竟然不给请假。",
+        "images": [],
+        "createdAt": "2026-06-30T17:28:08",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 2216407,
+        "userName": "胖菜",
+        "content": "这半年，感觉过得好快，但又像是早就过去很久很久的往事在慢放。\n",
+        "images": []
+      }
+    }
+  ]
+}

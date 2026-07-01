@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-06-30 14:07 CST",
+  "updatedAt": "2026-07-01 14:22 CST",
   "poName": "长赢指数投资计划-150份",
   "totalUnit": 150,
-  "investedUnit": 111,
-  "adjustedCount": 257,
-  "totalBuy": 266,
+  "investedUnit": 112,
+  "adjustedCount": 258,
+  "totalBuy": 267,
   "totalSell": 155,
   "recentSignals": [
+    {
+      "date": "2026-06-30",
+      "action": "buy",
+      "fundCode": "008163",
+      "fundName": "南方标普红利低波50ETF联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/24157",
+      "l1": "其他"
+    },
     {
       "date": "2026-06-25",
       "action": "buy",
@@ -140,24 +149,6 @@
       "fundName": "华夏中证500ETF联接A",
       "unit": 1,
       "articleLink": "https://qieman.com/content/items/23449",
-      "l1": "A股"
-    },
-    {
-      "date": "2026-05-25",
-      "action": "buy",
-      "fundCode": "007169",
-      "fundName": "易方达中债1-3年国开债A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23401",
-      "l1": "其他"
-    },
-    {
-      "date": "2026-05-25",
-      "action": "buy",
-      "fundCode": "021550",
-      "fundName": "博时中证红利低波动100ETF联接A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23401",
       "l1": "A股"
     }
   ],
@@ -2451,6 +2442,24 @@
       "currentUnit": 1,
       "latestDate": "2026-06-25",
       "l1": "A股"
+    },
+    {
+      "fundCode": "008163",
+      "fundName": "南方标普红利低波50ETF联接A",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-06-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/24157",
+          "l1": "其他"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2026-06-30",
+      "l1": "其他"
     },
     {
       "fundCode": "110026",

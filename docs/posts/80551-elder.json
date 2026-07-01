@@ -1,10 +1,32 @@
 {
   "postId": "80551",
-  "fetchedAt": "2026-06-30T14:09:16+08:00",
+  "fetchedAt": "2026-07-01T14:24:20+08:00",
   "totalCommentNum": 23,
-  "totalScanned": 23,
+  "totalScanned": 36,
   "expandedTopLevel": 0,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
-  "items": []
+  "items": [
+    {
+      "type": "reply",
+      "id": 2217751,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不算，这四个是价格指数。",
+      "images": [],
+      "createdAt": "2026-07-01T13:23:38",
+      "ipLocation": "",
+      "likeNum": 1,
+      "parent": {
+        "id": 2215717,
+        "userName": "麟大大",
+        "content": "请问大佬，图中收益率是不算股息的吧",
+        "images": [],
+        "createdAt": "2026-06-30T13:04:22",
+        "ipLocation": "浙江省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
 }
