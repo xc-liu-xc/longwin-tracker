@@ -1,8 +1,8 @@
 {
   "postId": "80635",
-  "fetchedAt": "2026-07-01T14:24:24+08:00",
+  "fetchedAt": "2026-07-02T13:57:11+08:00",
   "totalCommentNum": 18,
-  "totalScanned": 13,
+  "totalScanned": 14,
   "expandedTopLevel": 0,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-01T13:30:33",
       "ipLocation": "上海市",
-      "likeNum": 0,
+      "likeNum": 2,
       "parent": {
         "id": 2216827,
         "userName": "TXJ2060",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-07-01T09:20:47",
         "ipLocation": "北京市",
-        "likeNum": 1
+        "likeNum": 3
       },
       "replyTo": null
     }

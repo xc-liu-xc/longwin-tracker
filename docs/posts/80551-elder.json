@@ -1,8 +1,8 @@
 {
   "postId": "80551",
-  "fetchedAt": "2026-07-01T14:24:20+08:00",
+  "fetchedAt": "2026-07-02T13:57:08+08:00",
   "totalCommentNum": 23,
-  "totalScanned": 36,
+  "totalScanned": 37,
   "expandedTopLevel": 0,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -15,7 +15,7 @@
       "content": "不算，这四个是价格指数。",
       "images": [],
       "createdAt": "2026-07-01T13:23:38",
-      "ipLocation": "",
+      "ipLocation": "上海市",
       "likeNum": 1,
       "parent": {
         "id": 2215717,
