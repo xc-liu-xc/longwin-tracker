@@ -1,10 +1,32 @@
 {
   "postId": "80695",
-  "fetchedAt": "2026-07-02T13:57:00+08:00",
+  "fetchedAt": "2026-07-03T13:51:31+08:00",
   "totalCommentNum": 12,
-  "totalScanned": 14,
+  "totalScanned": 15,
   "expandedTopLevel": 0,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
-  "items": []
+  "items": [
+    {
+      "type": "reply",
+      "id": 2221927,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "仓位用市值计算，不是份数",
+      "images": [],
+      "createdAt": "2026-07-02T20:56:43",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 2221687,
+        "userName": "同路人_cLRIhf",
+        "content": "150 计划     22／150＝14.67％呢",
+        "images": [],
+        "createdAt": "2026-07-02T17:29:58",
+        "ipLocation": "四川省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
 }

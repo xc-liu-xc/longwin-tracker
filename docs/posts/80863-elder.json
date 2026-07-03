@@ -1,10 +1,32 @@
 {
   "postId": "80863",
-  "fetchedAt": "2026-07-02T13:56:57+08:00",
+  "fetchedAt": "2026-07-03T13:51:27+08:00",
   "totalCommentNum": 17,
-  "totalScanned": 17,
-  "expandedTopLevel": 0,
+  "totalScanned": 42,
+  "expandedTopLevel": 1,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
-  "items": []
+  "items": [
+    {
+      "type": "reply",
+      "id": 2221447,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "肯定会，不知道以后是什么形状，\n我觉得现在的形状像恐龙化石的头盖骨",
+      "images": [],
+      "createdAt": "2026-07-02T14:42:22",
+      "ipLocation": "上海市",
+      "likeNum": 12,
+      "parent": {
+        "id": 2221375,
+        "userName": "lucky_ETF",
+        "content": "这个图预感后续会很有意思，不知道到时候米米会不会放出来",
+        "images": [],
+        "createdAt": "2026-07-02T13:52:20",
+        "ipLocation": "北京市",
+        "likeNum": 3
+      },
+      "replyTo": null
+    }
+  ]
 }
