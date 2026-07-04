@@ -1,8 +1,8 @@
 {
   "postId": "80863",
-  "fetchedAt": "2026-07-03T13:51:27+08:00",
+  "fetchedAt": "2026-07-04T13:43:54+08:00",
   "totalCommentNum": 17,
-  "totalScanned": 42,
+  "totalScanned": 43,
   "expandedTopLevel": 1,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-02T14:42:22",
       "ipLocation": "上海市",
-      "likeNum": 12,
+      "likeNum": 14,
       "parent": {
         "id": 2221375,
         "userName": "lucky_ETF",

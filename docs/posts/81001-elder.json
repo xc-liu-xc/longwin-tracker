@@ -1,0 +1,46 @@
+{
+  "postId": "81001",
+  "fetchedAt": "2026-07-04T13:43:50+08:00",
+  "totalCommentNum": 67,
+  "totalScanned": 41,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2222689,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "问题一：原文中心思想什么？（40'）\n问题二：“野百合”是谁？（30'）\n问题三：“乱”是什么乱？（30'）\n",
+      "images": [],
+      "createdAt": "2026-07-03T16:01:45",
+      "ipLocation": "上海市",
+      "likeNum": 22
+    },
+    {
+      "type": "reply",
+      "id": 2222743,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这两篇？",
+      "images": [
+        "https://cdn-community.qieman.com/851FB500-F9EE-436E-8B8D-0D870A658E83.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_56,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/DA6BD65F-1B22-4E96-B25B-B33F08A32E98.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_49,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-07-03T16:12:27",
+      "ipLocation": "上海市",
+      "likeNum": 89,
+      "parent": {
+        "id": 2222701,
+        "userName": "洗心革面来攒钱",
+        "content": "新米你好，今天看到很多同行人坚持医药医疗低位补仓和做波段，一个小反弹就快要盈利了。我就想起E大是否有一篇帖子，大致内容是：低位补仓是让利润奔跑的利器，并且要注意补仓的时间空间。\n我想找出这篇文章再温故一遍，关于补仓的操作，但是翻遍了我的存档，怎么也搜不到。\n如果您不忙的话希望能小小点播一下，不胜感激。",
+        "images": [],
+        "createdAt": "2026-07-03T16:03:11",
+        "ipLocation": "河南省",
+        "likeNum": 10
+      },
+      "replyTo": null
+    }
+  ]
+}

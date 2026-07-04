@@ -1,10 +1,32 @@
 {
   "postId": "80701",
-  "fetchedAt": "2026-07-03T13:51:33+08:00",
+  "fetchedAt": "2026-07-04T13:44:00+08:00",
   "totalCommentNum": 25,
-  "totalScanned": 32,
+  "totalScanned": 33,
   "expandedTopLevel": 0,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
-  "items": []
+  "items": [
+    {
+      "type": "reply",
+      "id": 2223109,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "被自己10：61给笑到了，谢谢提醒~",
+      "images": [],
+      "createdAt": "2026-07-03T22:22:19",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 2223037,
+        "userName": "qi77",
+        "content": "米米，捉个虫，你标题为“另一个角度来思考红利类的金融投资”是https://qieman.com/content/content-detail?postId=80083吗？如果是的话，发布时间是6月26日，还有就是6月29日的帖子是10：16发布的，你笔误啦。",
+        "images": [],
+        "createdAt": "2026-07-03T20:25:31",
+        "ipLocation": "陕西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
 }
