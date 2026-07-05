@@ -1,6 +1,6 @@
 {
   "postId": "80323",
-  "fetchedAt": "2026-07-04T13:44:15+08:00",
+  "fetchedAt": "2026-07-05T14:02:50+08:00",
   "totalCommentNum": 26,
   "totalScanned": 30,
   "expandedTopLevel": 1,
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-06-29T15:36:06",
       "ipLocation": "上海市",
-      "likeNum": 2,
+      "likeNum": 3,
       "parent": {
         "id": 2213611,
         "userName": "布小可",
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-06-29T16:28:10",
       "ipLocation": "上海市",
-      "likeNum": 5,
+      "likeNum": 6,
       "parent": {
         "id": 2213611,
         "userName": "布小可",

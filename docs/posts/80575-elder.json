@@ -1,8 +1,8 @@
 {
   "postId": "80575",
-  "fetchedAt": "2026-07-04T13:44:09+08:00",
+  "fetchedAt": "2026-07-05T14:02:44+08:00",
   "totalCommentNum": 47,
-  "totalScanned": 39,
+  "totalScanned": 40,
   "expandedTopLevel": 1,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-01T13:22:24",
       "ipLocation": "上海市",
-      "likeNum": 0,
+      "likeNum": 1,
       "parent": {
         "id": 2216401,
         "userName": "胖菜",
