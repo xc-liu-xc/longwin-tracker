@@ -1,8 +1,8 @@
 {
   "postId": "80689",
-  "fetchedAt": "2026-07-05T14:02:33+08:00",
+  "fetchedAt": "2026-07-06T14:26:17+08:00",
   "totalCommentNum": 9,
-  "totalScanned": 9,
+  "totalScanned": 11,
   "expandedTopLevel": 0,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-01T10:49:03",
       "ipLocation": "上海市",
-      "likeNum": 0,
+      "likeNum": 1,
       "parent": {
         "id": 2217013,
         "userName": "欢喜E家人",

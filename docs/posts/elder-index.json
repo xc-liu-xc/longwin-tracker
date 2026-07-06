@@ -9079,7 +9079,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:45+08:00"
+    "fetchedAt": "2026-07-06T14:26:29+08:00"
   },
   "80305": {
     "elderCount": 0,
@@ -9088,7 +9088,7 @@
     "totalScanned": 40,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:48+08:00"
+    "fetchedAt": "2026-07-06T14:26:31+08:00"
   },
   "80323": {
     "elderCount": 3,
@@ -9099,7 +9099,7 @@
     "totalScanned": 30,
     "expandedTopLevel": 1,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:50+08:00"
+    "fetchedAt": "2026-07-06T14:26:34+08:00"
   },
   "80551": {
     "elderCount": 1,
@@ -9110,7 +9110,7 @@
     "totalScanned": 38,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:40+08:00"
+    "fetchedAt": "2026-07-06T14:26:24+08:00"
   },
   "80365": {
     "elderCount": 0,
@@ -9119,7 +9119,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:51+08:00"
+    "fetchedAt": "2026-07-06T14:26:35+08:00"
   },
   "80371": {
     "elderCount": 0,
@@ -9128,7 +9128,7 @@
     "totalScanned": 126,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:58+08:00"
+    "fetchedAt": "2026-07-06T14:26:42+08:00"
   },
   "80713": {
     "elderCount": 0,
@@ -9137,7 +9137,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:31+08:00"
+    "fetchedAt": "2026-07-06T14:26:15+08:00"
   },
   "80737": {
     "elderCount": 0,
@@ -9146,7 +9146,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:31+08:00"
+    "fetchedAt": "2026-07-06T14:26:15+08:00"
   },
   "80749": {
     "elderCount": 0,
@@ -9155,7 +9155,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:32+08:00"
+    "fetchedAt": "2026-07-06T14:26:16+08:00"
   },
   "80689": {
     "elderCount": 1,
@@ -9163,10 +9163,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 9,
-    "totalScanned": 9,
+    "totalScanned": 11,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:33+08:00"
+    "fetchedAt": "2026-07-06T14:26:17+08:00"
   },
   "80695": {
     "elderCount": 1,
@@ -9177,7 +9177,7 @@
     "totalScanned": 15,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:34+08:00"
+    "fetchedAt": "2026-07-06T14:26:18+08:00"
   },
   "80701": {
     "elderCount": 1,
@@ -9188,7 +9188,7 @@
     "totalScanned": 34,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:36+08:00"
+    "fetchedAt": "2026-07-06T14:26:19+08:00"
   },
   "80707": {
     "elderCount": 0,
@@ -9197,16 +9197,16 @@
     "totalScanned": 11,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:36+08:00"
+    "fetchedAt": "2026-07-06T14:26:20+08:00"
   },
   "80725": {
     "elderCount": 0,
     "byAuthor": {},
     "totalCommentNum": 35,
-    "totalScanned": 51,
+    "totalScanned": 52,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:39+08:00"
+    "fetchedAt": "2026-07-06T14:26:23+08:00"
   },
   "80575": {
     "elderCount": 1,
@@ -9217,7 +9217,7 @@
     "totalScanned": 40,
     "expandedTopLevel": 1,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:44+08:00"
+    "fetchedAt": "2026-07-06T14:26:28+08:00"
   },
   "80635": {
     "elderCount": 1,
@@ -9228,7 +9228,7 @@
     "totalScanned": 14,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:44+08:00"
+    "fetchedAt": "2026-07-06T14:26:28+08:00"
   },
   "80851": {
     "elderCount": 1,
@@ -9239,7 +9239,7 @@
     "totalScanned": 1,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:26+08:00"
+    "fetchedAt": "2026-07-06T14:26:09+08:00"
   },
   "80863": {
     "elderCount": 1,
@@ -9250,7 +9250,7 @@
     "totalScanned": 43,
     "expandedTopLevel": 1,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:30+08:00"
+    "fetchedAt": "2026-07-06T14:26:14+08:00"
   },
   "80959": {
     "elderCount": 0,
@@ -9259,7 +9259,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:15+08:00"
+    "fetchedAt": "2026-07-06T14:25:59+08:00"
   },
   "80965": {
     "elderCount": 0,
@@ -9268,7 +9268,7 @@
     "totalScanned": 15,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:16+08:00"
+    "fetchedAt": "2026-07-06T14:26:00+08:00"
   },
   "80917": {
     "elderCount": 0,
@@ -9277,7 +9277,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:30+08:00"
+    "fetchedAt": "2026-07-06T14:26:14+08:00"
   },
   "80989": {
     "elderCount": 0,
@@ -9286,7 +9286,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:17+08:00"
+    "fetchedAt": "2026-07-06T14:26:00+08:00"
   },
   "81025": {
     "elderCount": 0,
@@ -9295,7 +9295,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:18+08:00"
+    "fetchedAt": "2026-07-06T14:26:01+08:00"
   },
   "81001": {
     "elderCount": 2,
@@ -9303,9 +9303,9 @@
       "新米练习菌": 2
     },
     "totalCommentNum": 67,
-    "totalScanned": 47,
+    "totalScanned": 50,
     "expandedTopLevel": 4,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-07-05T14:02:26+08:00"
+    "fetchedAt": "2026-07-06T14:26:09+08:00"
   }
 }
