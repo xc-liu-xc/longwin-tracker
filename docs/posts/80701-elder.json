@@ -1,6 +1,6 @@
 {
   "postId": "80701",
-  "fetchedAt": "2026-07-06T14:26:19+08:00",
+  "fetchedAt": "2026-07-07T14:06:05+08:00",
   "totalCommentNum": 25,
   "totalScanned": 34,
   "expandedTopLevel": 0,
@@ -24,6 +24,27 @@
         "images": [],
         "createdAt": "2026-07-03T20:25:31",
         "ipLocation": "陕西省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2223847,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "飞书文档",
+      "images": [],
+      "createdAt": "2026-07-07T12:12:56",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 2223469,
+        "userName": "小叶桃",
+        "content": "米米，感谢你持续不断地更新，我也想学习你的笔记，不知道是否方便透露下帖子文档是用哪个软件做的吗？十分感谢！",
+        "images": [],
+        "createdAt": "2026-07-05T09:30:36",
+        "ipLocation": "湖南省",
         "likeNum": 0
       },
       "replyTo": null

@@ -1,0 +1,53 @@
+{
+  "postId": "81103",
+  "fetchedAt": "2026-07-07T14:05:43+08:00",
+  "totalCommentNum": 29,
+  "totalScanned": 18,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2223829,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "只是发现还有有眉毛的",
+      "images": [],
+      "createdAt": "2026-07-07T12:10:29",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 2223751,
+        "userName": "竹夭小仰",
+        "content": "米米第二个表情符号是\"大熊市\"的意思吗",
+        "images": [],
+        "createdAt": "2026-07-07T00:00:42",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2223835,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "没，还有一些，但非常非常少，快减完了。",
+      "images": [],
+      "createdAt": "2026-07-07T12:11:50",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 2223727,
+        "userName": "捡垃圾追随者",
+        "content": "我想知道米米的半导体清仓了吗？",
+        "images": [],
+        "createdAt": "2026-07-06T22:03:15",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}
