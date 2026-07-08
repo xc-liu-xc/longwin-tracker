@@ -1,6 +1,6 @@
 {
   "postId": "81001",
-  "fetchedAt": "2026-07-07T14:05:54+08:00",
+  "fetchedAt": "2026-07-08T13:19:37+08:00",
   "totalCommentNum": 67,
   "totalScanned": 51,
   "expandedTopLevel": 4,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-03T16:01:45",
       "ipLocation": "上海市",
-      "likeNum": 26
+      "likeNum": 27
     },
     {
       "type": "reply",
@@ -30,7 +30,7 @@
       ],
       "createdAt": "2026-07-03T16:12:27",
       "ipLocation": "上海市",
-      "likeNum": 125,
+      "likeNum": 126,
       "parent": {
         "id": 2222701,
         "userName": "洗心革面来攒钱",
@@ -38,7 +38,7 @@
         "images": [],
         "createdAt": "2026-07-03T16:03:11",
         "ipLocation": "河南省",
-        "likeNum": 17
+        "likeNum": 18
       },
       "replyTo": null
     }
