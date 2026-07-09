@@ -1,0 +1,32 @@
+{
+  "postId": "81337",
+  "fetchedAt": "2026-07-09T14:02:12+08:00",
+  "totalCommentNum": 18,
+  "totalScanned": 16,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2225779,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "电脑默认的Adobe PDF",
+      "images": [],
+      "createdAt": "2026-07-09T09:44:21",
+      "ipLocation": "上海市",
+      "likeNum": 1,
+      "parent": {
+        "id": 2225761,
+        "userName": "财富自由也",
+        "content": "请问是用的什么软件看的PDF?好好奇哦",
+        "images": [],
+        "createdAt": "2026-07-09T09:32:29",
+        "ipLocation": "浙江省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "postId": "81103",
-  "fetchedAt": "2026-07-08T13:19:27+08:00",
+  "fetchedAt": "2026-07-09T14:02:29+08:00",
   "totalCommentNum": 29,
   "totalScanned": 20,
   "expandedTopLevel": 2,
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-07-07T12:11:50",
       "ipLocation": "上海市",
-      "likeNum": 1,
+      "likeNum": 2,
       "parent": {
         "id": 2223727,
         "userName": "捡垃圾追随者",
