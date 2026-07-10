@@ -1,0 +1,32 @@
+{
+  "postId": "81463",
+  "fetchedAt": "2026-07-10T14:01:01+08:00",
+  "totalCommentNum": 16,
+  "totalScanned": 14,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2226985,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "不是老大的。\n是霍华德的访谈，应该是中文翻译的关系。",
+      "images": [],
+      "createdAt": "2026-07-10T09:43:18",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 2226967,
+        "userName": "凭虚御风",
+        "content": "“没有任何一种资产,好到不可能被买贵,也就没有任何一种资产,好到贵了以后还依然安全。反过来,也几乎没有哪种资产糟到只要价格足够低,它仍然不可能成为一笔好买卖。”\n老大应该并非不是故意写得这么绕吧。",
+        "images": [],
+        "createdAt": "2026-07-10T09:28:41",
+        "ipLocation": "新疆维吾尔自治区",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

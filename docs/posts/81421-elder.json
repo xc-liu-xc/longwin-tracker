@@ -1,0 +1,34 @@
+{
+  "postId": "81421",
+  "fetchedAt": "2026-07-10T14:01:06+08:00",
+  "totalCommentNum": 17,
+  "totalScanned": 15,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2226619,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "需要啊，一直都看的。\n估值，是排除法。\n特别贵的，有危险，我不想碰。但不是只看估值，只买便宜的。有区别~",
+      "images": [],
+      "createdAt": "2026-07-09T18:26:07",
+      "ipLocation": "上海市",
+      "likeNum": 9,
+      "parent": {
+        "id": 2226607,
+        "userName": "战神小葫芦",
+        "content": "米米，您好，想请问一下《霍华德·马克斯今年最精彩对话，从巴菲特芒格到AI、黄金与债券》这个访谈中，马克斯的这句话“第二，也不能因为领先者估值太高，就去买落后者，仅仅因为后者看起来便宜”应该如何理解呢？是除了估值还需要看技术、动量等等吗？感谢米米🤗",
+        "images": [
+          "https://cdn-community.qieman.com/6F36BAE0-AF56-4B7E-91A5-6174D8129782.png?x-oss-process=image/watermark,text_5LiU5oWiLeaImOelnuWwj-iRq-iKpg,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_19,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-07-09T17:36:36",
+        "ipLocation": "重庆市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}
