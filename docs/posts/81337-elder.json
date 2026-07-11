@@ -1,6 +1,6 @@
 {
   "postId": "81337",
-  "fetchedAt": "2026-07-10T14:01:03+08:00",
+  "fetchedAt": "2026-07-11T13:11:21+08:00",
   "totalCommentNum": 18,
   "totalScanned": 18,
   "expandedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-09T09:44:21",
       "ipLocation": "上海市",
-      "likeNum": 2,
+      "likeNum": 3,
       "parent": {
         "id": 2225761,
         "userName": "财富自由也",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-07-09T09:32:29",
         "ipLocation": "浙江省",
-        "likeNum": 0
+        "likeNum": 1
       },
       "replyTo": null
     }

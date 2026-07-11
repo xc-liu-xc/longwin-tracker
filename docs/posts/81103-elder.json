@@ -1,6 +1,6 @@
 {
   "postId": "81103",
-  "fetchedAt": "2026-07-10T14:01:19+08:00",
+  "fetchedAt": "2026-07-11T13:11:35+08:00",
   "totalCommentNum": 29,
   "totalScanned": 20,
   "expandedTopLevel": 2,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-07T12:10:29",
       "ipLocation": "上海市",
-      "likeNum": 6,
+      "likeNum": 7,
       "parent": {
         "id": 2223751,
         "userName": "竹夭小仰",

@@ -1,6 +1,6 @@
 {
   "postId": "81295",
-  "fetchedAt": "2026-07-10T14:01:10+08:00",
+  "fetchedAt": "2026-07-11T13:11:28+08:00",
   "totalCommentNum": 43,
   "totalScanned": 38,
   "expandedTopLevel": 1,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-08T17:57:59",
       "ipLocation": "上海市",
-      "likeNum": 4,
+      "likeNum": 5,
       "parent": {
         "id": 2225461,
         "userName": "LG攒钱记",

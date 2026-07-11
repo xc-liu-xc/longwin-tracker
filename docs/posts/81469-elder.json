@@ -1,10 +1,32 @@
 {
   "postId": "81469",
-  "fetchedAt": "2026-07-10T14:01:02+08:00",
+  "fetchedAt": "2026-07-11T13:11:18+08:00",
   "totalCommentNum": 14,
-  "totalScanned": 14,
+  "totalScanned": 16,
   "expandedTopLevel": 0,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
-  "items": []
+  "items": [
+    {
+      "type": "reply",
+      "id": 2227567,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "新浪财经~",
+      "images": [],
+      "createdAt": "2026-07-10T20:29:25",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 2227441,
+        "userName": "哄哄123",
+        "content": "亲爱的米米，向您请教一下，图三是在哪里能看到实时图呀，求分享🌹",
+        "images": [],
+        "createdAt": "2026-07-10T16:47:49",
+        "ipLocation": "重庆市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
 }

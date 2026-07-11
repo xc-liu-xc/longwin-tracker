@@ -1,8 +1,8 @@
 {
   "postId": "81463",
-  "fetchedAt": "2026-07-10T14:01:01+08:00",
+  "fetchedAt": "2026-07-11T13:11:18+08:00",
   "totalCommentNum": 16,
-  "totalScanned": 14,
+  "totalScanned": 15,
   "expandedTopLevel": 0,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-10T09:43:18",
       "ipLocation": "上海市",
-      "likeNum": 3,
+      "likeNum": 8,
       "parent": {
         "id": 2226967,
         "userName": "凭虚御风",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-07-10T09:28:41",
         "ipLocation": "新疆维吾尔自治区",
-        "likeNum": 2
+        "likeNum": 4
       },
       "replyTo": null
     }
