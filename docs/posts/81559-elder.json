@@ -1,10 +1,32 @@
 {
   "postId": "81559",
-  "fetchedAt": "2026-07-11T13:11:17+08:00",
+  "fetchedAt": "2026-07-12T13:25:21+08:00",
   "totalCommentNum": 12,
-  "totalScanned": 12,
+  "totalScanned": 26,
   "expandedTopLevel": 0,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
-  "items": []
+  "items": [
+    {
+      "type": "reply",
+      "id": 2227945,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "顾比均线自带的拐点标识，但是是后置的，就是成型了以后才会出现。",
+      "images": [],
+      "createdAt": "2026-07-11T16:05:46",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 2227885,
+        "userName": "均衡慢盈",
+        "content": "米米，k线图里的粉色温和蓝色小陀螺是什么啊？",
+        "images": [],
+        "createdAt": "2026-07-11T13:34:22",
+        "ipLocation": "湖南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
 }

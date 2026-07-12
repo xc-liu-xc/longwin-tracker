@@ -1,8 +1,8 @@
 {
   "postId": "81463",
-  "fetchedAt": "2026-07-11T13:11:18+08:00",
+  "fetchedAt": "2026-07-12T13:25:23+08:00",
   "totalCommentNum": 16,
-  "totalScanned": 15,
+  "totalScanned": 16,
   "expandedTopLevel": 0,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-10T09:43:18",
       "ipLocation": "上海市",
-      "likeNum": 8,
+      "likeNum": 9,
       "parent": {
         "id": 2226967,
         "userName": "凭虚御风",
