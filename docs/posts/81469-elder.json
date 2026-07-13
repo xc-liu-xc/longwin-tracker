@@ -1,6 +1,6 @@
 {
   "postId": "81469",
-  "fetchedAt": "2026-07-12T13:25:23+08:00",
+  "fetchedAt": "2026-07-13T13:34:58+08:00",
   "totalCommentNum": 14,
   "totalScanned": 18,
   "expandedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-10T20:29:25",
       "ipLocation": "上海市",
-      "likeNum": 0,
+      "likeNum": 1,
       "parent": {
         "id": 2227441,
         "userName": "哄哄123",

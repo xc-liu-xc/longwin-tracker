@@ -1,8 +1,8 @@
 {
   "postId": "81103",
-  "fetchedAt": "2026-07-12T13:25:49+08:00",
+  "fetchedAt": "2026-07-13T13:35:28+08:00",
   "totalCommentNum": 29,
-  "totalScanned": 20,
+  "totalScanned": 21,
   "expandedTopLevel": 2,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-07T12:10:29",
       "ipLocation": "上海市",
-      "likeNum": 7,
+      "likeNum": 8,
       "parent": {
         "id": 2223751,
         "userName": "竹夭小仰",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-07-07T12:11:50",
       "ipLocation": "上海市",
-      "likeNum": 2,
+      "likeNum": 3,
       "parent": {
         "id": 2223727,
         "userName": "捡垃圾追随者",
