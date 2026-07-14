@@ -1,0 +1,32 @@
+{
+  "postId": "81745",
+  "fetchedAt": "2026-07-14T12:49:24+08:00",
+  "totalCommentNum": 17,
+  "totalScanned": 14,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2228827,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "纳米小“股东”笑了，这是好事啊，企业嘛，就要要赚钱的。\n作为用户，知道大企业砍掉（比如以前的腾讯微博）也会提前告知的，那我就迁移然后回到现在的方式，甚至再退回到最初最原始的方式，也没什么问题；如果好用，那就一直用下去，也是不错的选择。",
+      "images": [],
+      "createdAt": "2026-07-14T09:24:16",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 2228779,
+        "userName": "biubiubiubiu",
+        "content": "腾讯的东西有个比较讨厌的点，哪天这个工具看不到挣钱的可能，就会被砍掉",
+        "images": [],
+        "createdAt": "2026-07-14T08:55:37",
+        "ipLocation": "上海市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}
