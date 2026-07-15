@@ -1,0 +1,58 @@
+{
+  "postId": "81907",
+  "fetchedAt": "2026-07-15T12:49:38+08:00",
+  "totalCommentNum": 58,
+  "totalScanned": 44,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2230711,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "估值从来不是涨跌的触发器，是风险的发大器。价格和价值之间的绳子，绳子本身的长短和涨跌有什么关系？告诉你在哪儿，又不是告诉你去哪。",
+      "images": [],
+      "createdAt": "2026-07-15T10:14:12",
+      "ipLocation": "上海市",
+      "likeNum": 16,
+      "parent": {
+        "id": 2230609,
+        "userName": "ken哥",
+        "content": "上一段时间，看了很多都说，估值高不代表不涨，估值低不代表不跌。心想，那么，要估值有何用？",
+        "images": [],
+        "createdAt": "2026-07-15T09:57:58",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2230933,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "既然都是说锚⚓了，均值回归，这用处还不够大吗？\n“要估值有何用”，你自己不也解释了吗~",
+      "images": [],
+      "createdAt": "2026-07-15T10:53:32",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 2230609,
+        "userName": "ken哥",
+        "content": "上一段时间，看了很多都说，估值高不代表不涨，估值低不代表不跌。心想，那么，要估值有何用？",
+        "images": [],
+        "createdAt": "2026-07-15T09:57:58",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 2230873,
+        "userName": "ken哥",
+        "content": "我理解就是估值就是锚，决定不了短期的涨跌，但最终价格还是要向估值靠拢。所以之前市场实在疯狂，他们几乎不理会估值……",
+        "images": []
+      }
+    }
+  ]
+}

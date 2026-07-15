@@ -1,6 +1,6 @@
 {
   "postId": "81745",
-  "fetchedAt": "2026-07-14T12:49:24+08:00",
+  "fetchedAt": "2026-07-15T12:49:41+08:00",
   "totalCommentNum": 17,
   "totalScanned": 14,
   "expandedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-14T09:24:16",
       "ipLocation": "上海市",
-      "likeNum": 5,
+      "likeNum": 12,
       "parent": {
         "id": 2228779,
         "userName": "biubiubiubiu",
