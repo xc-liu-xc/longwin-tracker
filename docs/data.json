@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-07-15 12:48 CST",
+  "updatedAt": "2026-07-16 12:56 CST",
   "poName": "长赢指数投资计划-150份",
   "totalUnit": 150,
-  "investedUnit": 112,
-  "adjustedCount": 258,
+  "investedUnit": 111,
+  "adjustedCount": 259,
   "totalBuy": 267,
-  "totalSell": 155,
+  "totalSell": 156,
   "recentSignals": [
+    {
+      "date": "2026-07-15",
+      "action": "sell",
+      "fundCode": "012323",
+      "fundName": "华宝医疗ETF联接C",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/24463",
+      "l1": "A股"
+    },
     {
       "date": "2026-06-30",
       "action": "buy",
@@ -113,42 +122,6 @@
       "fundName": "华宝医疗ETF联接C",
       "unit": 1,
       "articleLink": "https://qieman.com/content/items/23503",
-      "l1": "A股"
-    },
-    {
-      "date": "2026-05-27",
-      "action": "buy",
-      "fundCode": "007169",
-      "fundName": "易方达中债1-3年国开债A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23449",
-      "l1": "其他"
-    },
-    {
-      "date": "2026-05-27",
-      "action": "buy",
-      "fundCode": "009051",
-      "fundName": "易方达中证红利ETF联接A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23449",
-      "l1": "其他"
-    },
-    {
-      "date": "2026-05-27",
-      "action": "sell",
-      "fundCode": "000478",
-      "fundName": "建信中证500指数增强A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23449",
-      "l1": "A股"
-    },
-    {
-      "date": "2026-05-27",
-      "action": "sell",
-      "fundCode": "001052",
-      "fundName": "华夏中证500ETF联接A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23449",
       "l1": "A股"
     }
   ],
@@ -776,80 +749,6 @@
       "l1": "海外新兴"
     },
     {
-      "fundCode": "012323",
-      "fundName": "华宝医疗ETF联接C",
-      "bought": 7,
-      "sold": 2,
-      "history": [
-        {
-          "date": "2026-06-01",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/23503",
-          "l1": "A股"
-        },
-        {
-          "date": "2026-04-15",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22957",
-          "l1": "A股"
-        },
-        {
-          "date": "2026-03-23",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22537",
-          "l1": "A股"
-        },
-        {
-          "date": "2026-01-29",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21895",
-          "l1": "A股"
-        },
-        {
-          "date": "2026-01-13",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21583",
-          "l1": "A股"
-        },
-        {
-          "date": "2024-04-11",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/9223",
-          "l1": "A股"
-        },
-        {
-          "date": "2023-08-17",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3996",
-          "l1": "A股"
-        },
-        {
-          "date": "2023-06-07",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3524",
-          "l1": "A股"
-        },
-        {
-          "date": "2023-04-26",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3333",
-          "l1": "A股"
-        }
-      ],
-      "currentUnit": 5,
-      "latestDate": "2026-06-01",
-      "l1": "A股"
-    },
-    {
       "fundCode": "164906",
       "fundName": "交银施罗德中证海外中国互联网指数(QDII-LOF)A",
       "bought": 7,
@@ -1098,6 +997,87 @@
       ],
       "currentUnit": 4,
       "latestDate": "2026-06-22",
+      "l1": "A股"
+    },
+    {
+      "fundCode": "012323",
+      "fundName": "华宝医疗ETF联接C",
+      "bought": 7,
+      "sold": 3,
+      "history": [
+        {
+          "date": "2026-07-15",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/24463",
+          "l1": "A股"
+        },
+        {
+          "date": "2026-06-01",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23503",
+          "l1": "A股"
+        },
+        {
+          "date": "2026-04-15",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22957",
+          "l1": "A股"
+        },
+        {
+          "date": "2026-03-23",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22537",
+          "l1": "A股"
+        },
+        {
+          "date": "2026-01-29",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21895",
+          "l1": "A股"
+        },
+        {
+          "date": "2026-01-13",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21583",
+          "l1": "A股"
+        },
+        {
+          "date": "2024-04-11",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/9223",
+          "l1": "A股"
+        },
+        {
+          "date": "2023-08-17",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3996",
+          "l1": "A股"
+        },
+        {
+          "date": "2023-06-07",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3524",
+          "l1": "A股"
+        },
+        {
+          "date": "2023-04-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3333",
+          "l1": "A股"
+        }
+      ],
+      "currentUnit": 4,
+      "latestDate": "2026-07-15",
       "l1": "A股"
     },
     {

@@ -1,8 +1,8 @@
 {
   "postId": "81907",
-  "fetchedAt": "2026-07-15T12:49:38+08:00",
+  "fetchedAt": "2026-07-16T12:58:34+08:00",
   "totalCommentNum": 58,
-  "totalScanned": 44,
+  "totalScanned": 47,
   "expandedTopLevel": 1,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-15T10:14:12",
       "ipLocation": "上海市",
-      "likeNum": 16,
+      "likeNum": 27,
       "parent": {
         "id": 2230609,
         "userName": "ken哥",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-07-15T10:53:32",
       "ipLocation": "上海市",
-      "likeNum": 4,
+      "likeNum": 10,
       "parent": {
         "id": 2230609,
         "userName": "ken哥",
