@@ -1,6 +1,6 @@
 {
   "postId": "82039",
-  "fetchedAt": "2026-07-16T12:58:46+08:00",
+  "fetchedAt": "2026-07-17T13:12:02+08:00",
   "totalCommentNum": 42,
   "totalScanned": 38,
   "expandedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-15T18:01:46",
       "ipLocation": "上海市",
-      "likeNum": 30
+      "likeNum": 31
     },
     {
       "type": "reply",
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-07-15T20:48:21",
       "ipLocation": "上海市",
-      "likeNum": 6,
+      "likeNum": 8,
       "parent": {
         "id": 2233099,
         "userName": "小卡拉米橙子",
@@ -35,7 +35,7 @@
         "images": [],
         "createdAt": "2026-07-15T20:36:00",
         "ipLocation": "湖北省",
-        "likeNum": 3
+        "likeNum": 4
       },
       "replyTo": null
     },

@@ -1,6 +1,6 @@
 {
   "postId": "81937",
-  "fetchedAt": "2026-07-16T12:58:41+08:00",
+  "fetchedAt": "2026-07-17T13:11:57+08:00",
   "totalCommentNum": 46,
   "totalScanned": 96,
   "expandedTopLevel": 2,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-15T13:05:02",
       "ipLocation": "上海市",
-      "likeNum": 10,
+      "likeNum": 11,
       "parent": {
         "id": 2231461,
         "userName": "玫瑰色的米",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-07-15T12:29:50",
         "ipLocation": "北京市",
-        "likeNum": 6
+        "likeNum": 8
       },
       "replyTo": null
     },
