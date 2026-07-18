@@ -1,0 +1,81 @@
+{
+  "postId": "82411",
+  "fetchedAt": "2026-07-18T12:47:29+08:00",
+  "totalCommentNum": 31,
+  "totalScanned": 23,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2235373,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "上证50，\"有更好的宽基品种了\"（比如：A50）\n原文：\n",
+      "images": [
+        "https://cdn-community.qieman.com/24EABD38-C173-4A34-A680-8DA57CE88FBB.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_43,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-07-18T08:26:34",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 2235337,
+        "userName": "北风其凉",
+        "content": "想请教一下，为什么500和300不会清仓，50会找机会清仓？",
+        "images": [],
+        "createdAt": "2026-07-18T07:41:36",
+        "ipLocation": "山东省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2235379,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "清仓倒还没，【150】还有2份；【S】还有1份",
+      "images": [],
+      "createdAt": "2026-07-18T08:27:23",
+      "ipLocation": "上海市",
+      "likeNum": 3,
+      "parent": {
+        "id": 2235337,
+        "userName": "北风其凉",
+        "content": "想请教一下，为什么500和300不会清仓，50会找机会清仓？",
+        "images": [],
+        "createdAt": "2026-07-18T07:41:36",
+        "ipLocation": "山东省",
+        "likeNum": 1
+      },
+      "replyTo": {
+        "id": 2235355,
+        "userName": "战火小阿蛮",
+        "content": "50已完成它的使命了 可以找一下它\n最后一笔清仓发车记录，老大讲的非常具体。",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2235463,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "CX吗？中两签，那很多了👍",
+      "images": [],
+      "createdAt": "2026-07-18T10:49:40",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 2235445,
+        "userName": "邵帅",
+        "content": "嘿嘿。中了两签。周末愉快",
+        "images": [],
+        "createdAt": "2026-07-18T10:07:52",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}
