@@ -1,6 +1,6 @@
 {
   "postId": "81907",
-  "fetchedAt": "2026-07-18T12:47:42+08:00",
+  "fetchedAt": "2026-07-19T13:20:05+08:00",
   "totalCommentNum": 58,
   "totalScanned": 47,
   "expandedTopLevel": 1,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-15T10:14:12",
       "ipLocation": "上海市",
-      "likeNum": 29,
+      "likeNum": 31,
       "parent": {
         "id": 2230609,
         "userName": "ken哥",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-07-15T10:53:32",
       "ipLocation": "上海市",
-      "likeNum": 10,
+      "likeNum": 11,
       "parent": {
         "id": 2230609,
         "userName": "ken哥",

@@ -1,8 +1,8 @@
 {
   "postId": "81937",
-  "fetchedAt": "2026-07-18T12:47:49+08:00",
+  "fetchedAt": "2026-07-19T13:20:12+08:00",
   "totalCommentNum": 46,
-  "totalScanned": 96,
+  "totalScanned": 97,
   "expandedTopLevel": 2,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-15T13:05:02",
       "ipLocation": "上海市",
-      "likeNum": 11,
+      "likeNum": 12,
       "parent": {
         "id": 2231461,
         "userName": "玫瑰色的米",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-07-15T14:17:38",
       "ipLocation": "上海市",
-      "likeNum": 0,
+      "likeNum": 1,
       "parent": {
         "id": 2231665,
         "userName": "Kotoko",
@@ -69,7 +69,7 @@
       "images": [],
       "createdAt": "2026-07-15T21:27:32",
       "ipLocation": "上海市",
-      "likeNum": 0,
+      "likeNum": 1,
       "parent": {
         "id": 2231869,
         "userName": "勇懿毅YYY",

@@ -1,8 +1,8 @@
 {
   "postId": "82411",
-  "fetchedAt": "2026-07-18T12:47:29+08:00",
+  "fetchedAt": "2026-07-19T13:19:50+08:00",
   "totalCommentNum": 31,
-  "totalScanned": 23,
+  "totalScanned": 35,
   "expandedTopLevel": 1,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -18,7 +18,7 @@
       ],
       "createdAt": "2026-07-18T08:26:34",
       "ipLocation": "上海市",
-      "likeNum": 4,
+      "likeNum": 10,
       "parent": {
         "id": 2235337,
         "userName": "北风其凉",
@@ -26,7 +26,7 @@
         "images": [],
         "createdAt": "2026-07-18T07:41:36",
         "ipLocation": "山东省",
-        "likeNum": 1
+        "likeNum": 2
       },
       "replyTo": null
     },
@@ -39,7 +39,7 @@
       "images": [],
       "createdAt": "2026-07-18T08:27:23",
       "ipLocation": "上海市",
-      "likeNum": 3,
+      "likeNum": 5,
       "parent": {
         "id": 2235337,
         "userName": "北风其凉",
@@ -47,7 +47,7 @@
         "images": [],
         "createdAt": "2026-07-18T07:41:36",
         "ipLocation": "山东省",
-        "likeNum": 1
+        "likeNum": 2
       },
       "replyTo": {
         "id": 2235355,
@@ -65,7 +65,7 @@
       "images": [],
       "createdAt": "2026-07-18T10:49:40",
       "ipLocation": "上海市",
-      "likeNum": 0,
+      "likeNum": 1,
       "parent": {
         "id": 2235445,
         "userName": "邵帅",
@@ -73,7 +73,28 @@
         "images": [],
         "createdAt": "2026-07-18T10:07:52",
         "ipLocation": "北京市",
-        "likeNum": 0
+        "likeNum": 6
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2235613,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "1）E大的估值系统是他自己建模型计算的，不是各处平台看到的市值加权估值。\n2）个人尝试计算的话，目前，300 20多倍，历史10年5年平均 23-24左右，确实在历史平均之下，然后，10年百分位21左右。（这只是我个人的，仅供参考用。）\n300涨跌不一定，但确实不贵。",
+      "images": [],
+      "createdAt": "2026-07-18T18:15:38",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 2235529,
+        "userName": "小舟从此逝",
+        "content": "请问新米，为什么会说300低于历史平均，现在300pe的10年百分位75左右",
+        "images": [],
+        "createdAt": "2026-07-18T13:43:00",
+        "ipLocation": "上海市",
+        "likeNum": 2
       },
       "replyTo": null
     }
