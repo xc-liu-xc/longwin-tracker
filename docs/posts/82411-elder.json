@@ -1,8 +1,8 @@
 {
   "postId": "82411",
-  "fetchedAt": "2026-07-19T13:19:50+08:00",
+  "fetchedAt": "2026-07-20T13:39:20+08:00",
   "totalCommentNum": 31,
-  "totalScanned": 35,
+  "totalScanned": 38,
   "expandedTopLevel": 1,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -18,7 +18,7 @@
       ],
       "createdAt": "2026-07-18T08:26:34",
       "ipLocation": "上海市",
-      "likeNum": 10,
+      "likeNum": 13,
       "parent": {
         "id": 2235337,
         "userName": "北风其凉",
@@ -39,7 +39,7 @@
       "images": [],
       "createdAt": "2026-07-18T08:27:23",
       "ipLocation": "上海市",
-      "likeNum": 5,
+      "likeNum": 6,
       "parent": {
         "id": 2235337,
         "userName": "北风其凉",
@@ -65,7 +65,7 @@
       "images": [],
       "createdAt": "2026-07-18T10:49:40",
       "ipLocation": "上海市",
-      "likeNum": 1,
+      "likeNum": 2,
       "parent": {
         "id": 2235445,
         "userName": "邵帅",
@@ -73,7 +73,7 @@
         "images": [],
         "createdAt": "2026-07-18T10:07:52",
         "ipLocation": "北京市",
-        "likeNum": 6
+        "likeNum": 7
       },
       "replyTo": null
     },
@@ -86,7 +86,7 @@
       "images": [],
       "createdAt": "2026-07-18T18:15:38",
       "ipLocation": "上海市",
-      "likeNum": 7,
+      "likeNum": 11,
       "parent": {
         "id": 2235529,
         "userName": "小舟从此逝",
@@ -94,7 +94,7 @@
         "images": [],
         "createdAt": "2026-07-18T13:43:00",
         "ipLocation": "上海市",
-        "likeNum": 2
+        "likeNum": 3
       },
       "replyTo": null
     }

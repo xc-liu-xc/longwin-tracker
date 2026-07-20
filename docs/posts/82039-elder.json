@@ -1,8 +1,8 @@
 {
   "postId": "82039",
-  "fetchedAt": "2026-07-19T13:20:17+08:00",
+  "fetchedAt": "2026-07-20T13:39:55+08:00",
   "totalCommentNum": 42,
-  "totalScanned": 38,
+  "totalScanned": 39,
   "expandedTopLevel": 0,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-15T18:01:46",
       "ipLocation": "上海市",
-      "likeNum": 32
+      "likeNum": 33
     },
     {
       "type": "reply",
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-07-15T20:48:21",
       "ipLocation": "上海市",
-      "likeNum": 8,
+      "likeNum": 9,
       "parent": {
         "id": 2233099,
         "userName": "小卡拉米橙子",
@@ -48,7 +48,7 @@
       "images": [],
       "createdAt": "2026-07-16T11:41:36",
       "ipLocation": "上海市",
-      "likeNum": 0,
+      "likeNum": 1,
       "parent": {
         "id": 2233129,
         "userName": "睫毛不明显星人",
@@ -69,7 +69,7 @@
       "images": [],
       "createdAt": "2026-07-16T11:43:09",
       "ipLocation": "上海市",
-      "likeNum": 0,
+      "likeNum": 1,
       "parent": {
         "id": 2233123,
         "userName": "攒够500万就躺平",
