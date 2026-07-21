@@ -1,9 +1,9 @@
 {
   "postId": "82039",
-  "fetchedAt": "2026-07-20T13:39:55+08:00",
+  "fetchedAt": "2026-07-21T13:21:21+08:00",
   "totalCommentNum": 42,
   "totalScanned": 39,
-  "expandedTopLevel": 0,
+  "expandedTopLevel": 1,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-07-15T20:48:21",
       "ipLocation": "上海市",
-      "likeNum": 9,
+      "likeNum": 10,
       "parent": {
         "id": 2233099,
         "userName": "小卡拉米橙子",

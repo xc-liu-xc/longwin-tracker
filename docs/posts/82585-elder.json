@@ -1,0 +1,135 @@
+{
+  "postId": "82585",
+  "fetchedAt": "2026-07-21T13:20:41+08:00",
+  "totalCommentNum": 1719,
+  "totalScanned": 1590,
+  "expandedTopLevel": 9,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2238469,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大下午好（上午好），\n“大多数股民”目前可能的状态，个股中位数今年📉-38%",
+      "images": [
+        "https://cdn-community.qieman.com/63A0682C-B1FF-46DB-B5FE-6BE8DD339C6E.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-07-20T15:17:38",
+      "ipLocation": "上海市",
+      "likeNum": 252
+    },
+    {
+      "type": "reply",
+      "id": 2239933,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "记录了一下今年的K型行情，\n截至今日\n信息目前自最高点回撤-28%（14407->10308）；\n科创目前自最高点回撤-24%（2255->1719）",
+      "images": [
+        "https://cdn-community.qieman.com/753A299C-BDA7-438F-A9C4-874FEC488478.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-07-20T15:26:11",
+      "ipLocation": "上海市",
+      "likeNum": 106,
+      "parent": {
+        "id": 2238469,
+        "userName": "新米练习菌",
+        "content": "E大下午好（上午好），\n“大多数股民”目前可能的状态，个股中位数今年📉-38%",
+        "images": [
+          "https://cdn-community.qieman.com/63A0682C-B1FF-46DB-B5FE-6BE8DD339C6E.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-07-20T15:17:38",
+        "ipLocation": "上海市",
+        "likeNum": 252
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2240473,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "麻了",
+      "images": [],
+      "createdAt": "2026-07-20T15:31:20",
+      "ipLocation": "英国",
+      "likeNum": 129,
+      "parent": {
+        "id": 2238469,
+        "userName": "新米练习菌",
+        "content": "E大下午好（上午好），\n“大多数股民”目前可能的状态，个股中位数今年📉-38%",
+        "images": [
+          "https://cdn-community.qieman.com/63A0682C-B1FF-46DB-B5FE-6BE8DD339C6E.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-07-20T15:17:38",
+        "ipLocation": "上海市",
+        "likeNum": 252
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2240935,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "看技术面。每年都会有1−3次集中加仓的机会",
+      "images": [],
+      "createdAt": "2026-07-20T15:38:01",
+      "ipLocation": "英国",
+      "likeNum": 279,
+      "parent": {
+        "id": 2240515,
+        "userName": "仕月",
+        "content": "下次啥时候买红利啊 ",
+        "images": [],
+        "createdAt": "2026-07-20T15:31:38",
+        "ipLocation": "安徽省",
+        "likeNum": 21
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2241583,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "酒店有但是很少需要开",
+      "images": [],
+      "createdAt": "2026-07-20T15:51:12",
+      "ipLocation": "英国",
+      "likeNum": 100,
+      "parent": {
+        "id": 2241061,
+        "userName": "捡垃圾小学生",
+        "content": "英国到底有没有空调哇",
+        "images": [],
+        "createdAt": "2026-07-20T15:40:23",
+        "ipLocation": "北京市",
+        "likeNum": 10
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2242171,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "没有。也永远不会再开",
+      "images": [],
+      "createdAt": "2026-07-20T16:10:56",
+      "ipLocation": "保加利亚索非亚",
+      "likeNum": 140,
+      "parent": {
+        "id": 2241409,
+        "userName": "林鹤风",
+        "content": "e大，现在150计划是不是又对外开放了？",
+        "images": [],
+        "createdAt": "2026-07-20T15:47:58",
+        "ipLocation": "广东省",
+        "likeNum": 6
+      },
+      "replyTo": null
+    }
+  ]
+}

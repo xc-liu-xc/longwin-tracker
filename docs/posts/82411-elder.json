@@ -1,6 +1,6 @@
 {
   "postId": "82411",
-  "fetchedAt": "2026-07-20T13:39:20+08:00",
+  "fetchedAt": "2026-07-21T13:20:47+08:00",
   "totalCommentNum": 31,
   "totalScanned": 38,
   "expandedTopLevel": 1,
@@ -73,7 +73,7 @@
         "images": [],
         "createdAt": "2026-07-18T10:07:52",
         "ipLocation": "北京市",
-        "likeNum": 7
+        "likeNum": 8
       },
       "replyTo": null
     },
@@ -86,7 +86,7 @@
       "images": [],
       "createdAt": "2026-07-18T18:15:38",
       "ipLocation": "上海市",
-      "likeNum": 11,
+      "likeNum": 12,
       "parent": {
         "id": 2235529,
         "userName": "小舟从此逝",
