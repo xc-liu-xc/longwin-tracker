@@ -1,6 +1,6 @@
 {
   "postId": "82411",
-  "fetchedAt": "2026-07-22T13:19:50+08:00",
+  "fetchedAt": "2026-07-23T13:24:20+08:00",
   "totalCommentNum": 31,
   "totalScanned": 39,
   "expandedTopLevel": 1,
@@ -18,7 +18,7 @@
       ],
       "createdAt": "2026-07-18T08:26:34",
       "ipLocation": "上海市",
-      "likeNum": 14,
+      "likeNum": 15,
       "parent": {
         "id": 2235337,
         "userName": "北风其凉",
@@ -86,7 +86,7 @@
       "images": [],
       "createdAt": "2026-07-18T18:15:38",
       "ipLocation": "上海市",
-      "likeNum": 14,
+      "likeNum": 15,
       "parent": {
         "id": 2235529,
         "userName": "小舟从此逝",
