@@ -1,8 +1,8 @@
 {
   "postId": "82585",
-  "fetchedAt": "2026-07-24T13:20:54+08:00",
+  "fetchedAt": "2026-07-25T13:15:24+08:00",
   "totalCommentNum": 1719,
-  "totalScanned": 1818,
+  "totalScanned": 1825,
   "expandedTopLevel": 22,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -77,7 +77,7 @@
       "images": [],
       "createdAt": "2026-07-20T15:38:01",
       "ipLocation": "英国",
-      "likeNum": 346,
+      "likeNum": 347,
       "parent": {
         "id": 2240515,
         "userName": "仕月",
