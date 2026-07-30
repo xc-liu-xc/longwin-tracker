@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-07-29 13:18 CST",
+  "updatedAt": "2026-07-30 12:54 CST",
   "poName": "长赢指数投资计划-S定投",
   "totalUnit": 216,
   "investedUnit": 88,
-  "adjustedCount": 194,
-  "totalBuy": 166,
-  "totalSell": 79,
+  "adjustedCount": 195,
+  "totalBuy": 167,
+  "totalSell": 80,
   "recentSignals": [
+    {
+      "date": "2026-07-29",
+      "action": "buy",
+      "fundCode": "022424",
+      "fundName": "广发中证A500ETF联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/24703",
+      "l1": "其他"
+    },
+    {
+      "date": "2026-07-29",
+      "action": "sell",
+      "fundCode": "100032",
+      "fundName": "富国中证红利指数增强A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/24703",
+      "l1": "A股"
+    },
     {
       "date": "2026-07-15",
       "action": "sell",
@@ -132,24 +150,6 @@
       "unit": 1,
       "articleLink": "https://qieman.com/content/items/23449",
       "l1": "A股"
-    },
-    {
-      "date": "2026-05-25",
-      "action": "buy",
-      "fundCode": "007169",
-      "fundName": "易方达中债1-3年国开债A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23401",
-      "l1": "其他"
-    },
-    {
-      "date": "2026-05-25",
-      "action": "buy",
-      "fundCode": "021550",
-      "fundName": "博时中证红利低波动100ETF联接A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23401",
-      "l1": "A股"
     }
   ],
   "holdings": [
@@ -245,8 +245,15 @@
       "fundCode": "100032",
       "fundName": "富国中证红利指数增强A",
       "bought": 11,
-      "sold": 4,
+      "sold": 5,
       "history": [
+        {
+          "date": "2026-07-29",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/24703",
+          "l1": "A股"
+        },
         {
           "date": "2026-06-05",
           "action": "sell",
@@ -353,8 +360,8 @@
           "l1": "A股"
         }
       ],
-      "currentUnit": 7,
-      "latestDate": "2026-06-05",
+      "currentUnit": 6,
+      "latestDate": "2026-07-29",
       "l1": "A股"
     },
     {
@@ -1562,6 +1569,24 @@
       ],
       "currentUnit": 1,
       "latestDate": "2026-06-30",
+      "l1": "其他"
+    },
+    {
+      "fundCode": "022424",
+      "fundName": "广发中证A500ETF联接A",
+      "bought": 1,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-07-29",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/24703",
+          "l1": "其他"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2026-07-29",
       "l1": "其他"
     },
     {
