@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-07-30 12:54 CST",
+  "updatedAt": "2026-07-31 13:32 CST",
   "poName": "长赢指数投资计划-S定投",
   "totalUnit": 216,
   "investedUnit": 88,
-  "adjustedCount": 195,
+  "adjustedCount": 196,
   "totalBuy": 167,
-  "totalSell": 80,
+  "totalSell": 82,
   "recentSignals": [
+    {
+      "date": "2026-07-30",
+      "action": "sell",
+      "fundCode": "000248",
+      "fundName": "汇添富中证主要消费ETF联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/24763",
+      "l1": "A股"
+    },
+    {
+      "date": "2026-07-30",
+      "action": "sell",
+      "fundCode": "001469",
+      "fundName": "广发中证全指金融地产联接A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/24763",
+      "l1": "A股"
+    },
     {
       "date": "2026-07-29",
       "action": "buy",
@@ -122,33 +140,6 @@
       "fundName": "华宝医疗ETF联接C",
       "unit": 1,
       "articleLink": "https://qieman.com/content/items/23503",
-      "l1": "A股"
-    },
-    {
-      "date": "2026-05-27",
-      "action": "buy",
-      "fundCode": "007169",
-      "fundName": "易方达中债1-3年国开债A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23449",
-      "l1": "其他"
-    },
-    {
-      "date": "2026-05-27",
-      "action": "buy",
-      "fundCode": "009051",
-      "fundName": "易方达中证红利ETF联接A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23449",
-      "l1": "其他"
-    },
-    {
-      "date": "2026-05-27",
-      "action": "sell",
-      "fundCode": "001052",
-      "fundName": "华夏中证500ETF联接A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23449",
       "l1": "A股"
     }
   ],
@@ -1232,31 +1223,6 @@
       "l1": "A股"
     },
     {
-      "fundCode": "000248",
-      "fundName": "汇添富中证主要消费ETF联接A",
-      "bought": 2,
-      "sold": 0,
-      "history": [
-        {
-          "date": "2026-06-18",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/23983",
-          "l1": "A股"
-        },
-        {
-          "date": "2026-01-07",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/21493",
-          "l1": "A股"
-        }
-      ],
-      "currentUnit": 2,
-      "latestDate": "2026-06-18",
-      "l1": "A股"
-    },
-    {
       "fundCode": "009051",
       "fundName": "易方达中证红利ETF联接A",
       "bought": 2,
@@ -1384,38 +1350,6 @@
       "currentUnit": 1,
       "latestDate": "2024-10-25",
       "l1": "债券"
-    },
-    {
-      "fundCode": "001469",
-      "fundName": "广发中证全指金融地产联接A",
-      "bought": 2,
-      "sold": 1,
-      "history": [
-        {
-          "date": "2024-11-06",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/14011",
-          "l1": "A股"
-        },
-        {
-          "date": "2020-04-30",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/NHrXZSceR-3xEs2A09VT0Q",
-          "l1": "A股"
-        },
-        {
-          "date": "2020-02-26",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/eIkjc08htB_XgKLR3GsQJA",
-          "l1": "A股"
-        }
-      ],
-      "currentUnit": 1,
-      "latestDate": "2024-11-06",
-      "l1": "A股"
     },
     {
       "fundCode": "019524",
@@ -1588,6 +1522,38 @@
       "currentUnit": 1,
       "latestDate": "2026-07-29",
       "l1": "其他"
+    },
+    {
+      "fundCode": "000248",
+      "fundName": "汇添富中证主要消费ETF联接A",
+      "bought": 2,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2026-07-30",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/24763",
+          "l1": "A股"
+        },
+        {
+          "date": "2026-06-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/23983",
+          "l1": "A股"
+        },
+        {
+          "date": "2026-01-07",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/21493",
+          "l1": "A股"
+        }
+      ],
+      "currentUnit": 1,
+      "latestDate": "2026-07-30",
+      "l1": "A股"
     },
     {
       "fundCode": "501018",
@@ -2485,6 +2451,45 @@
       ],
       "currentUnit": 0,
       "latestDate": "2026-06-25",
+      "l1": "A股"
+    },
+    {
+      "fundCode": "001469",
+      "fundName": "广发中证全指金融地产联接A",
+      "bought": 2,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2026-07-30",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/24763",
+          "l1": "A股"
+        },
+        {
+          "date": "2024-11-06",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/14011",
+          "l1": "A股"
+        },
+        {
+          "date": "2020-04-30",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/NHrXZSceR-3xEs2A09VT0Q",
+          "l1": "A股"
+        },
+        {
+          "date": "2020-02-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/eIkjc08htB_XgKLR3GsQJA",
+          "l1": "A股"
+        }
+      ],
+      "currentUnit": 0,
+      "latestDate": "2026-07-30",
       "l1": "A股"
     }
   ]

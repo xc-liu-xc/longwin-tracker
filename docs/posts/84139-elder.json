@@ -1,0 +1,87 @@
+{
+  "postId": "84139",
+  "fetchedAt": "2026-07-31T13:34:46+08:00",
+  "totalCommentNum": 276,
+  "totalScanned": 239,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2272033,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不是。目前两个计划还没有根据动量买入的例子。我用长期动量，很难出现交易机会。",
+      "images": [],
+      "createdAt": "2026-07-31T11:26:27",
+      "ipLocation": "河北省",
+      "likeNum": 58,
+      "parent": {
+        "id": 2271625,
+        "userName": "如是我闻-",
+        "content": "所以前几天买A500就是第一步？",
+        "images": [],
+        "createdAt": "2026-07-31T11:20:19",
+        "ipLocation": "湖南省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2272291,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我对【动量】的一些理解和学习：\n\n——强者恒强，弱者恒弱。\n\n（过去表现好的资产在未来一段时间内继续表现好，而过去表现差的资产继续表现差的现象。）\n\n📌 标的，选股，“入选”，横截面动量策略（Cross-Sectional Momentum）\n\n📌 强势/震荡/弱势，时间序列动量策略（Time-Series Momentum）\n\n根据情况，融入现有的体系，之前的规则不会改动，优先级也依旧。\n\n仓位-估值-趋势（技术分析 [图形+技术指标]、动量因子））\n\n动量把肉眼看 K 线的判断趋势，做成可计算、可回测、无情绪干扰的数据化趋势工具。\n\n动量，除了数学，还有行为金融学：\n\n▶️ 反应不足：\n\n- 投资者对新信息反应缓慢\n\n- 好消息逐步反映到价格\n\n- 价格趋势持续\n\n▶️ 心理机制：\n\n- 保守主义偏差：过度依赖先验信念\n\n- 确认偏差：选择性关注支持性信息\n\n- 锚定效应：价格调整不充分\n\n▶️ 羊群效应：\n\n- 投资者模仿他人行为\n\n- 趋势自我强化\n\n- 正反馈循环\n\n▶️ 过度自信：\n\n- 投资者过度自信自己的判断\n\n- 延迟对错误的纠正\n\n- 趋势延续\n",
+      "images": [
+        "https://cdn-community.qieman.com/B4B84F71-DF1C-43FC-AF81-594632E775B0.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_15,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-07-31T11:33:24",
+      "ipLocation": "上海市",
+      "likeNum": 20
+    },
+    {
+      "type": "reply",
+      "id": 2272387,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不盈利不卖出说的是品种整体，而不是单份。在一个品种中做波段出现整体浮亏部分减仓非常正常。",
+      "images": [],
+      "createdAt": "2026-07-31T11:35:53",
+      "ipLocation": "河北省",
+      "likeNum": 98,
+      "parent": {
+        "id": 2272093,
+        "userName": "章程",
+        "content": "老大，您好，昨天卖出消费有点不解，望指点，因为消费还没有盈利，您不是说不盈利不卖出吗？谢谢",
+        "images": [],
+        "createdAt": "2026-07-31T11:27:35",
+        "ipLocation": "浙江省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2272897,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "您好，我来补充说明一些：\n昨日汇添富消费是一个波段，做过网格的话，会好理解一些。\n1/7买入1份，6/18买入1份，7/30卖出1份。\n因为不是C类，并没一笔笔完全买/卖对应关系，昨日卖出时，\n（这里用10000元/份举例，整数容易算)\n卖出基金份额/份数=（6月18日的5825份+1月7日的4575份) / 2 = 5200份，份额还比6月18日的少卖了些，相当于「利润留存」了~\n这笔5200份额的交易的收益率是11.5％，（净值1.7149 → 1.9127）\n（各自的交易记录里都可以看到自己对应的数字情况）",
+      "images": [],
+      "createdAt": "2026-07-31T11:56:48",
+      "ipLocation": "上海市",
+      "likeNum": 45,
+      "parent": {
+        "id": 2272093,
+        "userName": "章程",
+        "content": "老大，您好，昨天卖出消费有点不解，望指点，因为消费还没有盈利，您不是说不盈利不卖出吗？谢谢",
+        "images": [],
+        "createdAt": "2026-07-31T11:27:35",
+        "ipLocation": "浙江省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    }
+  ]
+}

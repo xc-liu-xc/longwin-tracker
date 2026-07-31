@@ -1,0 +1,72 @@
+{
+  "postId": "84115",
+  "fetchedAt": "2026-07-31T13:34:32+08:00",
+  "totalCommentNum": 913,
+  "totalScanned": 848,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2267293,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好~\n消费做个波段，一个半月，11.5%，ta看不懂，利润留存也看不懂",
+      "images": [
+        "https://cdn-community.qieman.com/38DAF94B-CB29-4063-8156-3FA71171270F.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/161DB466-8246-4629-A9DA-8814133BCE52.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-07-31T09:38:05",
+      "ipLocation": "上海市",
+      "likeNum": 11
+    },
+    {
+      "type": "reply",
+      "id": 2268661,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "跟我份数不一样，不卖是对的。踏踏实实的。",
+      "images": [],
+      "createdAt": "2026-07-31T09:46:49",
+      "ipLocation": "河北省",
+      "likeNum": 124,
+      "parent": {
+        "id": 2267881,
+        "userName": "南风不及你温柔",
+        "content": "老大，昨天的消费我没有自动跟车成功。因为我只有一份，然后你有两份。你昨天卖掉了一份，还有一份。我的份数少于你的，所以没有跟车成功。我问了且慢，他说必须要出现波段两个字，然后才能对应哪份买的，卖那份的。",
+        "images": [],
+        "createdAt": "2026-07-31T09:40:25",
+        "ipLocation": "江西省",
+        "likeNum": 13
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2269051,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "是不会亏损清仓。一个品种不同份数做波段，是有可能在整体浮亏的时候卖出某份的。卖出的这份消费一个半月涨了11%。放心，99.99%不可能亏损清仓。",
+      "images": [],
+      "createdAt": "2026-07-31T09:53:25",
+      "ipLocation": "河北省",
+      "likeNum": 21,
+      "parent": {
+        "id": 2266219,
+        "userName": "Duringg",
+        "content": "话说昨天消费卖出是负的，可否说说这样卖出的原因，还有买入500也想听听\n（真没怪你的意思，我坚定跟车的，自己的黑车也是一样卖的）",
+        "images": [],
+        "createdAt": "2026-07-31T09:34:04",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": {
+        "id": 2267383,
+        "userName": "Duringg",
+        "content": "这个消费只持有两份，就剩零点几了。。放着等。。。也无所谓吧？我只是怕你这个就背上了个“亏损卖出”的污点😔",
+        "images": []
+      }
+    }
+  ]
+}
