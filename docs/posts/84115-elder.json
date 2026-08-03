@@ -1,8 +1,8 @@
 {
   "postId": "84115",
-  "fetchedAt": "2026-08-02T13:25:21+08:00",
+  "fetchedAt": "2026-08-03T13:40:43+08:00",
   "totalCommentNum": 913,
-  "totalScanned": 921,
+  "totalScanned": 928,
   "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -30,7 +30,7 @@
       "images": [],
       "createdAt": "2026-07-31T09:46:49",
       "ipLocation": "河北省",
-      "likeNum": 165,
+      "likeNum": 178,
       "parent": {
         "id": 2267881,
         "userName": "南风不及你温柔",
@@ -38,7 +38,7 @@
         "images": [],
         "createdAt": "2026-07-31T09:40:25",
         "ipLocation": "江西省",
-        "likeNum": 22
+        "likeNum": 23
       },
       "replyTo": null
     },
@@ -51,7 +51,7 @@
       "images": [],
       "createdAt": "2026-07-31T09:53:25",
       "ipLocation": "河北省",
-      "likeNum": 26,
+      "likeNum": 29,
       "parent": {
         "id": 2266219,
         "userName": "Duringg",
