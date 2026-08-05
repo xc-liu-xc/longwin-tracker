@@ -1,8 +1,8 @@
 {
   "postId": "84115",
-  "fetchedAt": "2026-08-04T13:13:19+08:00",
+  "fetchedAt": "2026-08-05T13:15:23+08:00",
   "totalCommentNum": 913,
-  "totalScanned": 929,
+  "totalScanned": 930,
   "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -30,7 +30,7 @@
       "images": [],
       "createdAt": "2026-07-31T09:46:49",
       "ipLocation": "河北省",
-      "likeNum": 182,
+      "likeNum": 187,
       "parent": {
         "id": 2267881,
         "userName": "南风不及你温柔",
@@ -51,7 +51,7 @@
       "images": [],
       "createdAt": "2026-07-31T09:53:25",
       "ipLocation": "河北省",
-      "likeNum": 29,
+      "likeNum": 30,
       "parent": {
         "id": 2266219,
         "userName": "Duringg",

@@ -1,0 +1,115 @@
+{
+  "postId": "84577",
+  "fetchedAt": "2026-08-05T13:14:08+08:00",
+  "totalCommentNum": 346,
+  "totalScanned": 301,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2278153,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "（这个前几日写过一次留言，再描述一遍)\n汇添富消费是一个波段，做过网格的话，会好理解一些。\n1/7买入1份，6/18买入1份，7/30卖出1份。\n因为不是C类，并没一笔笔完全买/卖对应关系。\n7/30卖出时，\n（这里用10000元/份举例，整数容易算)\n卖出基金份额是：基金份额/份数=（6月18日的5825份额+1月7日的4575份额) / 2 = 5200份额，份额还比6月18日的少卖了些，相当于「利润留存」了~\n这笔5200份额的交易的收益率是11.5％，（净值1.7149 → 1.9127）\n（各自的交易记录里都可以根据资金金额看到对应数字的情况）",
+      "images": [],
+      "createdAt": "2026-08-04T20:18:24",
+      "ipLocation": "上海市",
+      "likeNum": 106
+    },
+    {
+      "type": "reply",
+      "id": 2278477,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "上个月申购免费是因为上上个月没有盈利。",
+      "images": [],
+      "createdAt": "2026-08-04T20:27:26",
+      "ipLocation": "河北省",
+      "likeNum": 102,
+      "parent": {
+        "id": 2278231,
+        "userName": "花开花落终有时",
+        "content": "老大上个月账户应该是盈利的吧，怎么手续费还能返还呢？",
+        "images": [],
+        "createdAt": "2026-08-04T20:21:27",
+        "ipLocation": "上海市",
+        "likeNum": 20
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2278525,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "另外，虽然是A类，因为6月份的申购费也是返还的，所以6/18的买入的也是0申购费",
+      "images": [
+        "https://cdn-community.qieman.com/9EB6A98C-6B90-4111-B44F-742BE6794A4C.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_18,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-08-04T20:28:36",
+      "ipLocation": "上海市",
+      "likeNum": 60,
+      "parent": {
+        "id": 2278153,
+        "userName": "新米练习菌",
+        "content": "（这个前几日写过一次留言，再描述一遍)\n汇添富消费是一个波段，做过网格的话，会好理解一些。\n1/7买入1份，6/18买入1份，7/30卖出1份。\n因为不是C类，并没一笔笔完全买/卖对应关系。\n7/30卖出时，\n（这里用10000元/份举例，整数容易算)\n卖出基金份额是：基金份额/份数=（6月18日的5825份额+1月7日的4575份额) / 2 = 5200份额，份额还比6月18日的少卖了些，相当于「利润留存」了~\n这笔5200份额的交易的收益率是11.5％，（净值1.7149 → 1.9127）\n（各自的交易记录里都可以根据资金金额看到对应数字的情况）",
+        "images": [],
+        "createdAt": "2026-08-04T20:18:24",
+        "ipLocation": "上海市",
+        "likeNum": 106
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2278681,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个我也来补充说明一下：\n【1】是：上上月（6月）的两个计划净值下跌，本月（8月）需要返还上月（7月）申购手续费。\n【2】上个月（7月）两个计划净值是上涨的。",
+      "images": [
+        "https://cdn-community.qieman.com/A062FFA2-6C50-4328-8DF6-27B04C42D7AF.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_20,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-08-04T20:37:17",
+      "ipLocation": "上海市",
+      "likeNum": 29,
+      "parent": {
+        "id": 2278231,
+        "userName": "花开花落终有时",
+        "content": "老大上个月账户应该是盈利的吧，怎么手续费还能返还呢？",
+        "images": [],
+        "createdAt": "2026-08-04T20:21:27",
+        "ipLocation": "上海市",
+        "likeNum": 20
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2278867,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "在推进了。不会太久。",
+      "images": [],
+      "createdAt": "2026-08-04T20:53:40",
+      "ipLocation": "河北省",
+      "likeNum": 71,
+      "parent": {
+        "id": 2278231,
+        "userName": "花开花落终有时",
+        "content": "老大上个月账户应该是盈利的吧，怎么手续费还能返还呢？",
+        "images": [],
+        "createdAt": "2026-08-04T20:21:27",
+        "ipLocation": "上海市",
+        "likeNum": 20
+      },
+      "replyTo": {
+        "id": 2278621,
+        "userName": "花开花落终有时",
+        "content": "小本本记好了。顺便再follow一下定制杯子的进度（没有在催的意思😬）",
+        "images": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "postId": "84529",
+  "fetchedAt": "2026-08-05T13:13:47+08:00",
+  "totalCommentNum": 431,
+  "totalScanned": 371,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2276785,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大下午好~\n好的，开好了。\n然后，本来一些不认识的电话号码打过来，就显示着标记过的“广告推销”和“骚扰电话”。\n是否是「外卖快递」也会有显示，基本解决了90%要不要接电话了。",
+      "images": [
+        "https://cdn-community.qieman.com/3536495A-83DF-4322-8259-4E7D95BFA99C.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-08-04T14:57:52",
+      "ipLocation": "上海市",
+      "likeNum": 5
+    },
+    {
+      "type": "reply",
+      "id": 2277541,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "追溯了一下，实用『生活小贴士』这栏目，始于公元2018年，列了一下官方明确定调、明确标注「生活小贴士」字样的原帖，用于回顾和参考。\n（补充：『小贴士』本身系列，上次是今年2月《科技小贴士：视频信息密度低？AI 无损总结提示词分享》；而「生活小贴士」2022年之后，直到今日才上“新贴”）\n因为还有，财务小贴士、科技小贴士、投资小贴士、人际关系小贴士、恋爱小贴士、摄影小贴士、影音小贴士、消费购物小贴士、软件使用小贴士、游戏小贴士、防骗小贴士、护肤小贴士、减龄小贴士…等等，没放在下列『生活小贴士』日期倒序表中）\n",
+      "images": [
+        "https://cdn-community.qieman.com/DC029A58-0D92-4398-8ABC-E898781066F8.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_36,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/9564CAF2-25FE-486C-AE8B-C6B2AAFA0829.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/3CAB3FE8-B6EC-48B7-BFD6-C2F6F6A7148F.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_36,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-08-04T16:01:08",
+      "ipLocation": "上海市",
+      "likeNum": 7,
+      "parent": {
+        "id": 2276785,
+        "userName": "新米练习菌",
+        "content": "E大下午好~\n好的，开好了。\n然后，本来一些不认识的电话号码打过来，就显示着标记过的“广告推销”和“骚扰电话”。\n是否是「外卖快递」也会有显示，基本解决了90%要不要接电话了。",
+        "images": [
+          "https://cdn-community.qieman.com/3536495A-83DF-4322-8259-4E7D95BFA99C.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-08-04T14:57:52",
+        "ipLocation": "上海市",
+        "likeNum": 5
+      },
+      "replyTo": null
+    }
+  ]
+}

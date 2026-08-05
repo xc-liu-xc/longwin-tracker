@@ -1,6 +1,6 @@
 {
   "postId": "84139",
-  "fetchedAt": "2026-08-04T13:13:37+08:00",
+  "fetchedAt": "2026-08-05T13:15:50+08:00",
   "totalCommentNum": 276,
   "totalScanned": 335,
   "expandedTopLevel": 7,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-07-31T11:26:27",
       "ipLocation": "河北省",
-      "likeNum": 129,
+      "likeNum": 131,
       "parent": {
         "id": 2271625,
         "userName": "如是我闻-",
@@ -50,7 +50,7 @@
       "images": [],
       "createdAt": "2026-07-31T11:35:53",
       "ipLocation": "河北省",
-      "likeNum": 223,
+      "likeNum": 227,
       "parent": {
         "id": 2272093,
         "userName": "章程",
@@ -58,7 +58,7 @@
         "images": [],
         "createdAt": "2026-07-31T11:27:35",
         "ipLocation": "浙江省",
-        "likeNum": 21
+        "likeNum": 22
       },
       "replyTo": null
     },
@@ -71,7 +71,7 @@
       "images": [],
       "createdAt": "2026-07-31T11:56:48",
       "ipLocation": "上海市",
-      "likeNum": 165,
+      "likeNum": 168,
       "parent": {
         "id": 2272093,
         "userName": "章程",
@@ -79,7 +79,7 @@
         "images": [],
         "createdAt": "2026-07-31T11:27:35",
         "ipLocation": "浙江省",
-        "likeNum": 21
+        "likeNum": 22
       },
       "replyTo": null
     }
