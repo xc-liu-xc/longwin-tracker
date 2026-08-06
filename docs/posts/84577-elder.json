@@ -1,9 +1,9 @@
 {
   "postId": "84577",
-  "fetchedAt": "2026-08-05T13:14:08+08:00",
+  "fetchedAt": "2026-08-06T13:16:20+08:00",
   "totalCommentNum": 346,
-  "totalScanned": 301,
-  "expandedTopLevel": 3,
+  "totalScanned": 324,
+  "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-04T20:18:24",
       "ipLocation": "上海市",
-      "likeNum": 106
+      "likeNum": 128
     },
     {
       "type": "reply",
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-08-04T20:27:26",
       "ipLocation": "河北省",
-      "likeNum": 102,
+      "likeNum": 118,
       "parent": {
         "id": 2278231,
         "userName": "花开花落终有时",
@@ -35,7 +35,7 @@
         "images": [],
         "createdAt": "2026-08-04T20:21:27",
         "ipLocation": "上海市",
-        "likeNum": 20
+        "likeNum": 23
       },
       "replyTo": null
     },
@@ -50,7 +50,7 @@
       ],
       "createdAt": "2026-08-04T20:28:36",
       "ipLocation": "上海市",
-      "likeNum": 60,
+      "likeNum": 73,
       "parent": {
         "id": 2278153,
         "userName": "新米练习菌",
@@ -58,7 +58,7 @@
         "images": [],
         "createdAt": "2026-08-04T20:18:24",
         "ipLocation": "上海市",
-        "likeNum": 106
+        "likeNum": 128
       },
       "replyTo": null
     },
@@ -73,7 +73,7 @@
       ],
       "createdAt": "2026-08-04T20:37:17",
       "ipLocation": "上海市",
-      "likeNum": 29,
+      "likeNum": 34,
       "parent": {
         "id": 2278231,
         "userName": "花开花落终有时",
@@ -81,7 +81,7 @@
         "images": [],
         "createdAt": "2026-08-04T20:21:27",
         "ipLocation": "上海市",
-        "likeNum": 20
+        "likeNum": 23
       },
       "replyTo": null
     },
@@ -94,7 +94,7 @@
       "images": [],
       "createdAt": "2026-08-04T20:53:40",
       "ipLocation": "河北省",
-      "likeNum": 71,
+      "likeNum": 83,
       "parent": {
         "id": 2278231,
         "userName": "花开花落终有时",
@@ -102,7 +102,7 @@
         "images": [],
         "createdAt": "2026-08-04T20:21:27",
         "ipLocation": "上海市",
-        "likeNum": 20
+        "likeNum": 23
       },
       "replyTo": {
         "id": 2278621,

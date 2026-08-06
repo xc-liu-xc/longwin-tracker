@@ -1,9 +1,9 @@
 {
   "postId": "84625",
-  "fetchedAt": "2026-08-05T13:13:19+08:00",
+  "fetchedAt": "2026-08-06T13:15:15+08:00",
   "totalCommentNum": 257,
-  "totalScanned": 222,
-  "expandedTopLevel": 3,
+  "totalScanned": 344,
+  "expandedTopLevel": 6,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:16:15",
       "ipLocation": "河北省",
-      "likeNum": 61,
+      "likeNum": 119,
       "parent": {
         "id": 2280919,
         "userName": "QT123",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:17:38",
       "ipLocation": "河北省",
-      "likeNum": 113,
+      "likeNum": 219,
       "parent": {
         "id": 2280841,
         "userName": "向天一笑",
@@ -45,7 +45,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:11:30",
         "ipLocation": "河南省",
-        "likeNum": 14
+        "likeNum": 26
       },
       "replyTo": null
     },
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:22:26",
       "ipLocation": "河北省",
-      "likeNum": 69,
+      "likeNum": 144,
       "parent": {
         "id": 2280613,
         "userName": "托斯卡纳酒桶",
@@ -66,7 +66,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:07:29",
         "ipLocation": "中国",
-        "likeNum": 4
+        "likeNum": 7
       },
       "replyTo": {
         "id": 2280895,
@@ -84,7 +84,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:24:23",
       "ipLocation": "河北省",
-      "likeNum": 80,
+      "likeNum": 166,
       "parent": {
         "id": 2280553,
         "userName": "E..",
@@ -92,7 +92,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:05:34",
         "ipLocation": "山东省",
-        "likeNum": 6
+        "likeNum": 10
       },
       "replyTo": null
     },
@@ -105,15 +105,15 @@
       "images": [],
       "createdAt": "2026-08-05T12:06:32",
       "ipLocation": "河北省",
-      "likeNum": 24,
+      "likeNum": 87,
       "parent": {
         "id": 2281705,
-        "userName": "小钻风",
+        "userName": "小半蹲",
         "content": "感觉E大又要开始玩“战争游戏了”，臆想一些“敌人”在交锋。",
         "images": [],
         "createdAt": "2026-08-05T11:44:51",
         "ipLocation": "四川省",
-        "likeNum": 1
+        "likeNum": 12
       },
       "replyTo": null
     }

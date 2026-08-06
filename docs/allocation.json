@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T05:20:08",
+  "generatedAt": "2026-08-06T05:21:25",
   "asset_classes": [
     {
       "key": "A股",
@@ -59,15 +59,15 @@
             "label": "A股",
             "color": "#CC8987",
             "units": 64,
-            "share_pct": 45.97,
-            "return_pct": 35.44,
+            "share_pct": 46.11,
+            "return_pct": 36.11,
             "funds": [
               {
                 "code": "100032",
                 "name": "富国中证红利指数增强A",
                 "units": 11,
                 "mv": 18.05034129968065,
-                "share_pct": 10.55,
+                "share_pct": 10.51,
                 "return_pct": 66.98,
                 "last_trade": "2026-07-29",
                 "status": "active"
@@ -76,9 +76,9 @@
                 "code": "100038",
                 "name": "富国沪深300指数增强A",
                 "units": 7,
-                "mv": 11.34924276988218,
-                "share_pct": 6.63,
-                "return_pct": 61.99,
+                "mv": 11.492751614742287,
+                "share_pct": 6.69,
+                "return_pct": 64.04,
                 "last_trade": "2019-01-31",
                 "status": "active"
               },
@@ -86,9 +86,9 @@
                 "code": "001180",
                 "name": "广发医药卫生联接A",
                 "units": 7,
-                "mv": 6.979549640708065,
-                "share_pct": 4.08,
-                "return_pct": 14.33,
+                "mv": 7.033734684129458,
+                "share_pct": 4.09,
+                "return_pct": 14.85,
                 "last_trade": "2023-06-26",
                 "status": "active"
               },
@@ -96,9 +96,9 @@
                 "code": "000968",
                 "name": "广发养老指数A",
                 "units": 7,
-                "mv": 6.370038915195824,
+                "mv": 6.38600201987591,
                 "share_pct": 3.72,
-                "return_pct": 4.05,
+                "return_pct": 4.22,
                 "last_trade": "2020-09-11",
                 "status": "active"
               },
@@ -106,9 +106,9 @@
                 "code": "012323",
                 "name": "华宝医疗ETF联接C",
                 "units": 4,
-                "mv": 4.098983055915113,
-                "share_pct": 2.4,
-                "return_pct": -7.09,
+                "mv": 4.13588525794205,
+                "share_pct": 2.41,
+                "return_pct": -6.61,
                 "last_trade": "2026-07-15",
                 "status": "active"
               },
@@ -116,9 +116,9 @@
                 "code": "021550",
                 "name": "博时中证红利低波动100ETF联接A",
                 "units": 4,
-                "mv": 4.063955238886527,
-                "share_pct": 2.38,
-                "return_pct": 1.58,
+                "mv": 4.0193146489204326,
+                "share_pct": 2.34,
+                "return_pct": 0.46,
                 "last_trade": "2026-06-22",
                 "status": "active"
               },
@@ -126,9 +126,9 @@
                 "code": "162412",
                 "name": "华宝医疗ETF联接A",
                 "units": 3,
-                "mv": 3.8014302008743037,
-                "share_pct": 2.22,
-                "return_pct": 26.53,
+                "mv": 3.8359590441727334,
+                "share_pct": 2.23,
+                "return_pct": 27.68,
                 "last_trade": "2023-08-22",
                 "status": "active"
               },
@@ -136,9 +136,9 @@
                 "code": "001052",
                 "name": "华夏中证500ETF联接A",
                 "units": 2,
-                "mv": 3.702714173750528,
-                "share_pct": 2.16,
-                "return_pct": 57.79,
+                "mv": 3.795372279495991,
+                "share_pct": 2.21,
+                "return_pct": 58.66,
                 "last_trade": "2026-06-17",
                 "status": "active"
               },
@@ -146,9 +146,9 @@
                 "code": "002708",
                 "name": "大摩健康产业混合A",
                 "units": 4,
-                "mv": 3.076217162000534,
-                "share_pct": 1.8,
-                "return_pct": -23.52,
+                "mv": 3.130423631815521,
+                "share_pct": 1.82,
+                "return_pct": -22.17,
                 "last_trade": "2023-06-12",
                 "status": "active"
               },
@@ -156,9 +156,9 @@
                 "code": "000051",
                 "name": "华夏沪深300ETF联接A",
                 "units": 2,
-                "mv": 2.682648801286274,
-                "share_pct": 1.57,
-                "return_pct": 49.27,
+                "mv": 2.7141320607328057,
+                "share_pct": 1.58,
+                "return_pct": 50.43,
                 "last_trade": "2023-01-06",
                 "status": "active"
               },
@@ -166,9 +166,9 @@
                 "code": "001051",
                 "name": "华夏上证50ETF联接A",
                 "units": 2,
-                "mv": 2.6512428829674386,
-                "share_pct": 1.55,
-                "return_pct": 54.34,
+                "mv": 2.6904104372962494,
+                "share_pct": 1.57,
+                "return_pct": 54.8,
                 "last_trade": "2026-05-08",
                 "status": "active"
               },
@@ -176,9 +176,9 @@
                 "code": "011309",
                 "name": "富国消费主题混合C",
                 "units": 3,
-                "mv": 2.5309748539507715,
+                "mv": 2.5351814603562297,
                 "share_pct": 1.48,
-                "return_pct": -12.64,
+                "return_pct": -12.53,
                 "last_trade": "2024-08-28",
                 "status": "active"
               },
@@ -186,9 +186,9 @@
                 "code": "519915",
                 "name": "富国消费主题混合A",
                 "units": 3,
-                "mv": 2.5283193765806757,
-                "share_pct": 1.48,
-                "return_pct": -12.26,
+                "mv": 2.5323841987295195,
+                "share_pct": 1.47,
+                "return_pct": -12.16,
                 "last_trade": "2024-09-18",
                 "status": "active"
               },
@@ -196,9 +196,9 @@
                 "code": "161017",
                 "name": "富国中证500指数增强A",
                 "units": 1,
-                "mv": 2.145065403422983,
-                "share_pct": 1.25,
-                "return_pct": 98.47,
+                "mv": 2.2040244498777506,
+                "share_pct": 1.28,
+                "return_pct": 100.27,
                 "last_trade": "2026-01-23",
                 "status": "active"
               },
@@ -206,9 +206,9 @@
                 "code": "000478",
                 "name": "建信中证500指数增强A",
                 "units": 1,
-                "mv": 1.7491093096504364,
-                "share_pct": 1.02,
-                "return_pct": 50.48,
+                "mv": 1.7950121340424432,
+                "share_pct": 1.04,
+                "return_pct": 50.81,
                 "last_trade": "2026-06-25",
                 "status": "active"
               },
@@ -216,9 +216,9 @@
                 "code": "000248",
                 "name": "汇添富中证主要消费ETF联接A",
                 "units": 1,
-                "mv": 1.0868855326841214,
-                "share_pct": 0.64,
-                "return_pct": -2.42,
+                "mv": 1.079246603300484,
+                "share_pct": 0.63,
+                "return_pct": -2.77,
                 "last_trade": "2026-07-30",
                 "status": "active"
               },
@@ -226,9 +226,9 @@
                 "code": "110022",
                 "name": "易方达消费行业",
                 "units": 1,
-                "mv": 0.950016020506248,
-                "share_pct": 0.56,
-                "return_pct": 16.32,
+                "mv": 0.9442486382569689,
+                "share_pct": 0.55,
+                "return_pct": 16.08,
                 "last_trade": "2026-03-24",
                 "status": "active"
               },
@@ -236,9 +236,9 @@
                 "code": "000727",
                 "name": "融通健康产业灵活配置混合A",
                 "units": 1,
-                "mv": 0.82580424366872,
+                "mv": 0.8247775496235455,
                 "share_pct": 0.48,
-                "return_pct": 4.18,
+                "return_pct": 4.11,
                 "last_trade": "2023-08-07",
                 "status": "active"
               },
@@ -349,16 +349,16 @@
             "label": "海外新兴",
             "color": "#6FA0AF",
             "units": 16,
-            "share_pct": 9.51,
-            "return_pct": 15.69,
+            "share_pct": 9.5,
+            "return_pct": 15.84,
             "funds": [
               {
                 "code": "000071",
                 "name": "华夏恒生ETF联接A",
                 "units": 7,
-                "mv": 8.677675544965346,
-                "share_pct": 5.07,
-                "return_pct": 31.29,
+                "mv": 8.695275017774893,
+                "share_pct": 5.06,
+                "return_pct": 31.39,
                 "last_trade": "2026-03-06",
                 "status": "active"
               },
@@ -366,9 +366,9 @@
                 "code": "012348",
                 "name": "天弘恒生科技指数联接(QDII)A",
                 "units": 3,
-                "mv": 3.2005256411033915,
-                "share_pct": 1.87,
-                "return_pct": 7.63,
+                "mv": 3.2298045949287233,
+                "share_pct": 1.88,
+                "return_pct": 8.12,
                 "last_trade": "2025-04-23",
                 "status": "active"
               },
@@ -386,9 +386,9 @@
                 "code": "006327",
                 "name": "易方达中证海外联接人民币A",
                 "units": 2,
-                "mv": 1.8032278190405653,
+                "mv": 1.8026506630118528,
                 "share_pct": 1.05,
-                "return_pct": -9.96,
+                "return_pct": -9.99,
                 "last_trade": "2026-03-06",
                 "status": "active"
               },
@@ -409,16 +409,16 @@
             "label": "海外成熟",
             "color": "#84B0BF",
             "units": 3,
-            "share_pct": 2.34,
-            "return_pct": 23.51,
+            "share_pct": 2.35,
+            "return_pct": 24.03,
             "funds": [
               {
                 "code": "000369",
                 "name": "广发全球医疗保健(QDII)(人民币)A",
                 "units": 2,
-                "mv": 2.2183974074822688,
-                "share_pct": 1.3,
-                "return_pct": 10.91,
+                "mv": 2.220159000578816,
+                "share_pct": 1.29,
+                "return_pct": 11.0,
                 "last_trade": "2025-07-24",
                 "status": "active"
               },
@@ -426,9 +426,9 @@
                 "code": "050025",
                 "name": "博时标普500ETF联接A",
                 "units": 1,
-                "mv": 1.7828178271787407,
-                "share_pct": 1.04,
-                "return_pct": 39.18,
+                "mv": 1.8138615154767976,
+                "share_pct": 1.06,
+                "return_pct": 39.98,
                 "last_trade": "2023-08-18",
                 "status": "active"
               },
@@ -520,15 +520,15 @@
             "color": "#9494B5",
             "units": 15,
             "share_pct": 11.65,
-            "return_pct": 37.01,
+            "return_pct": 37.62,
             "funds": [
               {
                 "code": "340001",
                 "name": "兴全可转债混合",
                 "units": 4,
-                "mv": 7.119933455431841,
-                "share_pct": 4.16,
-                "return_pct": 73.65,
+                "mv": 7.172419162454209,
+                "share_pct": 4.18,
+                "return_pct": 74.68,
                 "last_trade": "2022-02-28",
                 "status": "active"
               },
@@ -536,9 +536,9 @@
                 "code": "110027",
                 "name": "易方达安心债券A",
                 "units": 3,
-                "mv": 4.622216243792177,
+                "mv": 4.643966470819382,
                 "share_pct": 2.7,
-                "return_pct": 44.0,
+                "return_pct": 44.41,
                 "last_trade": "2022-04-14",
                 "status": "active"
               },
@@ -546,9 +546,9 @@
                 "code": "100050",
                 "name": "富国全球债券(QDII)人民币A",
                 "units": 2,
-                "mv": 1.9819554191389526,
+                "mv": 1.9888621137220448,
                 "share_pct": 1.16,
-                "return_pct": -0.92,
+                "return_pct": -0.58,
                 "last_trade": "2026-03-03",
                 "status": "active"
               },
@@ -556,8 +556,8 @@
                 "code": "003376",
                 "name": "广发中债7-10年国开债指数A",
                 "units": 1,
-                "mv": 1.2083601002887243,
-                "share_pct": 0.71,
+                "mv": 1.2084475978274585,
+                "share_pct": 0.7,
                 "return_pct": 10.12,
                 "last_trade": "2022-12-08",
                 "status": "active"
@@ -573,32 +573,32 @@
                 "status": "active"
               },
               {
-                "code": "007562",
-                "name": "景顺长城景泰纯利债券A",
-                "units": 1,
-                "mv": 1.0075786190465799,
-                "share_pct": 0.59,
-                "return_pct": 0.76,
-                "last_trade": "2026-04-10",
-                "status": "active"
-              },
-              {
                 "code": "019518",
                 "name": "富国全球债券(QDII)人民币C",
                 "units": 1,
-                "mv": 1.005439354671372,
+                "mv": 1.0089700548227276,
                 "share_pct": 0.59,
-                "return_pct": 0.54,
+                "return_pct": 0.9,
                 "last_trade": "2024-10-31",
+                "status": "active"
+              },
+              {
+                "code": "007562",
+                "name": "景顺长城景泰纯利债券A",
+                "units": 1,
+                "mv": 1.0073294978291554,
+                "share_pct": 0.59,
+                "return_pct": 0.73,
+                "last_trade": "2026-04-10",
                 "status": "active"
               },
               {
                 "code": "004419",
                 "name": "汇添富美元债债券人民币A",
                 "units": 1,
-                "mv": 0.9826375711574953,
+                "mv": 0.9840607210626184,
                 "share_pct": 0.57,
-                "return_pct": -1.74,
+                "return_pct": -1.59,
                 "last_trade": "2024-09-09",
                 "status": "active"
               },
@@ -606,9 +606,9 @@
                 "code": "002286",
                 "name": "中银美元债债券人民币A",
                 "units": 1,
-                "mv": 0.9791173831470755,
+                "mv": 0.981482992087446,
                 "share_pct": 0.57,
-                "return_pct": -2.09,
+                "return_pct": -1.85,
                 "last_trade": "2025-07-14",
                 "status": "active"
               },
@@ -679,7 +679,7 @@
             "label": "现金",
             "color": "#BDB8AD",
             "units": 41,
-            "share_pct": 23.96,
+            "share_pct": 23.87,
             "return_pct": null,
             "funds": []
           },
@@ -688,15 +688,15 @@
             "label": "其他",
             "color": "#B0B0B0",
             "units": 11,
-            "share_pct": 6.58,
-            "return_pct": 2.33,
+            "share_pct": 6.53,
+            "return_pct": 1.98,
             "funds": [
               {
                 "code": "007169",
                 "name": "易方达中债1-3年国开债A",
                 "units": 4,
                 "mv": 4.010020364877193,
-                "share_pct": 2.34,
+                "share_pct": 2.33,
                 "return_pct": 0.25,
                 "last_trade": "2026-06-04",
                 "status": "active"
@@ -705,9 +705,9 @@
                 "code": "020602",
                 "name": "易方达中证红利低波动联接A",
                 "units": 3,
-                "mv": 3.0916342019343777,
-                "share_pct": 1.81,
-                "return_pct": 2.99,
+                "mv": 3.0552452622493513,
+                "share_pct": 1.78,
+                "return_pct": 1.78,
                 "last_trade": "2026-06-25",
                 "status": "active"
               },
@@ -715,9 +715,9 @@
                 "code": "009051",
                 "name": "易方达中证红利ETF联接A",
                 "units": 2,
-                "mv": 2.0597061385104727,
+                "mv": 2.0556307866693517,
                 "share_pct": 1.2,
-                "return_pct": 2.97,
+                "return_pct": 2.77,
                 "last_trade": "2026-06-24",
                 "status": "active"
               },
@@ -725,9 +725,9 @@
                 "code": "008163",
                 "name": "南方标普红利低波50ETF联接A",
                 "units": 1,
-                "mv": 1.0871631034652214,
-                "share_pct": 0.64,
-                "return_pct": 8.72,
+                "mv": 1.075507794776968,
+                "share_pct": 0.63,
+                "return_pct": 7.55,
                 "last_trade": "2026-06-30",
                 "status": "active"
               },
@@ -735,9 +735,9 @@
                 "code": "022424",
                 "name": "广发中证A500ETF联接A",
                 "units": 1,
-                "mv": 1.004026845637584,
+                "mv": 1.0197147651006713,
                 "share_pct": 0.59,
-                "return_pct": 0.4,
+                "return_pct": 1.97,
                 "last_trade": "2026-07-29",
                 "status": "active"
               }
@@ -747,127 +747,127 @@
         "by_taxonomy": [
           {
             "name": "A股",
-            "value": 78.6425,
+            "value": 79.1992,
             "units": 64,
-            "share_pct": 45.97,
+            "share_pct": 46.11,
             "color": "#CC8987",
             "children": [
               {
                 "name": "行业",
-                "value": 32.2482,
+                "value": 32.4378,
                 "units": 34,
-                "share_pct": 18.85,
+                "share_pct": 18.88,
                 "children": [
                   {
                     "name": "医药",
-                    "value": 18.782,
+                    "value": 18.9608,
                     "units": 19,
-                    "share_pct": 10.98,
+                    "share_pct": 11.04,
                     "children": [
                       {
                         "name": "全指医药",
                         "code": "001180",
-                        "value": 6.9795,
+                        "value": 7.0337,
                         "units": 7,
-                        "share_pct": 4.08,
-                        "return_pct": 14.33,
+                        "share_pct": 4.09,
+                        "return_pct": 14.85,
                         "status": "active"
                       },
                       {
                         "name": "华宝医疗C",
                         "code": "012323",
-                        "value": 4.099,
+                        "value": 4.1359,
                         "units": 4,
-                        "share_pct": 2.4,
-                        "return_pct": -7.09,
+                        "share_pct": 2.41,
+                        "return_pct": -6.61,
                         "status": "active"
                       },
                       {
                         "name": "华宝医疗A",
                         "code": "162412",
-                        "value": 3.8014,
+                        "value": 3.836,
                         "units": 3,
-                        "share_pct": 2.22,
-                        "return_pct": 26.53,
+                        "share_pct": 2.23,
+                        "return_pct": 27.68,
                         "status": "active"
                       },
                       {
                         "name": "大摩健康产业",
                         "code": "002708",
-                        "value": 3.0762,
+                        "value": 3.1304,
                         "units": 4,
-                        "share_pct": 1.8,
-                        "return_pct": -23.52,
+                        "share_pct": 1.82,
+                        "return_pct": -22.17,
                         "status": "active"
                       },
                       {
                         "name": "融通健康产业",
                         "code": "000727",
-                        "value": 0.8258,
+                        "value": 0.8248,
                         "units": 1,
                         "share_pct": 0.48,
-                        "return_pct": 4.18,
+                        "return_pct": 4.11,
                         "status": "active"
                       }
                     ]
                   },
                   {
                     "name": "消费",
-                    "value": 7.0962,
+                    "value": 7.0911,
                     "units": 8,
-                    "share_pct": 4.15,
+                    "share_pct": 4.13,
                     "children": [
                       {
                         "name": "富国消费C",
                         "code": "011309",
-                        "value": 2.531,
+                        "value": 2.5352,
                         "units": 3,
                         "share_pct": 1.48,
-                        "return_pct": -12.64,
+                        "return_pct": -12.53,
                         "status": "active"
                       },
                       {
                         "name": "富国消费",
                         "code": "519915",
-                        "value": 2.5283,
+                        "value": 2.5324,
                         "units": 3,
-                        "share_pct": 1.48,
-                        "return_pct": -12.26,
+                        "share_pct": 1.47,
+                        "return_pct": -12.16,
                         "status": "active"
                       },
                       {
                         "name": "汇添富消费",
                         "code": "000248",
-                        "value": 1.0869,
+                        "value": 1.0792,
                         "units": 1,
-                        "share_pct": 0.64,
-                        "return_pct": -2.42,
+                        "share_pct": 0.63,
+                        "return_pct": -2.77,
                         "status": "active"
                       },
                       {
                         "name": "易方达消费行业",
                         "code": "110022",
-                        "value": 0.95,
+                        "value": 0.9442,
                         "units": 1,
-                        "share_pct": 0.56,
-                        "return_pct": 16.32,
+                        "share_pct": 0.55,
+                        "return_pct": 16.08,
                         "status": "active"
                       }
                     ]
                   },
                   {
                     "name": "养老",
-                    "value": 6.37,
+                    "value": 6.386,
                     "units": 7,
                     "share_pct": 3.72,
                     "children": [
                       {
                         "name": "养老产业",
                         "code": "000968",
-                        "value": 6.37,
+                        "value": 6.386,
                         "units": 7,
                         "share_pct": 3.72,
-                        "return_pct": 4.05,
+                        "return_pct": 4.22,
                         "status": "active"
                       }
                     ]
@@ -970,22 +970,22 @@
               },
               {
                 "name": "价值红利",
-                "value": 22.1143,
+                "value": 22.0697,
                 "units": 15,
-                "share_pct": 12.93,
+                "share_pct": 12.85,
                 "children": [
                   {
                     "name": "红利",
                     "value": 18.0503,
                     "units": 11,
-                    "share_pct": 10.55,
+                    "share_pct": 10.51,
                     "children": [
                       {
                         "name": "中证红利",
                         "code": "100032",
                         "value": 18.0503,
                         "units": 11,
-                        "share_pct": 10.55,
+                        "share_pct": 10.51,
                         "return_pct": 66.98,
                         "status": "active"
                       }
@@ -993,17 +993,17 @@
                   },
                   {
                     "name": "红利低波",
-                    "value": 4.064,
+                    "value": 4.0193,
                     "units": 4,
-                    "share_pct": 2.38,
+                    "share_pct": 2.34,
                     "children": [
                       {
                         "name": "博时红利低波100",
                         "code": "021550",
-                        "value": 4.064,
+                        "value": 4.0193,
                         "units": 4,
-                        "share_pct": 2.38,
-                        "return_pct": 1.58,
+                        "share_pct": 2.34,
+                        "return_pct": 0.46,
                         "status": "active"
                       }
                     ]
@@ -1012,32 +1012,32 @@
               },
               {
                 "name": "大盘",
-                "value": 16.6831,
+                "value": 16.8973,
                 "units": 11,
-                "share_pct": 9.75,
+                "share_pct": 9.84,
                 "children": [
                   {
                     "name": "沪深300",
-                    "value": 14.0319,
+                    "value": 14.2069,
                     "units": 9,
-                    "share_pct": 8.2,
+                    "share_pct": 8.27,
                     "children": [
                       {
                         "name": "富国300",
                         "code": "100038",
-                        "value": 11.3492,
+                        "value": 11.4928,
                         "units": 7,
-                        "share_pct": 6.63,
-                        "return_pct": 61.99,
+                        "share_pct": 6.69,
+                        "return_pct": 64.04,
                         "status": "active"
                       },
                       {
                         "name": "沪深300",
                         "code": "000051",
-                        "value": 2.6826,
+                        "value": 2.7141,
                         "units": 2,
-                        "share_pct": 1.57,
-                        "return_pct": 49.27,
+                        "share_pct": 1.58,
+                        "return_pct": 50.43,
                         "status": "active"
                       },
                       {
@@ -1053,17 +1053,17 @@
                   },
                   {
                     "name": "上证50",
-                    "value": 2.6512,
+                    "value": 2.6904,
                     "units": 2,
-                    "share_pct": 1.55,
+                    "share_pct": 1.57,
                     "children": [
                       {
                         "name": "上证50",
                         "code": "001051",
-                        "value": 2.6512,
+                        "value": 2.6904,
                         "units": 2,
-                        "share_pct": 1.55,
-                        "return_pct": 54.34,
+                        "share_pct": 1.57,
+                        "return_pct": 54.8,
                         "status": "active"
                       }
                     ]
@@ -1072,41 +1072,41 @@
               },
               {
                 "name": "中小盘",
-                "value": 7.5969,
+                "value": 7.7944,
                 "units": 4,
-                "share_pct": 4.44,
+                "share_pct": 4.54,
                 "children": [
                   {
                     "name": "中证500",
-                    "value": 7.5969,
+                    "value": 7.7944,
                     "units": 4,
-                    "share_pct": 4.44,
+                    "share_pct": 4.54,
                     "children": [
                       {
                         "name": "中证500",
                         "code": "001052",
-                        "value": 3.7027,
+                        "value": 3.7954,
                         "units": 2,
-                        "share_pct": 2.16,
-                        "return_pct": 57.79,
+                        "share_pct": 2.21,
+                        "return_pct": 58.66,
                         "status": "active"
                       },
                       {
                         "name": "富国500",
                         "code": "161017",
-                        "value": 2.1451,
+                        "value": 2.204,
                         "units": 1,
-                        "share_pct": 1.25,
-                        "return_pct": 98.47,
+                        "share_pct": 1.28,
+                        "return_pct": 100.27,
                         "status": "active"
                       },
                       {
                         "name": "建信500",
                         "code": "000478",
-                        "value": 1.7491,
+                        "value": 1.795,
                         "units": 1,
-                        "share_pct": 1.02,
-                        "return_pct": 50.48,
+                        "share_pct": 1.04,
+                        "return_pct": 50.81,
                         "status": "active"
                       },
                       {
@@ -1152,30 +1152,30 @@
           },
           {
             "name": "海外新兴",
-            "value": 16.2674,
+            "value": 16.3137,
             "units": 16,
-            "share_pct": 9.51,
+            "share_pct": 9.5,
             "color": "#6FA0AF",
             "children": [
               {
                 "name": "香港",
-                "value": 8.6777,
+                "value": 8.6953,
                 "units": 7,
-                "share_pct": 5.07,
+                "share_pct": 5.06,
                 "children": [
                   {
                     "name": "恒生",
-                    "value": 8.6777,
+                    "value": 8.6953,
                     "units": 7,
-                    "share_pct": 5.07,
+                    "share_pct": 5.06,
                     "children": [
                       {
                         "name": "恒生指数",
                         "code": "000071",
-                        "value": 8.6777,
+                        "value": 8.6953,
                         "units": 7,
-                        "share_pct": 5.07,
-                        "return_pct": 31.29,
+                        "share_pct": 5.06,
+                        "return_pct": 31.39,
                         "status": "active"
                       }
                     ]
@@ -1201,15 +1201,15 @@
               },
               {
                 "name": "海外科技",
-                "value": 7.5898,
+                "value": 7.6185,
                 "units": 9,
                 "share_pct": 4.44,
                 "children": [
                   {
                     "name": "中概互联",
-                    "value": 4.3892,
+                    "value": 4.3887,
                     "units": 6,
-                    "share_pct": 2.57,
+                    "share_pct": 2.55,
                     "children": [
                       {
                         "name": "中国海外互联",
@@ -1223,27 +1223,27 @@
                       {
                         "name": "易方达中概互联",
                         "code": "006327",
-                        "value": 1.8032,
+                        "value": 1.8027,
                         "units": 2,
                         "share_pct": 1.05,
-                        "return_pct": -9.96,
+                        "return_pct": -9.99,
                         "status": "active"
                       }
                     ]
                   },
                   {
                     "name": "恒生科技",
-                    "value": 3.2005,
+                    "value": 3.2298,
                     "units": 3,
-                    "share_pct": 1.87,
+                    "share_pct": 1.88,
                     "children": [
                       {
                         "name": "恒生科技",
                         "code": "012348",
-                        "value": 3.2005,
+                        "value": 3.2298,
                         "units": 3,
-                        "share_pct": 1.87,
-                        "return_pct": 7.63,
+                        "share_pct": 1.88,
+                        "return_pct": 8.12,
                         "status": "active"
                       }
                     ]
@@ -1254,30 +1254,30 @@
           },
           {
             "name": "海外成熟",
-            "value": 4.0012,
+            "value": 4.034,
             "units": 3,
-            "share_pct": 2.34,
+            "share_pct": 2.35,
             "color": "#84B0BF",
             "children": [
               {
                 "name": "全球医药",
-                "value": 2.2184,
+                "value": 2.2202,
                 "units": 2,
-                "share_pct": 1.3,
+                "share_pct": 1.29,
                 "children": [
                   {
                     "name": "全球医疗",
-                    "value": 2.2184,
+                    "value": 2.2202,
                     "units": 2,
-                    "share_pct": 1.3,
+                    "share_pct": 1.29,
                     "children": [
                       {
                         "name": "全球医疗保健",
                         "code": "000369",
-                        "value": 2.2184,
+                        "value": 2.2202,
                         "units": 2,
-                        "share_pct": 1.3,
-                        "return_pct": 10.91,
+                        "share_pct": 1.29,
+                        "return_pct": 11.0,
                         "status": "active"
                       }
                     ]
@@ -1303,23 +1303,23 @@
               },
               {
                 "name": "美国大盘",
-                "value": 1.7828,
+                "value": 1.8139,
                 "units": 1,
-                "share_pct": 1.04,
+                "share_pct": 1.06,
                 "children": [
                   {
                     "name": "标普500",
-                    "value": 1.7828,
+                    "value": 1.8139,
                     "units": 1,
-                    "share_pct": 1.04,
+                    "share_pct": 1.06,
                     "children": [
                       {
                         "name": "标普500",
                         "code": "050025",
-                        "value": 1.7828,
+                        "value": 1.8139,
                         "units": 1,
-                        "share_pct": 1.04,
-                        "return_pct": 39.18,
+                        "share_pct": 1.06,
+                        "return_pct": 39.98,
                         "status": "active"
                       }
                     ]
@@ -1465,30 +1465,30 @@
           },
           {
             "name": "债券",
-            "value": 19.9244,
+            "value": 20.0127,
             "units": 15,
             "share_pct": 11.65,
             "color": "#9494B5",
             "children": [
               {
                 "name": "国内债券",
-                "value": 14.9753,
+                "value": 15.0494,
                 "units": 10,
-                "share_pct": 8.75,
+                "share_pct": 8.76,
                 "children": [
                   {
                     "name": "纯债",
-                    "value": 7.8554,
+                    "value": 7.877,
                     "units": 6,
                     "share_pct": 4.59,
                     "children": [
                       {
                         "name": "易方达安心回报债",
                         "code": "110027",
-                        "value": 4.6222,
+                        "value": 4.644,
                         "units": 3,
                         "share_pct": 2.7,
-                        "return_pct": 44.0,
+                        "return_pct": 44.41,
                         "status": "active"
                       },
                       {
@@ -1496,7 +1496,7 @@
                         "code": "003376",
                         "value": 1.2084,
                         "units": 1,
-                        "share_pct": 0.71,
+                        "share_pct": 0.7,
                         "return_pct": 10.12,
                         "status": "active"
                       },
@@ -1512,10 +1512,10 @@
                       {
                         "name": "景顺景泰纯债",
                         "code": "007562",
-                        "value": 1.0076,
+                        "value": 1.0073,
                         "units": 1,
                         "share_pct": 0.59,
-                        "return_pct": 0.76,
+                        "return_pct": 0.73,
                         "status": "active"
                       },
                       {
@@ -1558,17 +1558,17 @@
                   },
                   {
                     "name": "可转债",
-                    "value": 7.1199,
+                    "value": 7.1724,
                     "units": 4,
-                    "share_pct": 4.16,
+                    "share_pct": 4.18,
                     "children": [
                       {
                         "name": "兴全转债",
                         "code": "340001",
-                        "value": 7.1199,
+                        "value": 7.1724,
                         "units": 4,
-                        "share_pct": 4.16,
-                        "return_pct": 73.65,
+                        "share_pct": 4.18,
+                        "return_pct": 74.68,
                         "status": "active"
                       },
                       {
@@ -1586,50 +1586,50 @@
               },
               {
                 "name": "海外债券",
-                "value": 4.9491,
+                "value": 4.9634,
                 "units": 5,
                 "share_pct": 2.89,
                 "children": [
                   {
                     "name": "美元债",
-                    "value": 4.9491,
+                    "value": 4.9634,
                     "units": 5,
                     "share_pct": 2.89,
                     "children": [
                       {
                         "name": "富国全球债A",
                         "code": "100050",
-                        "value": 1.982,
+                        "value": 1.9889,
                         "units": 2,
                         "share_pct": 1.16,
-                        "return_pct": -0.92,
+                        "return_pct": -0.58,
                         "status": "active"
                       },
                       {
                         "name": "富国全球债C",
                         "code": "019518",
-                        "value": 1.0054,
+                        "value": 1.009,
                         "units": 1,
                         "share_pct": 0.59,
-                        "return_pct": 0.54,
+                        "return_pct": 0.9,
                         "status": "active"
                       },
                       {
                         "name": "汇添富美元债",
                         "code": "004419",
-                        "value": 0.9826,
+                        "value": 0.9841,
                         "units": 1,
                         "share_pct": 0.57,
-                        "return_pct": -1.74,
+                        "return_pct": -1.59,
                         "status": "active"
                       },
                       {
                         "name": "中银美元债",
                         "code": "002286",
-                        "value": 0.9791,
+                        "value": 0.9815,
                         "units": 1,
                         "share_pct": 0.57,
-                        "return_pct": -2.09,
+                        "return_pct": -1.85,
                         "status": "active"
                       },
                       {
@@ -1649,66 +1649,66 @@
           },
           {
             "name": "其他",
-            "value": 11.2526,
+            "value": 11.2161,
             "units": 11,
-            "share_pct": 6.58,
+            "share_pct": 6.53,
             "color": "#B0B0B0",
             "children": [
               {
                 "name": "(其他)",
-                "value": 11.2526,
+                "value": 11.2161,
                 "units": 11,
-                "share_pct": 6.58,
+                "share_pct": 6.53,
                 "children": [
                   {
                     "name": "(其他)",
-                    "value": 11.2526,
+                    "value": 11.2161,
                     "units": 11,
-                    "share_pct": 6.58,
+                    "share_pct": 6.53,
                     "children": [
                       {
                         "name": "易方达中债1-3年国开债A",
                         "code": "007169",
                         "value": 4.01,
                         "units": 4,
-                        "share_pct": 2.34,
+                        "share_pct": 2.33,
                         "return_pct": 0.25,
                         "status": "active"
                       },
                       {
                         "name": "易方达中证红利低波动联接A",
                         "code": "020602",
-                        "value": 3.0916,
+                        "value": 3.0552,
                         "units": 3,
-                        "share_pct": 1.81,
-                        "return_pct": 2.99,
+                        "share_pct": 1.78,
+                        "return_pct": 1.78,
                         "status": "active"
                       },
                       {
                         "name": "易方达中证红利ETF联接A",
                         "code": "009051",
-                        "value": 2.0597,
+                        "value": 2.0556,
                         "units": 2,
                         "share_pct": 1.2,
-                        "return_pct": 2.97,
+                        "return_pct": 2.77,
                         "status": "active"
                       },
                       {
                         "name": "南方标普红利低波50ETF联接A",
                         "code": "008163",
-                        "value": 1.0872,
+                        "value": 1.0755,
                         "units": 1,
-                        "share_pct": 0.64,
-                        "return_pct": 8.72,
+                        "share_pct": 0.63,
+                        "return_pct": 7.55,
                         "status": "active"
                       },
                       {
                         "name": "广发中证A500ETF联接A",
                         "code": "022424",
-                        "value": 1.004,
+                        "value": 1.0197,
                         "units": 1,
                         "share_pct": 0.59,
-                        "return_pct": 0.4,
+                        "return_pct": 1.97,
                         "status": "active"
                       }
                     ]
@@ -10458,19 +10458,32 @@
         },
         {
           "date": "2026-08-04",
-          "nav": 1.1406,
-          "A股": 45.97,
+          "nav": 1.1409,
+          "A股": 45.95,
           "海外新兴": 9.51,
-          "海外成熟": 2.34,
+          "海外成熟": 2.36,
           "商品": 0.0,
           "债券": 11.65,
           "房地产": 0.0,
           "外汇": 0.0,
           "现金": 23.96,
           "其他": 6.58
+        },
+        {
+          "date": "2026-08-05",
+          "nav": 1.1452,
+          "A股": 46.11,
+          "海外新兴": 9.5,
+          "海外成熟": 2.35,
+          "商品": 0.0,
+          "债券": 11.65,
+          "房地产": 0.0,
+          "外汇": 0.0,
+          "现金": 23.87,
+          "其他": 6.53
         }
       ],
-      "updatedAt": "2026-08-05 13:11 CST"
+      "updatedAt": "2026-08-06 13:12 CST"
     },
     "s": {
       "current": {
@@ -10483,8 +10496,8 @@
             "label": "A股",
             "color": "#CC8987",
             "units": 48,
-            "share_pct": 24.29,
-            "return_pct": 23.06,
+            "share_pct": 24.38,
+            "return_pct": 23.72,
             "funds": [
               {
                 "code": "100032",
@@ -10500,9 +10513,9 @@
                 "code": "162412",
                 "name": "华宝医疗ETF联接A",
                 "units": 4,
-                "mv": 5.421645827000177,
-                "share_pct": 2.41,
-                "return_pct": 34.6,
+                "mv": 5.470891281812689,
+                "share_pct": 2.42,
+                "return_pct": 35.82,
                 "last_trade": "2025-05-22",
                 "status": "active"
               },
@@ -10510,9 +10523,9 @@
                 "code": "100038",
                 "name": "富国沪深300指数增强A",
                 "units": 3,
-                "mv": 4.84532130978757,
-                "share_pct": 2.15,
-                "return_pct": 61.24,
+                "mv": 4.906589403020094,
+                "share_pct": 2.17,
+                "return_pct": 63.28,
                 "last_trade": "2018-10-30",
                 "status": "active"
               },
@@ -10520,9 +10533,9 @@
                 "code": "001180",
                 "name": "广发医药卫生联接A",
                 "units": 5,
-                "mv": 4.552250524394238,
-                "share_pct": 2.02,
-                "return_pct": 6.23,
+                "mv": 4.587591471164027,
+                "share_pct": 2.03,
+                "return_pct": 6.82,
                 "last_trade": "2023-06-26",
                 "status": "active"
               },
@@ -10530,9 +10543,9 @@
                 "code": "012323",
                 "name": "华宝医疗ETF联接C",
                 "units": 4,
-                "mv": 4.098983055915113,
-                "share_pct": 1.82,
-                "return_pct": -7.09,
+                "mv": 4.13588525794205,
+                "share_pct": 1.83,
+                "return_pct": -6.61,
                 "last_trade": "2026-07-15",
                 "status": "active"
               },
@@ -10540,9 +10553,9 @@
                 "code": "021550",
                 "name": "博时中证红利低波动100ETF联接A",
                 "units": 4,
-                "mv": 4.063955238886527,
-                "share_pct": 1.8,
-                "return_pct": 1.58,
+                "mv": 4.0193146489204326,
+                "share_pct": 1.78,
+                "return_pct": 0.46,
                 "last_trade": "2026-06-22",
                 "status": "active"
               },
@@ -10550,9 +10563,9 @@
                 "code": "004424",
                 "name": "汇添富文体娱乐混合A",
                 "units": 3,
-                "mv": 2.85263714161977,
+                "mv": 2.858016192299991,
                 "share_pct": 1.27,
-                "return_pct": -6.32,
+                "return_pct": -6.14,
                 "last_trade": "2023-12-08",
                 "status": "active"
               },
@@ -10560,9 +10573,9 @@
                 "code": "000968",
                 "name": "广发养老指数A",
                 "units": 3,
-                "mv": 2.8480751435505285,
+                "mv": 2.855212324697851,
                 "share_pct": 1.26,
-                "return_pct": 2.04,
+                "return_pct": 2.23,
                 "last_trade": "2022-04-08",
                 "status": "active"
               },
@@ -10570,9 +10583,9 @@
                 "code": "011309",
                 "name": "富国消费主题混合C",
                 "units": 3,
-                "mv": 2.5309748539507715,
+                "mv": 2.5351814603562297,
                 "share_pct": 1.12,
-                "return_pct": -12.64,
+                "return_pct": -12.53,
                 "last_trade": "2024-08-28",
                 "status": "active"
               },
@@ -10580,9 +10593,9 @@
                 "code": "002708",
                 "name": "大摩健康产业混合A",
                 "units": 3,
-                "mv": 2.428450806615891,
-                "share_pct": 1.08,
-                "return_pct": -19.27,
+                "mv": 2.4712428913139686,
+                "share_pct": 1.09,
+                "return_pct": -17.85,
                 "last_trade": "2023-06-12",
                 "status": "active"
               },
@@ -10590,9 +10603,9 @@
                 "code": "161017",
                 "name": "富国中证500指数增强A",
                 "units": 1,
-                "mv": 2.145065403422983,
-                "share_pct": 0.95,
-                "return_pct": 109.31,
+                "mv": 2.2040244498777506,
+                "share_pct": 0.98,
+                "return_pct": 112.16,
                 "last_trade": "2026-01-23",
                 "status": "active"
               },
@@ -10600,9 +10613,9 @@
                 "code": "519915",
                 "name": "富国消费主题混合A",
                 "units": 2,
-                "mv": 1.825229700619862,
+                "mv": 1.828164153514749,
                 "share_pct": 0.81,
-                "return_pct": -3.53,
+                "return_pct": -3.43,
                 "last_trade": "2024-09-18",
                 "status": "active"
               },
@@ -10610,9 +10623,9 @@
                 "code": "110022",
                 "name": "易方达消费行业",
                 "units": 2,
-                "mv": 1.7528863156592402,
-                "share_pct": 0.78,
-                "return_pct": -6.85,
+                "mv": 1.7422448473011065,
+                "share_pct": 0.77,
+                "return_pct": -7.23,
                 "last_trade": "2026-03-24",
                 "status": "active"
               },
@@ -10620,9 +10633,9 @@
                 "code": "000051",
                 "name": "华夏沪深300ETF联接A",
                 "units": 1,
-                "mv": 1.25208645409801,
+                "mv": 1.266780797489122,
                 "share_pct": 0.56,
-                "return_pct": 25.21,
+                "return_pct": 26.68,
                 "last_trade": "2023-01-06",
                 "status": "active"
               },
@@ -10630,9 +10643,9 @@
                 "code": "001051",
                 "name": "华夏上证50ETF联接A",
                 "units": 1,
-                "mv": 1.1918568398727465,
-                "share_pct": 0.53,
-                "return_pct": 23.99,
+                "mv": 1.2094644750795336,
+                "share_pct": 0.54,
+                "return_pct": 24.91,
                 "last_trade": "2025-09-01",
                 "status": "active"
               },
@@ -10640,9 +10653,9 @@
                 "code": "000248",
                 "name": "汇添富中证主要消费ETF联接A",
                 "units": 1,
-                "mv": 1.0868855326841214,
+                "mv": 1.079246603300484,
                 "share_pct": 0.48,
-                "return_pct": -2.42,
+                "return_pct": -2.77,
                 "last_trade": "2026-07-30",
                 "status": "active"
               },
@@ -10650,9 +10663,9 @@
                 "code": "110020",
                 "name": "易方达沪深300ETF联接A",
                 "units": 1,
-                "mv": 1.031022197862428,
+                "mv": 1.043080295971499,
                 "share_pct": 0.46,
-                "return_pct": 3.1,
+                "return_pct": 4.31,
                 "last_trade": "2025-12-04",
                 "status": "active"
               },
@@ -10660,9 +10673,9 @@
                 "code": "000727",
                 "name": "融通健康产业灵活配置混合A",
                 "units": 1,
-                "mv": 0.82580424366872,
+                "mv": 0.8247775496235455,
                 "share_pct": 0.37,
-                "return_pct": 4.18,
+                "return_pct": 4.11,
                 "last_trade": "2023-08-07",
                 "status": "active"
               },
@@ -10784,7 +10797,7 @@
             "color": "#6FA0AF",
             "units": 14,
             "share_pct": 5.78,
-            "return_pct": -2.57,
+            "return_pct": -2.47,
             "funds": [
               {
                 "code": "164906",
@@ -10800,9 +10813,9 @@
                 "code": "000071",
                 "name": "华夏恒生ETF联接A",
                 "units": 3,
-                "mv": 4.131484394432325,
+                "mv": 4.139863590783481,
                 "share_pct": 1.83,
-                "return_pct": 12.48,
+                "return_pct": 12.55,
                 "last_trade": "2026-03-06",
                 "status": "active"
               },
@@ -10810,9 +10823,9 @@
                 "code": "012348",
                 "name": "天弘恒生科技指数联接(QDII)A",
                 "units": 2,
-                "mv": 2.1348392099063327,
+                "mv": 2.1543690827024164,
                 "share_pct": 0.95,
-                "return_pct": 6.32,
+                "return_pct": 6.64,
                 "last_trade": "2025-04-23",
                 "status": "active"
               },
@@ -10820,9 +10833,9 @@
                 "code": "006327",
                 "name": "易方达中证海外联接人民币A",
                 "units": 2,
-                "mv": 1.8032278190405653,
+                "mv": 1.8026506630118528,
                 "share_pct": 0.8,
-                "return_pct": -9.96,
+                "return_pct": -9.99,
                 "last_trade": "2026-03-06",
                 "status": "active"
               },
@@ -10843,16 +10856,16 @@
             "label": "海外成熟",
             "color": "#84B0BF",
             "units": 3,
-            "share_pct": 1.65,
-            "return_pct": 27.02,
+            "share_pct": 1.67,
+            "return_pct": 29.33,
             "funds": [
               {
                 "code": "000369",
                 "name": "广发全球医疗保健(QDII)(人民币)A",
                 "units": 2,
-                "mv": 2.2183974074822688,
+                "mv": 2.220159000578816,
                 "share_pct": 0.98,
-                "return_pct": 10.91,
+                "return_pct": 11.0,
                 "last_trade": "2025-07-24",
                 "status": "active"
               },
@@ -10860,9 +10873,9 @@
                 "code": "019524",
                 "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)A",
                 "units": 1,
-                "mv": 1.5072369035390794,
-                "share_pct": 0.67,
-                "return_pct": 50.72,
+                "mv": 1.5549537771967505,
+                "share_pct": 0.69,
+                "return_pct": 55.5,
                 "last_trade": "2025-04-07",
                 "status": "active"
               },
@@ -10953,16 +10966,16 @@
             "label": "债券",
             "color": "#9494B5",
             "units": 9,
-            "share_pct": 4.28,
-            "return_pct": 9.61,
+            "share_pct": 4.29,
+            "return_pct": 9.87,
             "funds": [
               {
                 "code": "100050",
                 "name": "富国全球债券(QDII)人民币A",
                 "units": 2,
-                "mv": 1.9812495325880528,
+                "mv": 1.9881537673061196,
                 "share_pct": 0.88,
-                "return_pct": -0.95,
+                "return_pct": -0.61,
                 "last_trade": "2026-03-03",
                 "status": "active"
               },
@@ -10970,9 +10983,9 @@
                 "code": "004419",
                 "name": "汇添富美元债债券人民币A",
                 "units": 2,
-                "mv": 1.9629499232635057,
+                "mv": 1.965792855468676,
                 "share_pct": 0.87,
-                "return_pct": -1.86,
+                "return_pct": -1.71,
                 "last_trade": "2025-07-14",
                 "status": "active"
               },
@@ -10980,9 +10993,9 @@
                 "code": "110027",
                 "name": "易方达安心债券A",
                 "units": 1,
-                "mv": 1.4751436635043695,
-                "share_pct": 0.65,
-                "return_pct": 47.51,
+                "mv": 1.4820850759971438,
+                "share_pct": 0.66,
+                "return_pct": 48.21,
                 "last_trade": "2019-12-02",
                 "status": "active"
               },
@@ -10990,7 +11003,7 @@
                 "code": "003376",
                 "name": "广发中债7-10年国开债指数A",
                 "units": 1,
-                "mv": 1.2083601002887243,
+                "mv": 1.2084475978274585,
                 "share_pct": 0.54,
                 "return_pct": 20.84,
                 "last_trade": "2022-12-08",
@@ -11007,23 +11020,23 @@
                 "status": "active"
               },
               {
-                "code": "007562",
-                "name": "景顺长城景泰纯利债券A",
-                "units": 1,
-                "mv": 1.0075786190465799,
-                "share_pct": 0.45,
-                "return_pct": 0.76,
-                "last_trade": "2026-04-10",
-                "status": "active"
-              },
-              {
                 "code": "019518",
                 "name": "富国全球债券(QDII)人民币C",
                 "units": 1,
-                "mv": 1.0060658900713142,
+                "mv": 1.0095987903639525,
                 "share_pct": 0.45,
-                "return_pct": 0.61,
+                "return_pct": 0.96,
                 "last_trade": "2024-10-25",
+                "status": "active"
+              },
+              {
+                "code": "007562",
+                "name": "景顺长城景泰纯利债券A",
+                "units": 1,
+                "mv": 1.0073294978291554,
+                "share_pct": 0.45,
+                "return_pct": 0.73,
+                "last_trade": "2026-04-10",
                 "status": "active"
               }
             ]
@@ -11033,7 +11046,7 @@
             "label": "现金",
             "color": "#BDB8AD",
             "units": 133,
-            "share_pct": 59.0,
+            "share_pct": 58.91,
             "return_pct": null,
             "funds": []
           },
@@ -11042,8 +11055,8 @@
             "label": "其他",
             "color": "#B0B0B0",
             "units": 11,
-            "share_pct": 4.99,
-            "return_pct": 2.33,
+            "share_pct": 4.97,
+            "return_pct": 1.98,
             "funds": [
               {
                 "code": "007169",
@@ -11059,9 +11072,9 @@
                 "code": "020602",
                 "name": "易方达中证红利低波动联接A",
                 "units": 3,
-                "mv": 3.0916342019343777,
-                "share_pct": 1.37,
-                "return_pct": 2.99,
+                "mv": 3.0552452622493513,
+                "share_pct": 1.35,
+                "return_pct": 1.78,
                 "last_trade": "2026-06-25",
                 "status": "active"
               },
@@ -11069,9 +11082,9 @@
                 "code": "009051",
                 "name": "易方达中证红利ETF联接A",
                 "units": 2,
-                "mv": 2.0597061385104727,
+                "mv": 2.0556307866693517,
                 "share_pct": 0.91,
-                "return_pct": 2.97,
+                "return_pct": 2.77,
                 "last_trade": "2026-06-24",
                 "status": "active"
               },
@@ -11079,9 +11092,9 @@
                 "code": "008163",
                 "name": "南方标普红利低波50ETF联接A",
                 "units": 1,
-                "mv": 1.0871631034652214,
+                "mv": 1.075507794776968,
                 "share_pct": 0.48,
-                "return_pct": 8.72,
+                "return_pct": 7.55,
                 "last_trade": "2026-06-30",
                 "status": "active"
               },
@@ -11089,9 +11102,9 @@
                 "code": "022424",
                 "name": "广发中证A500ETF联接A",
                 "units": 1,
-                "mv": 1.004026845637584,
+                "mv": 1.0197147651006713,
                 "share_pct": 0.45,
-                "return_pct": 0.4,
+                "return_pct": 1.97,
                 "last_trade": "2026-07-29",
                 "status": "active"
               }
@@ -11101,136 +11114,136 @@
         "by_taxonomy": [
           {
             "name": "A股",
-            "value": 54.7438,
+            "value": 55.0284,
             "units": 48,
-            "share_pct": 24.29,
+            "share_pct": 24.38,
             "color": "#CC8987",
             "children": [
               {
                 "name": "行业",
-                "value": 30.2238,
+                "value": 30.3885,
                 "units": 31,
-                "share_pct": 13.41,
+                "share_pct": 13.46,
                 "children": [
                   {
                     "name": "医药",
-                    "value": 17.3271,
+                    "value": 17.4904,
                     "units": 17,
-                    "share_pct": 7.69,
+                    "share_pct": 7.75,
                     "children": [
                       {
                         "name": "华宝医疗A",
                         "code": "162412",
-                        "value": 5.4216,
+                        "value": 5.4709,
                         "units": 4,
-                        "share_pct": 2.41,
-                        "return_pct": 34.6,
+                        "share_pct": 2.42,
+                        "return_pct": 35.82,
                         "status": "active"
                       },
                       {
                         "name": "全指医药",
                         "code": "001180",
-                        "value": 4.5523,
+                        "value": 4.5876,
                         "units": 5,
-                        "share_pct": 2.02,
-                        "return_pct": 6.23,
+                        "share_pct": 2.03,
+                        "return_pct": 6.82,
                         "status": "active"
                       },
                       {
                         "name": "华宝医疗C",
                         "code": "012323",
-                        "value": 4.099,
+                        "value": 4.1359,
                         "units": 4,
-                        "share_pct": 1.82,
-                        "return_pct": -7.09,
+                        "share_pct": 1.83,
+                        "return_pct": -6.61,
                         "status": "active"
                       },
                       {
                         "name": "大摩健康产业",
                         "code": "002708",
-                        "value": 2.4285,
+                        "value": 2.4712,
                         "units": 3,
-                        "share_pct": 1.08,
-                        "return_pct": -19.27,
+                        "share_pct": 1.09,
+                        "return_pct": -17.85,
                         "status": "active"
                       },
                       {
                         "name": "融通健康产业",
                         "code": "000727",
-                        "value": 0.8258,
+                        "value": 0.8248,
                         "units": 1,
                         "share_pct": 0.37,
-                        "return_pct": 4.18,
+                        "return_pct": 4.11,
                         "status": "active"
                       }
                     ]
                   },
                   {
                     "name": "消费",
-                    "value": 10.0486,
+                    "value": 10.0429,
                     "units": 11,
-                    "share_pct": 4.46,
+                    "share_pct": 4.45,
                     "children": [
                       {
                         "name": "汇添富文体娱乐",
                         "code": "004424",
-                        "value": 2.8526,
+                        "value": 2.858,
                         "units": 3,
                         "share_pct": 1.27,
-                        "return_pct": -6.32,
+                        "return_pct": -6.14,
                         "status": "active"
                       },
                       {
                         "name": "富国消费C",
                         "code": "011309",
-                        "value": 2.531,
+                        "value": 2.5352,
                         "units": 3,
                         "share_pct": 1.12,
-                        "return_pct": -12.64,
+                        "return_pct": -12.53,
                         "status": "active"
                       },
                       {
                         "name": "富国消费",
                         "code": "519915",
-                        "value": 1.8252,
+                        "value": 1.8282,
                         "units": 2,
                         "share_pct": 0.81,
-                        "return_pct": -3.53,
+                        "return_pct": -3.43,
                         "status": "active"
                       },
                       {
                         "name": "易方达消费行业",
                         "code": "110022",
-                        "value": 1.7529,
+                        "value": 1.7422,
                         "units": 2,
-                        "share_pct": 0.78,
-                        "return_pct": -6.85,
+                        "share_pct": 0.77,
+                        "return_pct": -7.23,
                         "status": "active"
                       },
                       {
                         "name": "汇添富消费",
                         "code": "000248",
-                        "value": 1.0869,
+                        "value": 1.0792,
                         "units": 1,
                         "share_pct": 0.48,
-                        "return_pct": -2.42,
+                        "return_pct": -2.77,
                         "status": "active"
                       }
                     ]
                   },
                   {
                     "name": "养老",
-                    "value": 2.8481,
+                    "value": 2.8552,
                     "units": 3,
                     "share_pct": 1.26,
                     "children": [
                       {
                         "name": "养老产业",
                         "code": "000968",
-                        "value": 2.8481,
+                        "value": 2.8552,
                         "units": 3,
                         "share_pct": 1.26,
-                        "return_pct": 2.04,
+                        "return_pct": 2.23,
                         "status": "active"
                       }
                     ]
@@ -11333,9 +11346,9 @@
               },
               {
                 "name": "价值红利",
-                "value": 14.0547,
+                "value": 14.01,
                 "units": 10,
-                "share_pct": 6.24,
+                "share_pct": 6.21,
                 "children": [
                   {
                     "name": "红利",
@@ -11356,17 +11369,17 @@
                   },
                   {
                     "name": "红利低波",
-                    "value": 4.064,
+                    "value": 4.0193,
                     "units": 4,
-                    "share_pct": 1.8,
+                    "share_pct": 1.78,
                     "children": [
                       {
                         "name": "博时红利低波100",
                         "code": "021550",
-                        "value": 4.064,
+                        "value": 4.0193,
                         "units": 4,
-                        "share_pct": 1.8,
-                        "return_pct": 1.58,
+                        "share_pct": 1.78,
+                        "return_pct": 0.46,
                         "status": "active"
                       }
                     ]
@@ -11375,41 +11388,41 @@
               },
               {
                 "name": "大盘",
-                "value": 8.3203,
+                "value": 8.4259,
                 "units": 6,
-                "share_pct": 3.69,
+                "share_pct": 3.73,
                 "children": [
                   {
                     "name": "沪深300",
-                    "value": 7.1284,
+                    "value": 7.2165,
                     "units": 5,
-                    "share_pct": 3.16,
+                    "share_pct": 3.2,
                     "children": [
                       {
                         "name": "富国300",
                         "code": "100038",
-                        "value": 4.8453,
+                        "value": 4.9066,
                         "units": 3,
-                        "share_pct": 2.15,
-                        "return_pct": 61.24,
+                        "share_pct": 2.17,
+                        "return_pct": 63.28,
                         "status": "active"
                       },
                       {
                         "name": "沪深300",
                         "code": "000051",
-                        "value": 1.2521,
+                        "value": 1.2668,
                         "units": 1,
                         "share_pct": 0.56,
-                        "return_pct": 25.21,
+                        "return_pct": 26.68,
                         "status": "active"
                       },
                       {
                         "name": "易方达300",
                         "code": "110020",
-                        "value": 1.031,
+                        "value": 1.0431,
                         "units": 1,
                         "share_pct": 0.46,
-                        "return_pct": 3.1,
+                        "return_pct": 4.31,
                         "status": "active"
                       },
                       {
@@ -11425,17 +11438,17 @@
                   },
                   {
                     "name": "上证50",
-                    "value": 1.1919,
+                    "value": 1.2095,
                     "units": 1,
-                    "share_pct": 0.53,
+                    "share_pct": 0.54,
                     "children": [
                       {
                         "name": "上证50",
                         "code": "001051",
-                        "value": 1.1919,
+                        "value": 1.2095,
                         "units": 1,
-                        "share_pct": 0.53,
-                        "return_pct": 23.99,
+                        "share_pct": 0.54,
+                        "return_pct": 24.91,
                         "status": "active"
                       }
                     ]
@@ -11444,23 +11457,23 @@
               },
               {
                 "name": "中小盘",
-                "value": 2.1451,
+                "value": 2.204,
                 "units": 1,
-                "share_pct": 0.95,
+                "share_pct": 0.98,
                 "children": [
                   {
                     "name": "中证500",
-                    "value": 2.1451,
+                    "value": 2.204,
                     "units": 1,
-                    "share_pct": 0.95,
+                    "share_pct": 0.98,
                     "children": [
                       {
                         "name": "富国500",
                         "code": "161017",
-                        "value": 2.1451,
+                        "value": 2.204,
                         "units": 1,
-                        "share_pct": 0.95,
-                        "return_pct": 109.31,
+                        "share_pct": 0.98,
+                        "return_pct": 112.16,
                         "status": "active"
                       },
                       {
@@ -11515,22 +11528,22 @@
           },
           {
             "name": "海外新兴",
-            "value": 13.0279,
+            "value": 13.0552,
             "units": 14,
             "share_pct": 5.78,
             "color": "#6FA0AF",
             "children": [
               {
                 "name": "海外科技",
-                "value": 8.8964,
+                "value": 8.9154,
                 "units": 11,
                 "share_pct": 3.95,
                 "children": [
                   {
                     "name": "中概互联",
-                    "value": 6.7616,
+                    "value": 6.761,
                     "units": 9,
-                    "share_pct": 3.0,
+                    "share_pct": 2.99,
                     "children": [
                       {
                         "name": "中国海外互联",
@@ -11544,27 +11557,27 @@
                       {
                         "name": "易方达中概互联",
                         "code": "006327",
-                        "value": 1.8032,
+                        "value": 1.8027,
                         "units": 2,
                         "share_pct": 0.8,
-                        "return_pct": -9.96,
+                        "return_pct": -9.99,
                         "status": "active"
                       }
                     ]
                   },
                   {
                     "name": "恒生科技",
-                    "value": 2.1348,
+                    "value": 2.1544,
                     "units": 2,
                     "share_pct": 0.95,
                     "children": [
                       {
                         "name": "恒生科技",
                         "code": "012348",
-                        "value": 2.1348,
+                        "value": 2.1544,
                         "units": 2,
                         "share_pct": 0.95,
-                        "return_pct": 6.32,
+                        "return_pct": 6.64,
                         "status": "active"
                       }
                     ]
@@ -11573,23 +11586,23 @@
               },
               {
                 "name": "香港",
-                "value": 4.1315,
+                "value": 4.1399,
                 "units": 3,
                 "share_pct": 1.83,
                 "children": [
                   {
                     "name": "恒生",
-                    "value": 4.1315,
+                    "value": 4.1399,
                     "units": 3,
                     "share_pct": 1.83,
                     "children": [
                       {
                         "name": "恒生指数",
                         "code": "000071",
-                        "value": 4.1315,
+                        "value": 4.1399,
                         "units": 3,
                         "share_pct": 1.83,
-                        "return_pct": 12.48,
+                        "return_pct": 12.55,
                         "status": "active"
                       }
                     ]
@@ -11617,30 +11630,30 @@
           },
           {
             "name": "海外成熟",
-            "value": 3.7256,
+            "value": 3.7751,
             "units": 3,
-            "share_pct": 1.65,
+            "share_pct": 1.67,
             "color": "#84B0BF",
             "children": [
               {
                 "name": "全球医药",
-                "value": 2.2184,
+                "value": 2.2202,
                 "units": 2,
                 "share_pct": 0.98,
                 "children": [
                   {
                     "name": "全球医疗",
-                    "value": 2.2184,
+                    "value": 2.2202,
                     "units": 2,
                     "share_pct": 0.98,
                     "children": [
                       {
                         "name": "全球医疗保健",
                         "code": "000369",
-                        "value": 2.2184,
+                        "value": 2.2202,
                         "units": 2,
                         "share_pct": 0.98,
-                        "return_pct": 10.91,
+                        "return_pct": 11.0,
                         "status": "active"
                       }
                     ]
@@ -11666,23 +11679,23 @@
               },
               {
                 "name": "美国大盘",
-                "value": 1.5072,
+                "value": 1.555,
                 "units": 1,
-                "share_pct": 0.67,
+                "share_pct": 0.69,
                 "children": [
                   {
                     "name": "纳指100",
-                    "value": 1.5072,
+                    "value": 1.555,
                     "units": 1,
-                    "share_pct": 0.67,
+                    "share_pct": 0.69,
                     "children": [
                       {
                         "name": "华泰柏瑞纳指100",
                         "code": "019524",
-                        "value": 1.5072,
+                        "value": 1.555,
                         "units": 1,
-                        "share_pct": 0.67,
-                        "return_pct": 50.72,
+                        "share_pct": 0.69,
+                        "return_pct": 55.5,
                         "status": "active"
                       },
                       {
@@ -11820,48 +11833,48 @@
           },
           {
             "name": "债券",
-            "value": 9.6586,
+            "value": 9.6786,
             "units": 9,
-            "share_pct": 4.28,
+            "share_pct": 4.29,
             "color": "#9494B5",
             "children": [
               {
                 "name": "海外债券",
-                "value": 4.9503,
+                "value": 4.9635,
                 "units": 5,
                 "share_pct": 2.2,
                 "children": [
                   {
                     "name": "美元债",
-                    "value": 4.9503,
+                    "value": 4.9635,
                     "units": 5,
                     "share_pct": 2.2,
                     "children": [
                       {
                         "name": "富国全球债A",
                         "code": "100050",
-                        "value": 1.9812,
+                        "value": 1.9882,
                         "units": 2,
                         "share_pct": 0.88,
-                        "return_pct": -0.95,
+                        "return_pct": -0.61,
                         "status": "active"
                       },
                       {
                         "name": "汇添富美元债",
                         "code": "004419",
-                        "value": 1.9629,
+                        "value": 1.9658,
                         "units": 2,
                         "share_pct": 0.87,
-                        "return_pct": -1.86,
+                        "return_pct": -1.71,
                         "status": "active"
                       },
                       {
                         "name": "富国全球债C",
                         "code": "019518",
-                        "value": 1.0061,
+                        "value": 1.0096,
                         "units": 1,
                         "share_pct": 0.45,
-                        "return_pct": 0.61,
+                        "return_pct": 0.96,
                         "status": "active"
                       }
                     ]
@@ -11870,23 +11883,23 @@
               },
               {
                 "name": "国内债券",
-                "value": 4.7083,
+                "value": 4.7151,
                 "units": 4,
                 "share_pct": 2.09,
                 "children": [
                   {
                     "name": "纯债",
-                    "value": 4.7083,
+                    "value": 4.7151,
                     "units": 4,
                     "share_pct": 2.09,
                     "children": [
                       {
                         "name": "易方达安心回报债",
                         "code": "110027",
-                        "value": 1.4751,
+                        "value": 1.4821,
                         "units": 1,
-                        "share_pct": 0.65,
-                        "return_pct": 47.51,
+                        "share_pct": 0.66,
+                        "return_pct": 48.21,
                         "status": "active"
                       },
                       {
@@ -11910,10 +11923,10 @@
                       {
                         "name": "景顺景泰纯债",
                         "code": "007562",
-                        "value": 1.0076,
+                        "value": 1.0073,
                         "units": 1,
                         "share_pct": 0.45,
-                        "return_pct": 0.76,
+                        "return_pct": 0.73,
                         "status": "active"
                       }
                     ]
@@ -11924,22 +11937,22 @@
           },
           {
             "name": "其他",
-            "value": 11.2526,
+            "value": 11.2162,
             "units": 11,
-            "share_pct": 4.99,
+            "share_pct": 4.97,
             "color": "#B0B0B0",
             "children": [
               {
                 "name": "(其他)",
-                "value": 11.2526,
+                "value": 11.2162,
                 "units": 11,
-                "share_pct": 4.99,
+                "share_pct": 4.97,
                 "children": [
                   {
                     "name": "(其他)",
-                    "value": 11.2526,
+                    "value": 11.2162,
                     "units": 11,
-                    "share_pct": 4.99,
+                    "share_pct": 4.97,
                     "children": [
                       {
                         "name": "易方达中债1-3年国开债A",
@@ -11953,37 +11966,37 @@
                       {
                         "name": "易方达中证红利低波动联接A",
                         "code": "020602",
-                        "value": 3.0916,
+                        "value": 3.0552,
                         "units": 3,
-                        "share_pct": 1.37,
-                        "return_pct": 2.99,
+                        "share_pct": 1.35,
+                        "return_pct": 1.78,
                         "status": "active"
                       },
                       {
                         "name": "易方达中证红利ETF联接A",
                         "code": "009051",
-                        "value": 2.0597,
+                        "value": 2.0556,
                         "units": 2,
                         "share_pct": 0.91,
-                        "return_pct": 2.97,
+                        "return_pct": 2.77,
                         "status": "active"
                       },
                       {
                         "name": "南方标普红利低波50ETF联接A",
                         "code": "008163",
-                        "value": 1.0872,
+                        "value": 1.0755,
                         "units": 1,
                         "share_pct": 0.48,
-                        "return_pct": 8.72,
+                        "return_pct": 7.55,
                         "status": "active"
                       },
                       {
                         "name": "广发中证A500ETF联接A",
                         "code": "022424",
-                        "value": 1.004,
+                        "value": 1.0197,
                         "units": 1,
                         "share_pct": 0.45,
-                        "return_pct": 0.4,
+                        "return_pct": 1.97,
                         "status": "active"
                       }
                     ]
@@ -21135,20 +21148,20 @@
           "其他": 5.04
         },
         {
-          "date": "2026-08-04",
-          "nav": 1.034,
-          "A股": 24.29,
+          "date": "2026-08-05",
+          "nav": 1.0356,
+          "A股": 24.38,
           "海外新兴": 5.78,
-          "海外成熟": 1.65,
+          "海外成熟": 1.67,
           "商品": 0.0,
-          "债券": 4.28,
+          "债券": 4.29,
           "房地产": 0.0,
           "外汇": 0.0,
-          "现金": 59.0,
-          "其他": 4.99
+          "现金": 58.91,
+          "其他": 4.97
         }
       ],
-      "updatedAt": "2026-08-05 13:11 CST"
+      "updatedAt": "2026-08-06 13:13 CST"
     }
   }
 }
