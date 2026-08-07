@@ -1,6 +1,6 @@
 {
   "postId": "84661",
-  "fetchedAt": "2026-08-06T13:15:15+08:00",
+  "fetchedAt": "2026-08-07T12:24:53+08:00",
   "totalCommentNum": 2,
   "totalScanned": 1,
   "expandedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-05T14:59:40",
       "ipLocation": "河北省",
-      "likeNum": 603
+      "likeNum": 641
     },
     {
       "type": "reply",
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-08-05T15:59:30",
       "ipLocation": "河北省",
-      "likeNum": 283,
+      "likeNum": 318,
       "parent": {
         "id": 2282773,
         "userName": "ETF拯救世界",
@@ -35,7 +35,7 @@
         "images": [],
         "createdAt": "2026-08-05T14:59:40",
         "ipLocation": "河北省",
-        "likeNum": 603
+        "likeNum": 641
       },
       "replyTo": null
     }

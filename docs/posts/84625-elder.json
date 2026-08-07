@@ -1,8 +1,8 @@
 {
   "postId": "84625",
-  "fetchedAt": "2026-08-06T13:15:15+08:00",
+  "fetchedAt": "2026-08-07T12:24:52+08:00",
   "totalCommentNum": 257,
-  "totalScanned": 344,
+  "totalScanned": 354,
   "expandedTopLevel": 6,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:16:15",
       "ipLocation": "河北省",
-      "likeNum": 119,
+      "likeNum": 121,
       "parent": {
         "id": 2280919,
         "userName": "QT123",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:12:51",
         "ipLocation": "北京市",
-        "likeNum": 3
+        "likeNum": 4
       },
       "replyTo": null
     },
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:17:38",
       "ipLocation": "河北省",
-      "likeNum": 219,
+      "likeNum": 229,
       "parent": {
         "id": 2280841,
         "userName": "向天一笑",
@@ -45,7 +45,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:11:30",
         "ipLocation": "河南省",
-        "likeNum": 26
+        "likeNum": 27
       },
       "replyTo": null
     },
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:22:26",
       "ipLocation": "河北省",
-      "likeNum": 144,
+      "likeNum": 149,
       "parent": {
         "id": 2280613,
         "userName": "托斯卡纳酒桶",
@@ -66,7 +66,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:07:29",
         "ipLocation": "中国",
-        "likeNum": 7
+        "likeNum": 8
       },
       "replyTo": {
         "id": 2280895,
@@ -84,7 +84,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:24:23",
       "ipLocation": "河北省",
-      "likeNum": 166,
+      "likeNum": 174,
       "parent": {
         "id": 2280553,
         "userName": "E..",
@@ -92,7 +92,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:05:34",
         "ipLocation": "山东省",
-        "likeNum": 10
+        "likeNum": 11
       },
       "replyTo": null
     },
@@ -105,7 +105,7 @@
       "images": [],
       "createdAt": "2026-08-05T12:06:32",
       "ipLocation": "河北省",
-      "likeNum": 87,
+      "likeNum": 96,
       "parent": {
         "id": 2281705,
         "userName": "小半蹲",
@@ -113,7 +113,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:44:51",
         "ipLocation": "四川省",
-        "likeNum": 12
+        "likeNum": 16
       },
       "replyTo": null
     }
