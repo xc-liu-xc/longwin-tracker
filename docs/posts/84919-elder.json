@@ -1,9 +1,9 @@
 {
   "postId": "84919",
-  "fetchedAt": "2026-08-07T12:24:29+08:00",
+  "fetchedAt": "2026-08-08T11:23:12+08:00",
   "totalCommentNum": 348,
-  "totalScanned": 324,
-  "expandedTopLevel": 2,
+  "totalScanned": 508,
+  "expandedTopLevel": 6,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-07T11:45:28",
       "ipLocation": "河北省",
-      "likeNum": 26,
+      "likeNum": 212,
       "parent": {
         "id": 2285731,
         "userName": "柳树在路上",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-08-07T11:29:10",
         "ipLocation": "广东省",
-        "likeNum": 26
+        "likeNum": 135
       },
       "replyTo": {
         "id": 2285761,
