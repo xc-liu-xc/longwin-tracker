@@ -1,8 +1,8 @@
 {
   "postId": "84577",
-  "fetchedAt": "2026-08-08T11:24:30+08:00",
+  "fetchedAt": "2026-08-09T11:32:27+08:00",
   "totalCommentNum": 346,
-  "totalScanned": 332,
+  "totalScanned": 333,
   "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-04T20:18:24",
       "ipLocation": "上海市",
-      "likeNum": 130
+      "likeNum": 132
     },
     {
       "type": "reply",
@@ -50,7 +50,7 @@
       ],
       "createdAt": "2026-08-04T20:28:36",
       "ipLocation": "上海市",
-      "likeNum": 76,
+      "likeNum": 77,
       "parent": {
         "id": 2278153,
         "userName": "新米练习菌",
@@ -58,7 +58,7 @@
         "images": [],
         "createdAt": "2026-08-04T20:18:24",
         "ipLocation": "上海市",
-        "likeNum": 130
+        "likeNum": 132
       },
       "replyTo": null
     },
@@ -94,7 +94,7 @@
       "images": [],
       "createdAt": "2026-08-04T20:53:40",
       "ipLocation": "河北省",
-      "likeNum": 89,
+      "likeNum": 91,
       "parent": {
         "id": 2278231,
         "userName": "花开花落终有时",
