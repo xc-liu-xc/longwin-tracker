@@ -1,8 +1,8 @@
 {
   "postId": "84625",
-  "fetchedAt": "2026-08-09T11:31:41+08:00",
+  "fetchedAt": "2026-08-10T11:52:08+08:00",
   "totalCommentNum": 257,
-  "totalScanned": 360,
+  "totalScanned": 361,
   "expandedTopLevel": 6,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:16:15",
       "ipLocation": "河北省",
-      "likeNum": 124,
+      "likeNum": 127,
       "parent": {
         "id": 2280919,
         "userName": "QT123",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:17:38",
       "ipLocation": "河北省",
-      "likeNum": 233,
+      "likeNum": 237,
       "parent": {
         "id": 2280841,
         "userName": "向天一笑",
@@ -45,7 +45,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:11:30",
         "ipLocation": "河南省",
-        "likeNum": 27
+        "likeNum": 28
       },
       "replyTo": null
     },
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:22:26",
       "ipLocation": "河北省",
-      "likeNum": 151,
+      "likeNum": 154,
       "parent": {
         "id": 2280613,
         "userName": "托斯卡纳酒桶",
@@ -84,7 +84,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:24:23",
       "ipLocation": "河北省",
-      "likeNum": 179,
+      "likeNum": 183,
       "parent": {
         "id": 2280553,
         "userName": "E..",
@@ -105,7 +105,7 @@
       "images": [],
       "createdAt": "2026-08-05T12:06:32",
       "ipLocation": "河北省",
-      "likeNum": 101,
+      "likeNum": 104,
       "parent": {
         "id": 2281705,
         "userName": "小半蹲",
