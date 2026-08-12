@@ -1,10 +1,22 @@
 {
   "postId": "85327",
-  "fetchedAt": "2026-08-11T11:41:51+08:00",
+  "fetchedAt": "2026-08-12T12:04:48+08:00",
   "totalCommentNum": 0,
-  "totalScanned": 0,
+  "totalScanned": 1,
   "expandedTopLevel": 0,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
-  "items": []
+  "items": [
+    {
+      "type": "top",
+      "id": 2295721,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不听话。真调皮。",
+      "images": [],
+      "createdAt": "2026-08-11T11:45:07",
+      "ipLocation": "北京市",
+      "likeNum": 257
+    }
+  ]
 }

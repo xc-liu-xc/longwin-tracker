@@ -1,0 +1,45 @@
+{
+  "postId": "85423",
+  "fetchedAt": "2026-08-12T12:05:50+08:00",
+  "totalCommentNum": 1312,
+  "totalScanned": 1236,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2298451,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "糟糕的称呼。",
+      "images": [],
+      "createdAt": "2026-08-11T19:08:38",
+      "ipLocation": "北京市",
+      "likeNum": 242,
+      "parent": {
+        "id": 2297197,
+        "userName": "洗心革面来攒钱",
+        "content": "爸爸",
+        "images": [],
+        "createdAt": "2026-08-11T19:02:43",
+        "ipLocation": "河南省",
+        "likeNum": 610
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2301031,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "肯定是希望和期待能分享给我们的\nMark一下，记进《世纪等待单》里先，“第90个”",
+      "images": [
+        "https://cdn-community.qieman.com/D9C65F48-F587-4911-A631-AA8772489591.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_51,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-08-11T20:14:17",
+      "ipLocation": "上海市",
+      "likeNum": 172
+    }
+  ]
+}

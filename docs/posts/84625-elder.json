@@ -1,8 +1,8 @@
 {
   "postId": "84625",
-  "fetchedAt": "2026-08-11T11:43:16+08:00",
+  "fetchedAt": "2026-08-12T12:06:44+08:00",
   "totalCommentNum": 257,
-  "totalScanned": 362,
+  "totalScanned": 363,
   "expandedTopLevel": 6,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:16:15",
       "ipLocation": "河北省",
-      "likeNum": 130,
+      "likeNum": 131,
       "parent": {
         "id": 2280919,
         "userName": "QT123",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:12:51",
         "ipLocation": "北京市",
-        "likeNum": 4
+        "likeNum": 5
       },
       "replyTo": null
     },
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:17:38",
       "ipLocation": "河北省",
-      "likeNum": 241,
+      "likeNum": 243,
       "parent": {
         "id": 2280841,
         "userName": "向天一笑",
@@ -45,7 +45,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:11:30",
         "ipLocation": "河南省",
-        "likeNum": 28
+        "likeNum": 29
       },
       "replyTo": null
     },
@@ -66,7 +66,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:07:29",
         "ipLocation": "中国",
-        "likeNum": 9
+        "likeNum": 10
       },
       "replyTo": {
         "id": 2280895,
@@ -84,7 +84,7 @@
       "images": [],
       "createdAt": "2026-08-05T11:24:23",
       "ipLocation": "河北省",
-      "likeNum": 186,
+      "likeNum": 187,
       "parent": {
         "id": 2280553,
         "userName": "E..",
@@ -92,7 +92,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:05:34",
         "ipLocation": "山东省",
-        "likeNum": 11
+        "likeNum": 12
       },
       "replyTo": null
     },
@@ -105,7 +105,7 @@
       "images": [],
       "createdAt": "2026-08-05T12:06:32",
       "ipLocation": "河北省",
-      "likeNum": 106,
+      "likeNum": 107,
       "parent": {
         "id": 2281705,
         "userName": "小半蹲",
@@ -113,7 +113,7 @@
         "images": [],
         "createdAt": "2026-08-05T11:44:51",
         "ipLocation": "四川省",
-        "likeNum": 17
+        "likeNum": 18
       },
       "replyTo": null
     }
