@@ -1,8 +1,8 @@
 {
   "postId": "84919",
-  "fetchedAt": "2026-08-12T12:06:23+08:00",
+  "fetchedAt": "2026-08-13T12:12:12+08:00",
   "totalCommentNum": 348,
-  "totalScanned": 556,
+  "totalScanned": 558,
   "expandedTopLevel": 8,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-07T11:45:28",
       "ipLocation": "河北省",
-      "likeNum": 257,
+      "likeNum": 259,
       "parent": {
         "id": 2285731,
         "userName": "柳树在路上",
