@@ -1,0 +1,33 @@
+{
+  "postId": "85729",
+  "fetchedAt": "2026-08-15T10:48:46+08:00",
+  "totalCommentNum": 2,
+  "totalScanned": 2,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2312377,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "AI太棒了。",
+      "images": [],
+      "createdAt": "2026-08-14T13:14:54",
+      "ipLocation": "北京市",
+      "likeNum": 230
+    },
+    {
+      "type": "top",
+      "id": 2312389,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "AI会让很多人失业。但也会让很多有创意的人直接飞升。",
+      "images": [],
+      "createdAt": "2026-08-14T13:20:20",
+      "ipLocation": "北京市",
+      "likeNum": 286
+    }
+  ]
+}
