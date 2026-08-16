@@ -1,0 +1,32 @@
+{
+  "postId": "85843",
+  "fetchedAt": "2026-08-16T10:56:49+08:00",
+  "totalCommentNum": 7,
+  "totalScanned": 7,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2312869,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我不知道说这句话是否合适会不会被骂。但实际上如果男方收入远高于女方，其实是非常常见的，而且反而会让婚姻在财务这个角度比较稳固。",
+      "images": [],
+      "createdAt": "2026-08-16T10:55:55",
+      "ipLocation": "北京市",
+      "likeNum": 0,
+      "parent": {
+        "id": 2312809,
+        "userName": "同路人_kjWXgD",
+        "content": "我存下来了。另外，想请教下情感博主，如果双方收入差距比较大，最理智的方法是不是不不结婚",
+        "images": [],
+        "createdAt": "2026-08-16T10:52:45",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}
