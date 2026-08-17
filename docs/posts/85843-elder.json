@@ -1,9 +1,9 @@
 {
   "postId": "85843",
-  "fetchedAt": "2026-08-16T10:56:49+08:00",
+  "fetchedAt": "2026-08-17T10:57:13+08:00",
   "totalCommentNum": 7,
-  "totalScanned": 7,
-  "expandedTopLevel": 0,
+  "totalScanned": 234,
+  "expandedTopLevel": 9,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-16T10:55:55",
       "ipLocation": "北京市",
-      "likeNum": 0,
+      "likeNum": 155,
       "parent": {
         "id": 2312809,
         "userName": "同路人_kjWXgD",
@@ -24,9 +24,152 @@
         "images": [],
         "createdAt": "2026-08-16T10:52:45",
         "ipLocation": "北京市",
-        "likeNum": 0
+        "likeNum": 14
       },
       "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2313463,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "顺便说一句，很多人觉得，我就要显示自己有很多钱，这样才能吸引异性。这个问题我跟儿子是这么说的：“咱家现在没什么钱。但以后你万一有了钱，也尽量不要总是显摆自己有钱去吸引女生。因为如果这样，你永远也不会知道对方是喜欢你的钱，还是喜欢你的人。如果对方只喜欢你的钱却不喜欢你这个人，那你们真的在一起后，你就要惨了。”当然如果我有女儿，也会对她这么说，男女都一样。",
+      "images": [],
+      "createdAt": "2026-08-16T11:16:04",
+      "ipLocation": "北京市",
+      "likeNum": 131
+    },
+    {
+      "type": "reply",
+      "id": 2313589,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "你是个好人……",
+      "images": [],
+      "createdAt": "2026-08-16T11:26:23",
+      "ipLocation": "北京市",
+      "likeNum": 88,
+      "parent": {
+        "id": 2313493,
+        "userName": "EchoT",
+        "content": "借钱的这个逻辑，我之就是这样做的。朋友前后来借了两次，2w，不多，借的时候就想着当丢了，也确实没还…结果去年人突发疾病走了😢 心里有些安慰，好在我当时帮了他，不然一辈子遗憾",
+        "images": [],
+        "createdAt": "2026-08-16T11:18:09",
+        "ipLocation": "广东省",
+        "likeNum": 53
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2313601,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "还是不够低调。让你知道赚了300",
+      "images": [],
+      "createdAt": "2026-08-16T11:27:06",
+      "ipLocation": "北京市",
+      "likeNum": 88,
+      "parent": {
+        "id": 2313475,
+        "userName": "无-",
+        "content": "最近听说一个退休前非常低调的同事家里，去年赚了300个，才知道身边居然有个有钱人，果然有钱人都非常低调，一点儿都没看出来。我努力的目的就是为了，不要让自己面临需要跟人借钱的尴尬场景，这可能也是性格里的一部分。",
+        "images": [],
+        "createdAt": "2026-08-16T11:16:27",
+        "ipLocation": "甘肃省",
+        "likeNum": 9
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2313619,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "对方不联系是因为对方无法面对你。是非常正常的心理状态。人性非常复杂。",
+      "images": [],
+      "createdAt": "2026-08-16T11:28:08",
+      "ipLocation": "北京市",
+      "likeNum": 85,
+      "parent": {
+        "id": 2313421,
+        "userName": "etf拯救球球",
+        "content": "最好的朋友跟我借钱，做好了不还的准备，最后不仅不还，还不联系了，发现内心还是过不去😨",
+        "images": [],
+        "createdAt": "2026-08-16T11:13:05",
+        "ipLocation": "江苏省",
+        "likeNum": 14
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2313631,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "在A股这个借口可以用一辈子。",
+      "images": [],
+      "createdAt": "2026-08-16T11:28:47",
+      "ipLocation": "北京市",
+      "likeNum": 129,
+      "parent": {
+        "id": 2313205,
+        "userName": "丁丁90",
+        "content": "我钱都在股市套着呢。这么说，行不？",
+        "images": [],
+        "createdAt": "2026-08-16T11:04:33",
+        "ipLocation": "辽宁省",
+        "likeNum": 12
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2313661,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "为什么不要让别人知道你有钱没钱。除了借钱这个问题，还有更重要的就是，你有钱别人会嫉妒，没钱别人会看不起。所以不要让别人知道是最好的。",
+      "images": [],
+      "createdAt": "2026-08-16T11:31:31",
+      "ipLocation": "北京市",
+      "likeNum": 103
+    },
+    {
+      "type": "reply",
+      "id": 2313697,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "第一，你都有钱了还怕别人看不起吗，内心很强大了。第二，没让你装穷啊。就比普通稍好一点谁会看不起你。",
+      "images": [],
+      "createdAt": "2026-08-16T11:35:05",
+      "ipLocation": "北京市",
+      "likeNum": 84,
+      "parent": {
+        "id": 2313661,
+        "userName": "ETF拯救世界",
+        "content": "为什么不要让别人知道你有钱没钱。除了借钱这个问题，还有更重要的就是，你有钱别人会嫉妒，没钱别人会看不起。所以不要让别人知道是最好的。",
+        "images": [],
+        "createdAt": "2026-08-16T11:31:31",
+        "ipLocation": "北京市",
+        "likeNum": 103
+      },
+      "replyTo": {
+        "id": 2313679,
+        "userName": "花傲天yu",
+        "content": "会不会有钱但低调让人看不起啊",
+        "images": []
+      }
+    },
+    {
+      "type": "top",
+      "id": 2313853,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大周末好，\n作为一个被帮助过的人，懂得感恩，尽早地还上。更做好预期管理，别人帮我，是情分，不是本分，更不是义务，不是理所当然的。\n我大学学费就是家里长辈亲戚出的，电脑也是，后来大三时有ZC，学费可以减半了，就少了一些。\n刚大四，课程提前几个月修完，毕业前就早早去实习，赚了些工资，省吃俭用，每月存一点，攒攒，就一年年还上了。\n虽然说就是给我的，没说要还，但还是觉得是欠别人的，不太好意思，另一方面，看自己爸妈总是要去感谢对方，也于心不忍，还是尽快还上，会比较心安一些。",
+      "images": [],
+      "createdAt": "2026-08-16T12:02:34",
+      "ipLocation": "上海市",
+      "likeNum": 89
     }
   ]
 }
