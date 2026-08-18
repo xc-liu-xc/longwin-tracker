@@ -1,0 +1,32 @@
+{
+  "postId": "85945",
+  "fetchedAt": "2026-08-18T10:52:39+08:00",
+  "totalCommentNum": 48,
+  "totalScanned": 46,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2316331,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不能。",
+      "images": [],
+      "createdAt": "2026-08-18T10:49:08",
+      "ipLocation": "北京市",
+      "likeNum": 1,
+      "parent": {
+        "id": 2316097,
+        "userName": "N.16",
+        "content": "跨境理财通似乎只能购买在香港发行的海外证券市场的基金产品，不能直接购买 QQQ 等美国发行的基金产品？",
+        "images": [],
+        "createdAt": "2026-08-18T10:31:53",
+        "ipLocation": "广东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}
