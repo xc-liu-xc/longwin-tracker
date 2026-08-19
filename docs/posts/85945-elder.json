@@ -1,9 +1,9 @@
 {
   "postId": "85945",
-  "fetchedAt": "2026-08-18T10:52:39+08:00",
+  "fetchedAt": "2026-08-19T10:55:42+08:00",
   "totalCommentNum": 48,
-  "totalScanned": 46,
-  "expandedTopLevel": 0,
+  "totalScanned": 135,
+  "expandedTopLevel": 4,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-18T10:49:08",
       "ipLocation": "北京市",
-      "likeNum": 1,
+      "likeNum": 33,
       "parent": {
         "id": 2316097,
         "userName": "N.16",
@@ -24,7 +24,89 @@
         "images": [],
         "createdAt": "2026-08-18T10:31:53",
         "ipLocation": "广东省",
-        "likeNum": 0
+        "likeNum": 6
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2316577,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "只能转进去300。你赚还是赔人家不管。",
+      "images": [],
+      "createdAt": "2026-08-18T11:30:36",
+      "ipLocation": "北京市",
+      "likeNum": 46,
+      "parent": {
+        "id": 2316511,
+        "userName": "0X07",
+        "content": "跨境理财通南向如果300万亏光了，是不是就没有额度了",
+        "images": [],
+        "createdAt": "2026-08-18T11:19:28",
+        "ipLocation": "广东省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2316595,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "中短期美债比较适合普通人。",
+      "images": [],
+      "createdAt": "2026-08-18T11:32:34",
+      "ipLocation": "北京市",
+      "likeNum": 89,
+      "parent": {
+        "id": 2316295,
+        "userName": "哄哄123",
+        "content": "老大，能不能说下美债，Lacy Hunt（雷西·亨特）近期对美国国债的观点发生了历史性的重大转向。\n作为华尔街坚守了 30 多年、最坚定的”美债大多头”之一，他近期罕见地承认：美国长期债券的牛市环境可能已经发生根本性变化，未来通胀和长期美债收益率或将持续走高。\n这一观点的转变在金融市场引起了巨大震动，连”新债王”杰弗里·冈德拉克（Jeffrey Gundlach）都感叹：“就连 Lacy Hunt 也转而看空了。Lacy Hunt 的最新观点标志着美债市场一个时代的结束。他认为，在债务高企、通胀中枢上移和全球需求变化的结构性压力下，长期美债已不再是过去那个”无脑买入”的避险资产，投资者需要警惕长期收益率持续走高的风险。",
+        "images": [],
+        "createdAt": "2026-08-18T10:44:55",
+        "ipLocation": "重庆市",
+        "likeNum": 25
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2317105,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大傍晚好\n谢谢分享，原来还有这个「跨境理财通」，今天之前完全不知道，\n查询了一下相关内容，总结记录【图1】\n业务举例说明【图2】【图3】\n还有些文字、图片和网页Link，放不下了，我放在“个人主页”做笔记用：\nhttps://qieman.com/content/content-detail?postId=86029\n（今天在户外做workshop，没有电脑，手机无法专心查询，现在回到SH了，可以坐电脑前学习了。虽然自己不是大湾区的，用不了，但也做个记录学习一下。）",
+      "images": [
+        "https://cdn-community.qieman.com/0D02314B-DDC1-41A2-B301-65CF9F833A28.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_22,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/FDA2B2BE-3479-48F3-9CC0-5F06F1618BFE.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_48,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/EDF4F437-8ACF-4599-B085-0FCE1703D3FA.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_36,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-08-18T18:43:05",
+      "ipLocation": "上海市",
+      "likeNum": 17
+    },
+    {
+      "type": "reply",
+      "id": 2317111,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，考虑 QDII额场外限购和场内溢价，还有合规问题，想到券商的「港股通」\n也可以交易一部分部分港股通纳入的ETF，比如：港美科技，恒生股息；也有一点点跨境的ETF，比如：60%港股+最多40%海外（美股、韩国、日本），勉强也算间接投海外，也不用QDII额度。看了看有的是今年5月才纳入的。\n（也不是说要碰，没有投资建议，只是想表达也多个渠道，多个可能性，也希望以后港股通多纳入一些品种。）",
+      "images": [],
+      "createdAt": "2026-08-18T18:53:10",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 2317105,
+        "userName": "新米练习菌",
+        "content": "E大傍晚好\n谢谢分享，原来还有这个「跨境理财通」，今天之前完全不知道，\n查询了一下相关内容，总结记录【图1】\n业务举例说明【图2】【图3】\n还有些文字、图片和网页Link，放不下了，我放在“个人主页”做笔记用：\nhttps://qieman.com/content/content-detail?postId=86029\n（今天在户外做workshop，没有电脑，手机无法专心查询，现在回到SH了，可以坐电脑前学习了。虽然自己不是大湾区的，用不了，但也做个记录学习一下。）",
+        "images": [
+          "https://cdn-community.qieman.com/0D02314B-DDC1-41A2-B301-65CF9F833A28.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_22,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/FDA2B2BE-3479-48F3-9CC0-5F06F1618BFE.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_48,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/EDF4F437-8ACF-4599-B085-0FCE1703D3FA.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_36,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-08-18T18:43:05",
+        "ipLocation": "上海市",
+        "likeNum": 17
       },
       "replyTo": null
     }

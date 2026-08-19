@@ -1,0 +1,518 @@
+{
+  "postId": "86083",
+  "fetchedAt": "2026-08-19T10:55:28+08:00",
+  "totalCommentNum": 551,
+  "totalScanned": 418,
+  "expandedTopLevel": 13,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2317429,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好~\n美国30年国债收益率“也”“又”新高了。创2007年以来新高。",
+      "images": [
+        "https://cdn-community.qieman.com/D7285F04-17A8-4E40-ABCB-201105D5B4B3.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_27,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/3B16FE2C-308B-44D1-9530-A39EF3D1E2C7.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/B8D9B96E-F55D-483A-84CF-1CA4A899A639.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_25,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-08-19T09:20:40",
+      "ipLocation": "上海市",
+      "likeNum": 18
+    },
+    {
+      "type": "reply",
+      "id": 2318311,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "怎么理解你说的希望？我不建议把所有的希望寄托在某个单独品种上。目前150中概恒科5%不到，S是9%，但S实际上有很多现金，仓位比这个低。这个品种，我建议不要放弃吃波段。我们的计划也会用它们增加波段。",
+      "images": [],
+      "createdAt": "2026-08-19T09:26:41",
+      "ipLocation": "北京市",
+      "likeNum": 124,
+      "parent": {
+        "id": 2317747,
+        "userName": "我是阿远",
+        "content": "恒科中概还有希望吗",
+        "images": [],
+        "createdAt": "2026-08-19T09:23:13",
+        "ipLocation": "",
+        "likeNum": 28
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2318479,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "目前看应该没有。想买的还没跌到位，想卖的涨的不够疯。目前的仓位算是舒服。",
+      "images": [],
+      "createdAt": "2026-08-19T09:27:44",
+      "ipLocation": "北京市",
+      "likeNum": 76,
+      "parent": {
+        "id": 2317735,
+        "userName": "乐乐吧",
+        "content": "老大，最近（周内）有没有发车的计划？😊😊",
+        "images": [],
+        "createdAt": "2026-08-19T09:23:05",
+        "ipLocation": "",
+        "likeNum": 10
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2318641,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "嗯，30年的，但10年的还没。\n（只是觉得一个国家ZF的债务40 万亿美元，一年还利息就要1万亿美元+，觉得不可思议。）\n之前配的债券价格又有下跌了，仓位还不到的话，可以继续再配置一些中短债吗？\n",
+      "images": [],
+      "createdAt": "2026-08-19T09:28:54",
+      "ipLocation": "上海市",
+      "likeNum": 17,
+      "parent": {
+        "id": 2317429,
+        "userName": "新米练习菌",
+        "content": "E大早上好~\n美国30年国债收益率“也”“又”新高了。创2007年以来新高。",
+        "images": [
+          "https://cdn-community.qieman.com/D7285F04-17A8-4E40-ABCB-201105D5B4B3.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_27,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/3B16FE2C-308B-44D1-9530-A39EF3D1E2C7.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/B8D9B96E-F55D-483A-84CF-1CA4A899A639.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_25,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-08-19T09:20:40",
+        "ipLocation": "上海市",
+        "likeNum": 18
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2318773,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "QDII非常好，但它不适合全部投入。原因很多，主要是地缘问题，要考虑投出去的会不会在某一个时间点遇到麻烦。另外，即使没有地缘问题，合理的资产配置也不可能是全部投入外国资产，任何国家的人都是如此。如果风险承受能力强，很想把QDII作为大资产配置，也应该至少是30%本国，70%全球。",
+      "images": [],
+      "createdAt": "2026-08-19T09:30:31",
+      "ipLocation": "北京市",
+      "likeNum": 60,
+      "parent": {
+        "id": 2317705,
+        "userName": "鲸尾",
+        "content": "长期持有市场公认那几只头部收息股吃股息，和全球市场资产配置（qdii），哪个更适合当做主要策略长期持有？",
+        "images": [],
+        "createdAt": "2026-08-19T09:22:50",
+        "ipLocation": "河南省",
+        "likeNum": 6
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319151,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这几年几乎所有一直胖着的明星突然全都瘦了。",
+      "images": [],
+      "createdAt": "2026-08-19T09:38:36",
+      "ipLocation": "北京市",
+      "likeNum": 59,
+      "parent": {
+        "id": 2318809,
+        "userName": "我的男神是E大",
+        "content": "老大，怎么无痛减肥？",
+        "images": [],
+        "createdAt": "2026-08-19T09:30:46",
+        "ipLocation": "",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319175,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "美式就是0糖啊。自己煮的。",
+      "images": [],
+      "createdAt": "2026-08-19T09:39:23",
+      "ipLocation": "北京市",
+      "likeNum": 38,
+      "parent": {
+        "id": 2318743,
+        "userName": "同路人_tgsNa0",
+        "content": "喝的哪家冰美式，几分糖，我也去点同款",
+        "images": [],
+        "createdAt": "2026-08-19T09:30:00",
+        "ipLocation": "",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319199,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我觉得中短债慢慢加问题不大。",
+      "images": [],
+      "createdAt": "2026-08-19T09:40:05",
+      "ipLocation": "北京市",
+      "likeNum": 49,
+      "parent": {
+        "id": 2318689,
+        "userName": "哄哄123",
+        "content": "老大，我记得您说过美债仓位至多5-8%，我美债的仓位还没有达到仓位，现在买中短期的美债加满仓位，合适不？",
+        "images": [],
+        "createdAt": "2026-08-19T09:29:21",
+        "ipLocation": "重庆市",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319271,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "这道题没有标准答案。只是你真的要问问自己，到底是为什么跟她在一起。这个根本问题解决了，未来的路你就知道怎么走了。",
+      "images": [],
+      "createdAt": "2026-08-19T09:42:29",
+      "ipLocation": "北京市",
+      "likeNum": 39,
+      "parent": {
+        "id": 2318659,
+        "userName": "顾西城",
+        "content": "E大，想向您咨询我的情感困境。\n\n我和女朋友在一起将近七年，这七年里我自身也做过不少错事，我一直在反省，心里是很想跟她好好走下去的。可我们分开之后，她很快就和一个男人在一起了，一开始对方伪装自己是单身，后来她发现对方其实是有妇之夫，但依旧选择继续跟对方交往。\n\n当时我一方面舍不得放不下她，另一方面也担心她越陷越深，所以主动把她追了回来，现在我们重新在一起生活。\n\n可我内心一直跨不过这道坎，长期处在左右拉扯、大脑自我对抗的内耗当中。我会反复忍不住去想：为什么她分手之后可以这么快投入另一段关系；明明知道对方是已婚有家庭的人，还愿意继续相处。甚至当初我得知她要去见那个男人，打电话劝阻她，她直接把我拉黑，也要赴约见面。\n\n这些过往画面时常在脑海冒出来，我不断自我拷问：我们真的还可以好好走下去吗？心里这道伤疤到底该怎么释怀？\n\n一边是七年深厚的感情，加上我自知过往也有过错，真心想要好好过日子；一边这件事带来的冲击实实在在压在心上，时常觉得造化弄人，理智和情绪一直在互相博弈，长期焦虑内耗，不知道该怎么自处，想听听您的分析建议。",
+        "images": [],
+        "createdAt": "2026-08-19T09:29:04",
+        "ipLocation": "",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319313,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "等一下。你结婚生子马上这几十万就会花完吗。都花在哪里啊……另外，你现在有结婚对象谈论论嫁吗。如果没有，不要想这么多。",
+      "images": [],
+      "createdAt": "2026-08-19T09:43:48",
+      "ipLocation": "北京市",
+      "likeNum": 51,
+      "parent": {
+        "id": 2318599,
+        "userName": "博松best",
+        "content": "老大我攒了几十万，想靠投资慢慢增值，以后争取不用打工。但是选择继续攒钱加投资就要放弃结婚生子，选择结婚生子就得全花光还得欠些，以后也不会再有机会，有些迷茫。",
+        "images": [],
+        "createdAt": "2026-08-19T09:28:34",
+        "ipLocation": "吉林省",
+        "likeNum": 5
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319403,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "离婚率高，但是结婚率低啊。",
+      "images": [],
+      "createdAt": "2026-08-19T09:46:41",
+      "ipLocation": "北京市",
+      "likeNum": 53,
+      "parent": {
+        "id": 2318539,
+        "userName": "安吉拉花-",
+        "content": "的E大对现在离婚率高这个事情怎么看？",
+        "images": [],
+        "createdAt": "2026-08-19T09:28:11",
+        "ipLocation": "江苏省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319463,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "挺好的。45的红利可以分一点给宽基。A500就行。宽基无论如何还是要的。",
+      "images": [],
+      "createdAt": "2026-08-19T09:48:45",
+      "ipLocation": "北京市",
+      "likeNum": 47,
+      "parent": {
+        "id": 2318533,
+        "userName": "程彬",
+        "content": "E大，我自己做了一个投资计划，50%的长赢，50%的现金流计划。现金流计划如下:45%红利低波100+20%标普500+10%纳斯达克100+10%黄金+15%短融。今年建底仓+每年定投，红利的底仓是跟着长赢再买已经开始。看看E大是否愿意点评两句。给些建议。🙂",
+        "images": [],
+        "createdAt": "2026-08-19T09:28:10",
+        "ipLocation": "河北省",
+        "likeNum": 7
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319505,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "如果涨到夸张会继续卖，清仓也行。买的话很难了。",
+      "images": [],
+      "createdAt": "2026-08-19T09:49:42",
+      "ipLocation": "北京市",
+      "likeNum": 40,
+      "parent": {
+        "id": 2318845,
+        "userName": "浩子1943",
+        "content": "E 大，今年中证500还会有操作吗（买/卖）？",
+        "images": [],
+        "createdAt": "2026-08-19T09:31:07",
+        "ipLocation": "浙江省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319661,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "我很难同意你说的“都”。目前两个计划持续跟投的朋友里面，有90%盈利。试问，如果我们买的都是不停新低的，怎么可能9成朋友盈利？你说的问题当然会有，因为我们就是在“低买”。这个买入方式注定了会有一部分品种买了会继续跌。",
+      "images": [],
+      "createdAt": "2026-08-19T09:54:18",
+      "ipLocation": "北京市",
+      "likeNum": 33,
+      "parent": {
+        "id": 2318575,
+        "userName": "凡潇",
+        "content": "\nE大早上好，美债收益持续新低，我真的很好奇，为什么我们买的品种都是买了之后就持续新低，心力交瘁",
+        "images": [],
+        "createdAt": "2026-08-19T09:28:31",
+        "ipLocation": "江西省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319703,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "去了几次，最大感想就是越来越贵，水深火热。没事儿别去……",
+      "images": [],
+      "createdAt": "2026-08-19T09:55:52",
+      "ipLocation": "北京市",
+      "likeNum": 35,
+      "parent": {
+        "id": 2318383,
+        "userName": "远上寒山",
+        "content": "想听益达的暑假英吉利故事",
+        "images": [],
+        "createdAt": "2026-08-19T09:27:03",
+        "ipLocation": "湖南省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319757,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "看孩子资质吧。资质够了应该不用。不够的话，能接受落后也不用。电影院里别人站起来了，你不站，确实看不到电影……但是小学应该没有太多必要吧，培养好学习习惯更重要。中学是另一回事了。",
+      "images": [],
+      "createdAt": "2026-08-19T09:57:55",
+      "ipLocation": "北京市",
+      "likeNum": 30,
+      "parent": {
+        "id": 2318377,
+        "userName": "Ningx",
+        "content": "小朋友明年上小学 听说大家都已经课外提前学 让我这个想躺平的西城妈妈有点焦虑 事实真的是这样吗 不补课不行吗😮‍💨",
+        "images": [],
+        "createdAt": "2026-08-19T09:27:01",
+        "ipLocation": "福建省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319817,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "看持续多久，看回撤幅度。如果长期年化能稳定8%，是很不错的。快赶上红利历史收益率了。",
+      "images": [],
+      "createdAt": "2026-08-19T09:59:24",
+      "ipLocation": "北京市",
+      "likeNum": 27,
+      "parent": {
+        "id": 2318353,
+        "userName": "噼里啪啦2025",
+        "content": "老大，在某些市场十年年化8%是什么级别呢，请教请教",
+        "images": [],
+        "createdAt": "2026-08-19T09:26:49",
+        "ipLocation": "广东省",
+        "likeNum": 3
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319847,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "如果有好的机会（最高点回撤20%-40%的时候），买入一部分作为基础配置是不错的。",
+      "images": [],
+      "createdAt": "2026-08-19T10:00:49",
+      "ipLocation": "北京市",
+      "likeNum": 32,
+      "parent": {
+        "id": 2318323,
+        "userName": "焰九霄",
+        "content": "e大建议我们普通人大量配置境外资产吗？比如sp500。我知道这些不能放计划里，您建议我们自己配置吗",
+        "images": [],
+        "createdAt": "2026-08-19T09:26:44",
+        "ipLocation": "山西省",
+        "likeNum": 3
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319877,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "也不是不卖，够疯就卖。主要是500的仓位极低了，卖不卖问题都不大了。",
+      "images": [],
+      "createdAt": "2026-08-19T10:01:42",
+      "ipLocation": "北京市",
+      "likeNum": 23,
+      "parent": {
+        "id": 2318275,
+        "userName": "斐波那契",
+        "content": "中概互联和恒生科技这两难兄难弟还要多久。还有个憋了很久问题其次E大之前帖子里表示500也不卖出了，但510500在高位，如果到9元还是不卖吗？为啥？",
+        "images": [],
+        "createdAt": "2026-08-19T09:26:25",
+        "ipLocation": "浙江省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2319985,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "每天一大把。单独的复合维B和一份综合补剂。",
+      "images": [],
+      "createdAt": "2026-08-19T10:07:29",
+      "ipLocation": "北京市",
+      "likeNum": 21,
+      "parent": {
+        "id": 2318089,
+        "userName": "E大的粉丝",
+        "content": "您最近状态怎么样？有开心点吗？ 作为这个年龄的生活博主，您日常会吃什么补剂吗？",
+        "images": [],
+        "createdAt": "2026-08-19T09:25:39",
+        "ipLocation": "",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2320045,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "最新版的样品已经出来了。快了。",
+      "images": [],
+      "createdAt": "2026-08-19T10:09:53",
+      "ipLocation": "北京市",
+      "likeNum": 31,
+      "parent": {
+        "id": 2318035,
+        "userName": "懒吃舒服蕾",
+        "content": "无杯人士好想拥有一个纪念杯子，有什么办法吗o(╥﹏╥)o",
+        "images": [],
+        "createdAt": "2026-08-19T09:25:19",
+        "ipLocation": "广东省",
+        "likeNum": 9
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2320111,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "正常情况下市值型的指数基金都会如此。正常市场这也是指数基金能“不死”的原因。某些市场的问题是很少有公司能持续好，绝大多数是周期，这就导致了炒作——纳入——暴跌——指数不涨的轮回。但是这个问题也没法避免，只要买指数基金。",
+      "images": [],
+      "createdAt": "2026-08-19T10:12:31",
+      "ipLocation": "北京市",
+      "likeNum": 18,
+      "parent": {
+        "id": 2317903,
+        "userName": "肥仔_",
+        "content": "E大，我有个问题，一些指数基金，买入后，会有一些炒的泡沫很高的股票纳入该指数的成分股，那我们选择标的的时候要避免这种基金吗？其实是担心不知道这个市场还有哪些东西是适合买的（除红利之外）😭",
+        "images": [],
+        "createdAt": "2026-08-19T09:24:15",
+        "ipLocation": "",
+        "likeNum": 0
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2320339,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "富国美债是中期及以下。其它的也没有长期的。",
+      "images": [],
+      "createdAt": "2026-08-19T10:23:50",
+      "ipLocation": "北京市",
+      "likeNum": 14,
+      "parent": {
+        "id": 2318689,
+        "userName": "哄哄123",
+        "content": "老大，我记得您说过美债仓位至多5-8%，我美债的仓位还没有达到仓位，现在买中短期的美债加满仓位，合适不？",
+        "images": [],
+        "createdAt": "2026-08-19T09:29:21",
+        "ipLocation": "重庆市",
+        "likeNum": 7
+      },
+      "replyTo": {
+        "id": 2319619,
+        "userName": "ETF助我养只小猫咪",
+        "content": "我们之前买的美债是中短期吗",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2320429,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "个股的最大问题：你真的不知道几十年后它是什么样，甚至还有没有。",
+      "images": [],
+      "createdAt": "2026-08-19T10:28:19",
+      "ipLocation": "北京市",
+      "likeNum": 21,
+      "parent": {
+        "id": 2320105,
+        "userName": "正经人谁炒股",
+        "content": "E大，挑三两只股息稳定的个股，用十年二十的时间反复波段拿到足够足够多的筹码，把成本做到0以下稳定分红收息，这个思路怎么样🤪",
+        "images": [],
+        "createdAt": "2026-08-19T10:12:03",
+        "ipLocation": "",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}
