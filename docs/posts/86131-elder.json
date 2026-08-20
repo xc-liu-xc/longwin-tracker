@@ -1,0 +1,74 @@
+{
+  "postId": "86131",
+  "fetchedAt": "2026-08-20T10:55:35+08:00",
+  "totalCommentNum": 147,
+  "totalScanned": 117,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2322433,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "环保厚道顶发言回顾：",
+      "images": [
+        "https://cdn-community.qieman.com/CF315F07-7A20-44B4-87AC-098E9D2FE7E7.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_33,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-08-19T14:29:06",
+      "ipLocation": "上海市",
+      "likeNum": 40
+    },
+    {
+      "type": "reply",
+      "id": 2322577,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "瞥了一眼 三个“暴跌中有反弹”的品种…",
+      "images": [
+        "https://cdn-community.qieman.com/6B489732-F3CA-450E-93EA-E465FE4BE93F.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/0ACF5B76-C5A5-4D87-AA8B-9C11B9B16FB5.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/1F38920E-52C8-43F0-985E-5EBB4C3B345D.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-08-19T14:36:43",
+      "ipLocation": "上海市",
+      "likeNum": 18,
+      "parent": {
+        "id": 2322433,
+        "userName": "新米练习菌",
+        "content": "环保厚道顶发言回顾：",
+        "images": [
+          "https://cdn-community.qieman.com/CF315F07-7A20-44B4-87AC-098E9D2FE7E7.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_33,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-08-19T14:29:06",
+        "ipLocation": "上海市",
+        "likeNum": 40
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2322853,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "环保卖出属于 技术面与价值面 完美配合的经典案例。\n估值高位，\n“环保指数市值前40位公司TTM PE。算术平均75，去掉两个超过200倍的极值，算术平均61。”—— 来自 2022年3月4日 微博\n技术完美，\n指数在顶部先做了非常经典的圆顶，技术线慢慢靠了上来，盘整→破位→反抽→再做大双头的形态，给足了投资者从容卖出离场的机会。\n\"过去十年A股最厚道的顶\"~\n",
+      "images": [],
+      "createdAt": "2026-08-19T15:01:56",
+      "ipLocation": "上海市",
+      "likeNum": 16,
+      "parent": {
+        "id": 2322433,
+        "userName": "新米练习菌",
+        "content": "环保厚道顶发言回顾：",
+        "images": [
+          "https://cdn-community.qieman.com/CF315F07-7A20-44B4-87AC-098E9D2FE7E7.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_33,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-08-19T14:29:06",
+        "ipLocation": "上海市",
+        "likeNum": 40
+      },
+      "replyTo": null
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "postId": "85945",
-  "fetchedAt": "2026-08-19T10:55:42+08:00",
+  "fetchedAt": "2026-08-20T10:56:08+08:00",
   "totalCommentNum": 48,
-  "totalScanned": 135,
+  "totalScanned": 141,
   "expandedTopLevel": 4,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-18T10:49:08",
       "ipLocation": "北京市",
-      "likeNum": 33,
+      "likeNum": 37,
       "parent": {
         "id": 2316097,
         "userName": "N.16",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-08-18T10:31:53",
         "ipLocation": "广东省",
-        "likeNum": 6
+        "likeNum": 8
       },
       "replyTo": null
     },
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-08-18T11:30:36",
       "ipLocation": "北京市",
-      "likeNum": 46,
+      "likeNum": 54,
       "parent": {
         "id": 2316511,
         "userName": "0X07",
@@ -45,7 +45,7 @@
         "images": [],
         "createdAt": "2026-08-18T11:19:28",
         "ipLocation": "广东省",
-        "likeNum": 2
+        "likeNum": 3
       },
       "replyTo": null
     },
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-08-18T11:32:34",
       "ipLocation": "北京市",
-      "likeNum": 89,
+      "likeNum": 102,
       "parent": {
         "id": 2316295,
         "userName": "哄哄123",
@@ -66,7 +66,7 @@
         "images": [],
         "createdAt": "2026-08-18T10:44:55",
         "ipLocation": "重庆市",
-        "likeNum": 25
+        "likeNum": 27
       },
       "replyTo": null
     },
@@ -83,7 +83,7 @@
       ],
       "createdAt": "2026-08-18T18:43:05",
       "ipLocation": "上海市",
-      "likeNum": 17
+      "likeNum": 21
     },
     {
       "type": "reply",
@@ -94,7 +94,7 @@
       "images": [],
       "createdAt": "2026-08-18T18:53:10",
       "ipLocation": "上海市",
-      "likeNum": 10,
+      "likeNum": 14,
       "parent": {
         "id": 2317105,
         "userName": "新米练习菌",
@@ -106,7 +106,7 @@
         ],
         "createdAt": "2026-08-18T18:43:05",
         "ipLocation": "上海市",
-        "likeNum": 17
+        "likeNum": 21
       },
       "replyTo": null
     }

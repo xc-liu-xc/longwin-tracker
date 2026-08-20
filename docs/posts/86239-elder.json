@@ -1,0 +1,32 @@
+{
+  "postId": "86239",
+  "fetchedAt": "2026-08-20T10:55:52+08:00",
+  "totalCommentNum": 12,
+  "totalScanned": 11,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2325067,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "又忘关了…现在关好了\n还好来的都是好朋友们~",
+      "images": [],
+      "createdAt": "2026-08-19T22:26:08",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 2324923,
+        "userName": "我是芦柭澹",
+        "content": "🌹🌹没关闭评论啊！",
+        "images": [],
+        "createdAt": "2026-08-19T21:50:56",
+        "ipLocation": "北京市",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}
