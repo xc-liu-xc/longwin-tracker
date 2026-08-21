@@ -1,8 +1,8 @@
 {
   "postId": "86083",
-  "fetchedAt": "2026-08-20T10:55:25+08:00",
+  "fetchedAt": "2026-08-21T11:00:02+08:00",
   "totalCommentNum": 551,
-  "totalScanned": 539,
+  "totalScanned": 544,
   "expandedTopLevel": 24,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -20,7 +20,7 @@
       ],
       "createdAt": "2026-08-19T09:20:40",
       "ipLocation": "上海市",
-      "likeNum": 24
+      "likeNum": 25
     },
     {
       "type": "reply",
@@ -31,7 +31,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:26:41",
       "ipLocation": "北京市",
-      "likeNum": 213,
+      "likeNum": 225,
       "parent": {
         "id": 2317747,
         "userName": "我是阿远",
@@ -52,7 +52,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:27:44",
       "ipLocation": "北京市",
-      "likeNum": 135,
+      "likeNum": 138,
       "parent": {
         "id": 2317735,
         "userName": "乐乐吧",
@@ -73,7 +73,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:28:54",
       "ipLocation": "上海市",
-      "likeNum": 25,
+      "likeNum": 26,
       "parent": {
         "id": 2317429,
         "userName": "新米练习菌",
@@ -85,7 +85,7 @@
         ],
         "createdAt": "2026-08-19T09:20:40",
         "ipLocation": "上海市",
-        "likeNum": 24
+        "likeNum": 25
       },
       "replyTo": null
     },
@@ -98,7 +98,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:30:31",
       "ipLocation": "北京市",
-      "likeNum": 121,
+      "likeNum": 128,
       "parent": {
         "id": 2317705,
         "userName": "鲸尾",
@@ -106,7 +106,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:22:50",
         "ipLocation": "河南省",
-        "likeNum": 12
+        "likeNum": 13
       },
       "replyTo": null
     },
@@ -119,7 +119,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:38:36",
       "ipLocation": "北京市",
-      "likeNum": 116,
+      "likeNum": 127,
       "parent": {
         "id": 2318809,
         "userName": "我的男神是E大",
@@ -140,7 +140,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:39:23",
       "ipLocation": "北京市",
-      "likeNum": 83,
+      "likeNum": 89,
       "parent": {
         "id": 2318743,
         "userName": "同路人_tgsNa0",
@@ -148,7 +148,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:30:00",
         "ipLocation": "陕西省",
-        "likeNum": 0
+        "likeNum": 1
       },
       "replyTo": null
     },
@@ -161,7 +161,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:40:05",
       "ipLocation": "北京市",
-      "likeNum": 90,
+      "likeNum": 96,
       "parent": {
         "id": 2318689,
         "userName": "哄哄123",
@@ -169,7 +169,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:29:21",
         "ipLocation": "重庆市",
-        "likeNum": 11
+        "likeNum": 12
       },
       "replyTo": null
     },
@@ -182,7 +182,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:42:29",
       "ipLocation": "北京市",
-      "likeNum": 101,
+      "likeNum": 108,
       "parent": {
         "id": 2318659,
         "userName": "顾西城",
@@ -190,7 +190,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:29:04",
         "ipLocation": "江苏省",
-        "likeNum": 1
+        "likeNum": 2
       },
       "replyTo": null
     },
@@ -203,7 +203,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:43:48",
       "ipLocation": "北京市",
-      "likeNum": 146,
+      "likeNum": 159,
       "parent": {
         "id": 2318599,
         "userName": "博松best",
@@ -224,7 +224,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:46:41",
       "ipLocation": "北京市",
-      "likeNum": 127,
+      "likeNum": 136,
       "parent": {
         "id": 2318539,
         "userName": "安吉拉花-",
@@ -232,7 +232,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:28:11",
         "ipLocation": "江苏省",
-        "likeNum": 0
+        "likeNum": 1
       },
       "replyTo": null
     },
@@ -245,7 +245,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:48:45",
       "ipLocation": "北京市",
-      "likeNum": 113,
+      "likeNum": 125,
       "parent": {
         "id": 2318533,
         "userName": "程彬",
@@ -253,7 +253,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:28:10",
         "ipLocation": "河北省",
-        "likeNum": 21
+        "likeNum": 24
       },
       "replyTo": null
     },
@@ -266,7 +266,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:49:42",
       "ipLocation": "北京市",
-      "likeNum": 101,
+      "likeNum": 109,
       "parent": {
         "id": 2318845,
         "userName": "浩子1943",
@@ -274,7 +274,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:31:07",
         "ipLocation": "浙江省",
-        "likeNum": 3
+        "likeNum": 4
       },
       "replyTo": null
     },
@@ -287,7 +287,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:54:18",
       "ipLocation": "北京市",
-      "likeNum": 101,
+      "likeNum": 111,
       "parent": {
         "id": 2318575,
         "userName": "凡潇",
@@ -308,7 +308,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:55:52",
       "ipLocation": "北京市",
-      "likeNum": 94,
+      "likeNum": 100,
       "parent": {
         "id": 2318383,
         "userName": "远上寒山",
@@ -316,7 +316,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:27:03",
         "ipLocation": "湖南省",
-        "likeNum": 0
+        "likeNum": 1
       },
       "replyTo": null
     },
@@ -329,7 +329,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:57:55",
       "ipLocation": "北京市",
-      "likeNum": 90,
+      "likeNum": 98,
       "parent": {
         "id": 2318377,
         "userName": "Ningx",
@@ -337,7 +337,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:27:01",
         "ipLocation": "福建省",
-        "likeNum": 0
+        "likeNum": 1
       },
       "replyTo": null
     },
@@ -350,7 +350,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:59:24",
       "ipLocation": "北京市",
-      "likeNum": 88,
+      "likeNum": 96,
       "parent": {
         "id": 2318353,
         "userName": "噼里啪啦2025",
@@ -358,7 +358,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:26:49",
         "ipLocation": "广东省",
-        "likeNum": 5
+        "likeNum": 6
       },
       "replyTo": null
     },
@@ -371,7 +371,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:00:49",
       "ipLocation": "北京市",
-      "likeNum": 107,
+      "likeNum": 115,
       "parent": {
         "id": 2318323,
         "userName": "焰九霄",
@@ -379,7 +379,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:26:44",
         "ipLocation": "山西省",
-        "likeNum": 9
+        "likeNum": 10
       },
       "replyTo": null
     },
@@ -392,7 +392,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:01:42",
       "ipLocation": "北京市",
-      "likeNum": 70,
+      "likeNum": 75,
       "parent": {
         "id": 2318275,
         "userName": "斐波那契",
@@ -400,7 +400,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:26:25",
         "ipLocation": "浙江省",
-        "likeNum": 5
+        "likeNum": 6
       },
       "replyTo": null
     },
@@ -413,7 +413,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:07:29",
       "ipLocation": "北京市",
-      "likeNum": 101,
+      "likeNum": 107,
       "parent": {
         "id": 2318089,
         "userName": "E大的粉丝",
@@ -421,7 +421,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:25:39",
         "ipLocation": "陕西省",
-        "likeNum": 6
+        "likeNum": 7
       },
       "replyTo": null
     },
@@ -434,7 +434,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:09:53",
       "ipLocation": "北京市",
-      "likeNum": 158,
+      "likeNum": 177,
       "parent": {
         "id": 2318035,
         "userName": "懒吃舒服蕾",
@@ -442,7 +442,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:25:19",
         "ipLocation": "广东省",
-        "likeNum": 44
+        "likeNum": 55
       },
       "replyTo": null
     },
@@ -455,7 +455,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:12:31",
       "ipLocation": "北京市",
-      "likeNum": 84,
+      "likeNum": 89,
       "parent": {
         "id": 2317903,
         "userName": "肥仔_",
@@ -463,7 +463,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:24:15",
         "ipLocation": "山东省",
-        "likeNum": 5
+        "likeNum": 6
       },
       "replyTo": null
     },
@@ -476,7 +476,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:23:50",
       "ipLocation": "北京市",
-      "likeNum": 60,
+      "likeNum": 67,
       "parent": {
         "id": 2318689,
         "userName": "哄哄123",
@@ -484,7 +484,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:29:21",
         "ipLocation": "重庆市",
-        "likeNum": 11
+        "likeNum": 12
       },
       "replyTo": {
         "id": 2319619,
@@ -502,7 +502,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:28:19",
       "ipLocation": "北京市",
-      "likeNum": 101,
+      "likeNum": 111,
       "parent": {
         "id": 2320105,
         "userName": "正经人谁炒股",
@@ -523,7 +523,7 @@
       "images": [],
       "createdAt": "2026-08-19T11:29:23",
       "ipLocation": "北京市",
-      "likeNum": 55,
+      "likeNum": 64,
       "parent": {
         "id": 2321107,
         "userName": "MrLin",
@@ -531,7 +531,7 @@
         "images": [],
         "createdAt": "2026-08-19T11:17:40",
         "ipLocation": "加利福尼亚州",
-        "likeNum": 6
+        "likeNum": 7
       },
       "replyTo": null
     }

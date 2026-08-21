@@ -1,8 +1,8 @@
 {
   "postId": "85843",
-  "fetchedAt": "2026-08-20T10:56:48+08:00",
+  "fetchedAt": "2026-08-21T11:01:01+08:00",
   "totalCommentNum": 7,
-  "totalScanned": 302,
+  "totalScanned": 303,
   "expandedTopLevel": 15,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-16T10:55:55",
       "ipLocation": "北京市",
-      "likeNum": 230,
+      "likeNum": 232,
       "parent": {
         "id": 2312809,
         "userName": "同路人_kjWXgD",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-08-16T11:16:04",
       "ipLocation": "北京市",
-      "likeNum": 202
+      "likeNum": 204
     },
     {
       "type": "reply",
@@ -48,7 +48,7 @@
       "images": [],
       "createdAt": "2026-08-16T11:26:23",
       "ipLocation": "北京市",
-      "likeNum": 161,
+      "likeNum": 165,
       "parent": {
         "id": 2313493,
         "userName": "EchoT",
@@ -56,7 +56,7 @@
         "images": [],
         "createdAt": "2026-08-16T11:18:09",
         "ipLocation": "广东省",
-        "likeNum": 97
+        "likeNum": 101
       },
       "replyTo": null
     },
@@ -69,7 +69,7 @@
       "images": [],
       "createdAt": "2026-08-16T11:27:06",
       "ipLocation": "北京市",
-      "likeNum": 156,
+      "likeNum": 160,
       "parent": {
         "id": 2313475,
         "userName": "无-",
@@ -90,7 +90,7 @@
       "images": [],
       "createdAt": "2026-08-16T11:28:08",
       "ipLocation": "北京市",
-      "likeNum": 154,
+      "likeNum": 157,
       "parent": {
         "id": 2313421,
         "userName": "etf拯救球球",
@@ -111,7 +111,7 @@
       "images": [],
       "createdAt": "2026-08-16T11:28:47",
       "ipLocation": "北京市",
-      "likeNum": 220,
+      "likeNum": 222,
       "parent": {
         "id": 2313205,
         "userName": "丁丁90",
@@ -132,7 +132,7 @@
       "images": [],
       "createdAt": "2026-08-16T11:31:31",
       "ipLocation": "北京市",
-      "likeNum": 168
+      "likeNum": 170
     },
     {
       "type": "reply",
@@ -143,7 +143,7 @@
       "images": [],
       "createdAt": "2026-08-16T11:35:05",
       "ipLocation": "北京市",
-      "likeNum": 146,
+      "likeNum": 148,
       "parent": {
         "id": 2313661,
         "userName": "ETF拯救世界",
@@ -151,7 +151,7 @@
         "images": [],
         "createdAt": "2026-08-16T11:31:31",
         "ipLocation": "北京市",
-        "likeNum": 168
+        "likeNum": 170
       },
       "replyTo": {
         "id": 2313679,
@@ -169,7 +169,7 @@
       "images": [],
       "createdAt": "2026-08-16T12:02:34",
       "ipLocation": "上海市",
-      "likeNum": 159
+      "likeNum": 162
     }
   ]
 }
