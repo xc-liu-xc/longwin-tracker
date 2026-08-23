@@ -1,9 +1,9 @@
 {
   "postId": "86083",
-  "fetchedAt": "2026-08-22T10:52:41+08:00",
+  "fetchedAt": "2026-08-23T10:59:50+08:00",
   "totalCommentNum": 551,
-  "totalScanned": 546,
-  "expandedTopLevel": 24,
+  "totalScanned": 547,
+  "expandedTopLevel": 25,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -31,7 +31,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:26:41",
       "ipLocation": "北京市",
-      "likeNum": 228,
+      "likeNum": 230,
       "parent": {
         "id": 2317747,
         "userName": "我是阿远",
@@ -52,7 +52,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:27:44",
       "ipLocation": "北京市",
-      "likeNum": 139,
+      "likeNum": 140,
       "parent": {
         "id": 2317735,
         "userName": "乐乐吧",
@@ -98,7 +98,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:30:31",
       "ipLocation": "北京市",
-      "likeNum": 130,
+      "likeNum": 132,
       "parent": {
         "id": 2317705,
         "userName": "鲸尾",
@@ -119,7 +119,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:38:36",
       "ipLocation": "北京市",
-      "likeNum": 131,
+      "likeNum": 132,
       "parent": {
         "id": 2318809,
         "userName": "我的男神是E大",
@@ -140,7 +140,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:39:23",
       "ipLocation": "北京市",
-      "likeNum": 90,
+      "likeNum": 91,
       "parent": {
         "id": 2318743,
         "userName": "同路人_tgsNa0",
@@ -161,7 +161,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:40:05",
       "ipLocation": "北京市",
-      "likeNum": 97,
+      "likeNum": 98,
       "parent": {
         "id": 2318689,
         "userName": "哄哄123",
@@ -182,7 +182,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:42:29",
       "ipLocation": "北京市",
-      "likeNum": 109,
+      "likeNum": 110,
       "parent": {
         "id": 2318659,
         "userName": "顾西城",
@@ -203,7 +203,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:43:48",
       "ipLocation": "北京市",
-      "likeNum": 165,
+      "likeNum": 170,
       "parent": {
         "id": 2318599,
         "userName": "博松best",
@@ -211,7 +211,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:28:34",
         "ipLocation": "吉林省",
-        "likeNum": 18
+        "likeNum": 19
       },
       "replyTo": null
     },
@@ -224,7 +224,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:46:41",
       "ipLocation": "北京市",
-      "likeNum": 139,
+      "likeNum": 141,
       "parent": {
         "id": 2318539,
         "userName": "安吉拉花-",
@@ -245,7 +245,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:48:45",
       "ipLocation": "北京市",
-      "likeNum": 128,
+      "likeNum": 129,
       "parent": {
         "id": 2318533,
         "userName": "程彬",
@@ -266,7 +266,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:49:42",
       "ipLocation": "北京市",
-      "likeNum": 110,
+      "likeNum": 112,
       "parent": {
         "id": 2318845,
         "userName": "浩子1943",
@@ -287,7 +287,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:54:18",
       "ipLocation": "北京市",
-      "likeNum": 114,
+      "likeNum": 115,
       "parent": {
         "id": 2318575,
         "userName": "凡潇",
@@ -308,7 +308,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:55:52",
       "ipLocation": "北京市",
-      "likeNum": 103,
+      "likeNum": 104,
       "parent": {
         "id": 2318383,
         "userName": "远上寒山",
@@ -329,7 +329,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:57:55",
       "ipLocation": "北京市",
-      "likeNum": 102,
+      "likeNum": 103,
       "parent": {
         "id": 2318377,
         "userName": "Ningx",
@@ -350,7 +350,7 @@
       "images": [],
       "createdAt": "2026-08-19T09:59:24",
       "ipLocation": "北京市",
-      "likeNum": 100,
+      "likeNum": 101,
       "parent": {
         "id": 2318353,
         "userName": "噼里啪啦2025",
@@ -371,7 +371,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:00:49",
       "ipLocation": "北京市",
-      "likeNum": 119,
+      "likeNum": 120,
       "parent": {
         "id": 2318323,
         "userName": "焰九霄",
@@ -392,7 +392,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:01:42",
       "ipLocation": "北京市",
-      "likeNum": 77,
+      "likeNum": 78,
       "parent": {
         "id": 2318275,
         "userName": "斐波那契",
@@ -413,7 +413,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:07:29",
       "ipLocation": "北京市",
-      "likeNum": 108,
+      "likeNum": 110,
       "parent": {
         "id": 2318089,
         "userName": "E大的粉丝",
@@ -434,7 +434,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:09:53",
       "ipLocation": "北京市",
-      "likeNum": 183,
+      "likeNum": 191,
       "parent": {
         "id": 2318035,
         "userName": "懒吃舒服蕾",
@@ -442,7 +442,7 @@
         "images": [],
         "createdAt": "2026-08-19T09:25:19",
         "ipLocation": "广东省",
-        "likeNum": 58
+        "likeNum": 61
       },
       "replyTo": null
     },
@@ -455,7 +455,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:12:31",
       "ipLocation": "北京市",
-      "likeNum": 91,
+      "likeNum": 92,
       "parent": {
         "id": 2317903,
         "userName": "肥仔_",
@@ -476,7 +476,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:23:50",
       "ipLocation": "北京市",
-      "likeNum": 68,
+      "likeNum": 69,
       "parent": {
         "id": 2318689,
         "userName": "哄哄123",
@@ -502,7 +502,7 @@
       "images": [],
       "createdAt": "2026-08-19T10:28:19",
       "ipLocation": "北京市",
-      "likeNum": 115,
+      "likeNum": 117,
       "parent": {
         "id": 2320105,
         "userName": "正经人谁炒股",
@@ -510,7 +510,7 @@
         "images": [],
         "createdAt": "2026-08-19T10:12:03",
         "ipLocation": "湖北省",
-        "likeNum": 4
+        "likeNum": 5
       },
       "replyTo": null
     },
@@ -523,7 +523,7 @@
       "images": [],
       "createdAt": "2026-08-19T11:29:23",
       "ipLocation": "北京市",
-      "likeNum": 64,
+      "likeNum": 67,
       "parent": {
         "id": 2321107,
         "userName": "MrLin",
