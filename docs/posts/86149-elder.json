@@ -1,8 +1,8 @@
 {
   "postId": "86149",
-  "fetchedAt": "2026-08-23T11:00:12+08:00",
+  "fetchedAt": "2026-08-24T11:01:51+08:00",
   "totalCommentNum": 257,
-  "totalScanned": 224,
+  "totalScanned": 228,
   "expandedTopLevel": 4,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-19T15:35:30",
       "ipLocation": "北京市",
-      "likeNum": 240
+      "likeNum": 242
     },
     {
       "type": "top",
@@ -29,7 +29,7 @@
       ],
       "createdAt": "2026-08-19T15:38:39",
       "ipLocation": "上海市",
-      "likeNum": 158
+      "likeNum": 163
     }
   ]
 }

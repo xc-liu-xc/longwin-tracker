@@ -1,6 +1,6 @@
 {
   "postId": "85945",
-  "fetchedAt": "2026-08-23T11:00:23+08:00",
+  "fetchedAt": "2026-08-24T11:02:05+08:00",
   "totalCommentNum": 48,
   "totalScanned": 144,
   "expandedTopLevel": 4,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-18T10:49:08",
       "ipLocation": "北京市",
-      "likeNum": 41,
+      "likeNum": 43,
       "parent": {
         "id": 2316097,
         "userName": "N.16",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-08-18T11:30:36",
       "ipLocation": "北京市",
-      "likeNum": 57,
+      "likeNum": 58,
       "parent": {
         "id": 2316511,
         "userName": "0X07",
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-08-18T11:32:34",
       "ipLocation": "北京市",
-      "likeNum": 103,
+      "likeNum": 106,
       "parent": {
         "id": 2316295,
         "userName": "哄哄123",
@@ -83,7 +83,7 @@
       ],
       "createdAt": "2026-08-18T18:43:05",
       "ipLocation": "上海市",
-      "likeNum": 22
+      "likeNum": 23
     },
     {
       "type": "reply",
@@ -94,7 +94,7 @@
       "images": [],
       "createdAt": "2026-08-18T18:53:10",
       "ipLocation": "上海市",
-      "likeNum": 17,
+      "likeNum": 18,
       "parent": {
         "id": 2317105,
         "userName": "新米练习菌",
@@ -106,7 +106,7 @@
         ],
         "createdAt": "2026-08-18T18:43:05",
         "ipLocation": "上海市",
-        "likeNum": 22
+        "likeNum": 23
       },
       "replyTo": null
     }
