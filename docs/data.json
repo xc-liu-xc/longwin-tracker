@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-08-24 10:58 CST",
+  "updatedAt": "2026-08-25 10:53 CST",
   "poName": "长赢指数投资计划-150份",
   "totalUnit": 150,
-  "investedUnit": 109,
-  "adjustedCount": 261,
+  "investedUnit": 108,
+  "adjustedCount": 262,
   "totalBuy": 268,
-  "totalSell": 159,
+  "totalSell": 160,
   "recentSignals": [
+    {
+      "date": "2026-08-24",
+      "action": "sell",
+      "fundCode": "100032",
+      "fundName": "富国中证红利指数增强A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/25123",
+      "l1": "A股"
+    },
     {
       "date": "2026-07-30",
       "action": "sell",
@@ -123,15 +132,6 @@
       "unit": 1,
       "articleLink": "https://qieman.com/content/items/23953",
       "l1": "A股"
-    },
-    {
-      "date": "2026-06-05",
-      "action": "sell",
-      "fundCode": "100032",
-      "fundName": "富国中证红利指数增强A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23671",
-      "l1": "A股"
     }
   ],
   "holdings": [
@@ -139,8 +139,15 @@
       "fundCode": "100032",
       "fundName": "富国中证红利指数增强A",
       "bought": 15,
-      "sold": 4,
+      "sold": 5,
       "history": [
+        {
+          "date": "2026-08-24",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/25123",
+          "l1": "A股"
+        },
         {
           "date": "2026-07-29",
           "action": "sell",
@@ -275,8 +282,8 @@
           "l1": "A股"
         }
       ],
-      "currentUnit": 11,
-      "latestDate": "2026-07-29",
+      "currentUnit": 10,
+      "latestDate": "2026-08-24",
       "l1": "A股"
     },
     {

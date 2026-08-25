@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-08-24 10:58 CST",
+  "updatedAt": "2026-08-25 10:53 CST",
   "poName": "长赢指数投资计划-S定投",
   "totalUnit": 218,
   "investedUnit": 88,
-  "adjustedCount": 196,
+  "adjustedCount": 197,
   "totalBuy": 167,
-  "totalSell": 82,
+  "totalSell": 83,
   "recentSignals": [
+    {
+      "date": "2026-08-24",
+      "action": "sell",
+      "fundCode": "100032",
+      "fundName": "富国中证红利指数增强A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/25123",
+      "l1": "A股"
+    },
     {
       "date": "2026-07-30",
       "action": "sell",
@@ -132,15 +141,6 @@
       "unit": 1,
       "articleLink": "https://qieman.com/content/items/23671",
       "l1": "A股"
-    },
-    {
-      "date": "2026-06-01",
-      "action": "buy",
-      "fundCode": "012323",
-      "fundName": "华宝医疗ETF联接C",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23503",
-      "l1": "A股"
     }
   ],
   "holdings": [
@@ -233,11 +233,92 @@
       "l1": "海外新兴"
     },
     {
+      "fundCode": "001180",
+      "fundName": "广发医药卫生联接A",
+      "bought": 7,
+      "sold": 2,
+      "history": [
+        {
+          "date": "2023-06-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/3713",
+          "l1": "A股"
+        },
+        {
+          "date": "2022-06-10",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/1889",
+          "l1": "A股"
+        },
+        {
+          "date": "2022-04-14",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/1716",
+          "l1": "A股"
+        },
+        {
+          "date": "2022-01-24",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/ZNrX87YQAqdMTTNOl-tcHg",
+          "l1": "A股"
+        },
+        {
+          "date": "2020-07-16",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A",
+          "l1": "A股"
+        },
+        {
+          "date": "2020-06-24",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/ZE8rPooJv61QdaZkiJtxcQ",
+          "l1": "A股"
+        },
+        {
+          "date": "2019-01-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/R3-B4ElIXF4rLjrojDnU-g",
+          "l1": "A股"
+        },
+        {
+          "date": "2018-10-15",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/4anBh_dyZvM6zm6WfsH6LA",
+          "l1": "A股"
+        },
+        {
+          "date": "2018-08-06",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/e0o1tpg0lpfkH4Z9vFv3Hw",
+          "l1": "A股"
+        }
+      ],
+      "currentUnit": 5,
+      "latestDate": "2023-06-26",
+      "l1": "A股"
+    },
+    {
       "fundCode": "100032",
       "fundName": "富国中证红利指数增强A",
       "bought": 11,
-      "sold": 5,
+      "sold": 6,
       "history": [
+        {
+          "date": "2026-08-24",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/25123",
+          "l1": "A股"
+        },
         {
           "date": "2026-07-29",
           "action": "sell",
@@ -351,82 +432,8 @@
           "l1": "A股"
         }
       ],
-      "currentUnit": 6,
-      "latestDate": "2026-07-29",
-      "l1": "A股"
-    },
-    {
-      "fundCode": "001180",
-      "fundName": "广发医药卫生联接A",
-      "bought": 7,
-      "sold": 2,
-      "history": [
-        {
-          "date": "2023-06-26",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/3713",
-          "l1": "A股"
-        },
-        {
-          "date": "2022-06-10",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1889",
-          "l1": "A股"
-        },
-        {
-          "date": "2022-04-14",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1716",
-          "l1": "A股"
-        },
-        {
-          "date": "2022-01-24",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZNrX87YQAqdMTTNOl-tcHg",
-          "l1": "A股"
-        },
-        {
-          "date": "2020-07-16",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/6-2Z6f565uXTza5Mmf52_A",
-          "l1": "A股"
-        },
-        {
-          "date": "2020-06-24",
-          "action": "sell",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/ZE8rPooJv61QdaZkiJtxcQ",
-          "l1": "A股"
-        },
-        {
-          "date": "2019-01-15",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/R3-B4ElIXF4rLjrojDnU-g",
-          "l1": "A股"
-        },
-        {
-          "date": "2018-10-15",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/4anBh_dyZvM6zm6WfsH6LA",
-          "l1": "A股"
-        },
-        {
-          "date": "2018-08-06",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/e0o1tpg0lpfkH4Z9vFv3Hw",
-          "l1": "A股"
-        }
-      ],
       "currentUnit": 5,
-      "latestDate": "2023-06-26",
+      "latestDate": "2026-08-24",
       "l1": "A股"
     },
     {
