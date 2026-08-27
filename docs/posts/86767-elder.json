@@ -1,9 +1,9 @@
 {
   "postId": "86767",
-  "fetchedAt": "2026-08-26T11:02:09+08:00",
+  "fetchedAt": "2026-08-27T20:20:53+08:00",
   "totalCommentNum": 505,
-  "totalScanned": 478,
-  "expandedTopLevel": 2,
+  "totalScanned": 1976,
+  "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-26T10:37:54",
       "ipLocation": "北京市",
-      "likeNum": 541
+      "likeNum": 1543
     },
     {
       "type": "top",
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-08-26T10:38:06",
       "ipLocation": "北京市",
-      "likeNum": 1759
+      "likeNum": 4808
     },
     {
       "type": "reply",
@@ -38,15 +38,15 @@
       "images": [],
       "createdAt": "2026-08-26T10:45:00",
       "ipLocation": "北京市",
-      "likeNum": 6,
+      "likeNum": 81,
       "parent": {
         "id": 2327617,
         "userName": "卧拾野闲云",
         "content": "为什么二大爷晒两个0️⃣1️⃣2️⃣号杯子，高度怀疑这是你的幸运数字，或者说是你喜欢的数字🤔",
         "images": [],
         "createdAt": "2026-08-26T10:42:34",
-        "ipLocation": "",
-        "likeNum": 5
+        "ipLocation": "浙江省",
+        "likeNum": 16
       },
       "replyTo": null
     }
