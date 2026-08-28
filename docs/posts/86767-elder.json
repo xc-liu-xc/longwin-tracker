@@ -1,8 +1,8 @@
 {
   "postId": "86767",
-  "fetchedAt": "2026-08-27T20:20:53+08:00",
+  "fetchedAt": "2026-08-28T21:46:49+08:00",
   "totalCommentNum": 505,
-  "totalScanned": 1976,
+  "totalScanned": 2075,
   "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-26T10:37:54",
       "ipLocation": "北京市",
-      "likeNum": 1543
+      "likeNum": 1602
     },
     {
       "type": "top",
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-08-26T10:38:06",
       "ipLocation": "北京市",
-      "likeNum": 4808
+      "likeNum": 5022
     },
     {
       "type": "reply",
@@ -38,7 +38,7 @@
       "images": [],
       "createdAt": "2026-08-26T10:45:00",
       "ipLocation": "北京市",
-      "likeNum": 81,
+      "likeNum": 86,
       "parent": {
         "id": 2327617,
         "userName": "卧拾野闲云",
@@ -46,7 +46,7 @@
         "images": [],
         "createdAt": "2026-08-26T10:42:34",
         "ipLocation": "浙江省",
-        "likeNum": 16
+        "likeNum": 20
       },
       "replyTo": null
     }
