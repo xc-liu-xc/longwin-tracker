@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T13:48:48",
+  "generatedAt": "2026-08-29T08:38:56",
   "asset_classes": [
     {
       "key": "A股",
@@ -59,15 +59,15 @@
             "label": "A股",
             "color": "#CC8987",
             "units": 63,
-            "share_pct": 45.78,
-            "return_pct": 36.88,
+            "share_pct": 45.76,
+            "return_pct": 36.84,
             "funds": [
               {
                 "code": "100032",
                 "name": "富国中证红利指数增强A",
                 "units": 10,
                 "mv": 17.085270650023645,
-                "share_pct": 9.95,
+                "share_pct": 9.96,
                 "return_pct": 71.26,
                 "last_trade": "2026-08-24",
                 "status": "active"
@@ -87,7 +87,7 @@
                 "name": "广发医药卫生联接A",
                 "units": 7,
                 "mv": 6.992450841522683,
-                "share_pct": 4.07,
+                "share_pct": 4.08,
                 "return_pct": 14.46,
                 "last_trade": "2023-06-26",
                 "status": "active"
@@ -146,20 +146,10 @@
                 "code": "002708",
                 "name": "大摩健康产业混合A",
                 "units": 4,
-                "mv": 3.3303099892582875,
-                "share_pct": 1.94,
-                "return_pct": -17.2,
+                "mv": 3.2710216628981454,
+                "share_pct": 1.91,
+                "return_pct": -18.67,
                 "last_trade": "2023-06-12",
-                "status": "active"
-              },
-              {
-                "code": "000051",
-                "name": "华夏沪深300ETF联接A",
-                "units": 2,
-                "mv": 2.7032810344187097,
-                "share_pct": 1.57,
-                "return_pct": 50.03,
-                "last_trade": "2023-01-06",
                 "status": "active"
               },
               {
@@ -170,6 +160,16 @@
                 "share_pct": 1.57,
                 "return_pct": 54.82,
                 "last_trade": "2026-05-08",
+                "status": "active"
+              },
+              {
+                "code": "000051",
+                "name": "华夏沪深300ETF联接A",
+                "units": 2,
+                "mv": 2.692124345391541,
+                "share_pct": 1.57,
+                "return_pct": 49.61,
+                "last_trade": "2023-01-06",
                 "status": "active"
               },
               {
@@ -357,7 +357,7 @@
                 "name": "华夏恒生ETF联接A",
                 "units": 7,
                 "mv": 8.589110455988271,
-                "share_pct": 5.0,
+                "share_pct": 5.01,
                 "return_pct": 30.73,
                 "last_trade": "2026-03-06",
                 "status": "active"
@@ -519,7 +519,7 @@
             "label": "债券",
             "color": "#9494B5",
             "units": 15,
-            "share_pct": 11.61,
+            "share_pct": 11.62,
             "return_pct": 37.08,
             "funds": [
               {
@@ -679,7 +679,7 @@
             "label": "现金",
             "color": "#BDB8AD",
             "units": 42,
-            "share_pct": 24.47,
+            "share_pct": 24.48,
             "return_pct": null,
             "funds": []
           },
@@ -747,29 +747,29 @@
         "by_taxonomy": [
           {
             "name": "A股",
-            "value": 78.5816,
+            "value": 78.5112,
             "units": 63,
-            "share_pct": 45.78,
+            "share_pct": 45.76,
             "color": "#CC8987",
             "children": [
               {
                 "name": "行业",
-                "value": 32.6838,
+                "value": 32.6245,
                 "units": 34,
-                "share_pct": 19.04,
+                "share_pct": 19.01,
                 "children": [
                   {
                     "name": "医药",
-                    "value": 19.2427,
+                    "value": 19.1834,
                     "units": 19,
-                    "share_pct": 11.21,
+                    "share_pct": 11.18,
                     "children": [
                       {
                         "name": "全指医药",
                         "code": "001180",
                         "value": 6.9925,
                         "units": 7,
-                        "share_pct": 4.07,
+                        "share_pct": 4.08,
                         "return_pct": 14.46,
                         "status": "active"
                       },
@@ -794,10 +794,10 @@
                       {
                         "name": "大摩健康产业",
                         "code": "002708",
-                        "value": 3.3303,
+                        "value": 3.271,
                         "units": 4,
-                        "share_pct": 1.94,
-                        "return_pct": -17.2,
+                        "share_pct": 1.91,
+                        "return_pct": -18.67,
                         "status": "active"
                       },
                       {
@@ -978,14 +978,14 @@
                     "name": "红利",
                     "value": 17.0853,
                     "units": 10,
-                    "share_pct": 9.95,
+                    "share_pct": 9.96,
                     "children": [
                       {
                         "name": "中证红利",
                         "code": "100032",
                         "value": 17.0853,
                         "units": 10,
-                        "share_pct": 9.95,
+                        "share_pct": 9.96,
                         "return_pct": 71.26,
                         "status": "active"
                       }
@@ -1012,13 +1012,13 @@
               },
               {
                 "name": "大盘",
-                "value": 16.9066,
+                "value": 16.8955,
                 "units": 11,
                 "share_pct": 9.85,
                 "children": [
                   {
                     "name": "沪深300",
-                    "value": 14.214,
+                    "value": 14.2028,
                     "units": 9,
                     "share_pct": 8.28,
                     "children": [
@@ -1034,10 +1034,10 @@
                       {
                         "name": "沪深300",
                         "code": "000051",
-                        "value": 2.7033,
+                        "value": 2.6921,
                         "units": 2,
                         "share_pct": 1.57,
-                        "return_pct": 50.03,
+                        "return_pct": 49.61,
                         "status": "active"
                       },
                       {
@@ -1074,13 +1074,13 @@
                 "name": "中小盘",
                 "value": 7.9016,
                 "units": 4,
-                "share_pct": 4.6,
+                "share_pct": 4.61,
                 "children": [
                   {
                     "name": "中证500",
                     "value": 7.9016,
                     "units": 4,
-                    "share_pct": 4.6,
+                    "share_pct": 4.61,
                     "children": [
                       {
                         "name": "中证500",
@@ -1161,20 +1161,20 @@
                 "name": "香港",
                 "value": 8.5891,
                 "units": 7,
-                "share_pct": 5.0,
+                "share_pct": 5.01,
                 "children": [
                   {
                     "name": "恒生",
                     "value": 8.5891,
                     "units": 7,
-                    "share_pct": 5.0,
+                    "share_pct": 5.01,
                     "children": [
                       {
                         "name": "恒生指数",
                         "code": "000071",
                         "value": 8.5891,
                         "units": 7,
-                        "share_pct": 5.0,
+                        "share_pct": 5.01,
                         "return_pct": 30.73,
                         "status": "active"
                       }
@@ -1467,14 +1467,14 @@
             "name": "债券",
             "value": 19.9377,
             "units": 15,
-            "share_pct": 11.61,
+            "share_pct": 11.62,
             "color": "#9494B5",
             "children": [
               {
                 "name": "国内债券",
                 "value": 14.9761,
                 "units": 10,
-                "share_pct": 8.72,
+                "share_pct": 8.73,
                 "children": [
                   {
                     "name": "纯债",
@@ -10523,19 +10523,19 @@
         },
         {
           "date": "2026-08-28",
-          "nav": 1.1444,
-          "A股": 45.78,
+          "nav": 1.1439,
+          "A股": 45.76,
           "海外新兴": 9.12,
           "海外成熟": 2.41,
           "商品": 0.0,
-          "债券": 11.61,
+          "债券": 11.62,
           "房地产": 0.0,
           "外汇": 0.0,
-          "现金": 24.47,
+          "现金": 24.48,
           "其他": 6.62
         }
       ],
-      "updatedAt": "2026-08-28 21:42 CST"
+      "updatedAt": "2026-08-29 16:33 CST"
     },
     "s": {
       "current": {
@@ -10548,8 +10548,8 @@
             "label": "A股",
             "color": "#CC8987",
             "units": 47,
-            "share_pct": 23.94,
-            "return_pct": 23.66,
+            "share_pct": 23.93,
+            "return_pct": 23.6,
             "funds": [
               {
                 "code": "100032",
@@ -10635,9 +10635,9 @@
                 "code": "002708",
                 "name": "大摩健康产业混合A",
                 "units": 3,
-                "mv": 2.629038703638129,
-                "share_pct": 1.17,
-                "return_pct": -12.6,
+                "mv": 2.582234860999607,
+                "share_pct": 1.15,
+                "return_pct": -14.16,
                 "last_trade": "2023-06-12",
                 "status": "active"
               },
@@ -10685,9 +10685,9 @@
                 "code": "000051",
                 "name": "华夏沪深300ETF联接A",
                 "units": 1,
-                "mv": 1.2617162422426706,
+                "mv": 1.2565090234681504,
                 "share_pct": 0.56,
-                "return_pct": 26.17,
+                "return_pct": 25.65,
                 "last_trade": "2023-01-06",
                 "status": "active"
               },
@@ -11098,7 +11098,7 @@
             "label": "现金",
             "color": "#BDB8AD",
             "units": 134,
-            "share_pct": 59.52,
+            "share_pct": 59.54,
             "return_pct": null,
             "funds": []
           },
@@ -11166,22 +11166,22 @@
         "by_taxonomy": [
           {
             "name": "A股",
-            "value": 53.9043,
+            "value": 53.8523,
             "units": 47,
-            "share_pct": 23.94,
+            "share_pct": 23.93,
             "color": "#CC8987",
             "children": [
               {
                 "name": "行业",
-                "value": 30.5776,
+                "value": 30.5308,
                 "units": 31,
-                "share_pct": 13.58,
+                "share_pct": 13.57,
                 "children": [
                   {
                     "name": "医药",
-                    "value": 17.7637,
+                    "value": 17.7169,
                     "units": 17,
-                    "share_pct": 7.89,
+                    "share_pct": 7.87,
                     "children": [
                       {
                         "name": "华宝医疗A",
@@ -11213,10 +11213,10 @@
                       {
                         "name": "大摩健康产业",
                         "code": "002708",
-                        "value": 2.629,
+                        "value": 2.5822,
                         "units": 3,
-                        "share_pct": 1.17,
-                        "return_pct": -12.6,
+                        "share_pct": 1.15,
+                        "return_pct": -14.16,
                         "status": "active"
                       },
                       {
@@ -11400,7 +11400,7 @@
                 "name": "价值红利",
                 "value": 12.6827,
                 "units": 9,
-                "share_pct": 5.63,
+                "share_pct": 5.64,
                 "children": [
                   {
                     "name": "红利",
@@ -11440,13 +11440,13 @@
               },
               {
                 "name": "大盘",
-                "value": 8.4209,
+                "value": 8.4157,
                 "units": 6,
                 "share_pct": 3.74,
                 "children": [
                   {
                     "name": "沪深300",
-                    "value": 7.2104,
+                    "value": 7.2052,
                     "units": 5,
                     "share_pct": 3.2,
                     "children": [
@@ -11462,10 +11462,10 @@
                       {
                         "name": "沪深300",
                         "code": "000051",
-                        "value": 1.2617,
+                        "value": 1.2565,
                         "units": 1,
                         "share_pct": 0.56,
-                        "return_pct": 26.17,
+                        "return_pct": 25.65,
                         "status": "active"
                       },
                       {
@@ -11894,13 +11894,13 @@
                 "name": "海外债券",
                 "value": 4.9636,
                 "units": 5,
-                "share_pct": 2.2,
+                "share_pct": 2.21,
                 "children": [
                   {
                     "name": "美元债",
                     "value": 4.9636,
                     "units": 5,
-                    "share_pct": 2.2,
+                    "share_pct": 2.21,
                     "children": [
                       {
                         "name": "富国全球债A",
@@ -21279,19 +21279,19 @@
         },
         {
           "date": "2026-08-28",
-          "nav": 1.0327,
-          "A股": 23.94,
+          "nav": 1.0324,
+          "A股": 23.93,
           "海外新兴": 5.47,
           "海外成熟": 1.72,
           "商品": 0.0,
           "债券": 4.3,
           "房地产": 0.0,
           "外汇": 0.0,
-          "现金": 59.52,
+          "现金": 59.54,
           "其他": 5.05
         }
       ],
-      "updatedAt": "2026-08-28 21:42 CST"
+      "updatedAt": "2026-08-29 16:33 CST"
     }
   }
 }

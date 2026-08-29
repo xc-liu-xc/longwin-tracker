@@ -11245,7 +11245,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:46:53+08:00"
+    "fetchedAt": "2026-08-29T16:37:23+08:00"
   },
   "86461": {
     "elderCount": 0,
@@ -11254,7 +11254,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:46:54+08:00"
+    "fetchedAt": "2026-08-29T16:37:24+08:00"
   },
   "86467": {
     "elderCount": 0,
@@ -11263,7 +11263,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:46:55+08:00"
+    "fetchedAt": "2026-08-29T16:37:24+08:00"
   },
   "86617": {
     "elderCount": 0,
@@ -11272,7 +11272,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:46:50+08:00"
+    "fetchedAt": "2026-08-29T16:37:21+08:00"
   },
   "86761": {
     "elderCount": 0,
@@ -11281,7 +11281,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:44:24+08:00"
+    "fetchedAt": "2026-08-29T16:35:18+08:00"
   },
   "86767": {
     "elderCount": 3,
@@ -11289,10 +11289,10 @@
       "ETF拯救世界": 3
     },
     "totalCommentNum": 505,
-    "totalScanned": 2075,
+    "totalScanned": 2086,
     "expandedTopLevel": 5,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:46:49+08:00"
+    "fetchedAt": "2026-08-29T16:37:21+08:00"
   },
   "86737": {
     "elderCount": 0,
@@ -11301,7 +11301,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:46:49+08:00"
+    "fetchedAt": "2026-08-29T16:37:21+08:00"
   },
   "86647": {
     "elderCount": 0,
@@ -11310,7 +11310,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:46:50+08:00"
+    "fetchedAt": "2026-08-29T16:37:22+08:00"
   },
   "86653": {
     "elderCount": 0,
@@ -11319,7 +11319,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:46:51+08:00"
+    "fetchedAt": "2026-08-29T16:37:22+08:00"
   },
   "86659": {
     "elderCount": 0,
@@ -11328,7 +11328,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:46:52+08:00"
+    "fetchedAt": "2026-08-29T16:37:23+08:00"
   },
   "86695": {
     "elderCount": 0,
@@ -11337,7 +11337,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:46:52+08:00"
+    "fetchedAt": "2026-08-29T16:37:23+08:00"
   },
   "86851": {
     "elderCount": 1,
@@ -11348,7 +11348,7 @@
     "totalScanned": 1,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:44:21+08:00"
+    "fetchedAt": "2026-08-29T16:35:16+08:00"
   },
   "86869": {
     "elderCount": 0,
@@ -11357,7 +11357,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:44:22+08:00"
+    "fetchedAt": "2026-08-29T16:35:17+08:00"
   },
   "86875": {
     "elderCount": 0,
@@ -11366,7 +11366,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:44:23+08:00"
+    "fetchedAt": "2026-08-29T16:35:17+08:00"
   },
   "86935": {
     "elderCount": 0,
@@ -11375,6 +11375,6 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-08-28T21:44:20+08:00"
+    "fetchedAt": "2026-08-29T16:35:16+08:00"
   }
 }
