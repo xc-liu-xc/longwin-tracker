@@ -1,9 +1,9 @@
 {
   "postId": "86767",
-  "fetchedAt": "2026-09-01T15:12:29+08:00",
+  "fetchedAt": "2026-09-02T14:48:11+08:00",
   "totalCommentNum": 505,
-  "totalScanned": 2143,
-  "expandedTopLevel": 5,
+  "totalScanned": 2172,
+  "expandedTopLevel": 6,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-08-26T10:37:54",
       "ipLocation": "北京市",
-      "likeNum": 1663
+      "likeNum": 1682
     },
     {
       "type": "top",
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-08-26T10:38:06",
       "ipLocation": "北京市",
-      "likeNum": 5223
+      "likeNum": 5288
     },
     {
       "type": "reply",
