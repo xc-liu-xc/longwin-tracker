@@ -1,0 +1,22 @@
+{
+  "postId": "87739",
+  "fetchedAt": "2026-09-03T14:48:54+08:00",
+  "totalCommentNum": 1,
+  "totalScanned": 1,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2342311,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "学好语言本质核心就是两件：精准理解 + 清晰表达\n人和人之间：语言用来传递想法\n和AI交互：语言是我唯一的工具",
+      "images": [],
+      "createdAt": "2026-09-03T08:01:28",
+      "ipLocation": "上海市",
+      "likeNum": 18
+    }
+  ]
+}
