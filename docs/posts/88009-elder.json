@@ -1,0 +1,33 @@
+{
+  "postId": "88009",
+  "fetchedAt": "2026-09-04T14:53:55+08:00",
+  "totalCommentNum": 2,
+  "totalScanned": 2,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2342527,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "没有“E”的人生会更好",
+      "images": [],
+      "createdAt": "2026-09-04T09:55:43",
+      "ipLocation": "北京市",
+      "likeNum": 27
+    },
+    {
+      "type": "top",
+      "id": 2342533,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "有“E”的人生应该是好一点点",
+      "images": [],
+      "createdAt": "2026-09-04T09:56:09",
+      "ipLocation": "北京市",
+      "likeNum": 8492
+    }
+  ]
+}
