@@ -1,0 +1,47 @@
+{
+  "postId": "88837",
+  "fetchedAt": "2026-09-12T14:49:42+08:00",
+  "totalCommentNum": 247,
+  "totalScanned": 231,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2348809,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大周末好~\n前三篇回顾：\n《长赢小组投资笔记-0001-260322》\n👉：https://qieman.com/content/content-detail?postId=71239\n《长赢小组投资笔记-0002-260425》\n👉：https://qieman.com/content/content-detail?postId=74233\n《长赢小组投资笔记-0003-260516》\n👉：https://qieman.com/content/content-detail?postId=75529\n",
+      "images": [],
+      "createdAt": "2026-09-12T13:20:51",
+      "ipLocation": "",
+      "likeNum": 35
+    },
+    {
+      "type": "reply",
+      "id": 2349661,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【1】更新一下A数字宽基走势对比图\n分别是：\n•\t点位（基日1000点 2004-12-31 起）\n•\t涨跌幅 （A50“诞生”以后，2014-12-31起）\n==备注==\n中证A500（000510）\n发布日期2024-09-23\n基日2004-12-31（基点1000）\n从各行业选取市值较大、流动性较好的500只证券作为指数样本。\n2024年才有的其实，\n所以发布之后的点位是实时真实计算；\n但之前的历史序列，是中证指数公司用这套固定编制规则，回溯回测算出来的，也就是假设这套选股 / 调样 / 加权规则当年就存在，倒推出来的历史走势，不是当年真实就存在的指数。\n【2】创业板也挺好的\n创业全收益，年化8.4%（创业板诞生以来）\n红利全收益，年化8.6%（同期）\n【3】\n借老大的宽基PE图用用，感谢分享，因为每次都会盯着仔仔细细地看，所以顺手把名字和轴右侧数也再标注了一下。\n",
+      "images": [
+        "https://cdn-community.qieman.com/D99B39D6-E400-4EEA-8E66-998FC452CD3C.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/20F0166B-CCA0-4269-B6EF-720B2A02CA87.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/0C3D9430-6599-4E78-A391-8779CB8770F3.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_47,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-09-12T13:59:04",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 2348809,
+        "userName": "新米练习菌",
+        "content": "E大周末好~\n前三篇回顾：\n《长赢小组投资笔记-0001-260322》\n👉：https://qieman.com/content/content-detail?postId=71239\n《长赢小组投资笔记-0002-260425》\n👉：https://qieman.com/content/content-detail?postId=74233\n《长赢小组投资笔记-0003-260516》\n👉：https://qieman.com/content/content-detail?postId=75529\n",
+        "images": [],
+        "createdAt": "2026-09-12T13:20:51",
+        "ipLocation": "",
+        "likeNum": 35
+      },
+      "replyTo": null
+    }
+  ]
+}
