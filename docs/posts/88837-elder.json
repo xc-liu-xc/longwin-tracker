@@ -1,9 +1,9 @@
 {
   "postId": "88837",
-  "fetchedAt": "2026-09-12T14:49:42+08:00",
+  "fetchedAt": "2026-09-13T15:08:15+08:00",
   "totalCommentNum": 247,
-  "totalScanned": 231,
-  "expandedTopLevel": 1,
+  "totalScanned": 410,
+  "expandedTopLevel": 4,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -15,8 +15,8 @@
       "content": "E大周末好~\n前三篇回顾：\n《长赢小组投资笔记-0001-260322》\n👉：https://qieman.com/content/content-detail?postId=71239\n《长赢小组投资笔记-0002-260425》\n👉：https://qieman.com/content/content-detail?postId=74233\n《长赢小组投资笔记-0003-260516》\n👉：https://qieman.com/content/content-detail?postId=75529\n",
       "images": [],
       "createdAt": "2026-09-12T13:20:51",
-      "ipLocation": "",
-      "likeNum": 35
+      "ipLocation": "上海市",
+      "likeNum": 105
     },
     {
       "type": "reply",
@@ -31,15 +31,38 @@
       ],
       "createdAt": "2026-09-12T13:59:04",
       "ipLocation": "上海市",
-      "likeNum": 11,
+      "likeNum": 73,
       "parent": {
         "id": 2348809,
         "userName": "新米练习菌",
         "content": "E大周末好~\n前三篇回顾：\n《长赢小组投资笔记-0001-260322》\n👉：https://qieman.com/content/content-detail?postId=71239\n《长赢小组投资笔记-0002-260425》\n👉：https://qieman.com/content/content-detail?postId=74233\n《长赢小组投资笔记-0003-260516》\n👉：https://qieman.com/content/content-detail?postId=75529\n",
         "images": [],
         "createdAt": "2026-09-12T13:20:51",
-        "ipLocation": "",
-        "likeNum": 35
+        "ipLocation": "上海市",
+        "likeNum": 105
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2350075,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "笔记看完了（请允许我再写一点点留言）\n看数据看图觉得好精彩，原来全市场PE超过十年均线还“挺多”，且持续了几个月，但跌下来也好快啊，又快到五年均线了。\n科技大年，一边双击，涨业绩涨估值；一边双杀，杀估值杀业绩。但股市走在前面，业绩其实提前反应在了股价里。\n高业绩还能撑得起高估值，但一切都是周期，没有永远高景气的行业，利润高增速不可持续，一旦增速不在，甚至还在，但不及预期，就会被抛弃；\n同样，低迷的，早被嫌弃很久了，业绩增速差之后才被验证的下跌逻辑，但也不会永远消沉，这两行业可是刚需，生意还在做的。\n所以，还是蛰伏的打法好，提前蹲在低估的地方，等轮到TA，修复，回归，增长，又赚业绩，又赚估值，又安全。\n---\n【附】关于军工 年初的发言 回顾\n（PE： 88 → 100 → 102  →  110 → 77 Now）\t\n（对应点位：13454 → 14823 → 14721 →  16868 → 11804 Now）\n",
+      "images": [
+        "https://cdn-community.qieman.com/7EB352F0-EA6C-4C19-9A0B-C876BD773B75.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_31,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-09-12T15:05:32",
+      "ipLocation": "上海市",
+      "likeNum": 62,
+      "parent": {
+        "id": 2348809,
+        "userName": "新米练习菌",
+        "content": "E大周末好~\n前三篇回顾：\n《长赢小组投资笔记-0001-260322》\n👉：https://qieman.com/content/content-detail?postId=71239\n《长赢小组投资笔记-0002-260425》\n👉：https://qieman.com/content/content-detail?postId=74233\n《长赢小组投资笔记-0003-260516》\n👉：https://qieman.com/content/content-detail?postId=75529\n",
+        "images": [],
+        "createdAt": "2026-09-12T13:20:51",
+        "ipLocation": "上海市",
+        "likeNum": 105
       },
       "replyTo": null
     }
