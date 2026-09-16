@@ -1,0 +1,62 @@
+{
+  "postId": "89029",
+  "fetchedAt": "2026-09-16T15:09:14+08:00",
+  "totalCommentNum": 222,
+  "totalScanned": 180,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2370685,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大傍晚好~\n各国：",
+      "images": [
+        "https://cdn-community.qieman.com/ED751E05-BF44-4965-BDA8-5DACD0490BD0.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_26,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-09-15T18:27:35",
+      "ipLocation": "上海市",
+      "likeNum": 102
+    },
+    {
+      "type": "top",
+      "id": 2371075,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "仔细阅读学习中，结合文意，对于「定存梯」的理解和复述：\n假设准备拿60万做定存梯（取整数容易计算），参考老大的6档例子：\n把60万拆成6份，每份10万\n \n- 10万：1年期\n​\n- 10万：2年期\n​\n- 10万：3年期\n​\n- 10万：4年期\n​\n- 10万：5年期\n\n- 10万：6年期\n \n一年之后：1年期到期，拿回本金+利息。\n这时再把这笔钱，新存一份6年期。\n第二年：原来2年期到期，继续新开一笔6年期。\n循环往复。\n最后形成一个状态：每年都有一笔到期，永远滚动。\n（找了个图）\n————\n好处：\n1. 平滑利率波动\n - 如果之后加息：每年到期那笔钱，就可以按更高的新利率存进去，整体收益慢慢抬升。\n​- 如果之后降息：之前存下的那些长期存单，高利率已经锁定，不受降息影响。只有每年到期那一笔才会按新的低利率续存，不会全部资金一下子收益缩水。\n 2. 流动性更好\n一笔大额资金全部锁死6年，中途急用钱提前支取会损失大量利息。\n定存梯每年都有一笔钱到期，相当于每年有一笔备用现金流，兼顾收益和灵活性。",
+      "images": [
+        "https://cdn-community.qieman.com/7E57AA91-7F7D-430D-B94F-1CA704AFBC9B.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_14,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-09-15T18:47:21",
+      "ipLocation": "上海市",
+      "likeNum": 34
+    },
+    {
+      "type": "reply",
+      "id": 2371105,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "仔细阅读学习中，结合文意，对于「定存梯」的理解和复述：\n假设准备拿60万做定存梯（取整数容易计算），参考老大的6档例子：\n把60万拆成6份，每份10万\n- 10万：1年期\n​- 10万：2年期\n​- 10万：3年期\n​- 10万：4年期\n- 10万：5年期\n- 10万：6年期\n一年之后：1年期存单到期，拿回本金+利息。\n这时再把这笔钱，新存一份6年期。\n第二年：原来2年期到期，继续新开一笔6年期。\n循环往复。\n最后形成一个状态：每年都有一笔存单到期，永远滚动。\n（找了个图）\n————\n好处：\n1. 平滑利率波动\n- 如果之后加息：每年到期那笔钱，就可以按更高的新利率存进去，整体收益慢慢抬升。\n​- 如果之后降息：之前存下的那些长期存单，高利率已经锁定，不受降息影响。只有每年到期那一笔才会按新的低利率续存，不会全部资金一下子收益缩水。\n2. 流动性更好\n一笔大额资金全部锁死6年，中途急用钱提前支取会损失大量利息。\n定存梯每年都有一笔钱到期，相当于每年有一笔备用现金流，兼顾收益和灵活性。",
+      "images": [
+        "https://cdn-community.qieman.com/9F3831B5-9CE2-4FC1-863C-DD68D4FE8588.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_14,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-09-15T18:49:55",
+      "ipLocation": "上海市",
+      "likeNum": 104,
+      "parent": {
+        "id": 2370685,
+        "userName": "新米练习菌",
+        "content": "E大傍晚好~\n各国：",
+        "images": [
+          "https://cdn-community.qieman.com/ED751E05-BF44-4965-BDA8-5DACD0490BD0.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_26,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-09-15T18:27:35",
+        "ipLocation": "上海市",
+        "likeNum": 102
+      },
+      "replyTo": null
+    }
+  ]
+}
