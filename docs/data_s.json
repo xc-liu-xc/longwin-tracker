@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-09-17 15:05 CST",
+  "updatedAt": "2026-09-18 14:58 CST",
   "poName": "长赢指数投资计划-S定投",
-  "totalUnit": 220,
-  "investedUnit": 88,
-  "adjustedCount": 197,
-  "totalBuy": 167,
+  "totalUnit": 221,
+  "investedUnit": 89,
+  "adjustedCount": 198,
+  "totalBuy": 168,
   "totalSell": 83,
   "recentSignals": [
+    {
+      "date": "2026-09-18",
+      "action": "buy",
+      "fundCode": "006327",
+      "fundName": "易方达中证海外联接人民币A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/25675",
+      "l1": "海外新兴"
+    },
     {
       "date": "2026-08-24",
       "action": "sell",
@@ -122,24 +131,6 @@
       "fundName": "汇添富中证主要消费ETF联接A",
       "unit": 1,
       "articleLink": "https://qieman.com/content/items/23983",
-      "l1": "A股"
-    },
-    {
-      "date": "2026-06-05",
-      "action": "buy",
-      "fundCode": "007169",
-      "fundName": "易方达中债1-3年国开债A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23671",
-      "l1": "其他"
-    },
-    {
-      "date": "2026-06-05",
-      "action": "sell",
-      "fundCode": "100032",
-      "fundName": "富国中证红利指数增强A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/23671",
       "l1": "A股"
     }
   ],
@@ -971,6 +962,38 @@
       "l1": "其他"
     },
     {
+      "fundCode": "006327",
+      "fundName": "易方达中证海外联接人民币A",
+      "bought": 3,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-09-18",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/25675",
+          "l1": "海外新兴"
+        },
+        {
+          "date": "2026-03-06",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/22369",
+          "l1": "海外新兴"
+        },
+        {
+          "date": "2021-09-27",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/Co06iEW7CVewD4duhnfjYQ",
+          "l1": "海外新兴"
+        }
+      ],
+      "currentUnit": 3,
+      "latestDate": "2026-09-18",
+      "l1": "海外新兴"
+    },
+    {
       "fundCode": "519915",
       "fundName": "富国消费主题混合A",
       "bought": 3,
@@ -1164,31 +1187,6 @@
       "currentUnit": 2,
       "latestDate": "2026-03-03",
       "l1": "债券"
-    },
-    {
-      "fundCode": "006327",
-      "fundName": "易方达中证海外联接人民币A",
-      "bought": 2,
-      "sold": 0,
-      "history": [
-        {
-          "date": "2026-03-06",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/22369",
-          "l1": "海外新兴"
-        },
-        {
-          "date": "2021-09-27",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/Co06iEW7CVewD4duhnfjYQ",
-          "l1": "海外新兴"
-        }
-      ],
-      "currentUnit": 2,
-      "latestDate": "2026-03-06",
-      "l1": "海外新兴"
     },
     {
       "fundCode": "110022",
