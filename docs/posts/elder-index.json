@@ -11677,10 +11677,10 @@
       "新米练习菌": 3
     },
     "totalCommentNum": 247,
-    "totalScanned": 516,
+    "totalScanned": 519,
     "expandedTopLevel": 5,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:00:57+08:00"
+    "fetchedAt": "2026-09-19T15:00:33+08:00"
   },
   "88819": {
     "elderCount": 0,
@@ -11689,7 +11689,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:00:57+08:00"
+    "fetchedAt": "2026-09-19T15:00:33+08:00"
   },
   "88879": {
     "elderCount": 1,
@@ -11697,10 +11697,10 @@
       "新米练习菌": 1
     },
     "totalCommentNum": 1741,
-    "totalScanned": 3298,
+    "totalScanned": 3321,
     "expandedTopLevel": 2,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:03:43+08:00"
+    "fetchedAt": "2026-09-19T15:04:07+08:00"
   },
   "89089": {
     "elderCount": 0,
@@ -11709,7 +11709,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:00:19+08:00"
+    "fetchedAt": "2026-09-19T14:59:41+08:00"
   },
   "89119": {
     "elderCount": 0,
@@ -11718,7 +11718,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:00:19+08:00"
+    "fetchedAt": "2026-09-19T14:59:41+08:00"
   },
   "89077": {
     "elderCount": 0,
@@ -11727,7 +11727,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:00:20+08:00"
+    "fetchedAt": "2026-09-19T14:59:42+08:00"
   },
   "89107": {
     "elderCount": 1,
@@ -11738,7 +11738,7 @@
     "totalScanned": 1,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:00:20+08:00"
+    "fetchedAt": "2026-09-19T14:59:43+08:00"
   },
   "89029": {
     "elderCount": 3,
@@ -11746,10 +11746,10 @@
       "新米练习菌": 3
     },
     "totalCommentNum": 222,
-    "totalScanned": 220,
-    "expandedTopLevel": 3,
+    "totalScanned": 227,
+    "expandedTopLevel": 2,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:00:32+08:00"
+    "fetchedAt": "2026-09-19T14:59:59+08:00"
   },
   "89161": {
     "elderCount": 0,
@@ -11758,7 +11758,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:00:21+08:00"
+    "fetchedAt": "2026-09-19T14:59:44+08:00"
   },
   "89371": {
     "elderCount": 0,
@@ -11767,7 +11767,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:00:17+08:00"
+    "fetchedAt": "2026-09-19T14:59:38+08:00"
   },
   "89383": {
     "elderCount": 0,
@@ -11776,7 +11776,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:00:18+08:00"
+    "fetchedAt": "2026-09-19T14:59:39+08:00"
   },
   "89377": {
     "elderCount": 0,
@@ -11785,7 +11785,7 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:00:18+08:00"
+    "fetchedAt": "2026-09-19T14:59:39+08:00"
   },
   "89407": {
     "elderCount": 0,
@@ -11794,6 +11794,42 @@
     "totalScanned": 0,
     "expandedTopLevel": 0,
     "truncatedTopLevel": 0,
-    "fetchedAt": "2026-09-18T15:00:18+08:00"
+    "fetchedAt": "2026-09-19T14:59:40+08:00"
+  },
+  "89473": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 0,
+    "totalScanned": 0,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-09-19T14:59:35+08:00"
+  },
+  "89455": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 0,
+    "totalScanned": 0,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-09-19T14:59:36+08:00"
+  },
+  "89461": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 0,
+    "totalScanned": 0,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-09-19T14:59:37+08:00"
+  },
+  "89467": {
+    "elderCount": 0,
+    "byAuthor": {},
+    "totalCommentNum": 0,
+    "totalScanned": 0,
+    "expandedTopLevel": 0,
+    "truncatedTopLevel": 0,
+    "fetchedAt": "2026-09-19T14:59:38+08:00"
   }
 }
