@@ -1,0 +1,64 @@
+{
+  "postId": "90127",
+  "fetchedAt": "2026-09-28T16:10:40+08:00",
+  "totalCommentNum": 317,
+  "totalScanned": 295,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2383345,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大下午好，\n今天大跌都跌在“别人”身上，\n还买到了想买的，元气弹有用，想起了往年“发车”容易碰到“现象”没有发生，心情挺好的。\n人与人的悲欢并不相通。\n关于黄金，好，没有想法，就一个好字。\n做个笔记和设个提醒单去。\n好。\n",
+      "images": [
+        "https://cdn-community.qieman.com/310D58CC-B19E-46DA-92C3-2F90EE52F7AE.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/9706852B-E21B-4DFE-904C-7EF969AC7B71.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_21,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/EB9AE1B3-1899-423E-8FD9-41BE74603841.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_36,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-09-28T15:03:31",
+      "ipLocation": "",
+      "likeNum": 4
+    },
+    {
+      "type": "top",
+      "id": 2383663,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "也有可能700以下买。得看情况。",
+      "images": [],
+      "createdAt": "2026-09-28T15:08:19",
+      "ipLocation": "北京市",
+      "likeNum": 64
+    },
+    {
+      "type": "reply",
+      "id": 2384449,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "黄金TD",
+      "images": [
+        "https://cdn-community.qieman.com/D9259A83-2455-4A87-BC10-E847F5757884.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_39,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-09-28T15:52:44",
+      "ipLocation": "",
+      "likeNum": 2,
+      "parent": {
+        "id": 2383345,
+        "userName": "新米练习菌",
+        "content": "E大下午好，\n今天大跌都跌在“别人”身上，\n还买到了想买的，元气弹有用，想起了往年“发车”容易碰到“现象”没有发生，心情挺好的。\n人与人的悲欢并不相通。\n关于黄金，好，没有想法，就一个好字。\n做个笔记和设个提醒单去。\n好。\n",
+        "images": [
+          "https://cdn-community.qieman.com/310D58CC-B19E-46DA-92C3-2F90EE52F7AE.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/9706852B-E21B-4DFE-904C-7EF969AC7B71.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_21,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/EB9AE1B3-1899-423E-8FD9-41BE74603841.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_36,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-09-28T15:03:31",
+        "ipLocation": "",
+        "likeNum": 4
+      },
+      "replyTo": null
+    }
+  ]
+}
