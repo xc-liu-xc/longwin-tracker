@@ -1,0 +1,22 @@
+{
+  "postId": "90235",
+  "fetchedAt": "2026-09-29T15:50:52+08:00",
+  "totalCommentNum": 1,
+  "totalScanned": 1,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2385691,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "如果能做两次波段就更好了🙂",
+      "images": [],
+      "createdAt": "2026-09-29T10:29:23",
+      "ipLocation": "北京市",
+      "likeNum": 150
+    }
+  ]
+}
