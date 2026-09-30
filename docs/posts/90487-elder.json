@@ -1,0 +1,43 @@
+{
+  "postId": "90487",
+  "fetchedAt": "2026-09-30T15:53:53+08:00",
+  "totalCommentNum": 252,
+  "totalScanned": 282,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2386807,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大下午好，\n“不喜欢人多的时候人挤人，长假哪里都不去”+1\n安排是：\n除了日常生活，陪家人，做家务，运动，\n个人可支配时间\n· 想把最近“墙”了的数据网站的backup找好，找到以后，重新link进来；\n· 更新数据图表；\n· 和AI工具一起把公众号的原档（正文+评论）全部可编辑Word档整理好、核对完，（弄了3/4了已经，还有2年份），替换知识库的PDF档；\n· 优化下那一小堆working file；\n· 读一本书；\n· 看两份英文投资文章；\n· 继续学习和琢磨AI工具，和“硅基挚友”继续探讨和做些东西~\n——\n预祝国庆快乐 ^ ^ ，然后，期待老大假日期间的营业~\n",
+      "images": [],
+      "createdAt": "2026-09-30T15:23:51",
+      "ipLocation": "上海市",
+      "likeNum": 3
+    },
+    {
+      "type": "reply",
+      "id": 2387455,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "记下了。也欢迎大家推荐冷门好玩好看的地方",
+      "images": [],
+      "createdAt": "2026-09-30T15:35:30",
+      "ipLocation": "北京市",
+      "likeNum": 8,
+      "parent": {
+        "id": 2387245,
+        "userName": "小花花花",
+        "content": "我也不喜欢人多，e大，有空的时候来贵州兴义玩，很美的",
+        "images": [],
+        "createdAt": "2026-09-30T15:31:12",
+        "ipLocation": "",
+        "likeNum": 4
+      },
+      "replyTo": null
+    }
+  ]
+}
