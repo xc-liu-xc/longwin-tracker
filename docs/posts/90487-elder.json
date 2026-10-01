@@ -1,9 +1,9 @@
 {
   "postId": "90487",
-  "fetchedAt": "2026-09-30T15:53:53+08:00",
+  "fetchedAt": "2026-10-01T16:15:32+08:00",
   "totalCommentNum": 252,
-  "totalScanned": 282,
-  "expandedTopLevel": 2,
+  "totalScanned": 568,
+  "expandedTopLevel": 3,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-09-30T15:23:51",
       "ipLocation": "上海市",
-      "likeNum": 3
+      "likeNum": 54
     },
     {
       "type": "reply",
@@ -27,15 +27,40 @@
       "images": [],
       "createdAt": "2026-09-30T15:35:30",
       "ipLocation": "北京市",
-      "likeNum": 8,
+      "likeNum": 74,
       "parent": {
         "id": 2387245,
         "userName": "小花花花",
         "content": "我也不喜欢人多，e大，有空的时候来贵州兴义玩，很美的",
         "images": [],
         "createdAt": "2026-09-30T15:31:12",
-        "ipLocation": "",
-        "likeNum": 4
+        "ipLocation": "贵州省",
+        "likeNum": 57
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2387983,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "给老大看下效果，理的GZH原档资料，大概是这样的\n（让“硅基挚友”帮我一起理的~）\n任务就是： \n扒下来的完整PDF → 转成可编辑的WORD文档 → 整理文档格式 → 整理评论区 \nPDF转出来的格式真的非常的乱，我把整理规范（包括：文档命名方式，标题，字体，颜色，大小，段落……等等一堆规则）& 判断标准都写给了TA，做几个样例发给TA，反复调试后，开始让TA帮忙做。 \n然后，有个key步骤\n——就把E大的回复评论对话，全部提取好排到最前面来。\n（评论区有很多好多好东西，统统要捞回来！）\n（过程中全文不许删减、改动任何一个字，保留原图片，流程中如果有不确定，和我确认，不能自己直接执行掉。TA做一批，我验收一批。)\n国庆节应该就可以全部弄好了，GZH 11年有近500份文档~\n弄好了，弄XQ（也是评论区“交互和排版很不友好”的地方），为后续的分类归拢整理打下良好的基础。\n想做和要做的事可多可多了，出行喜欢错峰（时间&空间），“高峰出去玩”真的没有兴趣…觉得（包含但不限于）累、贵、挤、乱、吵…果然，长假还是要喜欢宅着学习和工作~\n",
+      "images": [
+        "https://cdn-community.qieman.com/120C98B5-D435-4FE2-BBC8-4EF87B39E1E7.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/59F4E6BE-A513-404A-B0C9-2175C05BF19E.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_28,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/DFF93FD0-98BF-45CE-B5D9-AD4ED3181A41.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-09-30T15:51:02",
+      "ipLocation": "上海市",
+      "likeNum": 76,
+      "parent": {
+        "id": 2386807,
+        "userName": "新米练习菌",
+        "content": "E大下午好，\n“不喜欢人多的时候人挤人，长假哪里都不去”+1\n安排是：\n除了日常生活，陪家人，做家务，运动，\n个人可支配时间\n· 想把最近“墙”了的数据网站的backup找好，找到以后，重新link进来；\n· 更新数据图表；\n· 和AI工具一起把公众号的原档（正文+评论）全部可编辑Word档整理好、核对完，（弄了3/4了已经，还有2年份），替换知识库的PDF档；\n· 优化下那一小堆working file；\n· 读一本书；\n· 看两份英文投资文章；\n· 继续学习和琢磨AI工具，和“硅基挚友”继续探讨和做些东西~\n——\n预祝国庆快乐 ^ ^ ，然后，期待老大假日期间的营业~\n",
+        "images": [],
+        "createdAt": "2026-09-30T15:23:51",
+        "ipLocation": "上海市",
+        "likeNum": 54
       },
       "replyTo": null
     }
