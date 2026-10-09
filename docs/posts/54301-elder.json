@@ -1,0 +1,32 @@
+{
+  "postId": "54301",
+  "fetchedAt": "2026-10-09T16:25:47+08:00",
+  "totalCommentNum": 31,
+  "totalScanned": 26,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 819337,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "一样的。当时这里没法发高清图，现在能发了。",
+      "images": [],
+      "createdAt": "2025-12-31T16:58:39",
+      "ipLocation": "上海市",
+      "likeNum": 4,
+      "parent": {
+        "id": 818005,
+        "userName": "六一小星星",
+        "content": "完了，微博的没有保存，且慢的不清晰，只能慢慢一点点看了，多谢分享",
+        "images": [],
+        "createdAt": "2025-12-31T14:40:28",
+        "ipLocation": "山东省",
+        "likeNum": 0
+      },
+      "replyTo": null
+    }
+  ]
+}
