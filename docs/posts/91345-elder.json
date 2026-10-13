@@ -1,0 +1,24 @@
+{
+  "postId": "91345",
+  "fetchedAt": "2026-10-13T16:56:19+08:00",
+  "totalCommentNum": 1,
+  "totalScanned": 1,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2403835,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【附】2024年2月科创50的WB",
+      "images": [
+        "https://cdn-community.qieman.com/41578B52-CB5B-425E-9BA0-36A7D582EB2A.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_14,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-12T22:30:18",
+      "ipLocation": "上海市",
+      "likeNum": 10
+    }
+  ]
+}
