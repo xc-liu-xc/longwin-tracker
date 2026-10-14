@@ -1,0 +1,110 @@
+{
+  "postId": "91573",
+  "fetchedAt": "2026-10-14T15:04:15+08:00",
+  "totalCommentNum": 226,
+  "totalScanned": 191,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2405659,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "人民币升值+美债下跌。你看中期美债收益率已经到5.2%了。一两个月前才4.3%。这一两个月下跌比较快。",
+      "images": [],
+      "createdAt": "2026-10-14T10:05:11",
+      "ipLocation": "北京市",
+      "likeNum": 59,
+      "parent": {
+        "id": 2405539,
+        "userName": "hiBingo",
+        "content": "问下E大，美元债为啥近半年可以跌四五个点，是人民币升值吗？",
+        "images": [],
+        "createdAt": "2026-10-14T10:01:40",
+        "ipLocation": "广东省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2405671,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "通胀后本金。利息是半年付一次。",
+      "images": [],
+      "createdAt": "2026-10-14T10:05:40",
+      "ipLocation": "北京市",
+      "likeNum": 50,
+      "parent": {
+        "id": 2405491,
+        "userName": "红魔披头士",
+        "content": "第三支债券是不是可以理解为类似于跟踪CPI的指数基金，只是额外给了利息。还有，他结算利息是按初始本金核算呢还是按通胀后的本金核算？",
+        "images": [],
+        "createdAt": "2026-10-14T10:00:49",
+        "ipLocation": "山西省",
+        "likeNum": 4
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2405713,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "汇率有涨就有跌。我个人不相信rmb会一直涨上去。rmb兑usd一直是一个区间波动。",
+      "images": [],
+      "createdAt": "2026-10-14T10:07:17",
+      "ipLocation": "北京市",
+      "likeNum": 62,
+      "parent": {
+        "id": 2405287,
+        "userName": "Darren_",
+        "content": "E大，我自己也买了这个基金，本来希望连同标普纳指一起做再平衡。但其实收益并不好，这里面汇率有很大因素，以标普纳指的单边上涨，也没有按计划再平衡。想请教E大，是觉得这时候已经不需要考虑这个因素了吗？还是配置的考虑超过汇率风险？谢谢",
+        "images": [],
+        "createdAt": "2026-10-14T09:56:36",
+        "ipLocation": "上海市",
+        "likeNum": 4
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2405815,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好，\n学习了，非常清楚。\n嗯，关于（图2）US-T Govt Note 4.0 Nov15'35\n我的理解是：美国中期国债，票面利率 4%，2035-11-15 到期\n面值默认：100 美元\n现在买价：91.344美元\n到期收益率 ：5.208%\n本来100美元的，只要91美元就能买到，除了本来4%的票息，还有一笔差价，折算进去，到期就有5.2%。\n好比：一张100块的定期存单，纸面写着每年利息 4 块，到期兑100块。但现在别人急用钱，91 块卖给我这张存单，每年依旧有4 块利息，等2035年到期拿 100块，综合回报高于 4%，有 5.2%。\n",
+      "images": [],
+      "createdAt": "2026-10-14T10:10:00",
+      "ipLocation": "上海市",
+      "likeNum": 53
+    },
+    {
+      "type": "reply",
+      "id": 2405953,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "之前WB上教的金融计算器：\n① ：http://t.cn/A6uHBj0R\n② ：http://t.cn/A6uHBj08\n【图2】用Excel的话是【图3】",
+      "images": [
+        "https://cdn-community.qieman.com/098D2F6C-15C0-4F1A-BF6D-7EE4E989BA64.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_20,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/90189A95-61AC-4123-B7E2-4385AD655AFE.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_29,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/4F00C3E1-3794-4D84-84E3-08671D4F4EE9.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_14,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-14T10:18:26",
+      "ipLocation": "上海市",
+      "likeNum": 53,
+      "parent": {
+        "id": 2405815,
+        "userName": "新米练习菌",
+        "content": "E大早上好，\n学习了，非常清楚。\n嗯，关于（图2）US-T Govt Note 4.0 Nov15'35\n我的理解是：美国中期国债，票面利率 4%，2035-11-15 到期\n面值默认：100 美元\n现在买价：91.344美元\n到期收益率 ：5.208%\n本来100美元的，只要91美元就能买到，除了本来4%的票息，还有一笔差价，折算进去，到期就有5.2%。\n好比：一张100块的定期存单，纸面写着每年利息 4 块，到期兑100块。但现在别人急用钱，91 块卖给我这张存单，每年依旧有4 块利息，等2035年到期拿 100块，综合回报高于 4%，有 5.2%。\n",
+        "images": [],
+        "createdAt": "2026-10-14T10:10:00",
+        "ipLocation": "上海市",
+        "likeNum": 53
+      },
+      "replyTo": null
+    }
+  ]
+}
