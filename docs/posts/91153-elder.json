@@ -1,6 +1,6 @@
 {
   "postId": "91153",
-  "fetchedAt": "2026-10-14T15:04:33+08:00",
+  "fetchedAt": "2026-10-15T15:02:10+08:00",
   "totalCommentNum": 237,
   "totalScanned": 194,
   "expandedTopLevel": 3,
@@ -58,7 +58,7 @@
       ],
       "createdAt": "2026-10-12T10:44:24",
       "ipLocation": "上海市",
-      "likeNum": 47,
+      "likeNum": 48,
       "parent": {
         "id": 2395051,
         "userName": "新米练习菌",

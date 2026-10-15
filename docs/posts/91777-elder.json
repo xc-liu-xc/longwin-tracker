@@ -1,0 +1,22 @@
+{
+  "postId": "91777",
+  "fetchedAt": "2026-10-15T14:55:26+08:00",
+  "totalCommentNum": 1,
+  "totalScanned": 1,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2449033,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "生还了，三宝红了两。",
+      "images": [],
+      "createdAt": "2026-10-15T09:46:59",
+      "ipLocation": "",
+      "likeNum": 13
+    }
+  ]
+}

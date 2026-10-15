@@ -1,0 +1,22 @@
+{
+  "postId": "91837",
+  "fetchedAt": "2026-10-15T14:55:23+08:00",
+  "totalCommentNum": 1,
+  "totalScanned": 1,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2451805,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "创业板已经回撤接近40%了。太暴力了。",
+      "images": [],
+      "createdAt": "2026-10-15T11:47:01",
+      "ipLocation": "北京市",
+      "likeNum": 252
+    }
+  ]
+}
