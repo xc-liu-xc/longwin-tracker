@@ -1,0 +1,22 @@
+{
+  "postId": "92029",
+  "fetchedAt": "2026-10-16T14:45:24+08:00",
+  "totalCommentNum": 1,
+  "totalScanned": 1,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2458483,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "对就是我们持有的那个全球医药基金。",
+      "images": [],
+      "createdAt": "2026-10-15T21:54:28",
+      "ipLocation": "北京市",
+      "likeNum": 200
+    }
+  ]
+}

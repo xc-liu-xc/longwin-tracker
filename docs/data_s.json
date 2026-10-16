@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-10-15 14:53 CST",
+  "updatedAt": "2026-10-16 14:40 CST",
   "poName": "长赢指数投资计划-S定投",
-  "totalUnit": 222,
-  "investedUnit": 88,
-  "adjustedCount": 201,
-  "totalBuy": 171,
+  "totalUnit": 223,
+  "investedUnit": 89,
+  "adjustedCount": 202,
+  "totalBuy": 172,
   "totalSell": 83,
   "recentSignals": [
+    {
+      "date": "2026-10-16",
+      "action": "buy",
+      "fundCode": "001257",
+      "fundName": "兴业收益增强债券A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/26029",
+      "l1": "其他"
+    },
     {
       "date": "2026-10-12",
       "action": "buy",
@@ -105,33 +114,6 @@
       "unit": 1,
       "articleLink": "https://qieman.com/content/items/24157",
       "l1": "其他"
-    },
-    {
-      "date": "2026-06-25",
-      "action": "buy",
-      "fundCode": "020602",
-      "fundName": "易方达中证红利低波动联接A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/24109",
-      "l1": "其他"
-    },
-    {
-      "date": "2026-06-25",
-      "action": "sell",
-      "fundCode": "000478",
-      "fundName": "建信中证500指数增强A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/24109",
-      "l1": "A股"
-    },
-    {
-      "date": "2026-06-25",
-      "action": "sell",
-      "fundCode": "502010",
-      "fundName": "易方达中证全指证券公司指数(LOF)A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/24109",
-      "l1": "A股"
     }
   ],
   "holdings": [
@@ -994,6 +976,38 @@
       "l1": "海外新兴"
     },
     {
+      "fundCode": "001257",
+      "fundName": "兴业收益增强债券A",
+      "bought": 3,
+      "sold": 0,
+      "history": [
+        {
+          "date": "2026-10-16",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/26029",
+          "l1": "其他"
+        },
+        {
+          "date": "2026-10-12",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/25909",
+          "l1": "其他"
+        },
+        {
+          "date": "2026-10-08",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/25867",
+          "l1": "其他"
+        }
+      ],
+      "currentUnit": 3,
+      "latestDate": "2026-10-16",
+      "l1": "其他"
+    },
+    {
       "fundCode": "519915",
       "fundName": "富国消费主题混合A",
       "bought": 3,
@@ -1275,31 +1289,6 @@
       ],
       "currentUnit": 2,
       "latestDate": "2026-09-28",
-      "l1": "其他"
-    },
-    {
-      "fundCode": "001257",
-      "fundName": "兴业收益增强债券A",
-      "bought": 2,
-      "sold": 0,
-      "history": [
-        {
-          "date": "2026-10-12",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/25909",
-          "l1": "其他"
-        },
-        {
-          "date": "2026-10-08",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://qieman.com/content/items/25867",
-          "l1": "其他"
-        }
-      ],
-      "currentUnit": 2,
-      "latestDate": "2026-10-12",
       "l1": "其他"
     },
     {

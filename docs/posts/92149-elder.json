@@ -1,0 +1,33 @@
+{
+  "postId": "92149",
+  "fetchedAt": "2026-10-16T14:44:37+08:00",
+  "totalCommentNum": 1897,
+  "totalScanned": 2171,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2465017,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这个分配框架和规则制定好全面，多重维度，时间&空间，长久陪伴、信任、资金、收益、共情、运气都考虑到了，公平公正，理性又藏着温柔。满满的心意❤️",
+      "images": [],
+      "createdAt": "2026-10-16T13:51:30",
+      "ipLocation": "",
+      "likeNum": 2
+    },
+    {
+      "type": "top",
+      "id": 2465575,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "其实也不是不能再多送，而是工作量什么的可能吃不消。以后争取多次多量。",
+      "images": [],
+      "createdAt": "2026-10-16T13:53:33",
+      "ipLocation": "北京市",
+      "likeNum": 169
+    }
+  ]
+}
