@@ -1,8 +1,8 @@
 {
   "postId": "91573",
-  "fetchedAt": "2026-10-16T14:45:42+08:00",
+  "fetchedAt": "2026-10-17T14:36:20+08:00",
   "totalCommentNum": 226,
-  "totalScanned": 274,
+  "totalScanned": 275,
   "expandedTopLevel": 3,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-10-14T10:05:11",
       "ipLocation": "北京市",
-      "likeNum": 84,
+      "likeNum": 85,
       "parent": {
         "id": 2405539,
         "userName": "hiBingo",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-10-14T10:05:40",
       "ipLocation": "北京市",
-      "likeNum": 74,
+      "likeNum": 77,
       "parent": {
         "id": 2405491,
         "userName": "红魔披头士",
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-10-14T10:07:17",
       "ipLocation": "北京市",
-      "likeNum": 92,
+      "likeNum": 94,
       "parent": {
         "id": 2405287,
         "userName": "Darren_",
@@ -79,7 +79,7 @@
       "images": [],
       "createdAt": "2026-10-14T10:10:00",
       "ipLocation": "上海市",
-      "likeNum": 81
+      "likeNum": 82
     },
     {
       "type": "reply",
@@ -102,7 +102,7 @@
         "images": [],
         "createdAt": "2026-10-14T10:10:00",
         "ipLocation": "上海市",
-        "likeNum": 81
+        "likeNum": 82
       },
       "replyTo": null
     }
