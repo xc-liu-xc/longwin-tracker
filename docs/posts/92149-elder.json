@@ -1,8 +1,8 @@
 {
   "postId": "92149",
-  "fetchedAt": "2026-10-18T14:59:58+08:00",
+  "fetchedAt": "2026-10-19T15:19:14+08:00",
   "totalCommentNum": 1897,
-  "totalScanned": 3474,
+  "totalScanned": 3729,
   "expandedTopLevel": 6,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -27,7 +27,33 @@
       "images": [],
       "createdAt": "2026-10-16T13:53:33",
       "ipLocation": "北京市",
-      "likeNum": 369
+      "likeNum": 405
+    },
+    {
+      "type": "reply",
+      "id": 2484961,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "多谢，翻了翻，收录了，更新了~依旧谢谢你",
+      "images": [],
+      "createdAt": "2026-10-19T12:47:29",
+      "ipLocation": "",
+      "likeNum": 0,
+      "parent": {
+        "id": 2465017,
+        "userName": "新米练习菌",
+        "content": "这个分配框架和规则制定好全面，多重维度，时间&空间，长久陪伴、信任、资金、收益、共情、运气都考虑到了，公平公正，理性又藏着温柔。满满的心意❤️",
+        "images": [],
+        "createdAt": "2026-10-16T13:51:30",
+        "ipLocation": "上海市",
+        "likeNum": 6
+      },
+      "replyTo": {
+        "id": 2483281,
+        "userName": "ETF拯救哈基咪",
+        "content": "那个，202609老大营业量统计，有3删，不知新米更新了没：\n\n\n20260921\n\nhttps://qieman.com/content/content-detail?postId=89623\n\n\n20260919\n\nhttps://qieman.com/content/content-detail?postId=89485\n\nhttps://qieman.com/content/content-detail?postId=89473",
+        "images": []
+      }
     }
   ]
 }
