@@ -1,8 +1,8 @@
 {
   "postId": "92149",
-  "fetchedAt": "2026-10-19T15:19:14+08:00",
+  "fetchedAt": "2026-10-20T15:09:17+08:00",
   "totalCommentNum": 1897,
-  "totalScanned": 3729,
+  "totalScanned": 3896,
   "expandedTopLevel": 6,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -27,7 +27,7 @@
       "images": [],
       "createdAt": "2026-10-16T13:53:33",
       "ipLocation": "北京市",
-      "likeNum": 405
+      "likeNum": 428
     },
     {
       "type": "reply",
@@ -37,7 +37,7 @@
       "content": "多谢，翻了翻，收录了，更新了~依旧谢谢你",
       "images": [],
       "createdAt": "2026-10-19T12:47:29",
-      "ipLocation": "",
+      "ipLocation": "上海市",
       "likeNum": 0,
       "parent": {
         "id": 2465017,

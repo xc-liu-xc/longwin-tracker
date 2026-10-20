@@ -1,0 +1,108 @@
+{
+  "postId": "92455",
+  "fetchedAt": "2026-10-20T15:05:21+08:00",
+  "totalCommentNum": 652,
+  "totalScanned": 565,
+  "expandedTopLevel": 7,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2486785,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大早上好，\n文体娱乐，最近的一笔是1.6081买入的，昨日净值1.6797，约4.5%的盈利空间，就当换个仓，问题不大的",
+      "images": [
+        "https://cdn-community.qieman.com/365B52A6-E0B0-4FFB-A60E-FE3134EE60A2.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-20T11:08:27",
+      "ipLocation": "上海市",
+      "likeNum": 5
+    },
+    {
+      "type": "reply",
+      "id": 2487997,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "符合跟车条件的会自动跟车。如果持有3份以上的也建议跟车。各位都不卖，集中度下不来麻烦就没法解决。",
+      "images": [],
+      "createdAt": "2026-10-20T11:21:39",
+      "ipLocation": "北京市",
+      "likeNum": 105,
+      "parent": {
+        "id": 2487235,
+        "userName": "小新是也",
+        "content": "是不是我今天不跟车就行了？",
+        "images": [],
+        "createdAt": "2026-10-20T11:13:00",
+        "ipLocation": "广东省",
+        "likeNum": 12
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2488027,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "不用。满3份才卖最后一份。",
+      "images": [],
+      "createdAt": "2026-10-20T11:22:06",
+      "ipLocation": "北京市",
+      "likeNum": 51,
+      "parent": {
+        "id": 2487169,
+        "userName": "oyf53号飞船驾驶员",
+        "content": "s里只有一两份的不做任何操作吧？",
+        "images": [],
+        "createdAt": "2026-10-20T11:12:31",
+        "ipLocation": "北京市",
+        "likeNum": 6
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2488057,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "可以是赎回的金额。",
+      "images": [],
+      "createdAt": "2026-10-20T11:22:26",
+      "ipLocation": "北京市",
+      "likeNum": 37,
+      "parent": {
+        "id": 2487139,
+        "userName": "财心安",
+        "content": "买入还是按之前的设置的每一份固定金额吗？",
+        "images": [],
+        "createdAt": "2026-10-20T11:12:15",
+        "ipLocation": "福建省",
+        "likeNum": 1
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2488099,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "建议别撤。你撤了集中度下不来，那就还得卖。如果你自动跟车了，直接计划外再买就行了。0摩擦成本。只是辛苦你要操作一下。",
+      "images": [],
+      "createdAt": "2026-10-20T11:23:46",
+      "ipLocation": "北京市",
+      "likeNum": 76,
+      "parent": {
+        "id": 2487037,
+        "userName": "劳资蜀道山",
+        "content": "如果是个人主动撤销卖出呢？这样可以吗",
+        "images": [],
+        "createdAt": "2026-10-20T11:11:15",
+        "ipLocation": "四川省",
+        "likeNum": 2
+      },
+      "replyTo": null
+    }
+  ]
+}

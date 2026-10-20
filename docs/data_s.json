@@ -1,12 +1,21 @@
 {
-  "updatedAt": "2026-10-19 15:13 CST",
+  "updatedAt": "2026-10-20 15:03 CST",
   "poName": "长赢指数投资计划-S定投",
-  "totalUnit": 222,
-  "investedUnit": 89,
-  "adjustedCount": 202,
+  "totalUnit": 221,
+  "investedUnit": 88,
+  "adjustedCount": 203,
   "totalBuy": 172,
-  "totalSell": 83,
+  "totalSell": 84,
   "recentSignals": [
+    {
+      "date": "2026-10-20",
+      "action": "sell",
+      "fundCode": "004424",
+      "fundName": "汇添富文体娱乐混合A",
+      "unit": 1,
+      "articleLink": "https://qieman.com/content/items/26089",
+      "l1": "A股"
+    },
     {
       "date": "2026-10-16",
       "action": "buy",
@@ -105,15 +114,6 @@
       "unit": 1,
       "articleLink": "https://qieman.com/content/items/24463",
       "l1": "A股"
-    },
-    {
-      "date": "2026-06-30",
-      "action": "buy",
-      "fundCode": "008163",
-      "fundName": "南方标普红利低波50ETF联接A",
-      "unit": 1,
-      "articleLink": "https://qieman.com/content/items/24157",
-      "l1": "其他"
     }
   ],
   "holdings": [
@@ -718,38 +718,6 @@
       "l1": "A股"
     },
     {
-      "fundCode": "004424",
-      "fundName": "汇添富文体娱乐混合A",
-      "bought": 3,
-      "sold": 0,
-      "history": [
-        {
-          "date": "2023-12-08",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/6307",
-          "l1": "A股"
-        },
-        {
-          "date": "2022-04-26",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://content.qieman.com/n/items/1765",
-          "l1": "A股"
-        },
-        {
-          "date": "2021-08-27",
-          "action": "buy",
-          "unit": 1,
-          "articleLink": "https://mp.weixin.qq.com/s/_i8g_u3d9mlUy8jTlPFylg",
-          "l1": "A股"
-        }
-      ],
-      "currentUnit": 3,
-      "latestDate": "2023-12-08",
-      "l1": "A股"
-    },
-    {
       "fundCode": "011309",
       "fundName": "富国消费主题混合C",
       "bought": 4,
@@ -1290,6 +1258,45 @@
       "currentUnit": 2,
       "latestDate": "2026-09-28",
       "l1": "其他"
+    },
+    {
+      "fundCode": "004424",
+      "fundName": "汇添富文体娱乐混合A",
+      "bought": 3,
+      "sold": 1,
+      "history": [
+        {
+          "date": "2026-10-20",
+          "action": "sell",
+          "unit": 1,
+          "articleLink": "https://qieman.com/content/items/26089",
+          "l1": "A股"
+        },
+        {
+          "date": "2023-12-08",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/6307",
+          "l1": "A股"
+        },
+        {
+          "date": "2022-04-26",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://content.qieman.com/n/items/1765",
+          "l1": "A股"
+        },
+        {
+          "date": "2021-08-27",
+          "action": "buy",
+          "unit": 1,
+          "articleLink": "https://mp.weixin.qq.com/s/_i8g_u3d9mlUy8jTlPFylg",
+          "l1": "A股"
+        }
+      ],
+      "currentUnit": 2,
+      "latestDate": "2026-10-20",
+      "l1": "A股"
     },
     {
       "fundCode": "110027",

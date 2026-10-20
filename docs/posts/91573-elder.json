@@ -1,8 +1,8 @@
 {
   "postId": "91573",
-  "fetchedAt": "2026-10-19T15:20:16+08:00",
+  "fetchedAt": "2026-10-20T15:10:24+08:00",
   "totalCommentNum": 226,
-  "totalScanned": 277,
+  "totalScanned": 278,
   "expandedTopLevel": 3,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-10-14T10:05:11",
       "ipLocation": "北京市",
-      "likeNum": 90,
+      "likeNum": 91,
       "parent": {
         "id": 2405539,
         "userName": "hiBingo",
@@ -37,7 +37,7 @@
       "images": [],
       "createdAt": "2026-10-14T10:05:40",
       "ipLocation": "北京市",
-      "likeNum": 82,
+      "likeNum": 85,
       "parent": {
         "id": 2405491,
         "userName": "红魔披头士",
@@ -45,7 +45,7 @@
         "images": [],
         "createdAt": "2026-10-14T10:00:49",
         "ipLocation": "山西省",
-        "likeNum": 10
+        "likeNum": 12
       },
       "replyTo": null
     },
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-10-14T10:07:17",
       "ipLocation": "北京市",
-      "likeNum": 100,
+      "likeNum": 103,
       "parent": {
         "id": 2405287,
         "userName": "Darren_",
@@ -66,7 +66,7 @@
         "images": [],
         "createdAt": "2026-10-14T09:56:36",
         "ipLocation": "上海市",
-        "likeNum": 8
+        "likeNum": 9
       },
       "replyTo": null
     },
@@ -79,7 +79,7 @@
       "images": [],
       "createdAt": "2026-10-14T10:10:00",
       "ipLocation": "上海市",
-      "likeNum": 86
+      "likeNum": 87
     },
     {
       "type": "reply",
@@ -94,7 +94,7 @@
       ],
       "createdAt": "2026-10-14T10:18:26",
       "ipLocation": "上海市",
-      "likeNum": 80,
+      "likeNum": 81,
       "parent": {
         "id": 2405815,
         "userName": "新米练习菌",
@@ -102,7 +102,7 @@
         "images": [],
         "createdAt": "2026-10-14T10:10:00",
         "ipLocation": "上海市",
-        "likeNum": 86
+        "likeNum": 87
       },
       "replyTo": null
     }
