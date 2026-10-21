@@ -1,8 +1,8 @@
 {
   "postId": "91573",
-  "fetchedAt": "2026-10-20T15:10:24+08:00",
+  "fetchedAt": "2026-10-21T15:06:03+08:00",
   "totalCommentNum": 226,
-  "totalScanned": 278,
+  "totalScanned": 280,
   "expandedTopLevel": 3,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -58,7 +58,7 @@
       "images": [],
       "createdAt": "2026-10-14T10:07:17",
       "ipLocation": "北京市",
-      "likeNum": 103,
+      "likeNum": 104,
       "parent": {
         "id": 2405287,
         "userName": "Darren_",

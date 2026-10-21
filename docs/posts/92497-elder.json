@@ -1,9 +1,9 @@
 {
   "postId": "92497",
-  "fetchedAt": "2026-10-20T15:05:28+08:00",
+  "fetchedAt": "2026-10-21T15:00:22+08:00",
   "totalCommentNum": 148,
-  "totalScanned": 131,
-  "expandedTopLevel": 2,
+  "totalScanned": 271,
+  "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -19,7 +19,7 @@
       ],
       "createdAt": "2026-10-20T14:20:07",
       "ipLocation": "上海市",
-      "likeNum": 11
+      "likeNum": 61
     },
     {
       "type": "reply",
@@ -30,15 +30,15 @@
       "images": [],
       "createdAt": "2026-10-20T14:25:48",
       "ipLocation": "北京市",
-      "likeNum": 97,
+      "likeNum": 318,
       "parent": {
         "id": 2490637,
         "userName": "E起富起来",
         "content": "现在的下跌让我想起了之前的“要站在光里，不要光站在这里”，恍如隔世的感觉\n贵不贵，便宜不便宜还得多多看向E大呢😍",
         "images": [],
         "createdAt": "2026-10-20T14:22:33",
-        "ipLocation": "",
-        "likeNum": 13
+        "ipLocation": "四川省",
+        "likeNum": 66
       },
       "replyTo": null
     },
@@ -55,7 +55,7 @@
       ],
       "createdAt": "2026-10-20T14:38:43",
       "ipLocation": "上海市",
-      "likeNum": 6,
+      "likeNum": 27,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",
@@ -66,7 +66,7 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 11
+        "likeNum": 61
       },
       "replyTo": null
     },
@@ -83,7 +83,7 @@
       ],
       "createdAt": "2026-10-20T15:01:27",
       "ipLocation": "上海市",
-      "likeNum": 1,
+      "likeNum": 39,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",
@@ -94,9 +94,95 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 11
+        "likeNum": 61
       },
       "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2492239,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【留言4】（抱歉，前面 发车记录汇总 忘记放了，再补一下）\n再更新一下今年操作“最多”涉及基金“最多”的「500」 和「 红利」 的基金合并指数视角图\n",
+      "images": [
+        "https://cdn-community.qieman.com/5C72FCE1-48C1-4B10-ADAC-21632D0D1076.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/2EEDBC30-726D-4B08-AFAE-902FCA09BDDA.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_52,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/03CDED11-7F82-4CAC-B87E-1C5E11578912.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_44,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-20T16:27:20",
+      "ipLocation": "上海市",
+      "likeNum": 11,
+      "parent": {
+        "id": 2490469,
+        "userName": "新米练习菌",
+        "content": "今年的发车记录\n（今日的S发车还未记录，明天早晨更新）",
+        "images": [
+          "https://cdn-community.qieman.com/E4D79A37-7162-4123-98E9-08486028ED46.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/02CEA44F-14AB-448A-B652-CCC2D7627554.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-10-20T14:20:07",
+        "ipLocation": "上海市",
+        "likeNum": 61
+      },
+      "replyTo": null
+    },
+    {
+      "type": "reply",
+      "id": 2492311,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "Excel",
+      "images": [],
+      "createdAt": "2026-10-20T16:43:00",
+      "ipLocation": "上海市",
+      "likeNum": 2,
+      "parent": {
+        "id": 2490469,
+        "userName": "新米练习菌",
+        "content": "今年的发车记录\n（今日的S发车还未记录，明天早晨更新）",
+        "images": [
+          "https://cdn-community.qieman.com/E4D79A37-7162-4123-98E9-08486028ED46.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/02CEA44F-14AB-448A-B652-CCC2D7627554.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-10-20T14:20:07",
+        "ipLocation": "上海市",
+        "likeNum": 61
+      },
+      "replyTo": {
+        "id": 2491219,
+        "userName": "函宝",
+        "content": "米米，请问你这个图是用什么软件做的？",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2492653,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "先和QM数据保持一致。未来真正的主动卖点，可以在画基金合并融合仓位的消费指数视角图上来表达~",
+      "images": [],
+      "createdAt": "2026-10-20T18:27:18",
+      "ipLocation": "上海市",
+      "likeNum": 5,
+      "parent": {
+        "id": 2490469,
+        "userName": "新米练习菌",
+        "content": "今年的发车记录\n（今日的S发车还未记录，明天早晨更新）",
+        "images": [
+          "https://cdn-community.qieman.com/E4D79A37-7162-4123-98E9-08486028ED46.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/02CEA44F-14AB-448A-B652-CCC2D7627554.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-10-20T14:20:07",
+        "ipLocation": "上海市",
+        "likeNum": 61
+      },
+      "replyTo": {
+        "id": 2492575,
+        "userName": "攒够500万就躺平",
+        "content": "感觉今天的发车情况不太好表示呢，特殊原因卖出的，又单独买入了，其实还相当于车里的",
+        "images": []
+      }
     }
   ]
 }
