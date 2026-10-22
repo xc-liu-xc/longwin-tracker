@@ -1,8 +1,8 @@
 {
   "postId": "92497",
-  "fetchedAt": "2026-10-21T15:00:22+08:00",
+  "fetchedAt": "2026-10-22T15:02:47+08:00",
   "totalCommentNum": 148,
-  "totalScanned": 271,
+  "totalScanned": 305,
   "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -19,7 +19,7 @@
       ],
       "createdAt": "2026-10-20T14:20:07",
       "ipLocation": "上海市",
-      "likeNum": 61
+      "likeNum": 64
     },
     {
       "type": "reply",
@@ -30,7 +30,7 @@
       "images": [],
       "createdAt": "2026-10-20T14:25:48",
       "ipLocation": "北京市",
-      "likeNum": 318,
+      "likeNum": 338,
       "parent": {
         "id": 2490637,
         "userName": "E起富起来",
@@ -38,7 +38,7 @@
         "images": [],
         "createdAt": "2026-10-20T14:22:33",
         "ipLocation": "四川省",
-        "likeNum": 66
+        "likeNum": 72
       },
       "replyTo": null
     },
@@ -55,7 +55,7 @@
       ],
       "createdAt": "2026-10-20T14:38:43",
       "ipLocation": "上海市",
-      "likeNum": 27,
+      "likeNum": 30,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",
@@ -66,7 +66,7 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 61
+        "likeNum": 64
       },
       "replyTo": null
     },
@@ -83,7 +83,7 @@
       ],
       "createdAt": "2026-10-20T15:01:27",
       "ipLocation": "上海市",
-      "likeNum": 39,
+      "likeNum": 43,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",
@@ -94,7 +94,7 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 61
+        "likeNum": 64
       },
       "replyTo": null
     },
@@ -111,7 +111,7 @@
       ],
       "createdAt": "2026-10-20T16:27:20",
       "ipLocation": "上海市",
-      "likeNum": 11,
+      "likeNum": 14,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",
@@ -122,7 +122,7 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 61
+        "likeNum": 64
       },
       "replyTo": null
     },
@@ -146,7 +146,7 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 61
+        "likeNum": 64
       },
       "replyTo": {
         "id": 2491219,
@@ -164,7 +164,7 @@
       "images": [],
       "createdAt": "2026-10-20T18:27:18",
       "ipLocation": "上海市",
-      "likeNum": 5,
+      "likeNum": 6,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",
@@ -175,7 +175,7 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 61
+        "likeNum": 64
       },
       "replyTo": {
         "id": 2492575,

@@ -1,8 +1,8 @@
 {
   "postId": "92005",
-  "fetchedAt": "2026-10-21T15:05:41+08:00",
+  "fetchedAt": "2026-10-22T15:06:33+08:00",
   "totalCommentNum": 584,
-  "totalScanned": 497,
+  "totalScanned": 498,
   "expandedTopLevel": 13,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-10-15T18:35:32",
       "ipLocation": "北京市",
-      "likeNum": 348,
+      "likeNum": 352,
       "parent": {
         "id": 2455597,
         "userName": "肥仔_",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-10-15T18:31:41",
         "ipLocation": "山东省",
-        "likeNum": 52
+        "likeNum": 53
       },
       "replyTo": null
     },
@@ -50,7 +50,7 @@
       "images": [],
       "createdAt": "2026-10-15T18:48:34",
       "ipLocation": "北京市",
-      "likeNum": 178,
+      "likeNum": 180,
       "parent": {
         "id": 2455711,
         "userName": "同路人929",
@@ -71,7 +71,7 @@
       "images": [],
       "createdAt": "2026-10-15T18:49:02",
       "ipLocation": "北京市",
-      "likeNum": 214,
+      "likeNum": 215,
       "parent": {
         "id": 2455621,
         "userName": "草原狼汛",
