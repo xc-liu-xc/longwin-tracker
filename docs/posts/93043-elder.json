@@ -1,0 +1,22 @@
+{
+  "postId": "93043",
+  "fetchedAt": "2026-10-23T14:55:47+08:00",
+  "totalCommentNum": 1,
+  "totalScanned": 1,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2494501,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "出差去了，今天基本大概率无法上线了，预计晚上9点以后回SH。",
+      "images": [],
+      "createdAt": "2026-10-23T08:33:52",
+      "ipLocation": "上海市",
+      "likeNum": 7
+    }
+  ]
+}

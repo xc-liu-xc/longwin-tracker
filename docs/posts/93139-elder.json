@@ -1,0 +1,32 @@
+{
+  "postId": "93139",
+  "fetchedAt": "2026-10-23T14:55:21+08:00",
+  "totalCommentNum": 209,
+  "totalScanned": 191,
+  "expandedTopLevel": 2,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "reply",
+      "id": 2496025,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "实际上全球的市值型指数都是这么干的。我们的特色在于公司花期太短，周期性明显，所以比较恶心。但整体来说，还是靠谱的。A500能好一点。",
+      "images": [],
+      "createdAt": "2026-10-23T13:27:04",
+      "ipLocation": "北京市",
+      "likeNum": 96,
+      "parent": {
+        "id": 2495665,
+        "userName": "豆汁儿好喝",
+        "content": "E大，像沪深300这种宽基都在科技股泡沫估值的时候纳入进去了，宽基还适合买吗",
+        "images": [],
+        "createdAt": "2026-10-23T13:21:44",
+        "ipLocation": "北京市",
+        "likeNum": 21
+      },
+      "replyTo": null
+    }
+  ]
+}

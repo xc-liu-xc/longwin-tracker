@@ -1,8 +1,8 @@
 {
   "postId": "92497",
-  "fetchedAt": "2026-10-22T15:02:47+08:00",
+  "fetchedAt": "2026-10-23T14:56:59+08:00",
   "totalCommentNum": 148,
-  "totalScanned": 305,
+  "totalScanned": 313,
   "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -30,7 +30,7 @@
       "images": [],
       "createdAt": "2026-10-20T14:25:48",
       "ipLocation": "北京市",
-      "likeNum": 338,
+      "likeNum": 349,
       "parent": {
         "id": 2490637,
         "userName": "E起富起来",
@@ -38,7 +38,7 @@
         "images": [],
         "createdAt": "2026-10-20T14:22:33",
         "ipLocation": "四川省",
-        "likeNum": 72
+        "likeNum": 74
       },
       "replyTo": null
     },
@@ -181,6 +181,35 @@
         "id": 2492575,
         "userName": "攒够500万就躺平",
         "content": "感觉今天的发车情况不太好表示呢，特殊原因卖出的，又单独买入了，其实还相当于车里的",
+        "images": []
+      }
+    },
+    {
+      "type": "reply",
+      "id": 2494507,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "你是对的。我那个券商的这个指数 数据是居然是从2015/5/19才开始有…4月的还没在里面，换一个APP就是你说的。谢谢提醒~",
+      "images": [],
+      "createdAt": "2026-10-23T08:50:11",
+      "ipLocation": "上海市",
+      "likeNum": 0,
+      "parent": {
+        "id": 2490469,
+        "userName": "新米练习菌",
+        "content": "今年的发车记录\n（今日的S发车还未记录，明天早晨更新）",
+        "images": [
+          "https://cdn-community.qieman.com/E4D79A37-7162-4123-98E9-08486028ED46.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/02CEA44F-14AB-448A-B652-CCC2D7627554.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-10-20T14:20:07",
+        "ipLocation": "上海市",
+        "likeNum": 64
+      },
+      "replyTo": {
+        "id": 2493691,
+        "userName": "老侯",
+        "content": "米米好，10月9日最大回撤，证券公司我看的2015年4月23日最高点是1810，与您表里的时间和点位都稍有不同。请指点哈。",
         "images": []
       }
     }

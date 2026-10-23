@@ -1,8 +1,8 @@
 {
   "postId": "92455",
-  "fetchedAt": "2026-10-22T15:02:32+08:00",
+  "fetchedAt": "2026-10-23T14:56:39+08:00",
   "totalCommentNum": 652,
-  "totalScanned": 624,
+  "totalScanned": 633,
   "expandedTopLevel": 8,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -29,7 +29,7 @@
       "images": [],
       "createdAt": "2026-10-20T11:21:39",
       "ipLocation": "北京市",
-      "likeNum": 144,
+      "likeNum": 146,
       "parent": {
         "id": 2487235,
         "userName": "小新是也",
