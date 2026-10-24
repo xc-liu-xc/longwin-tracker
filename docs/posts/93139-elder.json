@@ -1,9 +1,9 @@
 {
   "postId": "93139",
-  "fetchedAt": "2026-10-23T14:55:21+08:00",
+  "fetchedAt": "2026-10-24T14:51:17+08:00",
   "totalCommentNum": 209,
-  "totalScanned": 191,
-  "expandedTopLevel": 2,
+  "totalScanned": 242,
+  "expandedTopLevel": 3,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-10-23T13:27:04",
       "ipLocation": "北京市",
-      "likeNum": 96,
+      "likeNum": 164,
       "parent": {
         "id": 2495665,
         "userName": "豆汁儿好喝",
@@ -24,7 +24,51 @@
         "images": [],
         "createdAt": "2026-10-23T13:21:44",
         "ipLocation": "北京市",
-        "likeNum": 21
+        "likeNum": 32
+      },
+      "replyTo": null
+    },
+    {
+      "type": "top",
+      "id": 2503345,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这篇信息量非常大，我分两段写：\n【留言1】关于提及“90%-95%都是辣鸡的”的WB：\n",
+      "images": [
+        "https://cdn-community.qieman.com/D9312AA3-7B8B-4C91-A0EA-DEEF8B9A2E0A.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/7DB495ED-C53E-4E7A-942B-719F33528A6F.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_25,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/93567C3A-FD54-4106-8752-49FC4ADF7017.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_26,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-23T23:43:35",
+      "ipLocation": "上海市",
+      "likeNum": 3
+    },
+    {
+      "type": "reply",
+      "id": 2503375,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "【留言2】两篇美股研究PDF\n下载好了，存在小组内用的网盘（之前存德银报告和提款模型Excel版的地方）\n链接: https://pan.baidu.com/s/1a_XMd35ZDL0BDX9SyoN9Mw \n提取码: ETFs\n---\n《Do Stocks Outperform Treasury Bills?》 《股票真的能跑赢短期国债吗？》\n《One Hundred Years in the U.S. Stock Markets》 《美国股市百年回顾》\n英文原版，但现在翻译阅读非常方便。\n比如：可以导入微信读书，然后按个“译”，直接就是一段英文、一段中文的显示，\n或者：存入ima知识库，按“对照翻译”，左边英文右边就是中文（如图3）\n都不费任何算力，默认自带功能，直接秒转的。\n打算周末读读，看到结论，震惊的是，老大对A股判断“除了一两百只不错的品种，全是辣鸡“那么精准。原来世界范围也这样，样本越多，越证明是如此。\n挺喜欢看这些有数据分析和依据支撑的理论研究，但自己圈外素人，平时不会看那么专业的内容，一般是E大提到什么看什么，就去看什么，觉得更有针对性，而且等同于精选好。\n",
+      "images": [
+        "https://cdn-community.qieman.com/79FD7E28-787A-4897-A66D-247165EC95D1.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_14,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/AF636CA5-1FC7-48D1-A246-29C969E18D86.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/F714F6FB-D11F-4722-B722-82288974FE63.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_31,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-24T00:12:49",
+      "ipLocation": "上海市",
+      "likeNum": 10,
+      "parent": {
+        "id": 2503345,
+        "userName": "新米练习菌",
+        "content": "这篇信息量非常大，我分两段写：\n【留言1】关于提及“90%-95%都是辣鸡的”的WB：\n",
+        "images": [
+          "https://cdn-community.qieman.com/D9312AA3-7B8B-4C91-A0EA-DEEF8B9A2E0A.jpg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/7DB495ED-C53E-4E7A-942B-719F33528A6F.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_25,g_se,x_10,y_10,t_50,shadow_50",
+          "https://cdn-community.qieman.com/93567C3A-FD54-4106-8752-49FC4ADF7017.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_26,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-10-23T23:43:35",
+        "ipLocation": "上海市",
+        "likeNum": 3
       },
       "replyTo": null
     }

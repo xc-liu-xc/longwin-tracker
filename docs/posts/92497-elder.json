@@ -1,6 +1,6 @@
 {
   "postId": "92497",
-  "fetchedAt": "2026-10-23T14:56:59+08:00",
+  "fetchedAt": "2026-10-24T14:53:04+08:00",
   "totalCommentNum": 148,
   "totalScanned": 313,
   "expandedTopLevel": 5,
@@ -30,7 +30,7 @@
       "images": [],
       "createdAt": "2026-10-20T14:25:48",
       "ipLocation": "北京市",
-      "likeNum": 349,
+      "likeNum": 351,
       "parent": {
         "id": 2490637,
         "userName": "E起富起来",
@@ -111,7 +111,7 @@
       ],
       "createdAt": "2026-10-20T16:27:20",
       "ipLocation": "上海市",
-      "likeNum": 14,
+      "likeNum": 15,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",
@@ -135,7 +135,7 @@
       "images": [],
       "createdAt": "2026-10-20T16:43:00",
       "ipLocation": "上海市",
-      "likeNum": 2,
+      "likeNum": 3,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",
@@ -164,7 +164,7 @@
       "images": [],
       "createdAt": "2026-10-20T18:27:18",
       "ipLocation": "上海市",
-      "likeNum": 6,
+      "likeNum": 7,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",
@@ -193,7 +193,7 @@
       "images": [],
       "createdAt": "2026-10-23T08:50:11",
       "ipLocation": "上海市",
-      "likeNum": 0,
+      "likeNum": 1,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",

@@ -1,10 +1,24 @@
 {
   "postId": "93181",
-  "fetchedAt": "2026-10-23T14:55:46+08:00",
+  "fetchedAt": "2026-10-24T14:52:00+08:00",
   "totalCommentNum": 0,
-  "totalScanned": 22,
-  "expandedTopLevel": 0,
+  "totalScanned": 275,
+  "expandedTopLevel": 7,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
-  "items": []
+  "items": [
+    {
+      "type": "top",
+      "id": 2503273,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大晚上好，我出差回来了，上来学习和整理资料，写一下留言：\n\n非常喜欢这个节奏，时间&空间，看着指数下降，仓位渐渐升起，手里有相关的筹码，觉得很踏实。\n\n个人理解，这次建仓的A500有点像是\"先锋部队\"，中证500大量减仓后，宽基仓位下降不少，介于300、500中间态的A500可攻可守、可咸可甜。个人粗浅地认为：它不像沪深300那样单纯按市值选股，而是先照顾到每个行业、再排序，像CN版标普500，比300更均衡、更接近整个A股经济结构。而且技术图形看，A500是个很规整的指数，很漂亮，没有特别\"不对劲\"过。\n\n现在感觉，涨了，\"先锋部队\"就会有钱赚的；跌了，后续大军按节奏入场。\n\n印象中，有点像当年2016年，先锋部队，本来就是要做好牺牲的准备的，刺探军情，身先士卒，生死没人能保证，为了大部队的全面胜利，有时候先锋部队的牺牲也是值得的，但有时候先锋部队不但没死，还弄来了战利品，抢了不少粮食和补给，赚取小波段收益，为长线持仓提供安全垫。\n",
+      "images": [
+        "https://cdn-community.qieman.com/5AE62AD6-24BC-4029-894C-294AA1A46E80.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_25,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-23T22:39:23",
+      "ipLocation": "上海市",
+      "likeNum": 28
+    }
+  ]
 }
