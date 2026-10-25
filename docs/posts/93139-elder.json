@@ -1,8 +1,8 @@
 {
   "postId": "93139",
-  "fetchedAt": "2026-10-24T14:51:17+08:00",
+  "fetchedAt": "2026-10-25T15:15:35+08:00",
   "totalCommentNum": 209,
-  "totalScanned": 242,
+  "totalScanned": 245,
   "expandedTopLevel": 3,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-10-23T13:27:04",
       "ipLocation": "北京市",
-      "likeNum": 164,
+      "likeNum": 177,
       "parent": {
         "id": 2495665,
         "userName": "豆汁儿好喝",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-10-23T13:21:44",
         "ipLocation": "北京市",
-        "likeNum": 32
+        "likeNum": 35
       },
       "replyTo": null
     },
@@ -41,7 +41,7 @@
       ],
       "createdAt": "2026-10-23T23:43:35",
       "ipLocation": "上海市",
-      "likeNum": 3
+      "likeNum": 5
     },
     {
       "type": "reply",
@@ -56,7 +56,7 @@
       ],
       "createdAt": "2026-10-24T00:12:49",
       "ipLocation": "上海市",
-      "likeNum": 10,
+      "likeNum": 15,
       "parent": {
         "id": 2503345,
         "userName": "新米练习菌",
@@ -68,7 +68,7 @@
         ],
         "createdAt": "2026-10-23T23:43:35",
         "ipLocation": "上海市",
-        "likeNum": 3
+        "likeNum": 5
       },
       "replyTo": null
     }

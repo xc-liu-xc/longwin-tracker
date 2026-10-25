@@ -1,6 +1,6 @@
 {
   "postId": "92455",
-  "fetchedAt": "2026-10-24T14:52:46+08:00",
+  "fetchedAt": "2026-10-25T15:17:27+08:00",
   "totalCommentNum": 652,
   "totalScanned": 632,
   "expandedTopLevel": 8,
@@ -29,7 +29,7 @@
       "images": [],
       "createdAt": "2026-10-20T11:21:39",
       "ipLocation": "北京市",
-      "likeNum": 146,
+      "likeNum": 149,
       "parent": {
         "id": 2487235,
         "userName": "小新是也",
@@ -50,7 +50,7 @@
       "images": [],
       "createdAt": "2026-10-20T11:22:06",
       "ipLocation": "北京市",
-      "likeNum": 62,
+      "likeNum": 63,
       "parent": {
         "id": 2487169,
         "userName": "oyf53号飞船驾驶员",
@@ -71,7 +71,7 @@
       "images": [],
       "createdAt": "2026-10-20T11:22:26",
       "ipLocation": "北京市",
-      "likeNum": 48,
+      "likeNum": 49,
       "parent": {
         "id": 2487139,
         "userName": "财心安",
@@ -92,7 +92,7 @@
       "images": [],
       "createdAt": "2026-10-20T11:23:46",
       "ipLocation": "北京市",
-      "likeNum": 91,
+      "likeNum": 92,
       "parent": {
         "id": 2487037,
         "userName": "劳资蜀道山",
