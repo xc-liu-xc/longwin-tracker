@@ -1,10 +1,26 @@
 {
   "postId": "93097",
-  "fetchedAt": "2026-10-26T15:23:06+08:00",
+  "fetchedAt": "2026-10-27T15:15:24+08:00",
   "totalCommentNum": 184,
-  "totalScanned": 201,
+  "totalScanned": 204,
   "expandedTopLevel": 2,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
-  "items": []
+  "items": [
+    {
+      "type": "top",
+      "id": 2504689,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "这篇的留言上周没有写，因为还没来得及接触和学习，太专业了，不敢妄议，今天查了一些相关资料，看一会儿，尝试一些留言和笔记：\n我的体会是：被动或是主动，重要的是都取决于Data-Driven，金融投资，是心理学，因为是人类的行为，但依旧是数学。\n完全靠明星基金经理选股的传统主动 ETF，长期很难选对，而且多了一个最不可控的「人」的因素，；\n真正值得关注的是「规则化、策略化」，就算归类于主动型产品，依旧就是「靠数据」，而不是「靠人」，驱动它们的是：清晰的数据与模型，与之对应的策略，没有押注“一个人”的能力与状态。\n尤其了解文中提到的DFAC，系统化主动的代表。\n（📊【图1】是查询了上述7个美股ETF整理的表格笔记。）\n我觉得老大的长赢就打造了（和正在配置成）这样的「规则化、策略化」的 “系统化主动基金”模式，比如A股配置——大部分红利+ 宽基 + 小部分值得的行业，一边量化了配置，一边有节奏精选买卖点，且更适合我们CN的情况、可复制、可持续，买得到。",
+      "images": [
+        "https://cdn-community.qieman.com/5016C503-FF42-4BC5-BE86-FD2DB4023154.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_55,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/291D486F-C344-4BE4-A63E-19F5D455C0C2.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_36,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/9B021AB3-5C9B-4692-BD48-4E244B303105.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_31,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-27T12:46:04",
+      "ipLocation": "上海市",
+      "likeNum": 1
+    }
+  ]
 }

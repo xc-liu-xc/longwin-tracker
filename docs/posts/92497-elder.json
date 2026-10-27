@@ -1,6 +1,6 @@
 {
   "postId": "92497",
-  "fetchedAt": "2026-10-26T15:25:21+08:00",
+  "fetchedAt": "2026-10-27T15:17:59+08:00",
   "totalCommentNum": 148,
   "totalScanned": 313,
   "expandedTopLevel": 5,
@@ -19,7 +19,7 @@
       ],
       "createdAt": "2026-10-20T14:20:07",
       "ipLocation": "上海市",
-      "likeNum": 65
+      "likeNum": 66
     },
     {
       "type": "reply",
@@ -30,7 +30,7 @@
       "images": [],
       "createdAt": "2026-10-20T14:25:48",
       "ipLocation": "北京市",
-      "likeNum": 356,
+      "likeNum": 359,
       "parent": {
         "id": 2490637,
         "userName": "E起富起来",
@@ -38,7 +38,7 @@
         "images": [],
         "createdAt": "2026-10-20T14:22:33",
         "ipLocation": "四川省",
-        "likeNum": 75
+        "likeNum": 76
       },
       "replyTo": null
     },
@@ -55,7 +55,7 @@
       ],
       "createdAt": "2026-10-20T14:38:43",
       "ipLocation": "上海市",
-      "likeNum": 31,
+      "likeNum": 32,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",
@@ -66,7 +66,7 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 65
+        "likeNum": 66
       },
       "replyTo": null
     },
@@ -83,7 +83,7 @@
       ],
       "createdAt": "2026-10-20T15:01:27",
       "ipLocation": "上海市",
-      "likeNum": 45,
+      "likeNum": 46,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",
@@ -94,7 +94,7 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 65
+        "likeNum": 66
       },
       "replyTo": null
     },
@@ -111,7 +111,7 @@
       ],
       "createdAt": "2026-10-20T16:27:20",
       "ipLocation": "上海市",
-      "likeNum": 16,
+      "likeNum": 18,
       "parent": {
         "id": 2490469,
         "userName": "新米练习菌",
@@ -122,7 +122,7 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 65
+        "likeNum": 66
       },
       "replyTo": null
     },
@@ -146,7 +146,7 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 65
+        "likeNum": 66
       },
       "replyTo": {
         "id": 2491219,
@@ -175,7 +175,7 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 65
+        "likeNum": 66
       },
       "replyTo": {
         "id": 2492575,
@@ -204,7 +204,7 @@
         ],
         "createdAt": "2026-10-20T14:20:07",
         "ipLocation": "上海市",
-        "likeNum": 65
+        "likeNum": 66
       },
       "replyTo": {
         "id": 2493691,
