@@ -1,9 +1,9 @@
 {
   "postId": "93505",
-  "fetchedAt": "2026-10-27T15:15:02+08:00",
+  "fetchedAt": "2026-10-28T15:53:24+08:00",
   "totalCommentNum": 218,
-  "totalScanned": 187,
-  "expandedTopLevel": 4,
+  "totalScanned": 229,
+  "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -18,8 +18,8 @@
         "https://cdn-community.qieman.com/67BFCE33-7FF1-4EA6-BDC4-C88CE7FD9DD3.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_37,g_se,x_10,y_10,t_50,shadow_50"
       ],
       "createdAt": "2026-10-27T13:22:48",
-      "ipLocation": "",
-      "likeNum": 93
+      "ipLocation": "上海市",
+      "likeNum": 133
     }
   ]
 }

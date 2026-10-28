@@ -1,0 +1,37 @@
+{
+  "postId": "93571",
+  "fetchedAt": "2026-10-28T15:53:51+08:00",
+  "totalCommentNum": 517,
+  "totalScanned": 437,
+  "expandedTopLevel": 4,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2506741,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "别人欲哭无泪的时候，你就可以加快进场捡筹码的速度了。",
+      "images": [],
+      "createdAt": "2026-10-27T15:36:12",
+      "ipLocation": "北京市",
+      "likeNum": 351
+    },
+    {
+      "type": "top",
+      "id": 2507035,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "我贴一下上周四10/22收盘后的数据（今天比那日还低，应该可以参考用用吧）\n（估值图是老大的，也是那日收盘后发的，借用一下哦）\n现在仓位不高，现金也很充裕。\n",
+      "images": [
+        "https://cdn-community.qieman.com/49C2B42C-DB5D-40C5-A8E9-B3F6064DA501.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_54,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/EB326CAB-3B4C-4C57-991B-C715DFF64828.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_60,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/37CEFFBD-268D-40BC-B569-2C246AC41EC6.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_38,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-27T15:40:19",
+      "ipLocation": "上海市",
+      "likeNum": 51
+    }
+  ]
+}

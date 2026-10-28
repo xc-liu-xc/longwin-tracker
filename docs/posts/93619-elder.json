@@ -1,0 +1,53 @@
+{
+  "postId": "93619",
+  "fetchedAt": "2026-10-28T15:54:02+08:00",
+  "totalCommentNum": 272,
+  "totalScanned": 239,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2509765,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "全指信息，2015年跌到2018年，-70%一次；\n2020年如果没走，那么，跌到2024年，又-70%一次；\n《十年》\n现在2026年创了新高，那么高，跌了-45%，还是不低，怕是“下个十年”“下个-70%”的开始…\n——所以——\n“投资这里（A股）最重要两个点：\n\n第一，千万别买高。\n\n第二，高了一定要跑。哪怕不全跑，也要跑一部分。”\n——from文章【20260924】（11:30）A股最值得投资指数名单11年后更新\n",
+      "images": [
+        "https://cdn-community.qieman.com/2217D724-025B-4D38-BDD1-B2C3E808CBD6.png",
+        "https://cdn-community.qieman.com/C34A5AE5-0207-40BA-A1E3-C34F97C40F5D.jpeg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_22,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-27T20:17:11",
+      "ipLocation": "上海市",
+      "likeNum": 109
+    },
+    {
+      "type": "reply",
+      "id": 2510077,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "再更新一下今年“特产”——《K型行情》\n这两天跌跌（上周四，这周二），“咬”上了，像恐龙化石头盖骨。\n想起6月时的这篇【图3】\n——\n\"今年开始，神秘力量已经拿回了几千亿的资金。这些资金，在未来的某个时候，会继续回来发挥作用的。\n每天几百家估值上百倍的公司上涨，4000多家公司不停阴跌。2026年剩下的时间里不出现有意思的事情，概率很低。\" \n——\n还有2个月，不知道这个“现象”算不算已出现的有意思事情之一。\n",
+      "images": [
+        "https://cdn-community.qieman.com/0581474B-4A9E-4CE9-889C-A73DFBC67DF8.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_36,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/3718A46C-5B16-4F84-93B2-F12DB6B32862.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_36,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/2AA4F32C-EA11-48FF-9482-08DC467D25DD.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_26,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-27T20:37:50",
+      "ipLocation": "上海市",
+      "likeNum": 83,
+      "parent": {
+        "id": 2509765,
+        "userName": "新米练习菌",
+        "content": "全指信息，2015年跌到2018年，-70%一次；\n2020年如果没走，那么，跌到2024年，又-70%一次；\n《十年》\n现在2026年创了新高，那么高，跌了-45%，还是不低，怕是“下个十年”“下个-70%”的开始…\n——所以——\n“投资这里（A股）最重要两个点：\n\n第一，千万别买高。\n\n第二，高了一定要跑。哪怕不全跑，也要跑一部分。”\n——from文章【20260924】（11:30）A股最值得投资指数名单11年后更新\n",
+        "images": [
+          "https://cdn-community.qieman.com/2217D724-025B-4D38-BDD1-B2C3E808CBD6.png",
+          "https://cdn-community.qieman.com/C34A5AE5-0207-40BA-A1E3-C34F97C40F5D.jpeg?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_22,g_se,x_10,y_10,t_50,shadow_50"
+        ],
+        "createdAt": "2026-10-27T20:17:11",
+        "ipLocation": "上海市",
+        "likeNum": 109
+      },
+      "replyTo": null
+    }
+  ]
+}
