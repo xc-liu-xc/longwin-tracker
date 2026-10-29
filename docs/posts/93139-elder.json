@@ -1,6 +1,6 @@
 {
   "postId": "93139",
-  "fetchedAt": "2026-10-28T15:54:31+08:00",
+  "fetchedAt": "2026-10-29T16:01:06+08:00",
   "totalCommentNum": 209,
   "totalScanned": 265,
   "expandedTopLevel": 3,
@@ -15,8 +15,8 @@
       "content": "实际上全球的市值型指数都是这么干的。我们的特色在于公司花期太短，周期性明显，所以比较恶心。但整体来说，还是靠谱的。A500能好一点。",
       "images": [],
       "createdAt": "2026-10-23T13:27:04",
-      "ipLocation": "北京市",
-      "likeNum": 204,
+      "ipLocation": "中国",
+      "likeNum": 207,
       "parent": {
         "id": 2495665,
         "userName": "豆汁儿好喝",
@@ -24,7 +24,7 @@
         "images": [],
         "createdAt": "2026-10-23T13:21:44",
         "ipLocation": "北京市",
-        "likeNum": 38
+        "likeNum": 39
       },
       "replyTo": null
     },
@@ -56,7 +56,7 @@
       ],
       "createdAt": "2026-10-24T00:12:49",
       "ipLocation": "上海市",
-      "likeNum": 35,
+      "likeNum": 36,
       "parent": {
         "id": 2503345,
         "userName": "新米练习菌",

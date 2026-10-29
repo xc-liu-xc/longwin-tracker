@@ -1,9 +1,9 @@
 {
   "postId": "93571",
-  "fetchedAt": "2026-10-28T15:53:51+08:00",
+  "fetchedAt": "2026-10-29T16:00:15+08:00",
   "totalCommentNum": 517,
-  "totalScanned": 437,
-  "expandedTopLevel": 4,
+  "totalScanned": 453,
+  "expandedTopLevel": 5,
   "expansionFailed": 0,
   "truncatedTopLevel": 0,
   "items": [
@@ -15,8 +15,8 @@
       "content": "别人欲哭无泪的时候，你就可以加快进场捡筹码的速度了。",
       "images": [],
       "createdAt": "2026-10-27T15:36:12",
-      "ipLocation": "北京市",
-      "likeNum": 351
+      "ipLocation": "中国",
+      "likeNum": 373
     },
     {
       "type": "top",
@@ -31,7 +31,7 @@
       ],
       "createdAt": "2026-10-27T15:40:19",
       "ipLocation": "上海市",
-      "likeNum": 51
+      "likeNum": 56
     }
   ]
 }

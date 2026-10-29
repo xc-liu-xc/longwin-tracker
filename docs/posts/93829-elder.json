@@ -1,0 +1,22 @@
+{
+  "postId": "93829",
+  "fetchedAt": "2026-10-29T15:58:51+08:00",
+  "totalCommentNum": 1,
+  "totalScanned": 1,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2512729,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "A股股民确实疯狂。在最后的12天，科创50又涨了35%。",
+      "images": [],
+      "createdAt": "2026-10-29T10:21:01",
+      "ipLocation": "中国",
+      "likeNum": 153
+    }
+  ]
+}
