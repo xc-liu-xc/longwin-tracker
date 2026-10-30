@@ -1,0 +1,33 @@
+{
+  "postId": "93997",
+  "fetchedAt": "2026-10-30T16:02:51+08:00",
+  "totalCommentNum": 2,
+  "totalScanned": 2,
+  "expandedTopLevel": 0,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2517967,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "对了，美债也涨了。",
+      "images": [],
+      "createdAt": "2026-10-29T21:38:22",
+      "ipLocation": "中国",
+      "likeNum": 209
+    },
+    {
+      "type": "top",
+      "id": 2517985,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "对了，我们持仓的全球医疗保健也新高了。",
+      "images": [],
+      "createdAt": "2026-10-29T21:53:28",
+      "ipLocation": "中国",
+      "likeNum": 201
+    }
+  ]
+}

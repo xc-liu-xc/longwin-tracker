@@ -1,0 +1,24 @@
+{
+  "postId": "94093",
+  "fetchedAt": "2026-10-30T16:01:51+08:00",
+  "totalCommentNum": 464,
+  "totalScanned": 400,
+  "expandedTopLevel": 3,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2520871,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "合并起来从指数视角看，是这样的\n目前指数在-65%的位置，从指数计算的成本线在-61%的位置，合并起来浮亏其实是-9.8%左右",
+      "images": [
+        "https://cdn-community.qieman.com/F1B5EB4D-F333-4FE3-9C37-893C905D1F59.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_54,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-30T10:28:39",
+      "ipLocation": "上海市",
+      "likeNum": 8
+    }
+  ]
+}

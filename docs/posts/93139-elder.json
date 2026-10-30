@@ -1,6 +1,6 @@
 {
   "postId": "93139",
-  "fetchedAt": "2026-10-29T16:01:06+08:00",
+  "fetchedAt": "2026-10-30T16:04:18+08:00",
   "totalCommentNum": 209,
   "totalScanned": 265,
   "expandedTopLevel": 3,
@@ -16,7 +16,7 @@
       "images": [],
       "createdAt": "2026-10-23T13:27:04",
       "ipLocation": "中国",
-      "likeNum": 207,
+      "likeNum": 208,
       "parent": {
         "id": 2495665,
         "userName": "豆汁儿好喝",
@@ -56,7 +56,7 @@
       ],
       "createdAt": "2026-10-24T00:12:49",
       "ipLocation": "上海市",
-      "likeNum": 36,
+      "likeNum": 37,
       "parent": {
         "id": 2503345,
         "userName": "新米练习菌",
