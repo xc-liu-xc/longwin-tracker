@@ -1,0 +1,46 @@
+{
+  "postId": "94357",
+  "fetchedAt": "2026-10-31T15:57:56+08:00",
+  "totalCommentNum": 228,
+  "totalScanned": 204,
+  "expandedTopLevel": 1,
+  "expansionFailed": 0,
+  "truncatedTopLevel": 0,
+  "items": [
+    {
+      "type": "top",
+      "id": 2526901,
+      "author": "新米练习菌",
+      "authorUserId": "3194882",
+      "content": "E大周末好~\nCOMEX黄金现在3884.9，距离1月最高回撤-31%左右；\n（黄金TD 现在831.1，最高回撤-34%左右）\n——\n之前扒了黄金的数据，从1975年开始的，正好在做数据图表，我把黄金的图更新一下，同时，统计了上涨&下跌周期。\n看那“大面积”的回撤，生活在那些decades（1980年高点买了黄金，到了2007年才回本）27.8年的日子，回撤又深（7080定律）还叠加跌得又久，而且80年的800多美元和07年的800多美元 根本不可同日而语，10000多天，\n人生投资黄金30年全在黄金里的话，很难想象那般渡过的人，还会再爱黄金的。\n\n",
+      "images": [
+        "https://cdn-community.qieman.com/1DB62FA3-ED69-4E5A-93AD-5DA986FDF95C.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_53,g_se,x_10,y_10,t_50,shadow_50",
+        "https://cdn-community.qieman.com/A4BAA481-D611-412E-B633-A970350FCBEF.png?x-oss-process=image/watermark,text_5LiU5oWiLeaWsOexs-e7g-S5oOiPjA,type_d3F5LW1pY3JvaGVp,color_FFFFFF,size_23,g_se,x_10,y_10,t_50,shadow_50"
+      ],
+      "createdAt": "2026-10-31T13:43:30",
+      "ipLocation": "上海市",
+      "likeNum": 26
+    },
+    {
+      "type": "reply",
+      "id": 2527303,
+      "author": "ETF拯救世界",
+      "authorUserId": "793413",
+      "content": "抽完了。等杯子做出来公布领奖吧。",
+      "images": [],
+      "createdAt": "2026-10-31T14:05:19",
+      "ipLocation": "中国",
+      "likeNum": 56,
+      "parent": {
+        "id": 2526457,
+        "userName": "财富自由平凡之路",
+        "content": "老大，杯子什么时候开始抽🫶",
+        "images": [],
+        "createdAt": "2026-10-31T13:30:18",
+        "ipLocation": "",
+        "likeNum": 18
+      },
+      "replyTo": null
+    }
+  ]
+}
